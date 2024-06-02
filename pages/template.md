@@ -12,6 +12,7 @@
 		-
 - 문법 #card
   template:: 문법
+  collapsed:: true
 	- Usage
 	- Form
 	- Restrictions
