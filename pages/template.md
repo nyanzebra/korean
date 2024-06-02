@@ -11,6 +11,7 @@
 	- 예
 		-
 - 문법 #card
+  collapsed:: true
 	- Usage
 	- Form
 	- Restrictions
