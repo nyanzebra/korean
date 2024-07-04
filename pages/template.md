@@ -1,10 +1,10 @@
 - 단어 #card 
   template:: 단어
-  card-last-interval:: 4
-  card-repeats:: 1
-  card-ease-factor:: 2.6
-  card-next-schedule:: 2024-06-03T03:35:31.731Z
-  card-last-reviewed:: 2024-05-30T03:35:31.732Z
+  card-last-interval:: 11.2
+  card-repeats:: 3
+  card-ease-factor:: 2.8
+  card-next-schedule:: 2024-07-15T00:55:01.935Z
+  card-last-reviewed:: 2024-07-03T20:55:01.935Z
   card-last-score:: 5
 	- 뜻
 		-
