@@ -137,4 +137,8 @@
 		- 여러 가지 일로 정신이 산만해져서 어느 한 가지에도 집중할 수가 없었다
 			- I was attracted by so many things that I was unable to concentrate[fix my attention] on any one of them.
 		- 그녀는 고열로 정신이 혼미 상태였다[헛소리를 하였다]
-			-
+			- She was delirious with fever./She uttered meaningless words[talked in delirium] while sick with a high fever.
+		- 노는 것에 정신이 팔려 공부하는 것을 잊다
+			- be too much absorbed in play to think of one's study.
+		- 정신을 함양하다
+			- train[nourish/cultivate] one's mind.
