@@ -85,3 +85,6 @@
 			- Hearing he was safe, I felt relieved[felt a weight had been taken off my mind].
 		- 평온 무사하게 살다
 			- live in peace and quiet.
+		- 법관에게 최긴한 것은 공평 무사함이다
+			- Impartiality is absolutely essential to a judge.
+-
