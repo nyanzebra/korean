@@ -142,3 +142,6 @@
 			- be too much absorbed in play to think of one's study.
 		- 정신을 함양하다
 			- train[nourish/cultivate] one's mind.
+		- 정신 차리다
+			- collect one's mind, pay attention
+-
