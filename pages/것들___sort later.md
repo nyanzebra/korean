@@ -101,7 +101,7 @@
 	- 예
 		- 일이 좀 잘된다고 마음을 놓아서는 안 된다
 			- Don't relax your attention because of a small success or two.
-- #card
+- 엉망 #card
   card-last-score:: 5
   card-repeats:: 3
   card-next-schedule:: 2024-07-15T00:55:01.935Z
@@ -109,6 +109,10 @@
   card-ease-factor:: 2.8
   card-last-reviewed:: 2024-07-03T20:55:01.935Z
 	- 뜻
-		-
+		- mess
+		- wreck
 	- 예
-		-
+		- 엉망을 만들다
+			- make a mess
+		- 큰 비가 와서 길이 엉망이다
+			-
