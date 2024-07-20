@@ -115,4 +115,9 @@
 		- 엉망을 만들다
 			- make a mess
 		- 큰 비가 와서 길이 엉망이다
-			-
+			- The road is very bad after a heavy rain.
+		- 그는 시험을 엉망으로 치렀다
+			- He did very poorly[badly] in[Am. E. on] the examination./He did miserably on the examination.
+		- 그는 말과 하는 짓이 모두 터무니없이 엉망이다
+			- Both his words and his actions are utterly confused.
+-
