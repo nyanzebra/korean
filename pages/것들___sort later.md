@@ -27,4 +27,7 @@
 		- be ready
 		- hold one's nerves
 	- 예
-		-
+		- 마음을 단단히 먹다
+			- keep up one's spirits/steel one's heart 《against》.
+		- 공부 하려고 단단히 마음먹고
+			-
