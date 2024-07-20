@@ -32,4 +32,19 @@
 		- 공부 하려고 단단히 마음을 먹고
 			- determination to study
 		- 단단히 마음먹고 내가 다시 한번 해보겠다
-			-
+			- I will give it just one more determined try.
+- 마음을 맞다 #card
+  card-last-score:: 5
+  card-repeats:: 3
+  card-next-schedule:: 2024-07-15T00:55:01.935Z
+  card-last-interval:: 11.2
+  card-ease-factor:: 2.8
+  card-last-reviewed:: 2024-07-03T20:55:01.935Z
+	- 뜻
+		- get along with
+		- suits
+		- be like-minded
+	- 예
+		- 그와는 마음이 맞지 않는다
+			- We just don't get along (with each other).
+		-
