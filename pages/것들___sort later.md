@@ -166,4 +166,7 @@
 			- prepare dishes for drink/set a drinking table.
 		- 이만큼 야단쳤으니 그도 정신을 좀 차릴 거야
 			- I believe so much scolding will open his eyes to his faults.
-		-
+		- 나는 일언반구도 놓치지 않으려고 정신을 바짝 차렸다
+			- I was all ears[attention] so as not to miss a single word.
+		- 곱게 차려 입다
+			-
