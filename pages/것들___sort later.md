@@ -160,4 +160,10 @@
 	- 예
 		- 음식을 차리다
 			- serve 《a person》 with a meal.
+		- 그렇게 격식차리지 마세요
+			- Please don't be so formal./Please talk freely.
+		- 술상을 차리다
+			- prepare dishes for drink/set a drinking table.
+		- 이만큼 야단쳤으니 그도 정신을 좀 차릴 거야
+			- I believe so much scolding will open his eyes to his faults.
 		-
