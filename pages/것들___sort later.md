@@ -169,4 +169,5 @@
 		- 나는 일언반구도 놓치지 않으려고 정신을 바짝 차렸다
 			- I was all ears[attention] so as not to miss a single word.
 		- 곱게 차려 입다
-			-
+			- dress oneself beautifully/be finely dressed.
+-
