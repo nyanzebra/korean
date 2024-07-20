@@ -14,3 +14,17 @@
 			- And by the way, the arts aren't just important because they improve math scores.
 		- 그나저나 지금도 별로 바뀐 건 없습니다.
 			- Not much has changed, by the way.
+- 마음을 단단히 먹다 #card
+  card-last-score:: 5
+  card-repeats:: 3
+  card-next-schedule:: 2024-07-15T00:55:01.935Z
+  card-last-interval:: 11.2
+  card-ease-factor:: 2.8
+  card-last-reviewed:: 2024-07-03T20:55:01.935Z
+	- 뜻
+		- determined
+		- brace oneself
+		- be ready
+		- hold one's nerves
+	- 예
+		-
