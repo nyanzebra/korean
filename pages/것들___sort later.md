@@ -133,4 +133,8 @@
 		- mental
 	- 예
 		- 정신적[육체적] 아픔
+			- mental[physical] pain.
+		- 여러 가지 일로 정신이 산만해져서 어느 한 가지에도 집중할 수가 없었다
+			- I was attracted by so many things that I was unable to concentrate[fix my attention] on any one of them.
+		- 그녀는 고열로 정신이 혼미 상태였다[헛소리를 하였다]
 			-
