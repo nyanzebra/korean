@@ -64,3 +64,5 @@
 	- 예
 		- 그녀는 세세한 것에 마음을 쓴다
 			- She worries about little things.
+		- 너무 마음을 쓰지 마라
+			-
