@@ -47,4 +47,7 @@
 	- 예
 		- 그와는 마음이 맞지 않는다
 			- We just don't get along (with each other).
-		-
+		- 우리는 마음 맞는 사람들끼리 그룹을 만들었다
+			- We organized a group of congenial people.
+		- 마음에 맞는 여자
+			-
