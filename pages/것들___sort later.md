@@ -29,5 +29,7 @@
 	- 예
 		- 마음을 단단히 먹다
 			- keep up one's spirits/steel one's heart 《against》.
-		- 공부 하려고 단단히 마음먹고
+		- 공부 하려고 단단히 마음을 먹고
+			- determination to study
+		- 단단히 마음먹고 내가 다시 한번 해보겠다
 			-
