@@ -80,4 +80,8 @@
 		- disinterested
 	- 예
 		- 공평 무사한 판정
-			-
+			- a fair and disinterested judgment.
+		- 그가 무사하다는 말을 듣고 마음이 놓였다
+			- Hearing he was safe, I felt relieved[felt a weight had been taken off my mind].
+		- 평온 무사하게 살다
+			- live in peace and quiet.
