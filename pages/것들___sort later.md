@@ -87,6 +87,8 @@
 			- live in peace and quiet.
 		- 법관에게 최긴한 것은 공평 무사함이다
 			- Impartiality is absolutely essential to a judge.
+		- 무사하지는 못할거야
+			- not gonna make it
 - 마음이 놓다 #card
   card-last-score:: 5
   card-repeats:: 3
@@ -99,3 +101,14 @@
 	- 예
 		- 일이 좀 잘된다고 마음을 놓아서는 안 된다
 			- Don't relax your attention because of a small success or two.
+- #card
+  card-last-score:: 5
+  card-repeats:: 3
+  card-next-schedule:: 2024-07-15T00:55:01.935Z
+  card-last-interval:: 11.2
+  card-ease-factor:: 2.8
+  card-last-reviewed:: 2024-07-03T20:55:01.935Z
+	- 뜻
+		-
+	- 예
+		-
