@@ -50,4 +50,5 @@
 		- 우리는 마음 맞는 사람들끼리 그룹을 만들었다
 			- We organized a group of congenial people.
 		- 마음에 맞는 여자
-			-
+			- a woman after one's heart.
+-
