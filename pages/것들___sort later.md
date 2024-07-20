@@ -120,4 +120,17 @@
 			- He did very poorly[badly] in[Am. E. on] the examination./He did miserably on the examination.
 		- 그는 말과 하는 짓이 모두 터무니없이 엉망이다
 			- Both his words and his actions are utterly confused.
--
+- 정신 #card
+  card-last-score:: 5
+  card-repeats:: 3
+  card-next-schedule:: 2024-07-15T00:55:01.935Z
+  card-last-interval:: 11.2
+  card-ease-factor:: 2.8
+  card-last-reviewed:: 2024-07-03T20:55:01.935Z
+	- 뜻
+		- mind
+		- spirit
+		- mental
+	- 예
+		- 정신적[육체적] 아픔
+			-
