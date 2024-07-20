@@ -158,4 +158,6 @@
 		- wake up
 		- open
 	- 예
+		- 음식을 차리다
+			- serve 《a person》 with a meal.
 		-
