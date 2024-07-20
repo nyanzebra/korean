@@ -9,4 +9,8 @@
 		- by the way
 	- 예
 		- 그나저나, 이 책은 우리 모두 필독해야죠, 그렇죠?
-			-
+			- By the way, it's mandatory reading for everybody, okay?
+		- 그나저나, 예술이 수학 점수를 올려주기 때문에 중요한 것이 아닙니다.
+			- And by the way, the arts aren't just important because they improve math scores.
+		- 그나저나 지금도 별로 바뀐 건 없습니다.
+			- Not much has changed, by the way.
