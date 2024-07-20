@@ -144,14 +144,18 @@
 			- train[nourish/cultivate] one's mind.
 		- 정신 차리다
 			- collect one's mind, pay attention
-- 단어 #card 
-  card-last-interval:: 11.2
-  card-repeats:: 3
-  card-ease-factor:: 2.8
-  card-next-schedule:: 2024-07-15T00:55:01.935Z
-  card-last-reviewed:: 2024-07-03T20:55:01.935Z
+- 차리다 #card
   card-last-score:: 5
+  card-repeats:: 3
+  card-next-schedule:: 2024-07-15T00:55:01.935Z
+  card-last-interval:: 11.2
+  card-ease-factor:: 2.8
+  card-last-reviewed:: 2024-07-03T20:55:01.935Z
 	- 뜻
-		-
+		- set
+		- start
+		- set up
+		- wake up
+		- open
 	- 예
 		-
