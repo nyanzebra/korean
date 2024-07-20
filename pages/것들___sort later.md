@@ -51,4 +51,16 @@
 			- We organized a group of congenial people.
 		- 마음에 맞는 여자
 			- a woman after one's heart.
--
+- 마음을 쓰다 #card
+  card-last-score:: 5
+  card-repeats:: 3
+  card-next-schedule:: 2024-07-15T00:55:01.935Z
+  card-last-interval:: 11.2
+  card-ease-factor:: 2.8
+  card-last-reviewed:: 2024-07-03T20:55:01.935Z
+	- 뜻
+		- worry about
+		- use one's mind/heart
+	- 예
+		- 그녀는 세세한 것에 마음을 쓴다
+			- She worries about little things.
