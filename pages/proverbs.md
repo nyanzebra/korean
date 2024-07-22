@@ -1,4 +1,3 @@
-- /
 - 친구따라 강남간다 #card
   card-last-interval:: 11.2
   card-repeats:: 3
@@ -7,6 +6,6 @@
   card-last-reviewed:: 2024-07-03T20:55:01.935Z
   card-last-score:: 5
 	- 뜻
-		-
+		- birds of a feather
 	- 예
 		-
