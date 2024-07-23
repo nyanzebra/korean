@@ -14,10 +14,10 @@
   template:: 문법
   collapsed:: true
   card-last-interval:: 4
-  card-repeats:: 1
-  card-ease-factor:: 2.6
-  card-next-schedule:: 2024-06-16T03:56:30.601Z
-  card-last-reviewed:: 2024-06-12T03:56:30.601Z
+  card-repeats:: 2
+  card-ease-factor:: 2.7
+  card-next-schedule:: 2024-07-26T21:02:50.689Z
+  card-last-reviewed:: 2024-07-22T21:02:50.690Z
   card-last-score:: 5
 	- Usage
 	- Form
