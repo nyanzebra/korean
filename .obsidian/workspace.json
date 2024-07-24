@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "pages/template.md",
+                "file": "templates/문법.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "pages/template.md",
+                "file": "templates/문법.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "pages/template.md",
+                "file": "templates/문법.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "pages/template.md"
+                "file": "templates/문법.md"
               }
             }
           },
@@ -159,6 +159,10 @@
   },
   "active": "f22747cfee333579",
   "lastOpenFiles": [
+    "templates/단어.md",
+    "templates/문법.md",
+    "pages/template.md",
+    "templates",
     "단어/기계.md",
     "단어/수학.md",
     "pages/숙제.md",
@@ -189,11 +193,7 @@
     "사자성어",
     "문법/로 인하다.md",
     "문법/더니.md",
-    "문법/대로.md",
-    "단어/추상적인 것/감정.md",
-    "단어/활동/전쟁.md",
     "단어/생활",
-    "단어/추상적인 것",
-    "단어/활동"
+    "단어/추상적인 것"
   ]
 }
