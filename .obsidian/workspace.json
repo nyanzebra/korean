@@ -13,38 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "pages/3A-134-136.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5addd58a7415668e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "pages/3A-105.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "90ee6c33255b5d62",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "pages/3A-110.md",
+                "file": "숙제/Index.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "pages/3A-110.md",
+                "file": "숙제/Index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "pages/3A-110.md",
+                "file": "숙제/Index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "pages/3A-110.md"
+                "file": "숙제/Index.md"
               }
             }
           },
@@ -182,12 +157,23 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "90ee6c33255b5d62",
+  "active": "f22747cfee333579",
   "lastOpenFiles": [
-    "pages/3A-105.md",
-    "pages/3A-134-136.md",
-    "숙제/Index.md",
     "pages/숙제.md",
+    "숙제/Index.md",
+    "pages/3A-134-136.md",
+    "pages/3A-105.md",
+    "숙제/3A-134-136.md",
+    "숙제/3A-105.md",
+    "숙제/3A-110.md",
+    "숙제/3a-112-113.md",
+    "숙제/3A-118-119.md",
+    "숙제/3A-120-123.md",
+    "숙제/3A-124-126.md",
+    "숙제/3A-127-130.md",
+    "logseq/bak/pages/3A-105/2024-07-24T17_40_23.437Z.Desktop.md",
+    "logseq/bak/pages/3A-105",
+    "pages/3A-110.md",
     "pages/3A-127-130.md",
     "숙제",
     "문법",
@@ -202,16 +188,6 @@
     "logseq/bak/pages/3A-127-130/2024-07-24T17_24_06.741Z.Desktop.md",
     "logseq/bak/pages/3A-127-130/2024-07-24T17_23_59.954Z.Desktop.md",
     "logseq/bak/pages/3A-127-130/2024-07-24T17_23_57.579Z.Desktop.md",
-    "logseq/bak/pages/3A-127-130/2024-07-24T17_23_54.819Z.Desktop.md",
-    "logseq/bak/pages/3A-127-130/2024-07-24T17_23_52.659Z.Desktop.md",
-    "logseq/bak/pages/3A-127-130/2024-07-24T17_23_47.457Z.Desktop.md",
-    "logseq/bak/pages/3A-127-130/2024-07-24T17_23_45.307Z.Desktop.md",
-    "logseq/bak/pages/3A-127-130/2024-07-24T17_23_41.376Z.Desktop.md",
-    "logseq/bak/pages/일/2024-07-23T16_02_37.223Z.Desktop.md",
-    "2024-07-24.md",
-    "logseq/bak/pages/3a-112-113/2024-07-24T17_09_27.502Z.Desktop.md",
-    "logseq/bak/pages/3a-112-113",
-    "pages/3a-112-113.md",
-    "pages/-는 길에___길이다.md"
+    "logseq/bak/pages/3a-112-113"
   ]
 }
