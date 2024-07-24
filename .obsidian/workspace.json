@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "숙제/3A-105.md",
+                "file": "수업/2024_06_05.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "숙제/3A-105.md",
+                "file": "수업/2024_06_05.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "숙제/3A-105.md",
+                "file": "수업/2024_06_05.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "숙제/3A-105.md"
+                "file": "수업/2024_06_05.md"
               }
             }
           },
@@ -159,9 +159,13 @@
   },
   "active": "be8aef657cf18633",
   "lastOpenFiles": [
+    "수업/2024_05_31.md",
+    "단어/Index.md",
+    "수업",
+    "숙제/3A-105.md",
+    "proverbs/proverbs.md",
     "proverbs",
     "pages/단어.md",
-    "단어/단어.md",
     "문법/-기 때문에.md",
     "사자성어/ㄴ.md",
     "사자성어/ㄱ.md",
@@ -184,16 +188,12 @@
     "문법/에도 불구하고.md",
     "문법/에 의하다.md",
     "문법/았___었으면 좋겠다.md",
-    "문법/느니.md",
-    "문법/ㄴ___은 지.md",
     "단어/생활",
     "단어/추상적인 것",
     "단어/활동",
     "단어/장소",
     "단어/세상",
     "단어",
-    "logseq/bak/pages/3A-105",
-    "숙제",
-    "문법"
+    "logseq/bak/pages/3A-105"
   ]
 }
