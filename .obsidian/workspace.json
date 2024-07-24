@@ -13,13 +13,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "pages/3A-127-130.md",
+                "file": "pages/3A-134-136.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5addd58a7415668e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "pages/3A-105.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "90ee6c33255b5d62",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "pages/3A-110.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -85,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "pages/3A-127-130.md",
+                "file": "pages/3A-110.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "pages/3A-127-130.md",
+                "file": "pages/3A-110.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "pages/3A-127-130.md"
+                "file": "pages/3A-110.md"
               }
             }
           },
@@ -157,8 +182,14 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "be8aef657cf18633",
+  "active": "90ee6c33255b5d62",
   "lastOpenFiles": [
+    "pages/3A-105.md",
+    "pages/3A-134-136.md",
+    "숙제/Index.md",
+    "pages/숙제.md",
+    "pages/3A-127-130.md",
+    "숙제",
     "문법",
     "logseq/bak/pages/3A-127-130/2024-07-24T17_38_41.073Z.Desktop.md",
     "logseq/bak/pages/3A-127-130/2024-07-24T17_38_33.546Z.Desktop.md",
@@ -178,13 +209,9 @@
     "logseq/bak/pages/3A-127-130/2024-07-24T17_23_41.376Z.Desktop.md",
     "logseq/bak/pages/일/2024-07-23T16_02_37.223Z.Desktop.md",
     "2024-07-24.md",
-    "pages/3A-127-130.md",
     "logseq/bak/pages/3a-112-113/2024-07-24T17_09_27.502Z.Desktop.md",
     "logseq/bak/pages/3a-112-113",
     "pages/3a-112-113.md",
-    "pages/3A-105.md",
-    "pages/-는 길에___길이다.md",
-    "pages/-기 때문에.md",
-    "pages/-(으)려던 참이다.md"
+    "pages/-는 길에___길이다.md"
   ]
 }
