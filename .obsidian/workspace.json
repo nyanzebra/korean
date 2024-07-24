@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "숙제/Index.md",
+                "file": "pages/단어.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "숙제/Index.md",
+                "file": "pages/단어.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "숙제/Index.md",
+                "file": "pages/단어.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "숙제/Index.md"
+                "file": "pages/단어.md"
               }
             }
           },
@@ -159,12 +159,17 @@
   },
   "active": "f22747cfee333579",
   "lastOpenFiles": [
-    "pages/숙제.md",
+    "pages/기계.md",
+    "pages/단어.md",
+    "활동.md",
+    "숙제/3A-105.md",
+    "단어",
     "숙제/Index.md",
+    "logseq/bak/pages/숙제/2024-07-24T17_41_17.606Z.Desktop.md",
+    "pages/숙제.md",
     "pages/3A-134-136.md",
     "pages/3A-105.md",
     "숙제/3A-134-136.md",
-    "숙제/3A-105.md",
     "숙제/3A-110.md",
     "숙제/3a-112-113.md",
     "숙제/3A-118-119.md",
@@ -184,10 +189,6 @@
     "logseq/bak/pages/3A-127-130/2024-07-24T17_24_15.886Z.Desktop.md",
     "logseq/bak/pages/3A-127-130/2024-07-24T17_24_13.773Z.Desktop.md",
     "logseq/bak/pages/3A-127-130/2024-07-24T17_24_11.724Z.Desktop.md",
-    "logseq/bak/pages/3A-127-130/2024-07-24T17_24_09.045Z.Desktop.md",
-    "logseq/bak/pages/3A-127-130/2024-07-24T17_24_06.741Z.Desktop.md",
-    "logseq/bak/pages/3A-127-130/2024-07-24T17_23_59.954Z.Desktop.md",
-    "logseq/bak/pages/3A-127-130/2024-07-24T17_23_57.579Z.Desktop.md",
     "logseq/bak/pages/3a-112-113"
   ]
 }
