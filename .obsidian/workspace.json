@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "문법/-(으)려던 참이다.md",
+                "file": "문법/-기 때문에.md",
                 "mode": "source",
                 "source": false
               }
@@ -79,7 +79,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "b1471ea056cf348b",
@@ -95,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "문법/-(으)려던 참이다.md",
+                "file": "문법/-기 때문에.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "문법/-(으)려던 참이다.md",
+                "file": "문법/-기 때문에.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "문법/-(으)려던 참이다.md"
+                "file": "문법/-기 때문에.md"
               }
             }
           },
@@ -168,6 +169,17 @@
   },
   "active": "c28fe4ff709f6dda",
   "lastOpenFiles": [
+    "문법/-(으)려던 참이다.md",
+    "문법/-기 때문에.md",
+    "단어/수학.md",
+    "단어/기계.md",
+    "문법/긴 하지만.md",
+    "문법/간접화범 축약.md",
+    "문법/Index.md",
+    "문법/falling.md",
+    "문법/Auxiliary Verbs.md",
+    "문법/-씩.md",
+    "문법/-는 길에___길이다.md",
     "logseq/bak/문법/-(으)려던 참이다/2024-07-24T18_58_03.820Z.Desktop.md",
     "logseq/bak/문법/-(으)려던 참이다",
     "logseq/bak/문법",
