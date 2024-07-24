@@ -128,8 +128,17 @@
                 "file": "pages/3A-127-130.md"
               }
             }
+          },
+          {
+            "id": "383d5733b0f71559",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -143,10 +152,12 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "flashcards-obsidian:Generate flashcards": false,
+      "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "f22747cfee333579",
+  "active": "383d5733b0f71559",
   "lastOpenFiles": [
     "logseq/bak/pages/3a-112-113/2024-07-24T17_09_27.502Z.Desktop.md",
     "logseq/bak/pages/3a-112-113",
