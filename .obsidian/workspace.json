@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "사자성어/Index.md",
+                "file": "문법/-(으)려던 참이다.md",
                 "mode": "source",
                 "source": false
               }
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "사자성어/Index.md",
+                "file": "문법/-(으)려던 참이다.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "사자성어/Index.md",
+                "file": "문법/-(으)려던 참이다.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "사자성어/Index.md"
+                "file": "문법/-(으)려던 참이다.md"
               }
             }
           },
@@ -168,6 +168,12 @@
   },
   "active": "c28fe4ff709f6dda",
   "lastOpenFiles": [
+    "logseq/bak/문법/-(으)려던 참이다/2024-07-24T18_58_03.820Z.Desktop.md",
+    "logseq/bak/문법/-(으)려던 참이다",
+    "logseq/bak/문법",
+    "logseq/bak",
+    "logseq",
+    "사자성어/Index.md",
     "proverbs/proverbs.md"
   ]
 }
