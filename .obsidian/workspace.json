@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "pages/단어.md",
+                "file": "숙제/3A-105.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "pages/단어.md",
+                "file": "숙제/3A-105.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "pages/단어.md",
+                "file": "숙제/3A-105.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "pages/단어.md"
+                "file": "숙제/3A-105.md"
               }
             }
           },
@@ -159,7 +159,14 @@
   },
   "active": "be8aef657cf18633",
   "lastOpenFiles": [
-    "Untitled",
+    "proverbs",
+    "pages/단어.md",
+    "단어/단어.md",
+    "문법/-기 때문에.md",
+    "사자성어/ㄴ.md",
+    "사자성어/ㄱ.md",
+    "사자성어/사자성어.md",
+    "사자성어",
     "문법/로 인하다.md",
     "문법/더니.md",
     "문법/대로.md",
@@ -179,12 +186,6 @@
     "문법/았___었으면 좋겠다.md",
     "문법/느니.md",
     "문법/ㄴ___은 지.md",
-    "문법/다면서.md",
-    "문법/는 데.md",
-    "문법/-는 길에___길이다.md",
-    "문법/긴 하지만.md",
-    "문법/간접화범 축약.md",
-    "문법/-(으)려던 참이다.md",
     "단어/생활",
     "단어/추상적인 것",
     "단어/활동",
@@ -193,7 +194,6 @@
     "단어",
     "logseq/bak/pages/3A-105",
     "숙제",
-    "문법",
-    "logseq/bak/pages/3a-112-113"
+    "문법"
   ]
 }
