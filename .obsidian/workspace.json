@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "단어/활동.md",
+                "file": "사자성어/Index.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "단어/활동.md",
+                "file": "사자성어/Index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "단어/활동.md",
+                "file": "사자성어/Index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "단어/활동.md"
+                "file": "사자성어/Index.md"
               }
             }
           },
@@ -157,9 +157,10 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "f22747cfee333579",
+  "active": "be8aef657cf18633",
   "lastOpenFiles": [
     "단어/Index.md",
+    "단어/활동/활동.md",
     "단어/생활/장례.md",
     "logseq/bak/수업/2024_06_05/2024-07-24T17_58_37.043Z.Desktop.md",
     "logseq/bak/수업/2024_06_05",
@@ -174,7 +175,7 @@
     "문법/-기 때문에.md",
     "사자성어/ㄴ.md",
     "사자성어/ㄱ.md",
-    "사자성어/사자성어.md",
+    "사자성어/Index.md",
     "사자성어",
     "문법/로 인하다.md",
     "문법/더니.md",
@@ -189,7 +190,6 @@
     "문법/을 뻔하다.md",
     "문법/안 어___아도 되다.md",
     "문법/-씩.md",
-    "문법/은___는 편이다.md",
     "단어/생활",
     "단어/추상적인 것",
     "단어/활동",
