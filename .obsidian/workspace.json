@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "pages/숙제.md",
+                "file": "pages/template.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "pages/숙제.md",
+                "file": "pages/template.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "pages/숙제.md",
+                "file": "pages/template.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "pages/숙제.md"
+                "file": "pages/template.md"
               }
             }
           },
@@ -159,10 +159,11 @@
   },
   "active": "f22747cfee333579",
   "lastOpenFiles": [
+    "단어/기계.md",
     "단어/수학.md",
+    "pages/숙제.md",
     "단어/것들___sort later.md",
     "문법/Index.md",
-    "pages/기계.md",
     "logseq/bak/문법/falling/2024-07-24T18_00_35.535Z.Desktop.md",
     "logseq/bak/문법/falling",
     "logseq/bak/문법",
@@ -191,7 +192,6 @@
     "문법/대로.md",
     "단어/추상적인 것/감정.md",
     "단어/활동/전쟁.md",
-    "단어/추상적인 것/생각___마음.md",
     "단어/생활",
     "단어/추상적인 것",
     "단어/활동"
