@@ -18,8 +18,8 @@
     "convertHighlightsToClozes": true,
     "convertBoldTextToClozes": false,
     "convertCurlyBracketsToClozes": false,
-    "singleLineCardSeparator": "::",
-    "singleLineReversedCardSeparator": ":::",
+    "singleLineCardSeparator": ";;",
+    "singleLineReversedCardSeparator": ";;;",
     "multilineCardSeparator": "?",
     "multilineReversedCardSeparator": "??",
     "editLaterTag": "#edit-later",
@@ -27,7 +27,9 @@
     "tagsToReview": [
       "#review"
     ],
-    "noteFoldersToIgnore": [],
+    "noteFoldersToIgnore": [
+      "templates"
+    ],
     "openRandomNote": false,
     "autoNextNote": false,
     "disableFileMenuReviewOptions": false,
