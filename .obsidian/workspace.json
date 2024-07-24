@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "templates/문법.md",
+                "file": "단어/기계.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "templates/문법.md",
+                "file": "단어/기계.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "templates/문법.md",
+                "file": "단어/기계.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "templates/문법.md"
+                "file": "단어/기계.md"
               }
             }
           },
@@ -159,9 +159,18 @@
   },
   "active": "f22747cfee333579",
   "lastOpenFiles": [
+    "logseq/bak/단어/기계/2024-07-24T18_04_12.225Z.Desktop.md",
+    "logseq/bak/단어/기계/2024-07-24T18_04_07.521Z.Desktop.md",
+    "logseq/bak/단어/기계",
+    "logseq/bak/단어",
     "templates/단어.md",
-    "templates/문법.md",
+    "logseq/bak/templates/단어/2024-07-24T18_03_50.358Z.Desktop.md",
+    "logseq/bak/templates/단어/2024-07-24T18_03_45.972Z.Desktop.md",
+    "logseq/bak/templates/단어",
+    "logseq/bak/templates",
+    "logseq/bak/pages/template/2024-07-24T18_03_36.366Z.Desktop.md",
     "pages/template.md",
+    "templates/문법.md",
     "templates",
     "단어/기계.md",
     "단어/수학.md",
@@ -185,15 +194,6 @@
     "수업",
     "숙제/3A-105.md",
     "proverbs/proverbs.md",
-    "proverbs",
-    "pages/단어.md",
-    "문법/-기 때문에.md",
-    "사자성어/ㄴ.md",
-    "사자성어/ㄱ.md",
-    "사자성어",
-    "문법/로 인하다.md",
-    "문법/더니.md",
-    "단어/생활",
-    "단어/추상적인 것"
+    "pages/단어.md"
   ]
 }
