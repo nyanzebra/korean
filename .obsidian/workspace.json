@@ -1,21 +1,27 @@
 {
   "main": {
-    "id": "f13ad8db4d2c6ef6",
+    "id": "90ce2f1ba07fd24b",
     "type": "split",
     "children": [
       {
-        "id": "363a39806dd7bb77",
+        "id": "a4933aebbc7f311d",
         "type": "tabs",
         "children": [
           {
-            "id": "f22747cfee333579",
+            "id": "c28fe4ff709f6dda",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "d8694179bc9997f9",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
               "state": {
-                "file": "templates/문법.md",
-                "mode": "source",
-                "source": false
+                "currentVersion": "1.3.7"
               }
             }
           }
@@ -25,15 +31,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "0dab226f72b44de8",
+    "id": "3618bc72cf9837a5",
     "type": "split",
     "children": [
       {
-        "id": "e0ca99e1f51f142b",
+        "id": "6c84210a2b3ac6f1",
         "type": "tabs",
         "children": [
           {
-            "id": "be8aef657cf18633",
+            "id": "37e35dfd44d8e634",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -43,7 +49,7 @@
             }
           },
           {
-            "id": "313040b2e5675d9f",
+            "id": "0a3a0e6033d1b09d",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -58,7 +64,7 @@
             }
           },
           {
-            "id": "75b1b8e4d8d43536",
+            "id": "6acfd6a51d218231",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -72,20 +78,19 @@
     "width": 300
   },
   "right": {
-    "id": "ce2dd04f8961a169",
+    "id": "b1471ea056cf348b",
     "type": "split",
     "children": [
       {
-        "id": "11f307bdd0150c22",
+        "id": "4f5b96092a34fe57",
         "type": "tabs",
         "children": [
           {
-            "id": "68c6ae0c47582c28",
+            "id": "4e6fafdc350e399d",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "templates/문법.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,19 +102,18 @@
             }
           },
           {
-            "id": "7fb2aac41db5fd34",
+            "id": "b0a3b0a49f1e0fc4",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "templates/문법.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "c347d13dfef8ecb7",
+            "id": "e8405869a02ac065",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -120,17 +124,15 @@
             }
           },
           {
-            "id": "61263d43eceb6ff7",
+            "id": "7a194e98af6020d5",
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "templates/문법.md"
-              }
+              "state": {}
             }
           },
           {
-            "id": "383d5733b0f71559",
+            "id": "7744e6238ecdac04",
             "type": "leaf",
             "state": {
               "type": "review-queue-list-view",
@@ -153,47 +155,9 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "flashcards-obsidian:Generate flashcards": false,
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "f22747cfee333579",
-  "lastOpenFiles": [
-    "templates/단어.md",
-    "templates/문법.md",
-    "단어/장소/식당.md",
-    "pages/contents.md",
-    "pages/template.md",
-    "logseq/bak/pages/template/2024-07-24T18_04_32.132Z.Desktop.md",
-    "logseq/bak/pages/template/2024-07-24T18_04_29.358Z.Desktop.md",
-    "logseq/bak/단어/기계/2024-07-24T18_04_19.041Z.Desktop.md",
-    "단어/기계.md",
-    "logseq/bak/단어/기계/2024-07-24T18_04_12.225Z.Desktop.md",
-    "logseq/bak/단어/기계/2024-07-24T18_04_07.521Z.Desktop.md",
-    "logseq/bak/단어/기계",
-    "logseq/bak/단어",
-    "logseq/bak/templates/단어/2024-07-24T18_03_50.358Z.Desktop.md",
-    "logseq/bak/templates/단어/2024-07-24T18_03_45.972Z.Desktop.md",
-    "logseq/bak/templates/단어",
-    "logseq/bak/templates",
-    "logseq/bak/pages/template/2024-07-24T18_03_36.366Z.Desktop.md",
-    "templates",
-    "단어/수학.md",
-    "pages/숙제.md",
-    "단어/것들___sort later.md",
-    "문법/Index.md",
-    "logseq/bak/문법/falling/2024-07-24T18_00_35.535Z.Desktop.md",
-    "logseq/bak/문법/falling",
-    "logseq/bak/문법",
-    "문법/falling.md",
-    "사자성어/Index.md",
-    "단어/Index.md",
-    "단어/활동/활동.md",
-    "단어/생활/장례.md",
-    "logseq/bak/수업/2024_06_05/2024-07-24T17_58_37.043Z.Desktop.md",
-    "logseq/bak/수업/2024_06_05",
-    "logseq/bak/수업",
-    "수업/2024_06_05.md",
-    "수업"
-  ]
+  "active": "7744e6238ecdac04",
+  "lastOpenFiles": []
 }
