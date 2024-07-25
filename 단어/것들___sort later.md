@@ -1,10 +1,10 @@
 - 그나저나 #card
-  card-last-score:: 5
-  card-repeats:: 3
-  card-next-schedule:: 2024-07-15T00:55:01.935Z
-  card-last-interval:: 11.2
-  card-ease-factor:: 2.8
-  card-last-reviewed:: 2024-07-03T20:55:01.935Z
+  ?
+  ?
+  ?
+  ?
+  ?
+  ?
 	- 뜻
 		- by the way
 	- 예
@@ -15,12 +15,12 @@
 		- 그나저나 지금도 별로 바뀐 건 없습니다.
 			- Not much has changed, by the way.
 - 마음을 단단히 먹다 #card
-  card-last-score:: 5
-  card-repeats:: 3
-  card-next-schedule:: 2024-07-15T00:55:01.935Z
-  card-last-interval:: 11.2
-  card-ease-factor:: 2.8
-  card-last-reviewed:: 2024-07-03T20:55:01.935Z
+  ?
+  ?
+  ?
+  ?
+  ?
+  ?
 	- 뜻
 		- determined
 		- brace oneself
@@ -34,12 +34,12 @@
 		- 단단히 마음먹고 내가 다시 한번 해보겠다
 			- I will give it just one more determined try.
 - 마음을 맞다 #card
-  card-last-score:: 5
-  card-repeats:: 3
-  card-next-schedule:: 2024-07-15T00:55:01.935Z
-  card-last-interval:: 11.2
-  card-ease-factor:: 2.8
-  card-last-reviewed:: 2024-07-03T20:55:01.935Z
+  ?
+  ?
+  ?
+  ?
+  ?
+  ?
 	- 뜻
 		- get along with
 		- suits
@@ -52,12 +52,12 @@
 		- 마음에 맞는 여자
 			- a woman after one's heart.
 - 마음을 쓰다 #card
-  card-last-score:: 5
-  card-repeats:: 3
-  card-next-schedule:: 2024-07-15T00:55:01.935Z
-  card-last-interval:: 11.2
-  card-ease-factor:: 2.8
-  card-last-reviewed:: 2024-07-03T20:55:01.935Z
+  ?
+  ?
+  ?
+  ?
+  ?
+  ?
 	- 뜻
 		- worry about
 		- use one's mind/heart
@@ -67,12 +67,12 @@
 		- 너무 마음을 쓰지 마라
 			- Don't worry too much about it./Take it easy.
 - 무사하다 #card
-  card-last-score:: 5
-  card-repeats:: 3
-  card-next-schedule:: 2024-07-15T00:55:01.935Z
-  card-last-interval:: 11.2
-  card-ease-factor:: 2.8
-  card-last-reviewed:: 2024-07-03T20:55:01.935Z
+  ?
+  ?
+  ?
+  ?
+  ?
+  ?
 	- 뜻
 		- safe
 		- secure
@@ -90,24 +90,24 @@
 		- 무사하지는 못할거야
 			- not gonna make it
 - 마음이 놓다 #card
-  card-last-score:: 5
-  card-repeats:: 3
-  card-next-schedule:: 2024-07-15T00:55:01.935Z
-  card-last-interval:: 11.2
-  card-ease-factor:: 2.8
-  card-last-reviewed:: 2024-07-03T20:55:01.935Z
+  ?
+  ?
+  ?
+  ?
+  ?
+  ?
 	- 뜻
 		- feel relieved
 	- 예
 		- 일이 좀 잘된다고 마음을 놓아서는 안 된다
 			- Don't relax your attention because of a small success or two.
 - 엉망 #card
-  card-last-score:: 5
-  card-repeats:: 3
-  card-next-schedule:: 2024-07-15T00:55:01.935Z
-  card-last-interval:: 11.2
-  card-ease-factor:: 2.8
-  card-last-reviewed:: 2024-07-03T20:55:01.935Z
+  ?
+  ?
+  ?
+  ?
+  ?
+  ?
 	- 뜻
 		- mess
 		- wreck
@@ -121,12 +121,12 @@
 		- 그는 말과 하는 짓이 모두 터무니없이 엉망이다
 			- Both his words and his actions are utterly confused.
 - 정신 #card
-  card-last-score:: 5
-  card-repeats:: 3
-  card-next-schedule:: 2024-07-15T00:55:01.935Z
-  card-last-interval:: 11.2
-  card-ease-factor:: 2.8
-  card-last-reviewed:: 2024-07-03T20:55:01.935Z
+  ?
+  ?
+  ?
+  ?
+  ?
+  ?
 	- 뜻
 		- mind
 		- spirit
@@ -145,12 +145,12 @@
 		- 정신 차리다
 			- collect one's mind, pay attention
 - 차리다 #card
-  card-last-score:: 5
-  card-repeats:: 3
-  card-next-schedule:: 2024-07-15T00:55:01.935Z
-  card-last-interval:: 11.2
-  card-ease-factor:: 2.8
-  card-last-reviewed:: 2024-07-03T20:55:01.935Z
+  ?
+  ?
+  ?
+  ?
+  ?
+  ?
 	- 뜻
 		- set
 		- start

@@ -18,8 +18,8 @@
     "convertHighlightsToClozes": true,
     "convertBoldTextToClozes": false,
     "convertCurlyBracketsToClozes": false,
-    "singleLineCardSeparator": "::",
-    "singleLineReversedCardSeparator": ":::",
+    "singleLineCardSeparator": ";;",
+    "singleLineReversedCardSeparator": ";;;",
     "multilineCardSeparator": "?",
     "multilineReversedCardSeparator": "??",
     "editLaterTag": "#edit-later",
@@ -42,7 +42,7 @@
     "maxLinkFactor": 1,
     "showDebugMessages": false
   },
-  "buryDate": "2024-07-24",
+  "buryDate": "2024-07-25",
   "buryList": [],
   "historyDeck": null
 }
