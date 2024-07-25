@@ -26860,8 +26860,8 @@ var require$$4 = /*@__PURE__*/getAugmentedNamespace(lib);
 	/**
 	 * Represents table format type.
 	 *
-	 * - `FormatType.NORMAL` - Formats table normally.
-	 * - `FormatType.WEAK` - Formats table weakly, rows are formatted independently to each other, cell
+	 * - `FormatType.NORMAL` ### Formats table normally.
+	 * - `FormatType.WEAK` ### Formats table weakly, rows are formatted independently to each other, cell
 	 *   contents are just trimmed and not aligned.
 	 */
 	var FormatType;

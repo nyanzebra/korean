@@ -86,7 +86,7 @@
     
     Example:
     
-    이 소포를 선박우편 보내 볼까요? - 예, 그럽시다. "Shall I send this parcel by sea mail? - Yes, do that.
+    이 소포를 선박우편 보내 볼까요? ###  예, 그럽시다. "Shall I send this parcel by sea mail? - Yes, do that.
     
   5.  **Iterative auxiliary verbs (대다)**
     

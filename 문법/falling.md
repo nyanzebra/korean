@@ -1,16 +1,23 @@
-- Falling verbs in Korean: 떨어지다, 무너지다, 쓰러지다, 넘어지다
-  In response to a question about the differences between these verbs, user “Tony” on italki gave an answer that I liked:
-- – 떨어지다: fall, drop from a height. 걸어 둔 액자가 떨어졌다 (A picture frame on the wall fell down).
-  – 무너지다: crumble, fall apart. 큰 건물이 무너져 버렸다 (A big building crumbled down).
-  – 쓰러지다: fall over; fall onto one’s/its side. 심한 현기증에 쓰러졌다 (Fell down from an acute dizziness). 
-  – 넘어지다: fall by slipping or tripping. 너무 서두르다가 넘어졌다 (Fell while trying to go too fast).
-- I was comfortable with 떨어지다 but I pressed him further on the differences between 무너지다 and 쓰러지다, and he said this:
+## Falling verbs in Korean: 떨어지다, 무너지다, 쓰러지다, 넘어지다
+In response to a question about the differences between these verbs, user “Tony” on italki gave an answer that I liked:
+– 떨어지다: fall, drop from a height. 걸어 둔 액자가 떨어졌다 (A picture frame on the wall fell down).
+– 무너지다: crumble, fall apart. 큰 건물이 무너져 버렸다 (A big building crumbled down).
+– 쓰러지다: fall over; fall onto one’s/its side. 심한 현기증에 쓰러졌다 (Fell down from an acute dizziness). 
+– 넘어지다: fall by slipping or tripping. 너무 서두르다가 넘어졌다 (Fell while trying to go too fast).
+
+I was comfortable with 떨어지다 but I pressed him further on the differences between 무너지다 and 쓰러지다, and he said this:
 - “쓰러지다 sounds like something tilts and falls over to the ground (and it may still be in one piece after it collapses), while 무너지다 implies something massive gives way and falls straight down (and disintegrates structurally). So we sometimes say 쓰러지다 if a narrow, tall building collapses but 무너지다 for any massive structure.
+
 - Since people and animals (and plants too) stand tall on their skinny legs, and because the change is just in the stance and posture, we say 쓰러지다 and never 무너지다.
+
 - Interestingly, 무너지다 is sometimes used to describe a mental state like an expectation or confidence, as in 나의 기대는 여지없이 무너졌다.  This is probably because 무너지다 emphasizes a complete crumbling so that recovery is nearly impossible.”
+
 - After Tony’s explanation, I was pretty satisfied with the the difference between 무너지다 and 쓰러지다. However, 쓰러지다 and 넘어지다 still gave me trouble. They seemed to be the most similar of the four verbs.
+
 - The 한국어-영어 학습사전 says 쓰러지다 means “For something standing to fall sideways.” / 서 있던 것이 한쪽으로 쏠리어 넘어지다. (쏠리다 means “to lean”.)
+
 - 넘어지다 is defined in the same dictionary as “For a standing person or object to lose balance and fall down.” / 서 있던 사람이나 물체가 중심을 잃고 한쪽으로 기울어지며 쓰러지다.
+
 - Comparing the Korean definitions, 쓰러지다 and 넘어지다 are defined in terms of each other! So I could just say they’re synonyms and leave it at that. But I wanted to do better.
 - I thought looking at a bunch of examples could help. First, some examples for 쓰러지다 from Naver:
 - 건물이 쓰러지다.
