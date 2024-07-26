@@ -9,6 +9,7 @@
 	- And by the way, the arts aren't just important because they improve math scores.
 - 그나저나 지금도 별로 바뀐 건 없습니다.
 	- Not much has changed, by the way.
+<!--SR:!2024-07-26,1,232-->
 
 ## 마음을 단단히 먹다 #card
 ?
@@ -68,6 +69,7 @@
 	- Impartiality is absolutely essential to a judge.
 - 무사하지는 못할거야
 	- not gonna make it
+<!--SR:!2024-07-26,1,232-->
 
 ## 마음이 놓다 #card
 ?
@@ -76,6 +78,7 @@
 ### 예
 - 일이 좀 잘된다고 마음을 놓아서는 안 된다
 	- Don't relax your attention because of a small success or two.
+<!--SR:!2024-07-29,4,270-->
 
 ## 엉망 #card
 ?
@@ -91,6 +94,7 @@
 	- He did very poorly[badly] in[Am. E. on] the examination./He did miserably on the examination.
 - 그는 말과 하는 짓이 모두 터무니없이 엉망이다
 	- Both his words and his actions are utterly confused.
+<!--SR:!2024-07-29,4,272-->
 
 ## 정신 #card
 ?
