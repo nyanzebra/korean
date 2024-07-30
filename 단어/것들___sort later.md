@@ -9,7 +9,7 @@
 	- And by the way, the arts aren't just important because they improve math scores.
 - 그나저나 지금도 별로 바뀐 건 없습니다.
 	- Not much has changed, by the way.
-<!--SR:!2024-07-26,1,232-->
+<!--SR:!2024-08-01,3,252-->
 
 ## 마음을 단단히 먹다 #card
 ?
@@ -94,7 +94,7 @@
 	- He did very poorly[badly] in[Am. E. on] the examination./He did miserably on the examination.
 - 그는 말과 하는 짓이 모두 터무니없이 엉망이다
 	- Both his words and his actions are utterly confused.
-<!--SR:!2024-07-29,4,272-->
+<!--SR:!2024-08-15,17,292-->
 
 ## 정신 #card
 ?
@@ -137,3 +137,20 @@
 	- I was all ears[attention] so as not to miss a single word.
 - 곱게 차려 입다
 	- dress oneself beautifully/be finely dressed.
+
+## 억누르다 #card
+?
+### 뜻
+- suppress
+- stifle
+- repress
+### 예
+- 자신의 감정을 억누르는 학생들은 친구들과의 관계가 원만하지 못했다.
+	- Students who suppressed their emotions had a harder time meeting friends
+- 정권을 잡은 후 그는 곧 정치적 반대 의견들을 억누르고 반대파들을 체포하거나 사형시켰다.
+	- Soon after taking office, he stifled political dissent and had opponents arrested or killed.
+- 그들은 동료 국회의원에 대해 억눌렸던 반감을 토해내고 있다.
+	- They are venting out their bottled-up antipathy to a fellow lawmaker
+- 불편한 감정을 억누르거나 그런 감정을 가지고 있다고 자신을 판단하지 말라.
+	- Don’t repress uncomfortable emotions or judge yourself for having them
+<!--SR:!2024-07-28,4,270-->

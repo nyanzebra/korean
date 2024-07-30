@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "문법/다면서.md",
+                "file": "문법/로 인하다.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "문법/다면서.md",
+                "file": "문법/로 인하다.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "문법/다면서.md",
+                "file": "문법/로 인하다.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "문법/다면서.md"
+                "file": "문법/로 인하다.md"
               }
             }
           },
@@ -159,6 +159,8 @@
   },
   "active": "c28fe4ff709f6dda",
   "lastOpenFiles": [
+    "단어/것들___sort later.md",
+    "문법/다면서.md",
     "수업/Untitled.md",
     "단어/생활/이주하다.md",
     "단어/활동/컴퓨터.md",
@@ -172,7 +174,6 @@
     "문법/에 의하다.md",
     "문법/더니.md",
     "문법/대로.md",
-    "문법/다면서.md",
     "문법/는 데.md",
     "문법/느니.md",
     "문법/ㄴ___은 지.md",
@@ -184,7 +185,6 @@
     "문법/-씩.md",
     "문법/-는 길에___길이다.md",
     "문법/-기 때문에.md",
-    "문법/-(으)려던 참이다.md",
     "logseq/bak/문법/-(으)려던 참이다",
     "logseq/bak/문법",
     "logseq/bak",
