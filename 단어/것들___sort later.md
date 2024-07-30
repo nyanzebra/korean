@@ -69,7 +69,7 @@
 	- Impartiality is absolutely essential to a judge.
 - 무사하지는 못할거야
 	- not gonna make it
-<!--SR:!2024-07-26,1,232-->
+<!--SR:!2024-08-02,3,252-->
 
 ## 마음이 놓다 #card
 ?
@@ -78,7 +78,7 @@
 ### 예
 - 일이 좀 잘된다고 마음을 놓아서는 안 된다
 	- Don't relax your attention because of a small success or two.
-<!--SR:!2024-07-29,4,270-->
+<!--SR:!2024-08-12,13,290-->
 
 ## 엉망 #card
 ?
@@ -153,7 +153,7 @@
 	- They are venting out their bottled-up antipathy to a fellow lawmaker
 - 불편한 감정을 억누르거나 그런 감정을 가지고 있다고 자신을 판단하지 말라.
 	- Don’t repress uncomfortable emotions or judge yourself for having them
-<!--SR:!2024-07-28,4,270-->
+<!--SR:!2024-08-01,2,250-->
 
 ## 불길하다 #card
 ?
