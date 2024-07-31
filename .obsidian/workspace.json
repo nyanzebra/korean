@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "templates/문법.md",
+                "file": "단어/것들___sort later.md",
                 "mode": "source",
                 "source": false
               }
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "templates/문법.md",
+                "file": "단어/것들___sort later.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "templates/문법.md",
+                "file": "단어/것들___sort later.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "templates/문법.md"
+                "file": "단어/것들___sort later.md"
               }
             }
           },
@@ -169,6 +169,7 @@
   },
   "active": "c28fe4ff709f6dda",
   "lastOpenFiles": [
+    "templates/문법.md",
     "숙제/3A-142-144.md",
     "숙제/3A-136-138.md",
     "templates/단어.md",
