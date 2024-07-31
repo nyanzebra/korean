@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "단어/생활/이주하다.md",
+                "file": "단어/Honorifics.md",
                 "mode": "source",
                 "source": false
               }
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "단어/생활/이주하다.md",
+                "file": "단어/Honorifics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "단어/생활/이주하다.md",
+                "file": "단어/Honorifics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "단어/생활/이주하다.md"
+                "file": "단어/Honorifics.md"
               }
             }
           },
@@ -169,6 +169,9 @@
   },
   "active": "c28fe4ff709f6dda",
   "lastOpenFiles": [
+    "단어/시간.md",
+    "단어/Honorifics.md",
+    "단어/생활/이주하다.md",
     "단어/생활/장례.md",
     "단어/장소/영화관.md",
     "단어/장소/은행.md",
@@ -195,7 +198,6 @@
     "logseq/bak/문법",
     "logseq/bak",
     "logseq",
-    "사자성어/Index.md",
-    "proverbs/proverbs.md"
+    "사자성어/Index.md"
   ]
 }
