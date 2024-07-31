@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "단어/Honorifics.md",
+                "file": "단어/생활/Untitled.md",
                 "mode": "source",
                 "source": false
               }
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "단어/Honorifics.md",
+                "file": "단어/생활/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "단어/Honorifics.md",
+                "file": "단어/생활/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "단어/Honorifics.md"
+                "file": "단어/생활/Untitled.md"
               }
             }
           },
@@ -169,8 +169,10 @@
   },
   "active": "c28fe4ff709f6dda",
   "lastOpenFiles": [
-    "단어/시간.md",
+    "단어/동물.md",
+    "단어/생활/Untitled.md",
     "단어/Honorifics.md",
+    "단어/시간.md",
     "단어/생활/이주하다.md",
     "단어/생활/장례.md",
     "단어/장소/영화관.md",
@@ -193,11 +195,9 @@
     "문법/Auxiliary Verbs.md",
     "문법/-씩.md",
     "문법/-는 길에___길이다.md",
-    "logseq/bak/문법/-(으)려던 참이다/2024-07-24T18_58_03.820Z.Desktop.md",
     "logseq/bak/문법/-(으)려던 참이다",
     "logseq/bak/문법",
     "logseq/bak",
-    "logseq",
-    "사자성어/Index.md"
+    "logseq"
   ]
 }
