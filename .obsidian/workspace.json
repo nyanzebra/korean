@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "숙제/3A-142-144.md",
+                "file": "수업/Untitled.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "숙제/3A-142-144.md",
+                "file": "수업/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "숙제/3A-142-144.md",
+                "file": "수업/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "숙제/3A-142-144.md"
+                "file": "수업/Untitled.md"
               }
             }
           },
@@ -159,8 +159,9 @@
   },
   "active": "c28fe4ff709f6dda",
   "lastOpenFiles": [
-    "숙제/3A-136-138.md",
+    "수업/2024_08_02.md",
     "숙제/3A-142-144.md",
+    "숙제/3A-136-138.md",
     "수업/2024_07_12.md",
     "수업/2024_05_31.md",
     "단어/교통.md",
@@ -184,7 +185,6 @@
     "문법/-(으)려던 참이다.md",
     "단어/수학.md",
     "단어/기계.md",
-    "문법/긴 하지만.md",
     "logseq/bak/문법/-(으)려던 참이다",
     "logseq/bak/문법",
     "logseq/bak",
