@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "수업/2024_07_12.md",
+                "file": "숙제/3A-142-144.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "수업/2024_07_12.md",
+                "file": "숙제/3A-142-144.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "수업/2024_07_12.md",
+                "file": "숙제/3A-142-144.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "수업/2024_07_12.md"
+                "file": "숙제/3A-142-144.md"
               }
             }
           },
@@ -159,6 +159,9 @@
   },
   "active": "c28fe4ff709f6dda",
   "lastOpenFiles": [
+    "숙제/3A-136-138.md",
+    "숙제/3A-142-144.md",
+    "수업/2024_07_12.md",
     "수업/2024_05_31.md",
     "단어/교통.md",
     "단어/생활/것.md",
@@ -175,8 +178,6 @@
     "단어/생활/여행지.md",
     "단어/것들___sort later.md",
     "templates/문법.md",
-    "숙제/3A-142-144.md",
-    "숙제/3A-136-138.md",
     "templates/단어.md",
     "수업/Untitled.md",
     "문법/-기 때문에.md",
@@ -184,7 +185,6 @@
     "단어/수학.md",
     "단어/기계.md",
     "문법/긴 하지만.md",
-    "문법/간접화범 축약.md",
     "logseq/bak/문법/-(으)려던 참이다",
     "logseq/bak/문법",
     "logseq/bak",
