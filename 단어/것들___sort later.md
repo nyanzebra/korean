@@ -1,9 +1,13 @@
 ## 불문하다 #card
 ?
 ### 뜻
-- do not
+- do not ask
+- take no notice of
 ### 예
--
+- 다소를 불문하고
+	- regardless of quantity
+- 학력을 불문하고
+	- regardless of education
 
 
 ## 그나저나 #card
