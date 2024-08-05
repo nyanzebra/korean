@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "단어/것들___sort later.md",
+                "file": "문법/Counters.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "단어/것들___sort later.md",
+                "file": "문법/Counters.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "단어/것들___sort later.md",
+                "file": "문법/Counters.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "단어/것들___sort later.md"
+                "file": "문법/Counters.md"
               }
             }
           },
@@ -159,6 +159,8 @@
   },
   "active": "c28fe4ff709f6dda",
   "lastOpenFiles": [
+    "단어/것들___sort later.md",
+    "문법/Counters.md",
     "숙제/3A-142-144 fixed.md",
     "숙제/3A-142-144.md",
     "수업/2024_08_02.md",
@@ -192,8 +194,6 @@
     "logseq/bak/문법/에 의하다/2024-07-30T21_38_31.057Z.Desktop.md",
     "logseq/bak/문법/았___었으면 좋겠다/2024-07-30T21_38_31.055Z.Desktop.md",
     "logseq/bak/문법/안 어___아도 되다/2024-07-30T21_38_31.052Z.Desktop.md",
-    "logseq/bak/문법/로 인하다/2024-07-30T21_38_31.049Z.Desktop.md",
-    "logseq/bak/문법/더니/2024-07-30T21_38_31.046Z.Desktop.md",
     "logseq/bak/문법/을 텐데 걱정이다"
   ]
 }
