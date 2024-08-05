@@ -69,7 +69,7 @@
 	- Impartiality is absolutely essential to a judge.
 - 무사하지는 못할거야
 	- not gonna make it
-<!--SR:!2024-08-02,3,252-->
+<!--SR:!2024-08-12,7,252-->
 
 ## 마음이 놓다 #card
 ?
