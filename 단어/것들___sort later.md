@@ -12,6 +12,8 @@
 	- with combined efforts
 - 선장을 비롯해서 승무원 전원이 사망했다
 	- the whole crew, including the captain, died
+- 나는 조용한 전원 풍경을 뇌리에 그렸다
+	- I pictured the quiet pastoral scenery in my mind./I imagined the quiet pastoral scene.
 
 
 ## 불문하다 #card
