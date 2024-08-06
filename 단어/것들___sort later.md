@@ -80,6 +80,7 @@
 	- We organized a group of congenial people.
 - 마음에 맞는 여자
 	- a woman after one's heart.
+<!--SR:!2024-08-08,2,248-->
 
 ## 마음을 쓰다 #card
 ?
