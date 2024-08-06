@@ -128,6 +128,7 @@
 	- train[nourish/cultivate] one's mind.
 - 정신 차리다
 	- collect one's mind, pay attention
+<!--SR:!2024-08-07,1,232-->
 
 ## 차리다 #card
 ?
