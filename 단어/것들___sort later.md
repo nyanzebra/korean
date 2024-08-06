@@ -6,7 +6,8 @@
 - turn on
 - rural
 ### 예
--
+- 전원을 끊다
+	- shut off power
 
 
 ## 불문하다 #card
