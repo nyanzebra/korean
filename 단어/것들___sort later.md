@@ -1,3 +1,14 @@
+## 전원 #card
+?
+### 뜻
+- power
+- all members
+- turn on
+- rural
+### 예
+-
+
+
 ## 불문하다 #card
 ?
 ### 뜻

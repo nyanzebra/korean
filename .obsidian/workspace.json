@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "문법/느니.md",
+                "file": "단어/것들___sort later.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "문법/느니.md",
+                "file": "단어/것들___sort later.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "문법/느니.md",
+                "file": "단어/것들___sort later.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "문법/느니.md"
+                "file": "단어/것들___sort later.md"
               }
             }
           },
@@ -159,6 +159,7 @@
   },
   "active": "c28fe4ff709f6dda",
   "lastOpenFiles": [
+    "문법/느니.md",
     "문법/Counters.md",
     "단어/것들___sort later.md",
     "숙제/3A-142-144 fixed.md",
@@ -193,7 +194,6 @@
     "logseq/bak/문법/에도 불구하고/2024-07-30T21_38_31.062Z.Desktop.md",
     "logseq/bak/문법/에 의하다/2024-07-30T21_38_31.057Z.Desktop.md",
     "logseq/bak/문법/았___었으면 좋겠다/2024-07-30T21_38_31.055Z.Desktop.md",
-    "logseq/bak/문법/안 어___아도 되다/2024-07-30T21_38_31.052Z.Desktop.md",
     "logseq/bak/문법/을 텐데 걱정이다"
   ]
 }
