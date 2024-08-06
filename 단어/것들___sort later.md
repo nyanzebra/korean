@@ -8,6 +8,10 @@
 ### 예
 - 전원을 끊다
 	- shut off power
+- 전원이 달려들어
+	- with combined efforts
+- 선장을 비롯해서 승무원 전원이 사망했다
+	- the whole crew, including the captain, died
 
 
 ## 불문하다 #card
