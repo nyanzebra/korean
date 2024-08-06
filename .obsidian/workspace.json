@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "문법/Counters.md",
+                "file": "숙제/3A-142-144 fixed.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#card",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "문법/Counters.md",
+                "file": "숙제/3A-142-144 fixed.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "문법/Counters.md",
+                "file": "숙제/3A-142-144 fixed.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "문법/Counters.md"
+                "file": "숙제/3A-142-144 fixed.md"
               }
             }
           },
@@ -147,53 +147,47 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-spaced-repetition:Review flashcards": false
+      "obsidian-spaced-repetition:Review flashcards": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
   "active": "c28fe4ff709f6dda",
   "lastOpenFiles": [
-    "단어/것들___sort later.md",
     "문법/Counters.md",
-    "숙제/3A-142-144 fixed.md",
     "숙제/3A-142-144.md",
+    "숙제/3A-142-144 fixed.md",
     "수업/2024_08_02.md",
+    "수업/Untitled.md",
     "숙제/3A-136-138.md",
-    "단어/장소/것.md",
-    "단어/시간.md",
-    "단어/생활/분리수거.md",
+    "수업/2024_07_12.md",
+    "수업/2024_05_31.md",
+    "단어/교통.md",
     "단어/생활/것.md",
     "단어/동물.md",
-    "단어/교통.md",
+    "단어/장소/것.md",
+    "단어/장소/은행.md",
+    "단어/생활/이주하다.md",
+    "단어/추상적인 것/감정.md",
+    "단어/생활/분리수거.md",
     "단어/Honorifics.md",
-    "logseq/bak/숙제/3A-134-136/2024-07-30T21_38_31.149Z.Desktop.md",
-    "logseq/bak/숙제/3A-120-123/2024-07-30T21_38_31.135Z.Desktop.md",
-    "logseq/bak/숙제/3A-134-136",
-    "logseq/bak/숙제/3A-120-123",
-    "logseq/bak/숙제",
-    "logseq/bak/수업/2024_05_31/2024-07-30T21_38_31.104Z.Desktop.md",
-    "logseq/bak/수업/2024_05_31",
-    "logseq/bak/수업",
-    "logseq/bak/사자성어/ㄱ/2024-07-30T21_38_31.099Z.Desktop.md",
-    "logseq/bak/사자성어/ㄴ/2024-07-30T21_38_31.102Z.Desktop.md",
-    "logseq/bak/사자성어/Index/2024-07-30T21_38_31.073Z.Desktop.md",
-    "logseq/bak/사자성어/ㄴ",
-    "logseq/bak/사자성어/ㄱ",
-    "logseq/bak/사자성어/Index",
-    "logseq/bak/사자성어",
-    "logseq/bak/문법/을 텐데 걱정이다/2024-07-30T21_38_31.071Z.Desktop.md",
-    "logseq/bak/문법/을 뻔하다/2024-07-30T21_38_31.068Z.Desktop.md",
-    "logseq/bak/문법/은___는 편이다/2024-07-30T21_38_31.065Z.Desktop.md",
-    "logseq/bak/문법/에도 불구하고/2024-07-30T21_38_31.062Z.Desktop.md",
-    "logseq/bak/문법/에 의하다/2024-07-30T21_38_31.057Z.Desktop.md",
-    "logseq/bak/문법/았___었으면 좋겠다/2024-07-30T21_38_31.055Z.Desktop.md",
-    "logseq/bak/문법/안 어___아도 되다/2024-07-30T21_38_31.052Z.Desktop.md",
-    "logseq/bak/문법/을 텐데 걱정이다"
+    "단어/시간.md",
+    "단어/생활/장례.md",
+    "단어/장소/영화관.md",
+    "단어/생활/여행지.md",
+    "단어/것들___sort later.md",
+    "templates/문법.md",
+    "templates/단어.md",
+    "문법/-기 때문에.md",
+    "문법/-(으)려던 참이다.md",
+    "logseq/bak/문법/-(으)려던 참이다",
+    "logseq/bak/문법",
+    "logseq/bak",
+    "logseq"
   ]
 }
