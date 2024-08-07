@@ -181,6 +181,7 @@
 	- I was all ears[attention] so as not to miss a single word.
 - 곱게 차려 입다
 	- dress oneself beautifully/be finely dressed.
+<!--SR:!2024-08-08,1,228-->
 
 ## 억누르다 #card
 ?
