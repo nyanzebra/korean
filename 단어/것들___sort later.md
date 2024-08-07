@@ -198,7 +198,7 @@
 	- They are venting out their bottled-up antipathy to a fellow lawmaker
 - 불편한 감정을 억누르거나 그런 감정을 가지고 있다고 자신을 판단하지 말라.
 	- Don’t repress uncomfortable emotions or judge yourself for having them
-<!--SR:!2024-08-07,1,210-->
+<!--SR:!2024-08-09,2,210-->
 
 ## 불길하다 #card
 ?
