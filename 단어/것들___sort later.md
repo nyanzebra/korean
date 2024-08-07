@@ -49,7 +49,7 @@
 	- And by the way, the arts aren't just important because they improve math scores.
 - 그나저나 지금도 별로 바뀐 건 없습니다.
 	- Not much has changed, by the way.
-<!--SR:!2024-08-07,2,232-->
+<!--SR:!2024-08-08,1,212-->
 
 ## 마음을 단단히 먹다 #card
 ?
@@ -250,5 +250,5 @@
   - They call us partners, but they’re treating us like slaves.
 - 애완동물은 훌륭한 동반자가 되며 모든 가족에게 환영 받는 부가물이 될 수 있습니다.
   - Pets make excellent companions and can be a welcome addition to any family.
-<!--SR:!2024-08-07,1,228-->
+<!--SR:!2024-08-08,1,208-->
 
