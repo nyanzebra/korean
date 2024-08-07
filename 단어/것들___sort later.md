@@ -92,6 +92,7 @@
 	- She worries about little things.
 - 너무 마음을 쓰지 마라
 	- Don't worry too much about it./Take it easy.
+<!--SR:!2024-08-09,2,248-->
 
 ## 무사하다 #card
 ?
@@ -229,9 +230,13 @@
 ## 후계하다 #card
 ?
 ### 뜻
--
+- succeed (succession)
 ### 예
--
+- 관용은 가치있는 후계인입니다.
+  - Compassion is a worthy successor.
+- 정씨의 기아차 사장 승진으로 정몽구 회장이 국내 재계서열 4위의 현대-기아차 그룹의 후계 구도를 강화하고 있다는 추측을 불러 일으켰다.
+  - His promotion to the helm of Kia stirred speculation that Chung Mong-koo is preparing to hand over control of the country's fourth-largest business group.
+<!--SR:!2024-08-08,1,228-->
 
 
 ## 동반자 #card
