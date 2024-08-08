@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "단어/활동/청소.md",
+                "file": "숙제/Untitled.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "단어/활동/청소.md",
+                "file": "숙제/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "단어/활동/청소.md",
+                "file": "숙제/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "단어/활동/청소.md"
+                "file": "숙제/Untitled.md"
               }
             }
           },
@@ -159,6 +159,8 @@
   },
   "active": "c28fe4ff709f6dda",
   "lastOpenFiles": [
+    "단어/활동/청소.md",
+    "숙제/Untitled.md",
     "단어/장소/은행.md",
     "단어/장소/우체국.md",
     "단어/장소/영화관.md",
@@ -188,12 +190,10 @@
     "logseq/bak/수업",
     "logseq/bak/사자성어/ㄱ/2024-07-30T21_38_31.099Z.Desktop.md",
     "logseq/bak/사자성어/ㄴ/2024-07-30T21_38_31.102Z.Desktop.md",
-    "logseq/bak/사자성어/Index/2024-07-30T21_38_31.073Z.Desktop.md",
     "logseq/bak/사자성어/ㄴ",
     "logseq/bak/사자성어/ㄱ",
     "logseq/bak/사자성어/Index",
     "logseq/bak/사자성어",
-    "logseq/bak/문법/을 텐데 걱정이다/2024-07-30T21_38_31.071Z.Desktop.md",
     "logseq/bak/문법/을 텐데 걱정이다"
   ]
 }
