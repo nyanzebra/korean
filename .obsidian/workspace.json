@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "문법/-(으)려던 참이다.md",
+                "file": "숙제/3A-145-148.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "문법/-(으)려던 참이다.md",
+                "file": "숙제/3A-145-148.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "문법/-(으)려던 참이다.md",
+                "file": "숙제/3A-145-148.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "문법/-(으)려던 참이다.md"
+                "file": "숙제/3A-145-148.md"
               }
             }
           },
@@ -159,6 +159,7 @@
   },
   "active": "c28fe4ff709f6dda",
   "lastOpenFiles": [
+    "문법/-(으)려던 참이다.md",
     "숙제/3A-145-148.md",
     "숙제/3A-142-144 fixed.md",
     "문법/Counters.md",
@@ -184,7 +185,6 @@
     "단어/것들___sort later.md",
     "templates/문법.md",
     "templates/단어.md",
-    "문법/-기 때문에.md",
     "logseq/bak/문법/-(으)려던 참이다",
     "logseq/bak/문법",
     "logseq/bak",
