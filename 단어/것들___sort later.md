@@ -2,9 +2,14 @@
 ## 으쓱거리가 #card
 ?
 ### 뜻
--
+- perk up one's shoulders
+- be conceited
+- be vain
 ### 예
--
+- 그는 내 질문에 대답은 않고 어깨를 으쓱거렸을 뿐이다
+	- He just shrugged his shoulders without answering my question
+- 톰은 자기 반에서 머리가 가장 좋다고 으쓱거리고 있다
+	- Tom flatters himself that he is the most intelligent boy in his class
 
 
 ## 그럭저럭 #card
