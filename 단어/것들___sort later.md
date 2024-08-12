@@ -121,7 +121,7 @@
 ### 예
 - 일이 좀 잘된다고 마음을 놓아서는 안 된다
 	- Don't relax your attention because of a small success or two.
-<!--SR:!2024-08-12,13,290-->
+<!--SR:!2024-10-01,50,310-->
 
 ## 엉망 #card
 ?
