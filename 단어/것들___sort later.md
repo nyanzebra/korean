@@ -4,9 +4,12 @@
 ?
 ### 뜻
 - tight
-- 
+- close
+- full to the brim
 ### 예
--
+- 나는 가슴이 뿌듯해 아무 말도 못했다
+	- I could say nothing because there was a lump blocking my throat./My heart was too full for words.
+- 
 
 
 ## 으쓱거리가 #card
