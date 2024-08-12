@@ -122,7 +122,7 @@
 	- She worries about little things.
 - 너무 마음을 쓰지 마라
 	- Don't worry too much about it./Take it easy.
-<!--SR:!2024-08-09,2,248-->
+<!--SR:!2024-08-17,5,248-->
 
 ## 무사하다 #card
 ?
