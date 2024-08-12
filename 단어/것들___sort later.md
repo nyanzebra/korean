@@ -9,7 +9,10 @@
 ### 예
 - 나는 가슴이 뿌듯해 아무 말도 못했다
 	- I could say nothing because there was a lump blocking my throat./My heart was too full for words.
-- 
+- 나는 가슴이 뿌듯했다
+	- It was a proud moment for me.
+- 뿌듯하게 맞다
+	- fit tightly/suit to a T.
 
 
 ## 으쓱거리가 #card
