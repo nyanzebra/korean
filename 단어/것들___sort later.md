@@ -95,7 +95,7 @@
 	- determination to study
 - 단단히 마음먹고 내가 다시 한번 해보겠다
 	- I will give it just one more determined try.
-<!--SR:!2024-08-08,2,248-->
+<!--SR:!2024-08-19,7,268-->
 
 ## 마음을 맞다 #card
 ?
