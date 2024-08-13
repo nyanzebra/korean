@@ -31,7 +31,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "숙제/3B/18-19.md",
+                "file": "단어/세상/날씨.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "숙제/3B/18-19.md",
+                "file": "단어/세상/날씨.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "숙제/3B/18-19.md"
+                "file": "단어/세상/날씨.md"
               }
             }
           },
@@ -169,10 +170,10 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "c28fe4ff709f6dda",
+  "active": "fbeb9dbb18e2f70f",
   "lastOpenFiles": [
-    "단어/세상/날씨.md",
     "숙제/3B/18-19.md",
+    "단어/세상/날씨.md",
     "숙제/3A/3A-110.md",
     "단어/세상/식물.md",
     "단어/Index.md",
