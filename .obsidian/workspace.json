@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "단어/세상/날씨.md",
+                "file": "단어/생활/여행지.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "단어/세상/날씨.md",
+                "file": "단어/생활/여행지.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "단어/세상/날씨.md",
+                "file": "단어/생활/여행지.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "단어/세상/날씨.md"
+                "file": "단어/생활/여행지.md"
               }
             }
           },
@@ -172,8 +172,8 @@
   },
   "active": "fbeb9dbb18e2f70f",
   "lastOpenFiles": [
-    "숙제/3B/18-19.md",
     "단어/세상/날씨.md",
+    "숙제/3B/18-19.md",
     "숙제/3A/3A-110.md",
     "단어/세상/식물.md",
     "단어/Index.md",
