@@ -10,29 +10,59 @@
           {
             "id": "c28fe4ff709f6dda",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
                 "file": "숙제/3B/18-19.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "pinned": true
             }
           },
           {
             "id": "fbeb9dbb18e2f70f",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
                 "file": "단어/생활/여행지.md",
                 "mode": "source",
                 "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "6aa4df37085ca0a0",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "단어/세상/날씨.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "4be6f2e7d7bbf761",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "단어/장소/자연.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "단어/생활/여행지.md",
+                "file": "단어/세상/날씨.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "단어/생활/여행지.md",
+                "file": "단어/세상/날씨.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "단어/생활/여행지.md"
+                "file": "단어/세상/날씨.md"
               }
             }
           },
@@ -170,8 +200,10 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "fbeb9dbb18e2f70f",
+  "active": "6aa4df37085ca0a0",
   "lastOpenFiles": [
+    "단어/장소/자연.md",
+    "단어/생활/여행지.md",
     "단어/세상/날씨.md",
     "숙제/3B/18-19.md",
     "숙제/3A/3A-110.md",
@@ -198,8 +230,6 @@
     "숙제/3A/3A-142-144.md",
     "수업/2024_08_02.md",
     "숙제/3A/3A-136-138.md",
-    "단어/시간.md",
-    "단어/생활/분리수거.md",
     "logseq/bak/숙제/3A-134-136",
     "logseq/bak/숙제/3A-120-123",
     "logseq/bak/숙제",
