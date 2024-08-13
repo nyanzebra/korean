@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "숙제/3B/18-19.md",
+                "file": "단어/Index.md",
                 "mode": "source",
                 "source": false
               }
@@ -61,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#card",
+                "query": "날씨",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -78,7 +78,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -98,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "숙제/3B/18-19.md",
+                "file": "단어/Index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "숙제/3B/18-19.md",
+                "file": "단어/Index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "숙제/3B/18-19.md"
+                "file": "단어/Index.md"
               }
             }
           },
@@ -170,11 +171,11 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "37e35dfd44d8e634",
+  "active": "fbeb9dbb18e2f70f",
   "lastOpenFiles": [
+    "숙제/3B/18-19.md",
     "숙제/3B",
     "숙제/Index.md",
-    "숙제/3B/18-19.md",
     "숙제/3A/3A-145-148.md",
     "숙제/3A/3A-110.md",
     "문법/에도 불구하고.md",
@@ -206,7 +207,6 @@
     "logseq/bak/수업",
     "logseq/bak/사자성어/ㄴ",
     "logseq/bak/사자성어/ㄱ",
-    "logseq/bak/사자성어/Index",
-    "logseq/bak/사자성어"
+    "logseq/bak/사자성어/Index"
   ]
 }
