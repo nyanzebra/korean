@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "숙제/3A/3A-110.md",
+                "file": "숙제/3B/18-19.md",
                 "mode": "source",
                 "source": false
               }
@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "단어/세상/날씨.md",
+                "file": "숙제/3B/18-19.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "단어/세상/날씨.md",
+                "file": "숙제/3B/18-19.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "단어/세상/날씨.md"
+                "file": "숙제/3B/18-19.md"
               }
             }
           },
@@ -170,17 +169,17 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "fbeb9dbb18e2f70f",
+  "active": "c28fe4ff709f6dda",
   "lastOpenFiles": [
+    "단어/세상/날씨.md",
+    "숙제/3B/18-19.md",
+    "숙제/3A/3A-110.md",
     "단어/세상/식물.md",
     "단어/Index.md",
     "단어/세상/동물.md",
-    "단어/세상/날씨.md",
-    "숙제/3B/18-19.md",
     "숙제/3B",
     "숙제/Index.md",
     "숙제/3A/3A-145-148.md",
-    "숙제/3A/3A-110.md",
     "문법/에도 불구하고.md",
     "숙제/3A",
     "단어/것들___sort later.md",
