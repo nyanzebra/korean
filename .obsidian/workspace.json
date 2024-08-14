@@ -77,9 +77,11 @@
             "id": "1845f80898a6153c",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.6.7"
+                "file": "Topik/91.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
