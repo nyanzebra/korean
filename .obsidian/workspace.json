@@ -72,9 +72,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "1845f80898a6153c",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.6.7"
+              }
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -212,7 +222,7 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "902992ecf438324f",
+  "active": "1845f80898a6153c",
   "lastOpenFiles": [
     "단어/생활/여행지.md",
     "Topik/91.md",
