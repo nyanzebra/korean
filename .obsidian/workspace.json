@@ -73,8 +73,7 @@
               }
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -140,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Topik/91.md",
+                "file": "숙제/3B/18-19.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,7 +156,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Topik/91.md",
+                "file": "숙제/3B/18-19.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -180,7 +179,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Topik/91.md"
+                "file": "숙제/3B/18-19.md"
               }
             }
           },
@@ -212,10 +211,10 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "37e35dfd44d8e634",
+  "active": "c28fe4ff709f6dda",
   "lastOpenFiles": [
-    "숙제/3B/18-19.md",
     "Topik/91.md",
+    "숙제/3B/18-19.md",
     "단어/생활/여행지.md",
     "Topik",
     "단어/세상/날씨.md",
