@@ -20,3 +20,6 @@ Kyunghee Min (Aug 16, 2024, 17:18)
 응급실
 비상구/비상 식량
 출구/입구/비상구
+
+page 20/21 +3 or more examples
+topik home page practice 5 each day
