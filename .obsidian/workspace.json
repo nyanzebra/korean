@@ -67,7 +67,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "문법/V-라면.md",
+                "file": "문법/라면.md",
                 "mode": "source",
                 "source": false
               }
@@ -140,7 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "문법/V-라면.md",
+                "file": "문법/라면.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,7 +157,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "문법/V-라면.md",
+                "file": "문법/라면.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -180,7 +180,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "문법/V-라면.md"
+                "file": "문법/라면.md"
               }
             }
           },
@@ -215,7 +215,7 @@
   "active": "902992ecf438324f",
   "lastOpenFiles": [
     "문법/를 위하다 & 기(를) 위하다.md",
-    "문법/V-라면.md",
+    "문법/라면.md",
     "문법/Index.md",
     "문법/ㄴ은 지.md",
     "숙제/3B/18-19.md",
