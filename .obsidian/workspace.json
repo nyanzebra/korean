@@ -50,31 +50,21 @@
             }
           },
           {
-            "id": "4be6f2e7d7bbf761",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "단어/장소/자연.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "902992ecf438324f",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
                 "file": "문법/는데.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "pinned": true
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -140,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "문법/는데.md",
+                "file": "단어/세상/날씨.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "문법/는데.md",
+                "file": "단어/세상/날씨.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -180,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "문법/는데.md"
+                "file": "단어/세상/날씨.md"
               }
             }
           },
@@ -212,10 +202,11 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "902992ecf438324f",
+  "active": "6aa4df37085ca0a0",
   "lastOpenFiles": [
-    "문법/더니.md",
+    "단어/장소/자연.md",
     "문법/는데.md",
+    "문법/더니.md",
     "문법/다면, N(이)라면.md",
     "숙제/3a-112-113.md",
     "숙제/3A-145-148.md",
@@ -240,7 +231,6 @@
     "단어/생활/여행지.md",
     "Topik",
     "단어/세상/날씨.md",
-    "단어/장소/자연.md",
     "숙제/3B",
     "숙제/3A",
     "logseq/bak/숙제/3A-134-136",
