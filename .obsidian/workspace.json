@@ -50,21 +50,31 @@
             }
           },
           {
-            "id": "902992ecf438324f",
+            "id": "4be6f2e7d7bbf761",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "문법/는데.md",
+                "file": "단어/장소/자연.md",
                 "mode": "source",
                 "source": false
-              },
-              "pinned": true
+              }
             }
           },
           {
-            "id": "a0e724d750f8826f",
+            "id": "902992ecf438324f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Topik/91.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1845f80898a6153c",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -76,7 +86,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -214,14 +224,9 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "a0e724d750f8826f",
+  "active": "37e35dfd44d8e634",
   "lastOpenFiles": [
-    "단어/세상/날씨.md",
-    "단어/장소/자연.md",
-    "문법/는데.md",
-    "문법/더니.md",
-    "문법/다면, N(이)라면.md",
-    "숙제/3a-112-113.md",
+    "숙제/3A/3a-112-113 1.md",
     "숙제/3A-145-148.md",
     "숙제/3A-142-144.md",
     "숙제/3A-142-144 fixed.md",
@@ -229,20 +234,25 @@
     "숙제/3A-134-136.md",
     "숙제/3A-127-130.md",
     "숙제/3A-124-126.md",
-    "숙제/3A-120-123.md",
-    "숙제/3A-118-119.md",
-    "숙제/3A-110.md",
-    "숙제/3A-105.md",
-    "문법/ㄴ___은 지.md",
-    "단어/동물.md",
+    "숙제/3A/3A-120-123 1.md",
+    "숙제/3A/3A-118-119 1.md",
+    "숙제/3A/3A-110 1.md",
+    "숙제/3A/3A-105 1.md",
     "문법/를 위하다 & 기(를) 위하다.md",
-    "문법/Index.md",
+    "문법/다면, N(이)라면.md",
+    "문법/는데.md",
     "문법/ㄴ은 지.md",
-    "숙제/3B/18-19.md",
-    "수업/Untitled 2.md",
+    "단어/동물.md",
     "Topik/91.md",
+    "수업/Untitled 2.md",
     "단어/생활/여행지.md",
     "Topik",
+    "단어/세상/날씨.md",
+    "단어/장소/자연.md",
+    "숙제/3B/18-19.md",
+    "숙제/3A/3A-110.md",
+    "단어/세상/식물.md",
+    "단어/Index.md",
     "숙제/3B",
     "숙제/3A",
     "logseq/bak/숙제/3A-134-136",
