@@ -79,7 +79,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "수업/Untitled 2.md",
+                "file": "숙제/3B/20-21.md",
                 "mode": "source",
                 "source": false
               }
@@ -152,7 +152,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "수업/Untitled 2.md",
+                "file": "숙제/3B/20-21.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -169,7 +169,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "수업/Untitled 2.md",
+                "file": "숙제/3B/20-21.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -192,7 +192,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "수업/Untitled 2.md"
+                "file": "숙제/3B/20-21.md"
               }
             }
           },
@@ -224,16 +224,18 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "37e35dfd44d8e634",
+  "active": "1845f80898a6153c",
   "lastOpenFiles": [
+    "수업/Untitled 2.md",
+    "숙제/3B/20-21.md",
     "숙제/3A/3a-112-113 1.md",
-    "숙제/3A-145-148.md",
-    "숙제/3A-142-144.md",
-    "숙제/3A-142-144 fixed.md",
-    "숙제/3A-136-138.md",
-    "숙제/3A-134-136.md",
-    "숙제/3A-127-130.md",
-    "숙제/3A-124-126.md",
+    "숙제/3A/3A-145-148 1.md",
+    "숙제/3A/3A-142-144 1.md",
+    "숙제/3A/3A-142-144 fixed 1.md",
+    "숙제/3A/3A-136-138 1.md",
+    "숙제/3A/3A-134-136 1.md",
+    "숙제/3A/3A-127-130 1.md",
+    "숙제/3A/3A-124-126 1.md",
     "숙제/3A/3A-120-123 1.md",
     "숙제/3A/3A-118-119 1.md",
     "숙제/3A/3A-110 1.md",
@@ -244,7 +246,6 @@
     "문법/ㄴ은 지.md",
     "단어/동물.md",
     "Topik/91.md",
-    "수업/Untitled 2.md",
     "단어/생활/여행지.md",
     "Topik",
     "단어/세상/날씨.md",
@@ -252,7 +253,6 @@
     "숙제/3B/18-19.md",
     "숙제/3A/3A-110.md",
     "단어/세상/식물.md",
-    "단어/Index.md",
     "숙제/3B",
     "숙제/3A",
     "logseq/bak/숙제/3A-134-136",
