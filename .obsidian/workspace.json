@@ -79,7 +79,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "숙제/3B/18-19.md",
+                "file": "숙제/3B/20-21.md",
                 "mode": "source",
                 "source": false
               }
@@ -152,7 +152,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "숙제/3B/18-19.md",
+                "file": "숙제/3B/20-21.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -169,7 +169,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "숙제/3B/18-19.md",
+                "file": "숙제/3B/20-21.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -192,7 +192,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "숙제/3B/18-19.md"
+                "file": "숙제/3B/20-21.md"
               }
             }
           },
@@ -226,6 +226,7 @@
   },
   "active": "1845f80898a6153c",
   "lastOpenFiles": [
+    "숙제/3B/18-19.md",
     "숙제/3B/20-21.md",
     "수업/Untitled 2.md",
     "숙제/3A/3a-112-113 1.md",
@@ -250,7 +251,6 @@
     "Topik",
     "단어/세상/날씨.md",
     "단어/장소/자연.md",
-    "숙제/3B/18-19.md",
     "숙제/3A/3A-110.md",
     "단어/세상/식물.md",
     "숙제/3B",
