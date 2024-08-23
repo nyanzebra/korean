@@ -115,7 +115,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Joplin/문법/는 둥 마는 둥 하다.md",
+                "file": "Joplin/문법/make & let.md",
                 "mode": "source",
                 "source": false
               }
@@ -188,7 +188,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Joplin/문법/는 둥 마는 둥 하다.md",
+                "file": "Joplin/문법/make & let.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -205,7 +205,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Joplin/문법/는 둥 마는 둥 하다.md",
+                "file": "Joplin/문법/make & let.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -228,7 +228,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Joplin/문법/는 둥 마는 둥 하다.md"
+                "file": "Joplin/문법/make & let.md"
               }
             }
           },
@@ -262,8 +262,9 @@
   },
   "active": "cfc1515882647f36",
   "lastOpenFiles": [
-    "Joplin/문법/치고.md",
     "Joplin/문법/는 둥 마는 둥 하다.md",
+    "Joplin/문법/make & let.md",
+    "Joplin/문법/치고.md",
     "Joplin/단어/날씨.md",
     "Joplin/단어/reactions.md",
     "Joplin/단어/sort later.md",
@@ -290,7 +291,6 @@
     "phrases/hodgepodge/whales.md",
     "phrases/hodgepodge/jobs.md",
     "phrases/hodgepodge/regret.md",
-    "phrases/hodgepodge/control.md",
     "phrases/hodgepodge",
     "Joplin/단어",
     "Conversational Korean/듣기/clue",
