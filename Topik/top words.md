@@ -1,0 +1,1 @@
+https://www.topikguide.com/6000-most-common-korean-words-1/
