@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Joplin/문법/Untitled.md",
+                "file": "Joplin/문법/만으로는.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Joplin/문법/Untitled.md",
+                "file": "Joplin/문법/만으로는.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Joplin/문법/Untitled.md",
+                "file": "Joplin/문법/만으로는.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Joplin/문법/Untitled.md"
+                "file": "Joplin/문법/만으로는.md"
               }
             }
           },
@@ -159,8 +159,9 @@
   },
   "active": "1845f80898a6153c",
   "lastOpenFiles": [
+    "Joplin/문법/자 vs 자마자.md",
+    "Joplin/문법/만으로는.md",
     "Joplin/문법/는지 모르다.md",
-    "Joplin/문법/Untitled.md",
     "Joplin/문법/만하다.md",
     "Joplin/문법/만 못하다.md",
     "Joplin/문법/느라고.md",
@@ -184,7 +185,6 @@
     "Joplin/문법/는 둥 마는 둥 하다.md",
     "Joplin/문법/치고.md",
     "Joplin/단어/날씨.md",
-    "Joplin/단어/reactions.md",
     "Joplin/수업",
     "Joplin/문법",
     "Joplin/sort later",
