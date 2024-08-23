@@ -8,73 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "c28fe4ff709f6dda",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "숙제/3B/18-19.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true
-            }
-          },
-          {
-            "id": "fbeb9dbb18e2f70f",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "단어/생활/여행지.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true
-            }
-          },
-          {
-            "id": "6aa4df37085ca0a0",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "단어/세상/날씨.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true
-            }
-          },
-          {
-            "id": "4be6f2e7d7bbf761",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "단어/장소/자연.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "1845f80898a6153c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "문법/Every X & Some X.md",
+                "file": "Joplin/문법/느라고.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -140,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "단어/장소/자연.md",
+                "file": "Joplin/문법/느라고.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "단어/장소/자연.md",
+                "file": "Joplin/문법/느라고.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -180,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "단어/장소/자연.md"
+                "file": "Joplin/문법/느라고.md"
               }
             }
           },
@@ -212,10 +157,15 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "4be6f2e7d7bbf761",
+  "active": "1845f80898a6153c",
   "lastOpenFiles": [
-    "Topik/91.md",
     "문법/Every X & Some X.md",
+    "Joplin/문법/느라고.md",
+    "숙제/3B/18-19.md",
+    "단어/생활/여행지.md",
+    "단어/세상/날씨.md",
+    "단어/장소/자연.md",
+    "Topik/91.md",
     "Conversational Korean/단어/116.md",
     "문법/은___는 편이다.md",
     "Joplin/문법/편이다.md",
@@ -235,11 +185,6 @@
     "Joplin/단어/helping words.md",
     "Joplin/단어/성격.md",
     "Joplin/단어/입.md",
-    "Joplin/단어/화장실.md",
-    "Joplin/단어/검색.md",
-    "Joplin/단어/전공 & 학교.md",
-    "Joplin/단어/건강.md",
-    "Joplin/단어/장소.md",
     "Joplin/수업",
     "Joplin/문법",
     "Joplin/sort later",
