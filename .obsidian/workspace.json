@@ -79,7 +79,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Joplin/Untitled.md",
+                "file": "Joplin/음식 & 식사.md",
                 "mode": "source",
                 "source": false
               }
@@ -152,7 +152,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Joplin/Untitled.md",
+                "file": "Joplin/음식 & 식사.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -169,7 +169,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Joplin/Untitled.md",
+                "file": "Joplin/음식 & 식사.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -192,7 +192,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Joplin/Untitled.md"
+                "file": "Joplin/음식 & 식사.md"
               }
             }
           },
@@ -226,8 +226,10 @@
   },
   "active": "1845f80898a6153c",
   "lastOpenFiles": [
+    "Joplin/전화.md",
+    "Joplin/음식 & 식사.md",
+    "Joplin/교통.md",
     "Joplin/맛.md",
-    "Joplin/Untitled.md",
     "Joplin/집 & 이웃.md",
     "Joplin/일.md",
     "Joplin/여행지.md",
@@ -251,8 +253,6 @@
     "숙제/3A/3A-118-119 1.md",
     "숙제/3A/3A-110 1.md",
     "숙제/3A/3A-105 1.md",
-    "문법/를 위하다 & 기(를) 위하다.md",
-    "문법/다면, N(이)라면.md",
     "Topik",
     "숙제/3B",
     "숙제/3A",
