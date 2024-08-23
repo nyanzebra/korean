@@ -91,14 +91,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Conversational Korean/131.md",
+                "file": "Conversational Korean/단어/116.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "dea832c457c7803e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Conversational Korean/단어/133.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "cfc1515882647f36",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Conversational Korean/단어/131.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -164,7 +188,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Conversational Korean/131.md",
+                "file": "Conversational Korean/단어/131.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -181,7 +205,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Conversational Korean/131.md",
+                "file": "Conversational Korean/단어/131.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -204,7 +228,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Conversational Korean/131.md"
+                "file": "Conversational Korean/단어/131.md"
               }
             }
           },
@@ -238,14 +262,15 @@
   },
   "active": "37e35dfd44d8e634",
   "lastOpenFiles": [
-    "Conversational Korean/Untitled",
-    "Conversational Korean/133.md",
-    "Conversational Korean/131.md",
-    "Conversational Korean/125.md",
-    "Conversational Korean/127.md",
-    "Conversational Korean/118.md",
-    "Conversational Korean/117.md",
-    "Conversational Korean/116.md",
+    "Conversational Korean/단어/133.md",
+    "Conversational Korean/단어/116.md",
+    "Conversational Korean/단어/131.md",
+    "Conversational Korean/단어",
+    "Conversational Korean/듣기1",
+    "Conversational Korean/단어/125.md",
+    "Conversational Korean/단어/127.md",
+    "Conversational Korean/단어/118.md",
+    "Conversational Korean/단어/117.md",
     "문법/Every X & Some X.md",
     "Conversational Korean",
     "Joplin/음식 & 식사.md",
@@ -271,8 +296,6 @@
     "숙제/3A",
     "logseq/bak/숙제/3A-134-136",
     "logseq/bak/숙제/3A-120-123",
-    "logseq/bak/숙제",
-    "logseq/bak/수업/2024_05_31",
-    "logseq/bak/수업"
+    "logseq/bak/숙제"
   ]
 }
