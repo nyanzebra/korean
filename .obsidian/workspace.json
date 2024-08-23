@@ -115,7 +115,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Joplin/sort later/6.md",
+                "file": "Joplin/단어/Untitled.md",
                 "mode": "source",
                 "source": false
               }
@@ -188,7 +188,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Joplin/sort later/6.md",
+                "file": "Joplin/단어/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -205,7 +205,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Joplin/sort later/6.md",
+                "file": "Joplin/단어/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -228,7 +228,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Joplin/sort later/6.md"
+                "file": "Joplin/단어/Untitled.md"
               }
             }
           },
@@ -260,16 +260,18 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "37e35dfd44d8e634",
+  "active": "cfc1515882647f36",
   "lastOpenFiles": [
-    "Joplin/sort later/수업",
+    "Joplin/단어/장소.md",
+    "Joplin/단어/Untitled.md",
+    "Joplin/sort later/6.md",
+    "Joplin/수업",
     "Joplin/문법",
     "Joplin/sort later/5.md",
     "Joplin/sort later/4.md",
     "Joplin/sort later/3.md",
     "Joplin/sort later/2.md",
     "Joplin/sort later/1.md",
-    "Joplin/sort later/6.md",
     "phrases/hodgepodge/productivity.md",
     "Joplin/sort later",
     "phrases/hodgepodge/satisfaction.md",
@@ -293,10 +295,8 @@
     "Conversational Korean/듣기/clue",
     "Conversational Korean/듣기/skit",
     "Conversational Korean/단어/128.md",
-    "Conversational Korean/단어/131.md",
     "Conversational Korean/단어",
     "Conversational Korean/듣기",
-    "Conversational Korean",
-    "Joplin"
+    "Conversational Korean"
   ]
 }
