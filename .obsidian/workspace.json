@@ -79,7 +79,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Joplin/일.md",
+                "file": "Joplin/Untitled.md",
                 "mode": "source",
                 "source": false
               }
@@ -152,7 +152,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Joplin/일.md",
+                "file": "Joplin/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -169,7 +169,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Joplin/일.md",
+                "file": "Joplin/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -192,7 +192,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Joplin/일.md"
+                "file": "Joplin/Untitled.md"
               }
             }
           },
@@ -226,8 +226,11 @@
   },
   "active": "1845f80898a6153c",
   "lastOpenFiles": [
-    "Joplin/여행지.md",
+    "Joplin/맛.md",
+    "Joplin/Untitled.md",
+    "Joplin/집 & 이웃.md",
     "Joplin/일.md",
+    "Joplin/여행지.md",
     "문법/ㄴ은 지 (time).md",
     "Joplin",
     "문법/ㄴ___은 지.md",
@@ -250,9 +253,6 @@
     "숙제/3A/3A-105 1.md",
     "문법/를 위하다 & 기(를) 위하다.md",
     "문법/다면, N(이)라면.md",
-    "문법/는데.md",
-    "단어/동물.md",
-    "Topik/91.md",
     "Topik",
     "숙제/3B",
     "숙제/3A",
