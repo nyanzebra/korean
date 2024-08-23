@@ -115,7 +115,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Conversational Korean/단어/131.md",
+                "file": "Conversational Korean/단어/126.md",
                 "mode": "source",
                 "source": false
               }
@@ -188,7 +188,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Conversational Korean/단어/131.md",
+                "file": "Conversational Korean/단어/126.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -205,7 +205,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Conversational Korean/단어/131.md",
+                "file": "Conversational Korean/단어/126.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -228,7 +228,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Conversational Korean/단어/131.md"
+                "file": "Conversational Korean/단어/126.md"
               }
             }
           },
@@ -260,13 +260,15 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "37e35dfd44d8e634",
+  "active": "cfc1515882647f36",
   "lastOpenFiles": [
+    "Conversational Korean/단어/128.md",
+    "Conversational Korean/단어/126.md",
+    "Conversational Korean/단어/131.md",
     "Conversational Korean/단어/133.md",
     "Conversational Korean/단어/116.md",
-    "Conversational Korean/단어/131.md",
     "Conversational Korean/단어",
-    "Conversational Korean/듣기1",
+    "Conversational Korean/듣기",
     "Conversational Korean/단어/125.md",
     "Conversational Korean/단어/127.md",
     "Conversational Korean/단어/118.md",
@@ -290,7 +292,6 @@
     "수업/Untitled 2.md",
     "숙제/3A/3a-112-113 1.md",
     "숙제/3A/3A-145-148 1.md",
-    "숙제/3A/3A-142-144 1.md",
     "Topik",
     "숙제/3B",
     "숙제/3A",
