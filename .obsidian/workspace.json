@@ -8,7 +8,63 @@
         "type": "tabs",
         "children": [
           {
-            "id": "1845f80898a6153c",
+            "id": "fbeb9dbb18e2f70f",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "단어/생활/여행지.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "6aa4df37085ca0a0",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "단어/세상/날씨.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "902992ecf438324f",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "문법/는데.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "a0e724d750f8826f",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "숙제/3B/20-21.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "a595b4e4f58754ea",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -19,7 +75,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -157,43 +214,43 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "1845f80898a6153c",
+  "active": "a595b4e4f58754ea",
   "lastOpenFiles": [
-    "문법/causitive.md",
     "문법/passive.md",
-    "Topik/top words.md",
+    "문법/causitive.md",
+    "문법/Every X & Some X.md",
     "Topik/Grammar Checklist.md",
-    "Joplin/문법/치고.md",
+    "phrases/hodgepodge/whales.md",
+    "phrases/hodgepodge/saving time.md",
+    "phrases/hodgepodge/satisfaction.md",
+    "phrases/hodgepodge/regret.md",
+    "phrases/hodgepodge/productivity.md",
+    "phrases/hodgepodge/mistakes.md",
+    "phrases/hodgepodge/make others happy.md",
+    "phrases/hodgepodge/jobs.md",
+    "phrases/hodgepodge/control.md",
+    "phrases/hodgepodge/bad conviction.md",
+    "phrases/proverbs.md",
+    "phrases/hodgepodge",
+    "phrases",
+    "Joplin/수업/class/9.md",
+    "Joplin/수업/class/8.md",
+    "Joplin/수업/class/7.md",
+    "Joplin/수업/class/6.md",
+    "Joplin/수업/class/5.md",
+    "Joplin/수업/class/4.md",
+    "Joplin/수업/class/3.md",
+    "Joplin/수업/class/2.md",
     "Joplin/수업/class/18.md",
     "Joplin/수업/class/17.md",
     "Joplin/수업/class/16.md",
-    "Joplin/수업/class/11.md",
-    "Joplin/수업/class/12.md",
-    "Joplin/수업/class/13.md",
-    "Joplin/수업/class/14.md",
-    "Joplin/수업/class/15.md",
-    "Joplin/수업/3A/6.md",
-    "Joplin/수업/3A/5.md",
-    "Joplin/수업/3A/4.md",
-    "Joplin/수업/3A/3.md",
-    "Joplin/수업/3A/2.md",
-    "Joplin/수업/3A/1.md",
-    "Joplin/수업/class/10.md",
-    "Joplin/수업/class/9.md",
-    "Joplin/수업/class/1.md",
-    "Joplin/수업/class/2.md",
-    "Joplin/수업/class/3.md",
-    "Joplin/수업/class/4.md",
-    "Joplin/수업/class/5.md",
     "Joplin/수업/class",
     "Joplin/수업/3A",
     "Joplin/수업",
     "Joplin/문법",
-    "Joplin/sort later",
-    "phrases/hodgepodge",
     "Joplin/단어",
-    "Conversational Korean/듣기/clue",
-    "Conversational Korean/듣기/skit",
-    "Conversational Korean/단어"
+    "Joplin/sort later",
+    "Joplin",
+    "Conversational Korean/듣기/skit"
   ]
 }
