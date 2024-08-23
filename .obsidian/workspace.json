@@ -115,7 +115,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "phrases/hodgepodge/satisfaction.md",
+                "file": "phrases/hodgepodge/whales.md",
                 "mode": "source",
                 "source": false
               }
@@ -188,7 +188,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "phrases/hodgepodge/satisfaction.md",
+                "file": "phrases/hodgepodge/whales.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -205,7 +205,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "phrases/hodgepodge/satisfaction.md",
+                "file": "phrases/hodgepodge/whales.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -228,7 +228,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "phrases/hodgepodge/satisfaction.md"
+                "file": "phrases/hodgepodge/whales.md"
               }
             }
           },
@@ -262,8 +262,15 @@
   },
   "active": "cfc1515882647f36",
   "lastOpenFiles": [
-    "phrases/proverbs.md",
+    "phrases/hodgepodge/jobs.md",
+    "phrases/hodgepodge/whales.md",
+    "phrases/hodgepodge/regret.md",
+    "phrases/hodgepodge/control.md",
+    "phrases/hodgepodge/bad conviction.md",
+    "phrases/hodgepodge/saving time.md",
+    "phrases/hodgepodge/make others happy.md",
     "phrases/hodgepodge/satisfaction.md",
+    "phrases/proverbs.md",
     "phrases/hodgepodge",
     "Joplin/단어/교통.md",
     "Conversational Korean/sort later.md",
@@ -288,14 +295,7 @@
     "Conversational Korean",
     "Joplin/단어/음식 & 식사.md",
     "Joplin/단어/전화.md",
-    "Joplin/단어/맛.md",
-    "Joplin/단어/집 & 이웃.md",
-    "Joplin/단어/일.md",
-    "Joplin/단어/여행지.md",
-    "문법/ㄴ은 지 (time).md",
     "Joplin",
-    "문법/ㄴ___은 지.md",
-    "단어/것들___sort later.md",
     "Topik",
     "숙제/3B"
   ]
