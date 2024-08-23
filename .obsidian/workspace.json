@@ -79,7 +79,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Joplin/음식 & 식사.md",
+                "file": "문법/Untitled.md",
                 "mode": "source",
                 "source": false
               }
@@ -152,7 +152,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Joplin/음식 & 식사.md",
+                "file": "문법/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -169,7 +169,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Joplin/음식 & 식사.md",
+                "file": "문법/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -192,7 +192,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Joplin/음식 & 식사.md"
+                "file": "문법/Untitled.md"
               }
             }
           },
@@ -226,8 +226,9 @@
   },
   "active": "1845f80898a6153c",
   "lastOpenFiles": [
-    "Joplin/전화.md",
     "Joplin/음식 & 식사.md",
+    "문법/Untitled.md",
+    "Joplin/전화.md",
     "Joplin/교통.md",
     "Joplin/맛.md",
     "Joplin/집 & 이웃.md",
@@ -252,7 +253,6 @@
     "숙제/3A/3A-120-123 1.md",
     "숙제/3A/3A-118-119 1.md",
     "숙제/3A/3A-110 1.md",
-    "숙제/3A/3A-105 1.md",
     "Topik",
     "숙제/3B",
     "숙제/3A",
