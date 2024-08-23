@@ -103,26 +103,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Conversational Korean/단어/133.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "cfc1515882647f36",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Joplin/문법/편이다.md",
+                "file": "Joplin/문법/다면서.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -188,7 +176,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Joplin/문법/편이다.md",
+                "file": "Joplin/문법/다면서.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -205,7 +193,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Joplin/문법/편이다.md",
+                "file": "Joplin/문법/다면서.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -228,7 +216,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Joplin/문법/편이다.md"
+                "file": "Joplin/문법/다면서.md"
               }
             }
           },
@@ -260,10 +248,13 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "cfc1515882647f36",
+  "active": "37e35dfd44d8e634",
   "lastOpenFiles": [
-    "Joplin/문법/말고.md",
+    "Conversational Korean/단어/133.md",
+    "문법/다면서.md",
+    "Joplin/문법/다면서.md",
     "Joplin/문법/편이다.md",
+    "Joplin/문법/말고.md",
     "Joplin/문법/는 반면에.md",
     "Joplin/문법/한편으로는.md",
     "Joplin/문법/(으)ㄹ지라도.md",
@@ -287,9 +278,6 @@
     "Joplin/sort later/5.md",
     "Joplin/sort later/4.md",
     "Joplin/sort later/3.md",
-    "Joplin/sort later/2.md",
-    "Joplin/sort later/1.md",
-    "phrases/hodgepodge/productivity.md",
     "Joplin/sort later",
     "phrases/hodgepodge",
     "Joplin/단어",
