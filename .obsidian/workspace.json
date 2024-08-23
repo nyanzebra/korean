@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "문법/Untitled.md",
+                "file": "문법/passive.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "문법/Untitled.md",
+                "file": "문법/passive.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "문법/Untitled.md",
+                "file": "문법/passive.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "문법/Untitled.md"
+                "file": "문법/passive.md"
               }
             }
           },
@@ -160,7 +160,7 @@
   "active": "1845f80898a6153c",
   "lastOpenFiles": [
     "Topik/top words.md",
-    "문법/Untitled.md",
+    "문법/passive.md",
     "Topik/Grammar Checklist.md",
     "Joplin/문법/치고.md",
     "Joplin/수업/class/18.md",
