@@ -115,7 +115,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Joplin/단어/성격.md",
+                "file": "Joplin/단어/날씨.md",
                 "mode": "source",
                 "source": false
               }
@@ -188,7 +188,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Joplin/단어/성격.md",
+                "file": "Joplin/단어/날씨.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -205,7 +205,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Joplin/단어/성격.md",
+                "file": "Joplin/단어/날씨.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -228,7 +228,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Joplin/단어/성격.md"
+                "file": "Joplin/단어/날씨.md"
               }
             }
           },
@@ -262,8 +262,12 @@
   },
   "active": "cfc1515882647f36",
   "lastOpenFiles": [
-    "Joplin/단어/입.md",
+    "Joplin/단어/reactions.md",
+    "Joplin/단어/날씨.md",
+    "Joplin/단어/sort later.md",
+    "Joplin/단어/helping words.md",
     "Joplin/단어/성격.md",
+    "Joplin/단어/입.md",
     "Joplin/단어/화장실.md",
     "Joplin/단어/검색.md",
     "Joplin/단어/전공 & 학교.md",
@@ -287,11 +291,7 @@
     "phrases/hodgepodge/control.md",
     "phrases/hodgepodge/bad conviction.md",
     "phrases/hodgepodge/saving time.md",
-    "phrases/hodgepodge/make others happy.md",
-    "phrases/proverbs.md",
     "phrases/hodgepodge",
-    "Joplin/단어/교통.md",
-    "Conversational Korean/sort later.md",
     "Joplin/단어",
     "Conversational Korean/듣기/clue",
     "Conversational Korean/듣기/skit",
