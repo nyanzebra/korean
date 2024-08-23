@@ -115,7 +115,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "proverbs/proverbs.md",
+                "file": "phrases/hodgepodge/satisfaction.md",
                 "mode": "source",
                 "source": false
               }
@@ -188,7 +188,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "proverbs/proverbs.md",
+                "file": "phrases/hodgepodge/satisfaction.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -205,7 +205,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "proverbs/proverbs.md",
+                "file": "phrases/hodgepodge/satisfaction.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -228,7 +228,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "proverbs/proverbs.md"
+                "file": "phrases/hodgepodge/satisfaction.md"
               }
             }
           },
@@ -262,6 +262,9 @@
   },
   "active": "cfc1515882647f36",
   "lastOpenFiles": [
+    "phrases/proverbs.md",
+    "phrases/hodgepodge/satisfaction.md",
+    "phrases/hodgepodge",
     "Joplin/단어/교통.md",
     "Conversational Korean/sort later.md",
     "Joplin/단어",
@@ -293,9 +296,7 @@
     "Joplin",
     "문법/ㄴ___은 지.md",
     "단어/것들___sort later.md",
-    "Topik/11.md",
     "Topik",
-    "숙제/3B",
-    "숙제/3A"
+    "숙제/3B"
   ]
 }
