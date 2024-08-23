@@ -79,7 +79,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "문법/ㄴ은 지 (time).md",
+                "file": "Joplin/일.md",
                 "mode": "source",
                 "source": false
               }
@@ -152,7 +152,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "문법/ㄴ은 지 (time).md",
+                "file": "Joplin/일.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -169,7 +169,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "문법/ㄴ은 지 (time).md",
+                "file": "Joplin/일.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -192,7 +192,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "문법/ㄴ은 지 (time).md"
+                "file": "Joplin/일.md"
               }
             }
           },
@@ -226,8 +226,11 @@
   },
   "active": "1845f80898a6153c",
   "lastOpenFiles": [
-    "문법/ㄴ___은 지.md",
+    "Joplin/여행지.md",
+    "Joplin/일.md",
     "문법/ㄴ은 지 (time).md",
+    "Joplin",
+    "문법/ㄴ___은 지.md",
     "단어/것들___sort later.md",
     "Topik/11.md",
     "숙제/3B/20-21.md",
@@ -250,9 +253,7 @@
     "문법/는데.md",
     "단어/동물.md",
     "Topik/91.md",
-    "단어/생활/여행지.md",
     "Topik",
-    "단어/세상/날씨.md",
     "숙제/3B",
     "숙제/3A",
     "logseq/bak/숙제/3A-134-136",
@@ -260,7 +261,6 @@
     "logseq/bak/숙제",
     "logseq/bak/수업/2024_05_31",
     "logseq/bak/수업",
-    "logseq/bak/사자성어/ㄴ",
-    "logseq/bak/사자성어/ㄱ"
+    "logseq/bak/사자성어/ㄴ"
   ]
 }
