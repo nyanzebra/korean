@@ -1,4 +1,4 @@
-# 피동문 – Passive Sentence](https://funkorean4u.wordpress.com/2015/02/23/grammar-%ed%94%bc%eb%8f%99%eb%ac%b8-passive-sentence/)
+# 피동문 – Passive Sentence
 
 In active voice sentences, subjects ‘do’ some actions while subjects ‘get/receive’ some actions in passive voice sentences.
 
