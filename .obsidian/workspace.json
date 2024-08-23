@@ -115,7 +115,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Joplin/단어/화장실.md",
+                "file": "Joplin/단어/성격.md",
                 "mode": "source",
                 "source": false
               }
@@ -188,7 +188,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Joplin/단어/화장실.md",
+                "file": "Joplin/단어/성격.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -205,7 +205,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Joplin/단어/화장실.md",
+                "file": "Joplin/단어/성격.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -228,7 +228,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Joplin/단어/화장실.md"
+                "file": "Joplin/단어/성격.md"
               }
             }
           },
@@ -262,8 +262,10 @@
   },
   "active": "cfc1515882647f36",
   "lastOpenFiles": [
-    "Joplin/단어/검색.md",
+    "Joplin/단어/입.md",
+    "Joplin/단어/성격.md",
     "Joplin/단어/화장실.md",
+    "Joplin/단어/검색.md",
     "Joplin/단어/전공 & 학교.md",
     "Joplin/단어/건강.md",
     "Joplin/단어/장소.md",
@@ -291,8 +293,6 @@
     "Joplin/단어/교통.md",
     "Conversational Korean/sort later.md",
     "Joplin/단어",
-    "Conversational Korean/듣기/clue/1.md",
-    "Conversational Korean/듣기/skit/1.md",
     "Conversational Korean/듣기/clue",
     "Conversational Korean/듣기/skit",
     "Conversational Korean/단어",
