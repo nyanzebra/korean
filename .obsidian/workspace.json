@@ -115,7 +115,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Joplin/문법/는 반면에.md",
+                "file": "Joplin/문법/편이다.md",
                 "mode": "source",
                 "source": false
               }
@@ -188,7 +188,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Joplin/문법/는 반면에.md",
+                "file": "Joplin/문법/편이다.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -205,7 +205,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Joplin/문법/는 반면에.md",
+                "file": "Joplin/문법/편이다.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -228,7 +228,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Joplin/문법/는 반면에.md"
+                "file": "Joplin/문법/편이다.md"
               }
             }
           },
@@ -262,8 +262,10 @@
   },
   "active": "cfc1515882647f36",
   "lastOpenFiles": [
-    "Joplin/문법/한편으로는.md",
+    "Joplin/문법/말고.md",
+    "Joplin/문법/편이다.md",
     "Joplin/문법/는 반면에.md",
+    "Joplin/문법/한편으로는.md",
     "Joplin/문법/(으)ㄹ지라도.md",
     "Joplin/문법/make & let.md",
     "Joplin/문법/는 둥 마는 둥 하다.md",
@@ -289,8 +291,6 @@
     "Joplin/sort later/1.md",
     "phrases/hodgepodge/productivity.md",
     "Joplin/sort later",
-    "phrases/hodgepodge/satisfaction.md",
-    "phrases/hodgepodge/mistakes.md",
     "phrases/hodgepodge",
     "Joplin/단어",
     "Conversational Korean/듣기/clue",
