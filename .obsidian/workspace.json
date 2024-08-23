@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Joplin/수업/class/9.md",
+                "file": "Joplin/수업/3A/4.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Joplin/수업/class/9.md",
+                "file": "Joplin/수업/3A/4.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Joplin/수업/class/9.md",
+                "file": "Joplin/수업/3A/4.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Joplin/수업/class/9.md"
+                "file": "Joplin/수업/3A/4.md"
               }
             }
           },
@@ -159,15 +159,19 @@
   },
   "active": "1845f80898a6153c",
   "lastOpenFiles": [
+    "Joplin/수업/3A/1.md",
+    "Joplin/수업/3A/4.md",
+    "Joplin/수업/3A/3.md",
+    "Joplin/수업/3A/2.md",
+    "Joplin/수업/class/11.md",
+    "Joplin/수업/class/10.md",
+    "Joplin/수업/class/9.md",
     "Joplin/수업/class/1.md",
     "Joplin/수업/class/2.md",
     "Joplin/수업/class/3.md",
     "Joplin/수업/class/4.md",
     "Joplin/수업/class/5.md",
     "Joplin/수업/class/6.md",
-    "Joplin/수업/class/11.md",
-    "Joplin/수업/class/10.md",
-    "Joplin/수업/class/9.md",
     "Joplin/수업/class/7.md",
     "Joplin/수업/class/8.md",
     "Joplin/문법/(이)라서.md",
@@ -183,10 +187,6 @@
     "Joplin/문법/자 vs 자마자.md",
     "Joplin/문법/는지 모르다.md",
     "Joplin/문법/만하다.md",
-    "Joplin/문법/만 못하다.md",
-    "Joplin/문법/느라고.md",
-    "문법/Every X & Some X.md",
-    "숙제/3B/18-19.md",
     "Joplin/수업",
     "Joplin/문법",
     "Joplin/sort later",
