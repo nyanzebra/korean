@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Joplin/문법/(이)라서.md",
+                "file": "Joplin/수업/class/5.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Joplin/문법/(이)라서.md",
+                "file": "Joplin/수업/class/5.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Joplin/문법/(이)라서.md",
+                "file": "Joplin/수업/class/5.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Joplin/문법/(이)라서.md"
+                "file": "Joplin/수업/class/5.md"
               }
             }
           },
@@ -157,11 +157,17 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "37e35dfd44d8e634",
+  "active": "1845f80898a6153c",
   "lastOpenFiles": [
-    "Joplin/수업/Untitled",
-    "Joplin/문법/바에야.md",
+    "Joplin/수업/class/6.md",
+    "Joplin/수업/class/5.md",
+    "Joplin/수업/class/7.md",
+    "Joplin/수업/class/8.md",
     "Joplin/문법/(이)라서.md",
+    "Joplin/수업/class",
+    "Joplin/수업/class.md",
+    "Joplin/수업/3A",
+    "Joplin/문법/바에야.md",
     "Joplin/문법/도록.md",
     "Joplin/문법/는 척하다.md",
     "Joplin/문법/로서 & 로써 & 로 인하여.md",
@@ -181,10 +187,6 @@
     "Conversational Korean/단어/116.md",
     "문법/은___는 편이다.md",
     "Joplin/문법/편이다.md",
-    "Conversational Korean/단어/133.md",
-    "Joplin/문법/다면서.md",
-    "문법/다면서.md",
-    "Joplin/문법/말고.md",
     "Joplin/수업",
     "Joplin/문법",
     "Joplin/sort later",
@@ -192,8 +194,6 @@
     "Joplin/단어",
     "Conversational Korean/듣기/clue",
     "Conversational Korean/듣기/skit",
-    "Conversational Korean/단어",
-    "Conversational Korean/듣기",
-    "Conversational Korean"
+    "Conversational Korean/단어"
   ]
 }
