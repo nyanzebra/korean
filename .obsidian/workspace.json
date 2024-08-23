@@ -91,7 +91,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Conversational Korean/127.md",
+                "file": "Conversational Korean/131.md",
                 "mode": "source",
                 "source": false
               }
@@ -164,7 +164,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Conversational Korean/127.md",
+                "file": "Conversational Korean/131.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -181,7 +181,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Conversational Korean/127.md",
+                "file": "Conversational Korean/131.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -204,7 +204,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Conversational Korean/127.md"
+                "file": "Conversational Korean/131.md"
               }
             }
           },
@@ -236,10 +236,14 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "51ae634ed0865e3f",
+  "active": "37e35dfd44d8e634",
   "lastOpenFiles": [
-    "Conversational Korean/118.md",
+    "Conversational Korean/Untitled",
+    "Conversational Korean/133.md",
+    "Conversational Korean/131.md",
+    "Conversational Korean/125.md",
     "Conversational Korean/127.md",
+    "Conversational Korean/118.md",
     "Conversational Korean/117.md",
     "Conversational Korean/116.md",
     "문법/Every X & Some X.md",
@@ -262,10 +266,6 @@
     "숙제/3A/3a-112-113 1.md",
     "숙제/3A/3A-145-148 1.md",
     "숙제/3A/3A-142-144 1.md",
-    "숙제/3A/3A-142-144 fixed 1.md",
-    "숙제/3A/3A-136-138 1.md",
-    "숙제/3A/3A-134-136 1.md",
-    "숙제/3A/3A-127-130 1.md",
     "Topik",
     "숙제/3B",
     "숙제/3A",
