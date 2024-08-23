@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Joplin/문법/Untitled.md",
+                "file": "Joplin/문법/(이)라서.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Joplin/문법/Untitled.md",
+                "file": "Joplin/문법/(이)라서.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Joplin/문법/Untitled.md",
+                "file": "Joplin/문법/(이)라서.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Joplin/문법/Untitled.md"
+                "file": "Joplin/문법/(이)라서.md"
               }
             }
           },
@@ -157,10 +157,11 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "1845f80898a6153c",
+  "active": "37e35dfd44d8e634",
   "lastOpenFiles": [
+    "Joplin/수업/Untitled",
     "Joplin/문법/바에야.md",
-    "Joplin/문법/Untitled.md",
+    "Joplin/문법/(이)라서.md",
     "Joplin/문법/도록.md",
     "Joplin/문법/는 척하다.md",
     "Joplin/문법/로서 & 로써 & 로 인하여.md",
@@ -184,7 +185,6 @@
     "Joplin/문법/다면서.md",
     "문법/다면서.md",
     "Joplin/문법/말고.md",
-    "Joplin/문법/는 반면에.md",
     "Joplin/수업",
     "Joplin/문법",
     "Joplin/sort later",
