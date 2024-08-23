@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Joplin/문법/느라고.md",
+                "file": "Joplin/문법/만하다.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Joplin/문법/느라고.md",
+                "file": "Joplin/문법/만하다.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Joplin/문법/느라고.md",
+                "file": "Joplin/문법/만하다.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Joplin/문법/느라고.md"
+                "file": "Joplin/문법/만하다.md"
               }
             }
           },
@@ -159,8 +159,10 @@
   },
   "active": "1845f80898a6153c",
   "lastOpenFiles": [
-    "문법/Every X & Some X.md",
+    "Joplin/문법/만 못하다.md",
+    "Joplin/문법/만하다.md",
     "Joplin/문법/느라고.md",
+    "문법/Every X & Some X.md",
     "숙제/3B/18-19.md",
     "단어/생활/여행지.md",
     "단어/세상/날씨.md",
@@ -183,8 +185,6 @@
     "Joplin/단어/reactions.md",
     "Joplin/단어/sort later.md",
     "Joplin/단어/helping words.md",
-    "Joplin/단어/성격.md",
-    "Joplin/단어/입.md",
     "Joplin/수업",
     "Joplin/문법",
     "Joplin/sort later",
