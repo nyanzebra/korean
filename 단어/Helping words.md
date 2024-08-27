@@ -12,6 +12,8 @@
 	- Respect for human life should have[take] priority[precedence] over all other things./The highest priority should be given to human life.
 - 우선은 여기에 체류하기로 한다
 	- We will stay here for the time being.
+- 우선 순위 순위를 매기다
+	- prioritize.
 
 ## 단어 #card
 ?
