@@ -16,7 +16,7 @@
 - 그러나 해외 구직에 성공한 사람은 불과 542명으로 해외 구인 수요의 불과 20%를 약간 상회하는 수준에 그쳤다.
 	- However, only 542 of them turned out to be successful in landing a job, covering barely over 20 percent of the whole job openings.
 
-## 단어 #card
+## 마치다 #card
 ?
 ### 뜻
 -
