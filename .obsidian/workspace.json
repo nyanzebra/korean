@@ -69,7 +69,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "단어/장소/화장실.md",
+                "file": "Joplin/단어/장소.md",
                 "mode": "source",
                 "source": false
               }
@@ -142,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "단어/장소/화장실.md",
+                "file": "Joplin/단어/장소.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "단어/장소/화장실.md",
+                "file": "Joplin/단어/장소.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "단어/장소/화장실.md"
+                "file": "Joplin/단어/장소.md"
               }
             }
           },
@@ -253,8 +253,8 @@
   },
   "active": "bfa779558cf79fec",
   "lastOpenFiles": [
-    "Joplin/단어/화장실.md",
     "단어/장소/화장실.md",
+    "Joplin/단어/화장실.md",
     "단어/상태/start, maintain, end.md",
     "단어/상태/Untitled.md",
     "단어/세상/날씨.md",
