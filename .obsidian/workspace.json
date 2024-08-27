@@ -130,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Joplin/단어/날씨.md",
+                "file": "단어/세상/날씨.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Joplin/단어/날씨.md",
+                "file": "단어/세상/날씨.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Joplin/단어/날씨.md"
+                "file": "단어/세상/날씨.md"
               }
             }
           },
@@ -239,10 +239,10 @@
       }
     ]
   },
-  "active": "a595b4e4f58754ea",
+  "active": "6aa4df37085ca0a0",
   "lastOpenFiles": [
-    "단어/세상/날씨.md",
     "Joplin/단어/날씨.md",
+    "단어/세상/날씨.md",
     "Joplin/단어/helping words.md",
     "Joplin/sort later/1.md",
     "Topik/11.md",
