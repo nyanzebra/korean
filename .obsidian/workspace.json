@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Topik/11.md",
+                "file": "Joplin/단어/helping words.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Topik/11.md",
+                "file": "Joplin/단어/helping words.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Topik/11.md",
+                "file": "Joplin/단어/helping words.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Topik/11.md"
+                "file": "Joplin/단어/helping words.md"
               }
             }
           },
@@ -159,9 +159,9 @@
   },
   "active": "1845f80898a6153c",
   "lastOpenFiles": [
+    "Topik/11.md",
     "수업/2024 08 23.md",
     "문법/에 의하다.md",
-    "Topik/11.md",
     "문법/causitive.md",
     "문법/passive.md",
     "Topik/top words.md",
