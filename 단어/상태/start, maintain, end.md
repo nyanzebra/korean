@@ -25,4 +25,4 @@
 - end
 ### 예
 - 먼저 쓰다만 편지를 마치게 해주시오
-	- 
+	- Let me first finish the letter I have been writing.
