@@ -8,6 +8,8 @@
 ### 예
 - 우선 사건의 원인부터 조사해 봅시다
 	- In the first place[First of all/To begin with], let's investigate the cause of the accident.
+- 인명 존중은 무엇보다도 우선되어야 한다
+	- Respect for human life should have[take] priority[precedence] over all other things./The highest priority should be given to human life.
 - 
 
 ## 단어 #card
