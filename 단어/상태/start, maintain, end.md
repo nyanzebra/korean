@@ -27,4 +27,7 @@
 - 먼저 쓰다만 편지를 마치게 해주시오
 	- Let me first finish the letter I have been writing.
 - 이상으로 오늘 모임을 마칩니다
-	- 
+	- That concludes today's meeting./That's all for today's meeting.
+- 그는 고등학교를 마치자 바로 대학에 들어갔다
+	- He entered college directly after finishing high school.
+
