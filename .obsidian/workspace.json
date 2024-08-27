@@ -69,14 +69,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Joplin/단어/helping words.md",
+                "file": "Joplin/단어/날씨.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -142,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Joplin/단어/helping words.md",
+                "file": "단어/세상/날씨.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Joplin/단어/helping words.md",
+                "file": "단어/세상/날씨.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Joplin/단어/helping words.md"
+                "file": "단어/세상/날씨.md"
               }
             }
           },
@@ -214,8 +214,10 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "a595b4e4f58754ea",
+  "active": "6aa4df37085ca0a0",
   "lastOpenFiles": [
+    "Joplin/단어/날씨.md",
+    "Joplin/단어/helping words.md",
     "Joplin/sort later/1.md",
     "Topik/11.md",
     "수업/2024 08 23.md",
@@ -242,8 +244,6 @@
     "Joplin/수업/class/6.md",
     "Joplin/수업/class/5.md",
     "Joplin/수업/class/4.md",
-    "Joplin/수업/class/3.md",
-    "Joplin/수업/class/2.md",
     "Joplin/수업/class",
     "Joplin/수업/3A",
     "Joplin/수업",
