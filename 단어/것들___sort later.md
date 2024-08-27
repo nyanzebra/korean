@@ -25,7 +25,9 @@
 - 등급을 매기다
 	- decide a grade
 - 우선 순위 순위를 매기다
-	- decide on prio
+	- decide on priority ranked things
+- 날짜를 매기다
+	- decide on a date
 
 ## 으쓱거리가 #card
 ?
