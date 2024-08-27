@@ -13,7 +13,7 @@
 - 우선은 여기에 체류하기로 한다
 	- We will stay here for the time being.
 - 그래서 그 목록을 천천히 보고 우선 순위를 매겼습니다.
-	- prioritize.
+	- So what I did was, I went through and I prioritized that list.
 
 ## 단어 #card
 ?
