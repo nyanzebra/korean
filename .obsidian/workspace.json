@@ -69,7 +69,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "단어/Untitled.md",
+                "file": "단어/Helping words.md",
                 "mode": "source",
                 "source": false
               }
@@ -142,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "단어/Untitled.md",
+                "file": "단어/Helping words.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "단어/Untitled.md",
+                "file": "단어/Helping words.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "단어/Untitled.md"
+                "file": "단어/Helping words.md"
               }
             }
           },
@@ -285,7 +285,7 @@
   "active": "bfa779558cf79fec",
   "lastOpenFiles": [
     "단어/것들___sort later.md",
-    "단어/Untitled.md",
+    "단어/Helping words.md",
     "Joplin/단어/helping words.md",
     "Joplin/단어/날씨.md",
     "단어/장소/세탁소.md",
