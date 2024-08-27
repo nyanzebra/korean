@@ -19,6 +19,10 @@
 ## 마치다 #card
 ?
 ### 뜻
--
+- get through
+- finish
+- after
+- end
 ### 예
--
+- 먼저 쓰다만 편지를 마치게 해주시오
+	- 
