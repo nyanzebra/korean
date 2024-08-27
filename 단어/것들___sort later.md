@@ -13,6 +13,14 @@
 - 뿌듯하게 맞다
 	- fit tightly/suit to a T.
 
+## 매기다 #card
+?
+### 뜻
+- decide, 
+- set
+- put
+### 예
+-
 
 ## 으쓱거리가 #card
 ?
