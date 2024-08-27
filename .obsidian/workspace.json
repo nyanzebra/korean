@@ -69,7 +69,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "단어/상태/Untitled.md",
+                "file": "단어/상태/start, maintain, end.md",
                 "mode": "source",
                 "source": false
               }
@@ -142,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "단어/상태/Untitled.md",
+                "file": "단어/상태/start, maintain, end.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "단어/상태/Untitled.md",
+                "file": "단어/상태/start, maintain, end.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "단어/상태/Untitled.md"
+                "file": "단어/상태/start, maintain, end.md"
               }
             }
           },
@@ -253,8 +253,8 @@
   },
   "active": "bfa779558cf79fec",
   "lastOpenFiles": [
-    "단어/상태/start, maintain, end.md",
     "단어/상태/Untitled.md",
+    "단어/상태/start, maintain, end.md",
     "단어/세상/날씨.md",
     "단어/상태",
     "Joplin/단어/날씨.md",
