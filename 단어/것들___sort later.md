@@ -1,6 +1,5 @@
 
-
- ## 뿌듯하다 #card
+## 뿌듯하다 #card
 ?
 ### 뜻
 - tight
@@ -14,6 +13,21 @@
 - 뿌듯하게 맞다
 	- fit tightly/suit to a T.
 
+## 매기다 #card
+?
+### 뜻
+- decide, different from (결)정하다 in that it is only for rankings
+- set
+- put
+### 예
+- 가격을 매기다
+	- decide on a price
+- 등급을 매기다
+	- decide a grade
+- 우선 순위 순위를 매기다
+	- decide on priority ranked things
+- 날짜를 매기다
+	- decide on a date
 
 ## 으쓱거리가 #card
 ?
@@ -282,3 +296,4 @@
   - Pets make excellent companions and can be a welcome addition to any family.
 <!--SR:!2024-08-08,1,208-->
 
+불다 blow 부르다 call 버리다 toss/completely 벌다 earn
