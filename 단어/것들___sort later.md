@@ -16,11 +16,16 @@
 ## 매기다 #card
 ?
 ### 뜻
-- decide, 
+- decide, different from (결)정하다 in that it is only for rankings
 - set
 - put
 ### 예
--
+- 가격을 매기다
+	- decide on a price
+- 등급을 매기다
+	- decide a grade
+- 우선 순위 순위를 매기다
+	- decide on prio
 
 ## 으쓱거리가 #card
 ?
