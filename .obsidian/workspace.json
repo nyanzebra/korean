@@ -62,9 +62,21 @@
               },
               "pinned": true
             }
+          },
+          {
+            "id": "bfa779558cf79fec",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "단어/상태/Untitled.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -130,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "단어/세상/날씨.md",
+                "file": "단어/상태/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "단어/세상/날씨.md",
+                "file": "단어/상태/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "단어/세상/날씨.md"
+                "file": "단어/상태/Untitled.md"
               }
             }
           },
@@ -239,10 +251,12 @@
       }
     ]
   },
-  "active": "37e35dfd44d8e634",
+  "active": "bfa779558cf79fec",
   "lastOpenFiles": [
-    "Joplin/단어/날씨.md",
     "단어/세상/날씨.md",
+    "단어/상태/Untitled.md",
+    "단어/상태",
+    "Joplin/단어/날씨.md",
     "Joplin/단어/helping words.md",
     "Joplin/sort later/1.md",
     "Topik/11.md",
@@ -268,14 +282,12 @@
     "Joplin/수업/class/8.md",
     "Joplin/수업/class/7.md",
     "Joplin/수업/class/6.md",
-    "Joplin/수업/class/5.md",
     "Joplin/수업/class",
     "Joplin/수업/3A",
     "Joplin/수업",
     "Joplin/문법",
     "Joplin/단어",
     "Joplin/sort later",
-    "Joplin",
-    "Conversational Korean/듣기/skit"
+    "Joplin"
   ]
 }
