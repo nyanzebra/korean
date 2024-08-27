@@ -40,4 +40,7 @@
 ### 예
 - 이 짓을 멈춰야 해, 리드
 	- You've got to put a stop to this.
-- 
+- 지금 대한민국이 경제성장을 멈춘다면 어떻게 될 것인가.
+	- What would happen if economic growth halts in the Republic of Korea now?
+- 그리고 뭐, 고통 또한 사랑스럽죠. 왜냐면 고통이 잠시동안 멈추면 그렇게 좋을 수가 없거든요.
+	- We like our suffering because it's so good when it ceases for a while
