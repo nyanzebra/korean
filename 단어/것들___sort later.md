@@ -281,3 +281,4 @@
   - Pets make excellent companions and can be a welcome addition to any family.
 <!--SR:!2024-08-08,1,208-->
 
+불다 blow 부르다 call 버리다 toss/completely 벌다 earn
