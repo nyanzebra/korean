@@ -31,3 +31,13 @@
 - 그는 고등학교를 마치자 바로 대학에 들어갔다
 	- He entered college directly after finishing high school.
 
+## 멈추다 #card
+?
+### 뜻
+- stop
+- cease
+- halt
+### 예
+- 이 짓을 멈춰야 해, 리드
+	- You've got to put a stop to this.
+- 
