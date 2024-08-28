@@ -1,4 +1,4 @@
-우선 - firstly, to begin with
+
 만약 - if
 마침 - fortunately
 마침내 - finally
