@@ -8,75 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "fbeb9dbb18e2f70f",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "단어/생활/여행지.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true
-            }
-          },
-          {
-            "id": "6aa4df37085ca0a0",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "단어/세상/날씨.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true
-            }
-          },
-          {
-            "id": "902992ecf438324f",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "문법/는데.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true
-            }
-          },
-          {
-            "id": "a0e724d750f8826f",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "숙제/3B/20-21.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true
-            }
-          },
-          {
-            "id": "bfa779558cf79fec",
+            "id": "c895a48e259af19c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "단어/것들___sort later.md",
+                "file": "문법/을까 하다 & 을 볼까 하다.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -142,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "단어/것들___sort later.md",
+                "file": "문법/을까 하다 & 을 볼까 하다.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "단어/것들___sort later.md",
+                "file": "문법/을까 하다 & 을 볼까 하다.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "단어/것들___sort later.md"
+                "file": "문법/을까 하다 & 을 볼까 하다.md"
               }
             }
           },
@@ -282,11 +225,15 @@
       }
     ]
   },
-  "active": "bfa779558cf79fec",
+  "active": "c895a48e259af19c",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "문법/ㄴ은 지 (time).md",
+    "Topik/top words.md",
+    "문법/을까 하다 & 을 볼까 하다.md",
+    "단어/것들___sort later.md",
     "문법/을까 하다 & 을까 해 보다.md",
     "단어/Helping words.md",
-    "단어/것들___sort later.md",
     "Joplin/단어/helping words.md",
     "Joplin/단어/날씨.md",
     "단어/장소/세탁소.md",
@@ -307,10 +254,6 @@
     "phrases/hodgepodge/whales.md",
     "phrases/hodgepodge/saving time.md",
     "phrases/hodgepodge/satisfaction.md",
-    "phrases/hodgepodge/regret.md",
-    "phrases/hodgepodge/productivity.md",
-    "phrases/hodgepodge/mistakes.md",
-    "phrases/hodgepodge/make others happy.md",
     "phrases/hodgepodge",
     "phrases",
     "Joplin/수업/class",
