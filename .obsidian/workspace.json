@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "문법/을까 하다 & 을 볼까 하다.md",
+                "file": "문법/을까 하다 & 을까 보다.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "문법/을까 하다 & 을 볼까 하다.md",
+                "file": "문법/을까 하다 & 을까 보다.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "문법/을까 하다 & 을 볼까 하다.md",
+                "file": "문법/을까 하다 & 을까 보다.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "문법/을까 하다 & 을 볼까 하다.md"
+                "file": "문법/을까 하다 & 을까 보다.md"
               }
             }
           },
@@ -227,9 +227,9 @@
   },
   "active": "c895a48e259af19c",
   "lastOpenFiles": [
-    "문법/을까 하다 & 을 볼까 하다.md",
-    "문법/을까 하다 & 을까 해 보다.md",
     "conflict-files-obsidian-git.md",
+    "문법/을까 하다 & 을까 보다.md",
+    "문법/을까 하다 & 을까 해 보다.md",
     "문법/ㄴ은 지 (time).md",
     "Topik/top words.md",
     "단어/것들___sort later.md",
