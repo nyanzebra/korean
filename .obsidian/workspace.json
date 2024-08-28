@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "1845f80898a6153c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Topik/11.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "72048fdddffc448e",
             "type": "leaf",
             "state": {
@@ -31,8 +19,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
