@@ -57,7 +57,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -123,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "숙제/3B/22-26.md",
+                "file": "문법/간접화범 축약.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "숙제/3B/22-26.md",
+                "file": "문법/간접화범 축약.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +164,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "숙제/3B/22-26.md"
+                "file": "문법/간접화범 축약.md"
               }
             }
           },
@@ -245,10 +246,10 @@
       }
     ]
   },
-  "active": "c895a48e259af19c",
+  "active": "f783635bd939b0cb",
   "lastOpenFiles": [
-    "문법/간접화범 축약.md",
     "숙제/3B/22-26.md",
+    "문법/간접화범 축약.md",
     "숙제/3B/20-21.md",
     "숙제/3B/18-19.md",
     "단어/것들___sort later.md",
