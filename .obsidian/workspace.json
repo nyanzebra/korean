@@ -39,14 +39,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "단어/세상/날씨.md",
+                "file": "단어/것들___sort later.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -112,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "단어/세상/날씨.md",
+                "file": "숙제/3B/22-26.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "단어/세상/날씨.md",
+                "file": "숙제/3B/22-26.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "단어/세상/날씨.md"
+                "file": "숙제/3B/22-26.md"
               }
             }
           },
@@ -234,25 +233,25 @@
       }
     ]
   },
-  "active": "0144b1f23a52ded9",
+  "active": "c895a48e259af19c",
   "lastOpenFiles": [
+    "단어/것들___sort later.md",
+    "단어/세상/날씨.md",
+    "단어/Helping words.md",
     "숙제/3B/22-26.md",
     "Joplin/단어/helping words.md",
-    "단어/Helping words.md",
     "Joplin/단어/장소.md",
     "문법/을까 하다 & 을까 보다.md",
     "conflict-files-obsidian-git.md",
     "문법/을까 하다 & 을까 해 보다.md",
     "문법/ㄴ은 지 (time).md",
     "Topik/top words.md",
-    "단어/것들___sort later.md",
     "Joplin/단어/날씨.md",
     "단어/장소/세탁소.md",
     "단어/장소/화장실.md",
     "Joplin/단어/화장실.md",
     "단어/상태/start, maintain, end.md",
     "단어/상태/Untitled.md",
-    "단어/세상/날씨.md",
     "단어/상태",
     "Joplin/sort later/1.md",
     "Topik/11.md",
