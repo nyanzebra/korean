@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Joplin/단어/helping words.md",
+                "file": "숙제/3B/22-26.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Joplin/단어/helping words.md",
+                "file": "숙제/3B/22-26.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Joplin/단어/helping words.md"
+                "file": "숙제/3B/22-26.md"
               }
             }
           },
@@ -221,11 +221,11 @@
       }
     ]
   },
-  "active": "a595b4e4f58754ea",
+  "active": "c895a48e259af19c",
   "lastOpenFiles": [
+    "Joplin/단어/helping words.md",
     "숙제/3B/22-26.md",
     "단어/Helping words.md",
-    "Joplin/단어/helping words.md",
     "Joplin/단어/장소.md",
     "문법/을까 하다 & 을까 보다.md",
     "conflict-files-obsidian-git.md",
