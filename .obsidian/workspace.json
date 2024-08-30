@@ -8,18 +8,69 @@
         "type": "tabs",
         "children": [
           {
-            "id": "72048fdddffc448e",
+            "id": "c895a48e259af19c",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
                 "file": "숙제/3B/22-26.md",
                 "mode": "source",
                 "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "51dde86fb13e5bed",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "단어/Helping words.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0144b1f23a52ded9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "단어/것들___sort later.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f783635bd939b0cb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "문법/간접화범 축약.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3d488e2f7f201fa8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "문법/falling.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -85,7 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "숙제/3B/22-26.md",
+                "file": "문법/간접화범 축약.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +153,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "숙제/3B/22-26.md",
+                "file": "문법/간접화범 축약.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +176,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "숙제/3B/22-26.md"
+                "file": "문법/간접화범 축약.md"
               }
             }
           },
@@ -157,43 +208,93 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "72048fdddffc448e",
+  "floating": {
+    "id": "b5cdf47e822a6590",
+    "type": "floating",
+    "children": [
+      {
+        "id": "1e10d6205b4ef71e",
+        "type": "window",
+        "children": [
+          {
+            "id": "21a3ddff644d2834",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "1b58f1c8baf53e4c",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Joplin/단어/장소.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "a595b4e4f58754ea",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Joplin/단어/helping words.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              }
+            ],
+            "currentTab": 1
+          }
+        ],
+        "direction": "vertical",
+        "x": 0,
+        "y": 0,
+        "width": 1720,
+        "height": 1392,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "f783635bd939b0cb",
   "lastOpenFiles": [
-    "문법/을까 하다 & 을까 보다.md",
     "숙제/3B/22-26.md",
-    "문법/을까 하다 & 을 볼까 하다.md",
+    "문법/falling.md",
+    "문법/간접화범 축약.md",
+    "숙제/3B/20-21.md",
+    "숙제/3B/18-19.md",
+    "단어/것들___sort later.md",
+    "단어/세상/날씨.md",
+    "단어/Helping words.md",
+    "Joplin/단어/helping words.md",
+    "Joplin/단어/장소.md",
+    "문법/을까 하다 & 을까 보다.md",
     "conflict-files-obsidian-git.md",
-    "단어/장소/화장실.md",
+    "문법/을까 하다 & 을까 해 보다.md",
+    "문법/ㄴ은 지 (time).md",
+    "Topik/top words.md",
+    "Joplin/단어/날씨.md",
     "단어/장소/세탁소.md",
+    "단어/장소/화장실.md",
+    "Joplin/단어/화장실.md",
     "단어/상태/start, maintain, end.md",
     "단어/상태/Untitled.md",
     "단어/상태",
-    "단어/Helping words.md",
+    "Joplin/sort later/1.md",
     "Topik/11.md",
-    "Joplin/단어/helping words.md",
     "수업/2024 08 23.md",
-    "문법/에 의하다.md",
-    "문법/causitive.md",
     "문법/passive.md",
-    "Topik/top words.md",
-    "Topik/Grammar Checklist.md",
-    "Joplin/문법/치고.md",
-    "Joplin/수업/class/18.md",
-    "Joplin/수업/class/17.md",
-    "Joplin/수업/class/16.md",
-    "Joplin/수업/class/11.md",
-    "Joplin/수업/class/12.md",
-    "Joplin/수업/class/13.md",
-    "Joplin/수업/class/14.md",
-    "Joplin/수업/class/15.md",
+    "문법/causitive.md",
+    "phrases/hodgepodge",
+    "phrases",
     "Joplin/수업/class",
     "Joplin/수업/3A",
     "Joplin/수업",
     "Joplin/문법",
-    "Joplin/sort later",
-    "phrases/hodgepodge",
     "Joplin/단어",
-    "Conversational Korean/듣기/clue",
-    "Conversational Korean/듣기/skit"
+    "Joplin/sort later",
+    "Joplin"
   ]
 }
