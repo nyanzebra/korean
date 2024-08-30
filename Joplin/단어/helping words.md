@@ -8,7 +8,7 @@
 안타깝다 - regrettably
 유감스럽다 - unfortunately
 차라리 - rather
-
+이어서 - following
 
 마침내 vs 결국 vs 급기야
 finally, in the end, even (slight negative connotation)

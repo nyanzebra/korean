@@ -136,7 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "문법/간접화범 축약.md",
+                "file": "Joplin/단어/helping words.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,7 +153,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "문법/간접화범 축약.md",
+                "file": "Joplin/단어/helping words.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -176,7 +176,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "문법/간접화범 축약.md"
+                "file": "Joplin/단어/helping words.md"
               }
             }
           },
@@ -258,11 +258,11 @@
       }
     ]
   },
-  "active": "f783635bd939b0cb",
+  "active": "a595b4e4f58754ea",
   "lastOpenFiles": [
+    "문법/간접화범 축약.md",
     "숙제/3B/22-26.md",
     "문법/falling.md",
-    "문법/간접화범 축약.md",
     "숙제/3B/20-21.md",
     "숙제/3B/18-19.md",
     "단어/것들___sort later.md",
