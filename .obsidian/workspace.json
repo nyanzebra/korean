@@ -137,9 +137,17 @@
               "type": "review-queue-list-view",
               "state": {}
             }
+          },
+          {
+            "id": "a8ef2f75a25bba8e",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -158,7 +166,7 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "72048fdddffc448e",
+  "active": "a8ef2f75a25bba8e",
   "lastOpenFiles": [
     "숙제/3B/22-26.md",
     "숙제/3B/22-26 Fixed.md",
