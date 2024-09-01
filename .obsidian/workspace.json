@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "숙제/3B/22-26.md",
+                "file": "숙제/3B/22-26 Fixed.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "b1471ea056cf348b",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "숙제/3B/22-26.md",
+                "file": "숙제/3B/22-26 Fixed.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "숙제/3B/22-26.md",
+                "file": "숙제/3B/22-26 Fixed.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "숙제/3B/22-26.md"
+                "file": "숙제/3B/22-26 Fixed.md"
               }
             }
           },
@@ -159,10 +160,10 @@
   },
   "active": "72048fdddffc448e",
   "lastOpenFiles": [
+    "숙제/3B/22-26.md",
     "숙제/3B/22-26 Fixed.md",
     "문법/을까 하다 & 을까 보다.md",
     "수업/Untitled 3.md",
-    "숙제/3B/22-26.md",
     "문법/을까 하다 & 을 볼까 하다.md",
     "conflict-files-obsidian-git.md",
     "단어/장소/화장실.md",
