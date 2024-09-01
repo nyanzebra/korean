@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "숙제/3B/22-26 Fixed.md",
+                "file": "Joplin/문법/는 반면에.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "날씨",
+                "query": "\"on the other hand\"",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,12 +65,12 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "b1471ea056cf348b",
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "숙제/3B/22-26 Fixed.md",
+                "file": "Joplin/문법/는 반면에.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "숙제/3B/22-26 Fixed.md",
+                "file": "Joplin/문법/는 반면에.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "숙제/3B/22-26 Fixed.md"
+                "file": "Joplin/문법/는 반면에.md"
               }
             }
           },
@@ -166,10 +166,10 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "a8ef2f75a25bba8e",
+  "active": "72048fdddffc448e",
   "lastOpenFiles": [
-    "숙제/3B/22-26.md",
     "숙제/3B/22-26 Fixed.md",
+    "숙제/3B/22-26.md",
     "문법/을까 하다 & 을까 보다.md",
     "수업/Untitled 3.md",
     "문법/을까 하다 & 을 볼까 하다.md",
