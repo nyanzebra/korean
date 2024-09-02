@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "문법/는데.md",
+                "file": "문법/Untitled.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "문법/는데.md",
+                "file": "문법/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "문법/는데.md",
+                "file": "문법/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "문법/는데.md"
+                "file": "문법/Untitled.md"
               }
             }
           },
@@ -167,9 +167,10 @@
   },
   "active": "95094368ccc269a6",
   "lastOpenFiles": [
+    "문법/는데.md",
+    "문법/Untitled.md",
     "phrases/proverbs.md",
     "phrases/사자성어.md",
-    "문법/는데.md",
     "문법/단 말이에요.md",
     "문법/ㄴ 셈이다.md",
     "숙제/3B/22-26 Fixed.md",
@@ -193,7 +194,6 @@
     "문법/passive.md",
     "Topik/top words.md",
     "Topik/Grammar Checklist.md",
-    "Joplin/문법/치고.md",
     "Joplin/수업/class",
     "Joplin/수업/3A",
     "Joplin/수업",
