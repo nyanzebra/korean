@@ -136,7 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Joplin/단어/helping words.md",
+                "file": "문법/간접화범 축약.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,7 +153,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Joplin/단어/helping words.md",
+                "file": "문법/간접화범 축약.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -176,7 +176,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Joplin/단어/helping words.md"
+                "file": "문법/간접화범 축약.md"
               }
             }
           },
@@ -258,8 +258,9 @@
       }
     ]
   },
-  "active": "a595b4e4f58754ea",
+  "active": "f783635bd939b0cb",
   "lastOpenFiles": [
+    "Joplin/단어/helping words.md",
     "수업/Untitled 3.md",
     "문법/간접화범 축약.md",
     "숙제/3B/22-26.md",
@@ -269,7 +270,6 @@
     "단어/것들___sort later.md",
     "단어/세상/날씨.md",
     "단어/Helping words.md",
-    "Joplin/단어/helping words.md",
     "Joplin/단어/장소.md",
     "문법/을까 하다 & 을까 보다.md",
     "conflict-files-obsidian-git.md",
