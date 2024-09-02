@@ -11,6 +11,7 @@ birds of a feather
 - starting is half finishing
 ### 예
 - 시작했다는게 중요하다
-- ㄱ
+- 가장 힘든부분이 시작하는거예요
+- 막상 시작하면 그렇게 어럽지 않아요
 
 
