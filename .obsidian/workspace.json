@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "문법/단 말이에요.md",
+                "file": "문법/는데.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "문법/단 말이에요.md",
+                "file": "문법/는데.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "문법/단 말이에요.md",
+                "file": "문법/는데.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "문법/단 말이에요.md"
+                "file": "문법/는데.md"
               }
             }
           },
@@ -167,8 +167,8 @@
   },
   "active": "95094368ccc269a6",
   "lastOpenFiles": [
-    "문법/ㄴ 셈이다.md",
     "문법/단 말이에요.md",
+    "문법/ㄴ 셈이다.md",
     "숙제/3B/22-26 Fixed.md",
     "Joplin/문법/는 반면에.md",
     "숙제/3B/22-26.md",
