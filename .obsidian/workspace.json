@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "phrases/사자성어.md",
+                "file": "phrases/proverbs.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "phrases/사자성어.md",
+                "file": "phrases/proverbs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "phrases/사자성어.md",
+                "file": "phrases/proverbs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "phrases/사자성어.md"
+                "file": "phrases/proverbs.md"
               }
             }
           },
@@ -167,8 +167,8 @@
   },
   "active": "95094368ccc269a6",
   "lastOpenFiles": [
-    "phrases/proverbs.md",
     "phrases/사자성어.md",
+    "phrases/proverbs.md",
     "문법/는데.md",
     "문법/단 말이에요.md",
     "문법/ㄴ 셈이다.md",
