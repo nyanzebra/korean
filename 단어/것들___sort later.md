@@ -153,12 +153,16 @@
   - I have a premonition[an uneasy feeling] that he will die before long.
 <!--SR:!2024-08-13,1,208-->
 
-## 예감 #card
+## 예감하다 #card
 ?
 ### 뜻
--
+- foreboding
+- premoni
 ### 예
--
+- 죽음을 예감하다
+	- forebode death/have a premonition of death.
+- 이러한 사건은 종종 전쟁을 예감하게 한다
+	- Such incidents often presage war.
 
 ## 불안하다 #card
 ?
