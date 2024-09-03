@@ -24,6 +24,20 @@
           {
             "id": "9afd4538c002aa8e",
             "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "단어/전자 기기.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "c44a4114b9953331",
+            "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
@@ -33,7 +47,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -99,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "단어/추상적인 것/감정.md",
+                "file": "단어/것들___sort later.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "단어/추상적인 것/감정.md",
+                "file": "단어/것들___sort later.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "단어/추상적인 것/감정.md"
+                "file": "단어/것들___sort later.md"
               }
             }
           },
@@ -179,11 +194,12 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "bb8b0d75a10b827b",
+  "active": "c44a4114b9953331",
   "lastOpenFiles": [
+    "단어/전자 기기.md",
     "단어/것들___sort later.md",
-    "단어/상태/Untitled.md",
     "단어/추상적인 것/감정.md",
+    "단어/상태/Untitled.md",
     "단어/추상적인 것/생각___마음.md",
     "단어/Index.md",
     "단어/장소/학교.md",
@@ -207,7 +223,6 @@
     "단어/상태/start, maintain, end.md",
     "단어/상태",
     "단어/Helping words.md",
-    "Topik/11.md",
     "Joplin/수업/class",
     "Joplin/수업/3A",
     "Joplin/수업",

@@ -40,24 +40,6 @@
 - 업적 평가 / 사람 평가
 <!--SR:!2024-08-13,1,210-->
 
-## 전원 #card
-?
-### 뜻
-- power
-- all members
-- turn on
-- rural
-### 예
-- 전원을 끊다
-	- shut off power
-- 전원이 달려들어
-	- with combined efforts
-- 선장을 비롯해서 승무원 전원이 사망했다
-	- the whole crew, including the captain, died
-- 나는 조용한 전원 풍경을 뇌리에 그렸다
-	- I pictured the quiet pastoral scenery in my mind./I imagined the quiet pastoral scene.
-
-
 ## 불문하다 #card
 ?
 ### 뜻
