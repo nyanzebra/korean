@@ -50,7 +50,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "가입",
+                "query": "신처",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -168,7 +168,7 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "95094368ccc269a6",
+  "active": "0a3a0e6033d1b09d",
   "lastOpenFiles": [
     "Joplin/단어/검색.md",
     "단어/장소/학교.md",
