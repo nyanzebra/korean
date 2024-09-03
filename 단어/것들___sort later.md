@@ -29,8 +29,6 @@
 - 날짜를 매기다
 	- decide on a date
 
-
-
 ## 그럭저럭 #card
 ?
 ### 뜻
@@ -66,48 +64,6 @@
 	- Not much has changed, by the way.
 <!--SR:!2024-08-15,3,232-->
 
-## 마음을 단단히 먹다 #card
-?
-### 뜻
-- determined
-- brace oneself
-- be ready
-- hold one's nerves
-### 예
-- 마음을 단단히 먹다
-	- keep up one's spirits/steel one's heart 《against》.
-- 공부 하려고 단단히 마음을 먹고
-	- determination to study
-- 단단히 마음먹고 내가 다시 한번 해보겠다
-	- I will give it just one more determined try.
-<!--SR:!2024-08-19,7,268-->
-
-## 마음을 맞다 #card
-?
-### 뜻
-- get along with
-- suits
-- be like-minded
-### 예
-- 그와는 마음이 맞지 않는다
-	- We just don't get along (with each other).
-- 우리는 마음 맞는 사람들끼리 그룹을 만들었다
-	- We organized a group of congenial people.
-- 마음에 맞는 여자
-	- a woman after one's heart.
-<!--SR:!2024-08-08,2,248-->
-
-## 마음을 쓰다 #card
-?
-### 뜻
-- worry about
-- use one's mind/heart
-### 예
-- 그녀는 세세한 것에 마음을 쓴다
-	- She worries about little things.
-- 너무 마음을 쓰지 마라
-	- Don't worry too much about it./Take it easy.
-<!--SR:!2024-08-17,5,248-->
 
 ## 무사하다 #card
 ?
@@ -128,15 +84,6 @@
 - 무사하지는 못할거야
 	- not gonna make it
 <!--SR:!2024-08-12,7,252-->
-
-## 마음이 놓다 #card
-?
-### 뜻
-- feel relieved
-### 예
-- 일이 좀 잘된다고 마음을 놓아서는 안 된다
-	- Don't relax your attention because of a small success or two.
-<!--SR:!2024-10-01,50,310-->
 
 ## 엉망 #card
 ?
