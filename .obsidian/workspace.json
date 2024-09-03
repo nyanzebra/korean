@@ -36,18 +36,6 @@
             }
           },
           {
-            "id": "c44a4114b9953331",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "단어/추상적인 것/생각___마음.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "fe6d1eeae8cdbe84",
             "type": "leaf",
             "state": {
@@ -58,9 +46,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "ad788a43e34e0719",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "단어/추상적인 것/생각___마음.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -208,10 +208,10 @@
   },
   "active": "fe6d1eeae8cdbe84",
   "lastOpenFiles": [
-    "단어/추상적인 것/생각___마음.md",
-    "단어/것들___sort later.md",
     "단어/전자 기기.md",
+    "단어/추상적인 것/생각___마음.md",
     "단어/추상적인 것/감정.md",
+    "단어/것들___sort later.md",
     "단어/상태/Untitled.md",
     "단어/Index.md",
     "단어/장소/학교.md",
