@@ -153,19 +153,6 @@
   - I have a premonition[an uneasy feeling] that he will die before long.
 <!--SR:!2024-08-13,1,208-->
 
-## 불안하다 #card
-?
-### 뜻
-- unease
-- insecure
-### 예
-- 불안한 기색을 보이다
-	- look uneasy[anxious].
-- 어쩐지 불안하다
-	- I don't know why, but I have an uneasy feeling about it./I feel uneasy without knowing why.
-- 그의 집에는 불안한 공기가 감돌고 있다
-	- There is an air of uneasiness about his house.
-
 ## 후계하다 #card
 ?
 ### 뜻
