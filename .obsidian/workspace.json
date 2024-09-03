@@ -53,7 +53,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "단어/장소/은행.md",
+                "file": "단어/장소/도서관.md",
                 "mode": "source",
                 "source": false
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "단어/장소/은행.md",
+                "file": "단어/장소/도서관.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "단어/장소/은행.md",
+                "file": "단어/장소/도서관.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "단어/장소/은행.md"
+                "file": "단어/장소/도서관.md"
               }
             }
           },
@@ -208,16 +208,16 @@
   },
   "active": "59c3f899496509c7",
   "lastOpenFiles": [
+    "단어/장소/학교.md",
+    "단어/장소/은행.md",
     "단어/전자 기기.md",
     "Joplin/sort later/1.md",
-    "단어/장소/은행.md",
     "단어/장소/도서관.md",
     "단어/상태/개인.md",
     "단어/것들___sort later.md",
     "단어/추상적인 것/감정.md",
     "단어/추상적인 것/생각___마음.md",
     "단어/Index.md",
-    "단어/장소/학교.md",
     "Joplin/단어/검색.md",
     "단어/장소/것.md",
     "문법/다(가) 보니(까), 고 보니, 아 보니(까), 다(가) 보면, 고 보면.md",
