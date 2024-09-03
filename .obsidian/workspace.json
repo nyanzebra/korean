@@ -20,8 +20,21 @@
               },
               "pinned": true
             }
+          },
+          {
+            "id": "bb8b0d75a10b827b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "단어/것들___sort later.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -87,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "단어/장소/학교.md",
+                "file": "단어/것들___sort later.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "단어/장소/학교.md",
+                "file": "단어/것들___sort later.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "단어/장소/학교.md"
+                "file": "단어/것들___sort later.md"
               }
             }
           },
@@ -167,10 +180,10 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "37e35dfd44d8e634",
+  "active": "bb8b0d75a10b827b",
   "lastOpenFiles": [
-    "Joplin/단어/검색.md",
     "단어/장소/학교.md",
+    "Joplin/단어/검색.md",
     "단어/장소/것.md",
     "문법/다(가) 보니(까), 고 보니, 아 보니(까), 다(가) 보면, 고 보면.md",
     "문법/는데.md",
