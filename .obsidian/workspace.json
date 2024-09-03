@@ -36,18 +36,6 @@
             }
           },
           {
-            "id": "fe6d1eeae8cdbe84",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "단어/장소/은행.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "ad788a43e34e0719",
             "type": "leaf",
             "state": {
@@ -58,9 +46,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "59c3f899496509c7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "단어/장소/은행.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -89,7 +89,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "인출",
+                "query": "deposit",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -206,14 +206,15 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "fe6d1eeae8cdbe84",
+  "active": "59c3f899496509c7",
   "lastOpenFiles": [
-    "단어/장소/도서관.md",
+    "단어/전자 기기.md",
+    "Joplin/sort later/1.md",
     "단어/장소/은행.md",
+    "단어/장소/도서관.md",
     "단어/상태/개인.md",
     "단어/것들___sort later.md",
     "단어/추상적인 것/감정.md",
-    "단어/전자 기기.md",
     "단어/추상적인 것/생각___마음.md",
     "단어/Index.md",
     "단어/장소/학교.md",
@@ -233,7 +234,6 @@
     "문법/을까 하다 & 을 볼까 하다.md",
     "conflict-files-obsidian-git.md",
     "단어/장소/화장실.md",
-    "단어/장소/세탁소.md",
     "단어/상태",
     "Joplin/수업/class",
     "Joplin/수업/3A",
