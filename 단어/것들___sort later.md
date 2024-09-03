@@ -29,19 +29,6 @@
 - 날짜를 매기다
 	- decide on a date
 
-## 으쓱거리가 #card
-?
-### 뜻
-- perk up one's shoulders
-- be conceited
-- be vain
-### 예
-- 그는 내 질문에 대답은 않고 어깨를 으쓱거렸을 뿐이다
-	- He just shrugged his shoulders without answering my question
-- 톰은 자기 반에서 머리가 가장 좋다고 으쓱거리고 있다
-	- Tom flatters himself that he is the most intelligent boy in his class
-
-
 ## 그럭저럭 #card
 ?
 ### 뜻
@@ -50,24 +37,6 @@
 - 그럭저럭 지냈어요
 - 업적 평가 / 사람 평가
 <!--SR:!2024-08-13,1,210-->
-
-## 전원 #card
-?
-### 뜻
-- power
-- all members
-- turn on
-- rural
-### 예
-- 전원을 끊다
-	- shut off power
-- 전원이 달려들어
-	- with combined efforts
-- 선장을 비롯해서 승무원 전원이 사망했다
-	- the whole crew, including the captain, died
-- 나는 조용한 전원 풍경을 뇌리에 그렸다
-	- I pictured the quiet pastoral scenery in my mind./I imagined the quiet pastoral scene.
-
 
 ## 불문하다 #card
 ?
@@ -95,48 +64,6 @@
 	- Not much has changed, by the way.
 <!--SR:!2024-08-15,3,232-->
 
-## 마음을 단단히 먹다 #card
-?
-### 뜻
-- determined
-- brace oneself
-- be ready
-- hold one's nerves
-### 예
-- 마음을 단단히 먹다
-	- keep up one's spirits/steel one's heart 《against》.
-- 공부 하려고 단단히 마음을 먹고
-	- determination to study
-- 단단히 마음먹고 내가 다시 한번 해보겠다
-	- I will give it just one more determined try.
-<!--SR:!2024-08-19,7,268-->
-
-## 마음을 맞다 #card
-?
-### 뜻
-- get along with
-- suits
-- be like-minded
-### 예
-- 그와는 마음이 맞지 않는다
-	- We just don't get along (with each other).
-- 우리는 마음 맞는 사람들끼리 그룹을 만들었다
-	- We organized a group of congenial people.
-- 마음에 맞는 여자
-	- a woman after one's heart.
-<!--SR:!2024-08-08,2,248-->
-
-## 마음을 쓰다 #card
-?
-### 뜻
-- worry about
-- use one's mind/heart
-### 예
-- 그녀는 세세한 것에 마음을 쓴다
-	- She worries about little things.
-- 너무 마음을 쓰지 마라
-	- Don't worry too much about it./Take it easy.
-<!--SR:!2024-08-17,5,248-->
 
 ## 무사하다 #card
 ?
@@ -158,15 +85,6 @@
 	- not gonna make it
 <!--SR:!2024-08-12,7,252-->
 
-## 마음이 놓다 #card
-?
-### 뜻
-- feel relieved
-### 예
-- 일이 좀 잘된다고 마음을 놓아서는 안 된다
-	- Don't relax your attention because of a small success or two.
-<!--SR:!2024-10-01,50,310-->
-
 ## 엉망 #card
 ?
 ### 뜻
@@ -182,27 +100,6 @@
 - 그는 말과 하는 짓이 모두 터무니없이 엉망이다
 	- Both his words and his actions are utterly confused.
 <!--SR:!2024-08-15,17,292-->
-
-## 정신 #card
-?
-### 뜻
-- mind
-- spirit
-- mental
-### 예
-- 정신적[육체적] 아픔
-	- mental[physical] pain.
-- 여러 가지 일로 정신이 산만해져서 어느 한 가지에도 집중할 수가 없었다
-	- I was attracted by so many things that I was unable to concentrate[fix my attention] on any one of them.
-- 그녀는 고열로 정신이 혼미 상태였다[헛소리를 하였다]
-	- She was delirious with fever./She uttered meaningless words[talked in delirium] while sick with a high fever.
-- 노는 것에 정신이 팔려 공부하는 것을 잊다
-	- be too much absorbed in play to think of one's study.
-- 정신을 함양하다
-	- train[nourish/cultivate] one's mind.
-- 정신 차리다
-	- collect one's mind, pay attention
-<!--SR:!2024-08-14,2,232-->
 
 ## 차리다 #card
 ?
@@ -255,22 +152,6 @@
 - 그가 곧 죽는 것이나 아닐까 하는 불길한 예감이 든다
   - I have a premonition[an uneasy feeling] that he will die before long.
 <!--SR:!2024-08-13,1,208-->
-
-## 예감 #card
-?
-### 뜻
--
-### 예
--
-
-
-## 불안하다 #card
-?
-### 뜻
--
-### 예
--
-
 
 ## 후계하다 #card
 ?

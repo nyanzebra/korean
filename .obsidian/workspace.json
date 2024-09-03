@@ -58,6 +58,18 @@
             }
           },
           {
+            "id": "2eae331f96535bb4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "3d488e2f7f201fa8",
             "type": "leaf",
             "state": {
@@ -70,7 +82,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -136,7 +148,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "문법/간접화범 축약.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,7 +165,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "문법/간접화범 축약.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -176,7 +188,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "문법/간접화범 축약.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           },
@@ -258,10 +270,17 @@
       }
     ]
   },
-  "active": "f783635bd939b0cb",
+  "active": "2eae331f96535bb4",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
     "문법/간접화범 축약.md",
+    "conflict-files-obsidian-git.md",
+    "문법/단 말이에요.md",
+    "문법/다(가) 보니(까), 고 보니, 아 보니(까), 다(가) 보면, 고 보면.md",
+    "단어/전자 기기.md",
+    "단어/장소/학교.md",
+    "단어/장소/도서관.md",
+    "단어/상태/개인.md",
+    "phrases/사자성어.md",
     "숙제/3B/22-26 Fixed.md",
     "문법/ㄴ 셈이다.md",
     "Joplin/단어/helping words.md",
@@ -279,14 +298,7 @@
     "문법/ㄴ은 지 (time).md",
     "Topik/top words.md",
     "Joplin/단어/날씨.md",
-    "단어/장소/세탁소.md",
-    "단어/장소/화장실.md",
-    "Joplin/단어/화장실.md",
-    "단어/상태/start, maintain, end.md",
-    "단어/상태/Untitled.md",
     "단어/상태",
-    "Joplin/sort later/1.md",
-    "Topik/11.md",
     "phrases/hodgepodge",
     "phrases",
     "Joplin/수업/class",
