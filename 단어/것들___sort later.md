@@ -99,7 +99,7 @@
 	- He did very poorly[badly] in[Am. E. on] the examination./He did miserably on the examination.
 - 그는 말과 하는 짓이 모두 터무니없이 엉망이다
 	- Both his words and his actions are utterly confused.
-<!--SR:!2024-08-15,17,292-->
+<!--SR:!2024-10-28,54,292-->
 
 ## 차리다 #card
 ?
