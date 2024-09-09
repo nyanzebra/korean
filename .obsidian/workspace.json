@@ -53,7 +53,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "문법/에 의하다.md",
+                "file": "문법/더니.md",
                 "mode": "source",
                 "source": false
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "문법/에 의하다.md",
+                "file": "문법/더니.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "문법/에 의하다.md",
+                "file": "문법/더니.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "문법/에 의하다.md"
+                "file": "문법/더니.md"
               }
             }
           },
@@ -208,6 +208,8 @@
   },
   "active": "59c3f899496509c7",
   "lastOpenFiles": [
+    "문법/로 인하다.md",
+    "문법/에 의하다.md",
     "문법/대로.md",
     "문법/다면서.md",
     "문법/다면, N(이)라면.md",
@@ -232,8 +234,6 @@
     "phrases/사자성어.md",
     "문법/단 말이에요.md",
     "문법/ㄴ 셈이다.md",
-    "숙제/3B/22-26 Fixed.md",
-    "Joplin/문법/는 반면에.md",
     "단어/상태",
     "Joplin/수업/class",
     "Joplin/수업/3A",
