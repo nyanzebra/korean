@@ -48,7 +48,7 @@
 	- regardless of quantity
 - 학력을 불문하고
 	- regardless of education
-<!--SR:!2024-08-08,2,237-->
+<!--SR:!2024-09-09,1,217-->
 
 
 ## 그나저나 #card
