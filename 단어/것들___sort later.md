@@ -162,7 +162,7 @@
   - Compassion is a worthy successor.
 - 정씨의 기아차 사장 승진으로 정몽구 회장이 국내 재계서열 4위의 현대-기아차 그룹의 후계 구도를 강화하고 있다는 추측을 불러 일으켰다.
   - His promotion to the helm of Kia stirred speculation that Chung Mong-koo is preparing to hand over control of the country's fourth-largest business group.
-<!--SR:!2024-09-09,1,188-->
+<!--SR:!2024-09-12,2,188-->
 
 
 ## 동반자 #card
@@ -175,6 +175,6 @@
   - They call us partners, but they’re treating us like slaves.
 - 애완동물은 훌륭한 동반자가 되며 모든 가족에게 환영 받는 부가물이 될 수 있습니다.
   - Pets make excellent companions and can be a welcome addition to any family.
-<!--SR:!2024-09-06,2,208-->
+<!--SR:!2024-09-14,4,208-->
 
 불다 blow 부르다 call 버리다 toss/completely 벌다 earn
