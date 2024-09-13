@@ -53,7 +53,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "숙제/3B/28-35 Fixed.md",
+                "file": "문법/Untitled.md",
                 "mode": "source",
                 "source": false
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "숙제/3B/28-35 Fixed.md",
+                "file": "문법/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "숙제/3B/28-35 Fixed.md",
+                "file": "문법/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "숙제/3B/28-35 Fixed.md"
+                "file": "문법/Untitled.md"
               }
             }
           },
@@ -208,8 +208,9 @@
   },
   "active": "59c3f899496509c7",
   "lastOpenFiles": [
-    "숙제/3B/22-26 Fixed.md",
     "숙제/3B/28-35 Fixed.md",
+    "문법/Untitled.md",
+    "숙제/3B/22-26 Fixed.md",
     "숙제/3B/28-35.md",
     "단어/세상/시간.md",
     "단어/것들___sort later.md",
@@ -233,7 +234,6 @@
     "단어/추상적인 것/감정.md",
     "단어/추상적인 것/생각___마음.md",
     "단어/Index.md",
-    "Joplin/단어/검색.md",
     "단어/상태",
     "Joplin/수업/class",
     "Joplin/수업/3A",
