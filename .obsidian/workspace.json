@@ -65,7 +65,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "단어/생활/이주하다.md",
+                "file": "단어/생활/장례.md",
                 "mode": "source",
                 "source": false
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "단어/생활/이주하다.md",
+                "file": "단어/생활/장례.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "단어/생활/이주하다.md",
+                "file": "단어/생활/장례.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -178,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "단어/생활/이주하다.md"
+                "file": "단어/생활/장례.md"
               }
             }
           },
@@ -220,6 +220,7 @@
   },
   "active": "e17dfd50c37a3c22",
   "lastOpenFiles": [
+    "단어/생활/이주하다.md",
     "단어/Index.md",
     "문법/Untitled.md",
     "숙제/3B/28-35 Fixed.md",
@@ -245,7 +246,6 @@
     "Joplin/sort later/1.md",
     "단어/상태/개인.md",
     "단어/추상적인 것/감정.md",
-    "단어/추상적인 것/생각___마음.md",
     "단어/상태",
     "Joplin/수업/class",
     "Joplin/수업/3A",
