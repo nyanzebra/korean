@@ -101,7 +101,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "deposit",
+                "query": "emotion",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -118,7 +118,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -218,7 +219,7 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "e17dfd50c37a3c22",
+  "active": "0a3a0e6033d1b09d",
   "lastOpenFiles": [
     "단어/생활/장례.md",
     "수업/Untitled 5.md",
