@@ -33,3 +33,5 @@ Kyunghee Min (Sep 13, 2024, 17:29)
  
 Kyunghee Min (Sep 13, 2024, 17:35)
 하지 뭐.
+
+감탄하다/감탄할 때
