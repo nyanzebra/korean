@@ -25,3 +25,11 @@ wart
  
 Kyunghee Min (Sep 13, 2024, 17:16)
 사마귀
+
+사마귀
+ 
+Kyunghee Min (Sep 13, 2024, 17:29)
+해를 볼 수 없다/해가 뜨는 것을 없다
+ 
+Kyunghee Min (Sep 13, 2024, 17:35)
+하지 뭐.
