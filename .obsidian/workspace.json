@@ -77,7 +77,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "숙제/3A/textbook/3A-127-130 1.md",
+                "file": "숙제/3A/workbook/1 과.md",
                 "mode": "source",
                 "source": false
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "숙제/3A/textbook/3A-127-130 1.md",
+                "file": "숙제/3A/workbook/1 과.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -167,7 +167,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "숙제/3A/textbook/3A-127-130 1.md",
+                "file": "숙제/3A/workbook/1 과.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -190,7 +190,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "숙제/3A/textbook/3A-127-130 1.md"
+                "file": "숙제/3A/workbook/1 과.md"
               }
             }
           },
@@ -230,24 +230,26 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "37e35dfd44d8e634",
+  "active": "9953151e62d3307b",
   "lastOpenFiles": [
+    "숙제/3A/textbook/3A-127-130 1.md",
+    "숙제/3B/textbook",
     "숙제/3A/textbook/3A-105.md",
     "문법/ㄴ은 지 (time).md",
     "숙제/3A/textbook",
     "숙제/3A/workbook/1 과.md",
     "수업/Untitled 4.md",
     "수업/Untitled 5.md",
-    "숙제/3B/34-35.md",
+    "숙제/3B/textbook/34-35.md",
     "숙제/3A/workbook",
     "숙제/3B/workbook",
-    "숙제/3B/28-30 Fixed.md",
-    "숙제/3B/28-30.md",
+    "숙제/3B/textbook/28-30 Fixed.md",
+    "숙제/3B/textbook/28-30.md",
     "단어/생활/장례.md",
     "단어/생활/이주하다.md",
     "단어/Index.md",
     "문법/Untitled.md",
-    "숙제/3B/22-26 Fixed.md",
+    "숙제/3B/textbook/22-26 Fixed.md",
     "단어/세상/시간.md",
     "단어/것들___sort later.md",
     "단어/장소/시장.md",
@@ -260,13 +262,11 @@
     "문법/다면서.md",
     "문법/다면, N(이)라면.md",
     "문법/-(으)려던 참이다.md",
-    "단어/장소/도서관.md",
     "단어/상태",
     "Joplin/수업/class",
     "Joplin/수업/3A",
     "Joplin/수업",
     "Joplin/문법",
-    "Joplin/sort later",
-    "phrases/hodgepodge"
+    "Joplin/sort later"
   ]
 }
