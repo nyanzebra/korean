@@ -77,14 +77,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "숙제/3B/workbook/1과.md",
+                "file": "Joplin/문법/느라고.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -150,7 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "숙제/3B/workbook/1과.md",
+                "file": "숙제/3A/textbook/3A-105.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -167,7 +167,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "숙제/3B/workbook/1과.md",
+                "file": "숙제/3A/textbook/3A-105.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -190,7 +190,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "숙제/3B/workbook/1과.md"
+                "file": "숙제/3A/textbook/3A-105.md"
               }
             }
           },
@@ -230,10 +230,11 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "9953151e62d3307b",
+  "active": "e17dfd50c37a3c22",
   "lastOpenFiles": [
-    "숙제/3A/workbook/1 과.md",
+    "Joplin/문법/느라고.md",
     "숙제/3B/workbook/1과.md",
+    "숙제/3A/workbook/1 과.md",
     "숙제/3A/textbook/3A-127-130 1.md",
     "숙제/3B/textbook",
     "숙제/3A/textbook/3A-105.md",
@@ -261,7 +262,6 @@
     "문법/에 의하다.md",
     "문법/대로.md",
     "문법/다면서.md",
-    "문법/다면, N(이)라면.md",
     "단어/상태",
     "Joplin/수업/class",
     "Joplin/수업/3A",
