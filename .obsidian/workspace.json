@@ -46,17 +46,19 @@
           {
             "id": "3d488e2f7f201fa8",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
                 "file": "문법/falling.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "pinned": true
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -122,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "문법/falling.md",
+                "file": "숙제/3B/workbook/1과.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "문법/falling.md",
+                "file": "숙제/3B/workbook/1과.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +164,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "문법/falling.md"
+                "file": "숙제/3B/workbook/1과.md"
               }
             }
           },
@@ -244,8 +246,9 @@
       }
     ]
   },
-  "active": "3d488e2f7f201fa8",
+  "active": "f783635bd939b0cb",
   "lastOpenFiles": [
+    "문법/falling.md",
     "숙제/3B/workbook/1과.md",
     "숙제/3A/workbook/1 과.md",
     "숙제/3B/workbook",
@@ -273,7 +276,6 @@
     "숙제/3A/textbook/3A-124-126.md",
     "숙제/3A/textbook/3A-124-126 1.md",
     "숙제/3A/textbook/3A-120-123.md",
-    "숙제/3A/textbook/3A-120-123 1.md",
     "숙제/3A/textbook",
     "숙제/3A/workbook",
     "단어/상태",
