@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "숙제/3B/workbook/1과.md",
+                "file": "숙제/3B/textbook/34-35.md",
                 "mode": "source",
                 "source": false
               }
@@ -124,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "숙제/3B/workbook/1과.md",
+                "file": "숙제/3B/textbook/34-35.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "숙제/3B/workbook/1과.md",
+                "file": "숙제/3B/textbook/34-35.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,7 +164,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "숙제/3B/workbook/1과.md"
+                "file": "숙제/3B/textbook/34-35.md"
               }
             }
           },
@@ -248,8 +248,8 @@
   },
   "active": "f783635bd939b0cb",
   "lastOpenFiles": [
-    "문법/falling.md",
     "숙제/3B/workbook/1과.md",
+    "문법/falling.md",
     "숙제/3A/workbook/1 과.md",
     "숙제/3B/workbook",
     "수업/Untitled 4.md",
