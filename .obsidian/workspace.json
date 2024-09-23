@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "숙제/3B/textbook/36-37.md",
+                "file": "Topik/Grammar Checklist.md",
                 "mode": "source",
                 "source": false
               }
@@ -87,7 +87,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "누군가",
+                "query": "worth",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -104,7 +104,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -124,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "숙제/3B/textbook/36-37.md",
+                "file": "Topik/Grammar Checklist.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "숙제/3B/textbook/36-37.md",
+                "file": "Topik/Grammar Checklist.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,7 +165,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "숙제/3B/textbook/36-37.md"
+                "file": "Topik/Grammar Checklist.md"
               }
             }
           },
@@ -248,8 +249,8 @@
   },
   "active": "f783635bd939b0cb",
   "lastOpenFiles": [
-    "문법/Every X & Some X.md",
     "숙제/3B/textbook/36-37.md",
+    "문법/Every X & Some X.md",
     "숙제/3B/textbook/34-35 Fixed.md",
     "수업/Untitled 6.md",
     "숙제/3B/workbook/1과.md",
