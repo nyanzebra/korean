@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "문법/Every X & Some X.md",
+                "file": "숙제/3B/textbook/36-37.md",
                 "mode": "source",
                 "source": false
               }
@@ -104,8 +104,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -125,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "문법/Every X & Some X.md",
+                "file": "숙제/3B/textbook/36-37.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "문법/Every X & Some X.md",
+                "file": "숙제/3B/textbook/36-37.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,7 +164,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "문법/Every X & Some X.md"
+                "file": "숙제/3B/textbook/36-37.md"
               }
             }
           },
@@ -249,6 +248,7 @@
   },
   "active": "f783635bd939b0cb",
   "lastOpenFiles": [
+    "문법/Every X & Some X.md",
     "숙제/3B/textbook/36-37.md",
     "숙제/3B/textbook/34-35 Fixed.md",
     "수업/Untitled 6.md",
@@ -276,7 +276,6 @@
     "숙제/3A/textbook/3A-134-136.md",
     "숙제/3A/textbook/3A-134-136 1.md",
     "숙제/3A/textbook/3A-127-130.md",
-    "숙제/3A/textbook/3A-127-130 1.md",
     "숙제/3A/textbook",
     "숙제/3A/workbook",
     "단어/상태",
