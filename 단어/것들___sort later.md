@@ -83,7 +83,7 @@
 	- Impartiality is absolutely essential to a judge.
 - 무사하지는 못할거야
 	- not gonna make it
-<!--SR:!2024-09-21,17,252-->
+<!--SR:!2024-11-06,44,252-->
 
 ## 엉망 #card
 ?
