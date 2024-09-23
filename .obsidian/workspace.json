@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "숙제/3B/textbook/34-35 Fixed.md",
+                "file": "숙제/3B/textbook/36-37.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "숙제/3B/textbook/34-35 Fixed.md",
+                "file": "숙제/3B/textbook/36-37.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "숙제/3B/textbook/34-35 Fixed.md",
+                "file": "숙제/3B/textbook/36-37.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "숙제/3B/textbook/34-35 Fixed.md"
+                "file": "숙제/3B/textbook/36-37.md"
               }
             }
           },
@@ -167,8 +167,9 @@
   },
   "active": "9953151e62d3307b",
   "lastOpenFiles": [
-    "숙제/3B/textbook/34-35.md",
     "숙제/3B/textbook/34-35 Fixed.md",
+    "숙제/3B/textbook/36-37.md",
+    "숙제/3B/textbook/34-35.md",
     "수업/Untitled 6.md",
     "숙제/3B/workbook/1과.md",
     "Joplin/문법/느라고.md",
@@ -196,7 +197,6 @@
     "단어/것들___sort later.md",
     "단어/장소/시장.md",
     "단어/장소/자연.md",
-    "단어/세상/날씨.md",
     "단어/상태",
     "Joplin/수업/class",
     "Joplin/수업/3A",
