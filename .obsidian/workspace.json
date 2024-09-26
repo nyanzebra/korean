@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "숙제/3B/textbook/36-37.md",
+                "file": "수업/Untitled 7.md",
                 "mode": "source",
                 "source": false
               }
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "숙제/3B/textbook/36-37.md",
+                "file": "수업/Untitled 7.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "숙제/3B/textbook/36-37.md",
+                "file": "수업/Untitled 7.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "숙제/3B/textbook/36-37.md"
+                "file": "수업/Untitled 7.md"
               }
             }
           },
@@ -182,8 +182,9 @@
   },
   "active": "80e9b8b5a7fc5aab",
   "lastOpenFiles": [
-    "문법/Untitled.md",
     "숙제/3B/textbook/36-37.md",
+    "수업/Untitled 7.md",
+    "문법/Untitled.md",
     "숙제/3B/textbook/34-35 Fixed.md",
     "숙제/3B/textbook/34-35.md",
     "수업/Untitled 6.md",
@@ -211,7 +212,6 @@
     "단어/세상/시간.md",
     "단어/것들___sort later.md",
     "단어/장소/시장.md",
-    "단어/장소/자연.md",
     "단어/상태",
     "Joplin/수업/class",
     "Joplin/수업/3A",
