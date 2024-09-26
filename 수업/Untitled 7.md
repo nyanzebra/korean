@@ -8,3 +8,4 @@ Kyunghee Min (Sep 25, 2024, 17:04)
 Kyunghee Min (Sep 25, 2024, 17:10)
 관광 여행
 의대에 대니다
+철자/오타
