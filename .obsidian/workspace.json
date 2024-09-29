@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "문법/다(가) 보니(까), 고 보니, 아 보니(까), 다(가) 보면, 고 보면.md",
+                "file": "숙제/3B/textbook/34-35 Fixed.md",
                 "mode": "source",
                 "source": false
               }
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "문법/다(가) 보니(까), 고 보니, 아 보니(까), 다(가) 보면, 고 보면.md",
+                "file": "숙제/3B/textbook/34-35 Fixed.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "문법/다(가) 보니(까), 고 보니, 아 보니(까), 다(가) 보면, 고 보면.md",
+                "file": "숙제/3B/textbook/34-35 Fixed.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "문법/다(가) 보니(까), 고 보니, 아 보니(까), 다(가) 보면, 고 보면.md"
+                "file": "숙제/3B/textbook/34-35 Fixed.md"
               }
             }
           },
@@ -182,6 +182,7 @@
   },
   "active": "80e9b8b5a7fc5aab",
   "lastOpenFiles": [
+    "문법/다(가) 보니(까), 고 보니, 아 보니(까), 다(가) 보면, 고 보면.md",
     "수업/Untitled 7.md",
     "숙제/3B/textbook/36-37.md",
     "문법/Untitled.md",
@@ -211,7 +212,6 @@
     "숙제/3B/textbook/22-26 Fixed.md",
     "단어/세상/시간.md",
     "단어/것들___sort later.md",
-    "단어/장소/시장.md",
     "단어/상태",
     "Joplin/수업/class",
     "Joplin/수업/3A",
