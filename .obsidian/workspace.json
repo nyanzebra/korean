@@ -125,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Joplin/문법/만 못하다.md",
+                "file": "Joplin/단어/장소.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Joplin/문법/만 못하다.md",
+                "file": "Joplin/단어/장소.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,7 +165,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Joplin/문법/만 못하다.md"
+                "file": "Joplin/단어/장소.md"
               }
             }
           },
@@ -233,8 +233,7 @@
                   }
                 }
               }
-            ],
-            "currentTab": 1
+            ]
           }
         ],
         "direction": "vertical",
@@ -247,8 +246,9 @@
       }
     ]
   },
-  "active": "f783635bd939b0cb",
+  "active": "1b58f1c8baf53e4c",
   "lastOpenFiles": [
+    "Joplin/문법/만 못하다.md",
     "수업/Untitled 8.md",
     "숙제/3B/textbook/40-42.md",
     "수업/Untitled 7.md",
@@ -276,7 +276,6 @@
     "숙제/3A/textbook/3A-142-144.md",
     "숙제/3A/textbook/3A-142-144 fixed.md",
     "숙제/3A/textbook/3A-142-144 fixed 1.md",
-    "숙제/3A/textbook/3A-142-144 1.md",
     "숙제/3A/textbook",
     "숙제/3A/workbook",
     "단어/상태",
