@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "문법/falling.md",
+                "file": "수업/Untitled 8.md",
                 "mode": "source",
                 "source": false
               }
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "문법/falling.md",
+                "file": "수업/Untitled 8.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "문법/falling.md",
+                "file": "수업/Untitled 8.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "문법/falling.md"
+                "file": "수업/Untitled 8.md"
               }
             }
           },
@@ -182,6 +182,7 @@
   },
   "active": "80e9b8b5a7fc5aab",
   "lastOpenFiles": [
+    "문법/falling.md",
     "수업/Untitled 8.md",
     "숙제/3B/textbook/40-42.md",
     "문법/에 의하다.md",
@@ -211,7 +212,6 @@
     "숙제/3B/textbook/28-30 Fixed.md",
     "숙제/3B/textbook/28-30.md",
     "단어/생활/장례.md",
-    "단어/생활/이주하다.md",
     "단어/상태",
     "Joplin/수업/class",
     "Joplin/수업/3A",
