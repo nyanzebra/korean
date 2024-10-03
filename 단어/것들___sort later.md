@@ -1,3 +1,17 @@
+## 주관적 #card
+?
+### 뜻
+- subjective
+### 예
+-
+
+## 객관적 #card
+?
+### 뜻
+- objective
+### 예
+-
+
 
 ## 뿌듯하다 #card
 ?
