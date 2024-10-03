@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "단어/생활/일.md",
+                "file": "단어/Untitled.md",
                 "mode": "source",
                 "source": false
               }
@@ -63,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "fruit",
+                "query": "몸",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "단어/생활/일.md",
+                "file": "단어/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "단어/생활/일.md",
+                "file": "단어/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "단어/생활/일.md"
+                "file": "단어/Untitled.md"
               }
             }
           },
@@ -332,9 +332,11 @@
   },
   "active": "5d543c339806a5bc",
   "lastOpenFiles": [
+    "단어/Index.md",
+    "단어/Untitled.md",
+    "단어/생활/일.md",
     "수업/Untitled 7.md",
     "수업/Untitled 8.md",
-    "단어/생활/일.md",
     "단어/수학.md",
     "단어/동물.md",
     "단어/장소/집.md",
@@ -357,8 +359,6 @@
     "문법/Every X & Some X.md",
     "숙제/3B/textbook/34-35 Fixed.md",
     "숙제/3B/workbook/1과.md",
-    "숙제/3A/workbook/1 과.md",
-    "숙제/3B/textbook/34-35.md",
     "숙제/3B/workbook",
     "숙제/3B/textbook",
     "숙제/3A/textbook",
