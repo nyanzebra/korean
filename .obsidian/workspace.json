@@ -63,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "몸",
+                "query": "다고",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -80,7 +80,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -330,7 +331,7 @@
       }
     ]
   },
-  "active": "5d543c339806a5bc",
+  "active": "0a3a0e6033d1b09d",
   "lastOpenFiles": [
     "문법/던.md",
     "문법/in case of.md",
