@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "문법/in case of.md",
+                "file": "문법/던.md",
                 "mode": "source",
                 "source": false
               }
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "문법/in case of.md",
+                "file": "문법/던.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "문법/in case of.md",
+                "file": "문법/던.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "문법/in case of.md"
+                "file": "문법/던.md"
               }
             }
           },
@@ -182,6 +182,8 @@
   },
   "active": "80e9b8b5a7fc5aab",
   "lastOpenFiles": [
+    "문법/in case of.md",
+    "문법/던.md",
     "수업/Untitled 8.md",
     "단어/해부.md",
     "단어/장소/집.md",
@@ -195,7 +197,6 @@
     "숙제/3B/textbook/34-35 Fixed.md",
     "문법/다(가) 보니(까), 고 보니, 아 보니(까), 다(가) 보면, 고 보면.md",
     "숙제/3B/textbook/36-37.md",
-    "문법/in case of.md",
     "숙제/3B/textbook/34-35.md",
     "수업/Untitled 6.md",
     "숙제/3B/workbook/1과.md",
@@ -210,7 +211,6 @@
     "숙제/3B/textbook",
     "문법/ㄴ은 지 (time).md",
     "숙제/3A/textbook",
-    "수업/Untitled 4.md",
     "숙제/3A/workbook",
     "숙제/3B/workbook",
     "단어/상태",
