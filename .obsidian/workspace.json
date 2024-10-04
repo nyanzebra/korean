@@ -48,9 +48,37 @@
               },
               "pinned": true
             }
+          },
+          {
+            "id": "87d5932e87c4d3d3",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "문법/(으)나 마나.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "33ee8bca5c62fdc3",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "문법/다(가) 보니(까), 고 보니, 아 보니(까), 다(가) 보면, 고 보면.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -79,7 +107,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "다고",
+                "query": "positive",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -116,7 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "문법/기 나름이다.md",
+                "file": "문법/다(가) 보니(까), 고 보니, 아 보니(까), 다(가) 보면, 고 보면.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +161,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "문법/기 나름이다.md",
+                "file": "문법/다(가) 보니(까), 고 보니, 아 보니(까), 다(가) 보면, 고 보면.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +184,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "문법/기 나름이다.md"
+                "file": "문법/다(가) 보니(까), 고 보니, 아 보니(까), 다(가) 보면, 고 보면.md"
               }
             }
           },
@@ -346,11 +374,11 @@
       }
     ]
   },
-  "active": "cddb2973a9fa9a63",
+  "active": "33ee8bca5c62fdc3",
   "lastOpenFiles": [
-    "문법/봤자 & 다고 (해도).md",
     "문법/(으)나 마나.md",
     "문법/기 나름이다.md",
+    "문법/봤자 & 다고 (해도).md",
     "문법/더니.md",
     "문법/다고 치다.md",
     "문법/falling.md",
