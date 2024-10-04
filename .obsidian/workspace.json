@@ -36,15 +36,17 @@
             }
           },
           {
-            "id": "895efb7ecd9a4379",
+            "id": "cddb2973a9fa9a63",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "문법/봤자 & 다고 (해도).md",
+                "file": "문법/기 나름이다.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "pinned": true
             }
           }
         ],
@@ -114,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "문법/봤자 & 다고 (해도).md",
+                "file": "문법/기 나름이다.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "문법/봤자 & 다고 (해도).md",
+                "file": "문법/기 나름이다.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "문법/봤자 & 다고 (해도).md"
+                "file": "문법/기 나름이다.md"
               }
             }
           },
@@ -344,13 +346,13 @@
       }
     ]
   },
-  "active": "895efb7ecd9a4379",
+  "active": "cddb2973a9fa9a63",
   "lastOpenFiles": [
+    "문법/봤자 & 다고 (해도).md",
     "문법/(으)나 마나.md",
     "문법/기 나름이다.md",
     "문법/더니.md",
     "문법/다고 치다.md",
-    "문법/봤자 & 다고 (해도).md",
     "문법/falling.md",
     "Topik/Grammar Checklist.md",
     "단어/과학.md",
