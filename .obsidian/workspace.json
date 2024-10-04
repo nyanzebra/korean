@@ -41,7 +41,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "문법/기 나름이다.md",
+                "file": "문법/Untitled.md",
                 "mode": "source",
                 "source": false
               }
@@ -114,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "문법/기 나름이다.md",
+                "file": "문법/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "문법/기 나름이다.md",
+                "file": "문법/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "문법/기 나름이다.md"
+                "file": "문법/Untitled.md"
               }
             }
           },
@@ -346,8 +346,9 @@
   },
   "active": "895efb7ecd9a4379",
   "lastOpenFiles": [
-    "문법/더니.md",
     "문법/기 나름이다.md",
+    "문법/Untitled.md",
+    "문법/더니.md",
     "문법/다고 치다.md",
     "문법/봤자 & 다고 (해도).md",
     "문법/falling.md",
@@ -372,7 +373,6 @@
     "Joplin/단어/helping words.md",
     "단어/기계",
     "수업/Untitled 3.md",
-    "수업/Untitled 2.md",
     "숙제/3B/workbook",
     "숙제/3B/textbook",
     "숙제/3A/textbook",
