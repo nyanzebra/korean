@@ -24,6 +24,20 @@
           {
             "id": "80e9b8b5a7fc5aab",
             "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "문법/다(가) 보니(까), 고 보니, 아 보니(까), 다(가) 보면, 고 보면.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "183bbf4380563543",
+            "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
@@ -34,7 +48,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -180,10 +194,11 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "80e9b8b5a7fc5aab",
+  "active": "183bbf4380563543",
   "lastOpenFiles": [
-    "문법/in case of.md",
+    "문법/다(가) 보니(까), 고 보니, 아 보니(까), 다(가) 보면, 고 보면.md",
     "문법/던.md",
+    "문법/in case of.md",
     "수업/Untitled 8.md",
     "단어/해부.md",
     "단어/장소/집.md",
@@ -195,7 +210,6 @@
     "문법/에 의하다.md",
     "수업/Untitled 7.md",
     "숙제/3B/textbook/34-35 Fixed.md",
-    "문법/다(가) 보니(까), 고 보니, 아 보니(까), 다(가) 보면, 고 보면.md",
     "숙제/3B/textbook/36-37.md",
     "숙제/3B/textbook/34-35.md",
     "수업/Untitled 6.md",
