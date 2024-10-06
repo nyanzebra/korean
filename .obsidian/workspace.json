@@ -46,6 +46,14 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "799eeb8ccfbc738d",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
         ],
         "currentTab": 2
@@ -196,8 +204,8 @@
   },
   "active": "183bbf4380563543",
   "lastOpenFiles": [
-    "문법/causitive.md",
     "숙제/3B/textbook/43-46.md",
+    "문법/causitive.md",
     "문법/Counting days.md",
     "문법/봤자 & 다고 (해도).md",
     "문법/다고 치다.md",
