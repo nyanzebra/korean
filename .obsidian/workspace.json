@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "a4933aebbc7f311d",
+        "id": "d1ba5ffce4906c13",
         "type": "tabs",
         "children": [
           {
-            "id": "3d488e2f7f201fa8",
+            "id": "9953151e62d3307b",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "문법/falling.md",
+                "file": "문법/in case of.md",
                 "mode": "source",
                 "source": false
               },
@@ -22,49 +22,7 @@
             }
           },
           {
-            "id": "5d543c339806a5bc",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "문법/봤자 & 다고 (해도).md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true
-            }
-          },
-          {
-            "id": "cddb2973a9fa9a63",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "문법/기 나름이다.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true
-            }
-          },
-          {
-            "id": "87d5932e87c4d3d3",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "문법/(으)나 마나.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true
-            }
-          },
-          {
-            "id": "33ee8bca5c62fdc3",
+            "id": "80e9b8b5a7fc5aab",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -78,19 +36,27 @@
             }
           },
           {
-            "id": "8adac43ee186d6d2",
+            "id": "183bbf4380563543",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "수업/Untitled 8.md",
+                "file": "수업/Untitled 7.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "799eeb8ccfbc738d",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -119,7 +85,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "positive",
+                "query": "평평",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -156,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "수업/Untitled 8.md",
+                "file": "수업/Untitled 7.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -173,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "수업/Untitled 8.md",
+                "file": "수업/Untitled 7.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -196,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "수업/Untitled 8.md"
+                "file": "수업/Untitled 7.md"
               }
             }
           },
@@ -207,9 +173,17 @@
               "type": "review-queue-list-view",
               "state": {}
             }
+          },
+          {
+            "id": "a8ef2f75a25bba8e",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -228,201 +202,43 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "floating": {
-    "id": "b5cdf47e822a6590",
-    "type": "floating",
-    "children": [
-      {
-        "id": "1e10d6205b4ef71e",
-        "type": "window",
-        "children": [
-          {
-            "id": "21a3ddff644d2834",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "1b58f1c8baf53e4c",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Joplin/단어/장소.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "a595b4e4f58754ea",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Joplin/단어/helping words.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "f783635bd939b0cb",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "수업/Untitled.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "0144b1f23a52ded9",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "수업/Untitled 1.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "51dde86fb13e5bed",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "수업/Untitled 2.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "3e00d1b37dacd52a",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "수업/Untitled 3.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "d0b9d383ddd8e67b",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "수업/Untitled 7.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "cc1f1f83d4f9cf90",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "수업/Untitled 8.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "bc8cbcacc4ed75ff",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "수업/Untitled 5.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "6eda082135f8a188",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "수업/Untitled 6.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "24bd1aa20955509a",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "수업/Untitled 4.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              }
-            ],
-            "currentTab": 6
-          }
-        ],
-        "direction": "vertical",
-        "x": 0,
-        "y": 0,
-        "width": 1720,
-        "height": 1392,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "8adac43ee186d6d2",
+  "active": "183bbf4380563543",
   "lastOpenFiles": [
+    "수업/Untitled 8.md",
     "숙제/3B/textbook/43-46.md",
+    "conflict-files-obsidian-git.md",
+    "숙제/3B/textbook/40-42.md",
     "문법/다(가) 보니(까), 고 보니, 아 보니(까), 다(가) 보면, 고 보면.md",
-    "문법/(으)나 마나.md",
-    "문법/기 나름이다.md",
+    "문법/causitive.md",
+    "문법/Counting days.md",
     "문법/봤자 & 다고 (해도).md",
-    "문법/더니.md",
     "문법/다고 치다.md",
-    "문법/falling.md",
-    "Topik/Grammar Checklist.md",
-    "단어/과학.md",
+    "문법/기 나름이다.md",
+    "문법/(으)나 마나.md",
     "문법/던.md",
     "문법/in case of.md",
-    "문법/Counting days.md",
-    "단어/것들___sort later.md",
-    "수업/Untitled 7.md",
     "단어/해부.md",
-    "단어/Index.md",
-    "단어/생활/일.md",
-    "수업/Untitled 8.md",
-    "단어/수학.md",
-    "단어/동물.md",
     "단어/장소/집.md",
     "단어/기계/집.md",
-    "수업/Untitled 5.md",
-    "수업/Untitled 6.md",
-    "수업/Untitled 4.md",
     "단어/기계",
-    "숙제/3B/workbook",
+    "단어/과학.md",
+    "문법/falling.md",
+    "문법/에 의하다.md",
+    "수업/Untitled 7.md",
+    "숙제/3B/textbook/34-35 Fixed.md",
+    "숙제/3B/textbook/36-37.md",
+    "숙제/3B/textbook/34-35.md",
+    "수업/Untitled 6.md",
+    "숙제/3B/workbook/1과.md",
+    "Joplin/문법/느라고.md",
     "숙제/3B/textbook",
     "숙제/3A/textbook",
     "숙제/3A/workbook",
+    "숙제/3B/workbook",
     "단어/상태",
-    "phrases/hodgepodge",
-    "phrases",
     "Joplin/수업/class",
-    "Joplin/수업/3A"
+    "Joplin/수업/3A",
+    "Joplin/수업",
+    "Joplin/문법"
   ]
 }
