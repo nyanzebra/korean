@@ -14,7 +14,7 @@
 	- We will stay here for the time being.
 - 그래서 그 목록을 천천히 보고 우선 순위를 매겼습니다.
 	- So what I did was, I went through and I prioritized that list.
-<!--SR:!2024-10-04,11,270-->
+<!--SR:!2024-11-07,28,270-->
 
 ## 단어 #card
 ?
