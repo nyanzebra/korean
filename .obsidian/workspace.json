@@ -41,7 +41,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "문법/단 말이에요.md",
+                "file": "문법/(으)나 마나.md",
                 "mode": "source",
                 "source": false
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "문법/단 말이에요.md",
+                "file": "문법/(으)나 마나.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "문법/단 말이에요.md",
+                "file": "문법/(으)나 마나.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "문법/단 말이에요.md"
+                "file": "문법/(으)나 마나.md"
               }
             }
           },
@@ -204,6 +204,7 @@
   },
   "active": "183bbf4380563543",
   "lastOpenFiles": [
+    "문법/단 말이에요.md",
     "수업/Untitled 9.md",
     "수업/Untitled 7.md",
     "수업/Untitled 8.md",
@@ -230,7 +231,6 @@
     "숙제/3B/textbook/36-37.md",
     "숙제/3B/textbook/34-35.md",
     "수업/Untitled 6.md",
-    "숙제/3B/workbook/1과.md",
     "숙제/3B/textbook",
     "숙제/3A/textbook",
     "숙제/3A/workbook",
