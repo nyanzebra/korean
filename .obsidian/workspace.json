@@ -140,7 +140,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "b1471ea056cf348b",
@@ -236,7 +237,7 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "b9bfc6f5e8a627a3",
+  "active": "37e35dfd44d8e634",
   "lastOpenFiles": [
     "문법/봤자 & 다고 (해도).md",
     "문법/다고 치다.md",
