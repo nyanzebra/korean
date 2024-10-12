@@ -76,9 +76,21 @@
               },
               "pinned": true
             }
+          },
+          {
+            "id": "b9bfc6f5e8a627a3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "숙제/3B/workbook/1과.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -144,7 +156,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "문법/봤자 & 다고 (해도).md",
+                "file": "숙제/3B/workbook/1과.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +173,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "문법/봤자 & 다고 (해도).md",
+                "file": "숙제/3B/workbook/1과.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -184,7 +196,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "문법/봤자 & 다고 (해도).md"
+                "file": "숙제/3B/workbook/1과.md"
               }
             }
           },
@@ -224,8 +236,9 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "9e18e1819724d934",
+  "active": "b9bfc6f5e8a627a3",
   "lastOpenFiles": [
+    "문법/봤자 & 다고 (해도).md",
     "문법/다고 치다.md",
     "문법/in case of.md",
     "문법/다(가) 보니(까), 고 보니, 아 보니(까), 다(가) 보면, 고 보면.md",
@@ -239,7 +252,6 @@
     "숙제/3B/textbook/40-42.md",
     "문법/causitive.md",
     "문법/Counting days.md",
-    "문법/봤자 & 다고 (해도).md",
     "문법/기 나름이다.md",
     "문법/던.md",
     "단어/해부.md",
