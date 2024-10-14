@@ -83,7 +83,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "숙제/3A/workbook/1 과.md",
+                "file": "단어/장소/집.md",
                 "mode": "source",
                 "source": false
               }
@@ -156,7 +156,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "숙제/3A/workbook/1 과.md",
+                "file": "단어/장소/집.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -173,7 +173,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "숙제/3A/workbook/1 과.md",
+                "file": "단어/장소/집.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -196,7 +196,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "숙제/3A/workbook/1 과.md"
+                "file": "단어/장소/집.md"
               }
             }
           },
@@ -238,6 +238,7 @@
   },
   "active": "b9bfc6f5e8a627a3",
   "lastOpenFiles": [
+    "숙제/3A/workbook/1 과.md",
     "숙제/3B/workbook/1과.md",
     "문법/봤자 & 다고 (해도).md",
     "문법/다고 치다.md",
@@ -264,7 +265,6 @@
     "문법/에 의하다.md",
     "숙제/3B/textbook/34-35 Fixed.md",
     "숙제/3B/textbook/36-37.md",
-    "숙제/3B/textbook/34-35.md",
     "숙제/3B/textbook",
     "숙제/3A/textbook",
     "숙제/3A/workbook",
