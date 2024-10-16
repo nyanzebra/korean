@@ -119,7 +119,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "이틀",
+                "query": "짓",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -237,7 +237,7 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "b9bfc6f5e8a627a3",
+  "active": "0a3a0e6033d1b09d",
   "lastOpenFiles": [
     "단어/장소/집.md",
     "숙제/3A/workbook/1 과.md",
