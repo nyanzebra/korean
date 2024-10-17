@@ -83,7 +83,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "문법/Counting days.md",
+                "file": "수업/Untitled 10.md",
                 "mode": "source",
                 "source": false
               }
@@ -119,7 +119,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "짓",
+                "query": "평평",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -136,8 +136,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -157,7 +156,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "문법/Counting days.md",
+                "file": "수업/Untitled 10.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -174,7 +173,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "문법/Counting days.md",
+                "file": "수업/Untitled 10.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -197,7 +196,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "문법/Counting days.md"
+                "file": "수업/Untitled 10.md"
               }
             }
           },
@@ -237,9 +236,10 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "0a3a0e6033d1b09d",
+  "active": "b9bfc6f5e8a627a3",
   "lastOpenFiles": [
     "단어/장소/집.md",
+    "수업/Untitled 10.md",
     "숙제/3A/workbook/1 과.md",
     "숙제/3B/workbook/1과.md",
     "문법/봤자 & 다고 (해도).md",
@@ -265,7 +265,6 @@
     "문법/falling.md",
     "문법/에 의하다.md",
     "숙제/3B/textbook/34-35 Fixed.md",
-    "숙제/3B/textbook/36-37.md",
     "숙제/3B/textbook",
     "숙제/3A/textbook",
     "숙제/3A/workbook",

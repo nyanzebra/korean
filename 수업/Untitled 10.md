@@ -1,0 +1,18 @@
+Today
+ 
+Kyunghee Min (Oct 16, 2024, 17:03)
+집순이
+집돌이
+소설가
+노벨상/노벨문학상
+발명하다/발견하다
+광산
+ 
+Kyunghee Min (Oct 16, 2024, 17:08)
+죄책감을 느끼다
+Messages addressed to "Meeting Group Chat" will also appear in the meeting group chat in Team Chat
+ 
+Kyunghee Min (Oct 16, 2024, 17:09)
+투자하다/기금을 만들다
+논쟁의 여지가 있다
+노벨문학상
