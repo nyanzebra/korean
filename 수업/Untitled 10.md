@@ -18,3 +18,12 @@ Kyunghee Min (Oct 16, 2024, 17:09)
 노벨문학상
 
 sharono1004@gmail
+
+요약하다/요약
+나이가 많다/적다=어리다
+ 
+Kyunghee Min (Oct 16, 2024, 17:18)
+요구사항
+ 
+Kyunghee Min (Oct 16, 2024, 17:28)
+1004=천사
