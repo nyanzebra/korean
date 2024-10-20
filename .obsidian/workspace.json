@@ -83,7 +83,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "단어/상태/증상.md",
+                "file": "숙제/3B/textbook/50-52.md",
                 "mode": "source",
                 "source": false
               }
@@ -156,7 +156,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "단어/상태/증상.md",
+                "file": "숙제/3B/textbook/50-52.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -173,7 +173,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "단어/상태/증상.md",
+                "file": "숙제/3B/textbook/50-52.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -196,7 +196,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "단어/상태/증상.md"
+                "file": "숙제/3B/textbook/50-52.md"
               }
             }
           },
@@ -238,8 +238,10 @@
   },
   "active": "819476c4aab7b892",
   "lastOpenFiles": [
-    "단어/상태/개인.md",
+    "숙제/3B/textbook/43-46.md",
+    "숙제/3B/textbook/50-52.md",
     "단어/상태/증상.md",
+    "단어/상태/개인.md",
     "단어/장소/병원.md",
     "사자성어/ㄱ.md",
     "문법/봤자 & 다고 (해도).md",
@@ -256,14 +258,12 @@
     "수업/Untitled 9.md",
     "수업/Untitled 7.md",
     "수업/Untitled 8.md",
-    "숙제/3B/textbook/43-46.md",
     "conflict-files-obsidian-git.md",
     "숙제/3B/textbook/40-42.md",
     "문법/causitive.md",
     "문법/Counting days.md",
     "문법/기 나름이다.md",
     "문법/던.md",
-    "단어/해부.md",
     "단어/기계",
     "숙제/3B/textbook",
     "숙제/3A/textbook",
