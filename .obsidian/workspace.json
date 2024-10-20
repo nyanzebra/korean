@@ -119,7 +119,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "평평",
+                "query": "helen",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -136,7 +136,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -236,7 +237,7 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "819476c4aab7b892",
+  "active": "0a3a0e6033d1b09d",
   "lastOpenFiles": [
     "문법/봤자 & 다고 (해도).md",
     "단어/상태/개인.md",
