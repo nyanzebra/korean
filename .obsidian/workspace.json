@@ -83,7 +83,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "단어/장소/병원.md",
+                "file": "단어/추상적인 것/감정.md",
                 "mode": "source",
                 "source": false
               }
@@ -156,7 +156,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "단어/장소/병원.md",
+                "file": "단어/추상적인 것/감정.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -173,7 +173,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "단어/장소/병원.md",
+                "file": "단어/추상적인 것/감정.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -196,7 +196,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "단어/장소/병원.md"
+                "file": "단어/추상적인 것/감정.md"
               }
             }
           },
@@ -238,8 +238,9 @@
   },
   "active": "b9bfc6f5e8a627a3",
   "lastOpenFiles": [
-    "수업/Untitled 10.md",
+    "단어/상태/개인.md",
     "단어/장소/병원.md",
+    "수업/Untitled 10.md",
     "단어/장소/집.md",
     "숙제/3A/workbook/1 과.md",
     "숙제/3B/workbook/1과.md",
@@ -264,7 +265,6 @@
     "단어/기계",
     "단어/과학.md",
     "문법/falling.md",
-    "문법/에 의하다.md",
     "숙제/3B/textbook",
     "숙제/3A/textbook",
     "숙제/3A/workbook",
