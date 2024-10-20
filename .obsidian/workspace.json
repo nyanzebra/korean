@@ -83,7 +83,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "단어/장소/병원.md",
+                "file": "단어/상태/개인.md",
                 "mode": "source",
                 "source": false
               }
@@ -136,8 +136,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -157,7 +156,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "단어/장소/병원.md",
+                "file": "단어/상태/개인.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -174,7 +173,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "단어/장소/병원.md",
+                "file": "단어/상태/개인.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -197,7 +196,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "단어/장소/병원.md"
+                "file": "단어/상태/개인.md"
               }
             }
           },
@@ -239,8 +238,8 @@
   },
   "active": "819476c4aab7b892",
   "lastOpenFiles": [
-    "사자성어/ㄱ.md",
     "단어/장소/병원.md",
+    "사자성어/ㄱ.md",
     "문법/봤자 & 다고 (해도).md",
     "단어/상태/개인.md",
     "단어/추상적인 것/감정.md",
