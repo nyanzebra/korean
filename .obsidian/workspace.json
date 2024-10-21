@@ -18,7 +18,9 @@
                 "mode": "source",
                 "source": false
               },
-              "pinned": true
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "in case of"
             }
           },
           {
@@ -32,7 +34,9 @@
                 "mode": "source",
                 "source": false
               },
-              "pinned": true
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "다(가) 보니(까), 고 보니, 아 보니(까), 다(가) 보면, 고 보면"
             }
           },
           {
@@ -46,7 +50,9 @@
                 "mode": "source",
                 "source": false
               },
-              "pinned": true
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "(으)나 마나"
             }
           },
           {
@@ -60,7 +66,9 @@
                 "mode": "source",
                 "source": false
               },
-              "pinned": true
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "다고 치다"
             }
           },
           {
@@ -74,7 +82,9 @@
                 "mode": "source",
                 "source": false
               },
-              "pinned": true
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "봤자 & 다고 (해도)"
             }
           },
           {
@@ -86,7 +96,9 @@
                 "file": "문법/Counting days.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Counting days"
             }
           }
         ],
@@ -110,7 +122,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -125,7 +139,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -133,11 +149,12 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -165,7 +182,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Counting days"
             }
           },
           {
@@ -177,7 +196,9 @@
                 "file": "문법/Counting days.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Counting days"
             }
           },
           {
@@ -188,7 +209,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -198,7 +221,9 @@
               "type": "outline",
               "state": {
                 "file": "문법/Counting days.md"
-              }
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Counting days"
             }
           },
           {
@@ -206,7 +231,9 @@
             "type": "leaf",
             "state": {
               "type": "review-queue-list-view",
-              "state": {}
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           },
           {
@@ -214,11 +241,33 @@
             "type": "leaf",
             "state": {
               "type": "advanced-tables-toolbar",
-              "state": {}
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
+            }
+          },
+          {
+            "id": "18cf94b2bd6b8bc4",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "b8c800959230a2ca",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "SpacedRepIcon",
+              "title": "Notes Review Queue"
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 7
       }
     ],
     "direction": "horizontal",
@@ -237,7 +286,7 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "0a3a0e6033d1b09d",
+  "active": "b8c800959230a2ca",
   "lastOpenFiles": [
     "단어/장소/집.md",
     "숙제/3A/workbook/1 과.md",
