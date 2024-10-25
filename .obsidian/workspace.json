@@ -83,7 +83,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "문법/서 vs 으니까.md",
+                "file": "문법/거든.md",
                 "mode": "source",
                 "source": false
               }
@@ -156,7 +156,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "문법/서 vs 으니까.md",
+                "file": "문법/거든.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -173,7 +173,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "문법/서 vs 으니까.md",
+                "file": "문법/거든.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -196,7 +196,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "문법/서 vs 으니까.md"
+                "file": "문법/거든.md"
               }
             }
           },
@@ -238,8 +238,9 @@
   },
   "active": "819476c4aab7b892",
   "lastOpenFiles": [
-    "문법/in case of.md",
     "문법/서 vs 으니까.md",
+    "문법/거든.md",
+    "문법/in case of.md",
     "문법/비롯해서.md",
     "수업/Untitled 11.md",
     "숙제/3B/textbook/50-52.md",
@@ -263,7 +264,6 @@
     "수업/Untitled 8.md",
     "conflict-files-obsidian-git.md",
     "숙제/3B/textbook/40-42.md",
-    "문법/causitive.md",
     "단어/기계",
     "숙제/3B/textbook",
     "숙제/3A/textbook",

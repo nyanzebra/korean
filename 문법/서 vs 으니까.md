@@ -1,4 +1,6 @@
 
+https://letusstudykorean.com/%EC%96%B4%EC%95%84%EC%97%AC%EC%84%9C-vs-%EC%9C%BC%EB%8B%88%EA%B9%8C-differences-and-important-rules/
+
 These two – ~어/아/여서 and ~(으)니까 – are probably two of the most commonly confused grammar expression. To be very honest, I’m not sure about the difference at times. I’ll list some very important rules down (with much research) because the difference can’t be easily explained through mere differences. There are very specific situations where they can be used.
 
 #### Important rules about using ~어/아/여서 and ~(으)니까
@@ -157,3 +159,4 @@ Because/Since my friend watched this movie and said that it’s not interesting,
 - ~(으)니까 is usually used to justify an action in the present or intent to carry out an action in the future; the justification can be either something that is happening (present) or has happened (past).
 - The present/future tense is placed at the back of the sentence (action/intent/suggestion/request/etc).
 - You can attach ~(으)니까 to a past tense verb/descriptive verb (adjective)
+- 
