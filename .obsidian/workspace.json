@@ -83,7 +83,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "문법/비롯해서.md",
+                "file": "문법/in case of.md",
                 "mode": "source",
                 "source": false
               }
@@ -119,7 +119,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "대비",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -156,7 +156,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "문법/비롯해서.md",
+                "file": "문법/in case of.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -173,7 +173,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "문법/비롯해서.md",
+                "file": "문법/in case of.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -196,7 +196,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "문법/비롯해서.md"
+                "file": "문법/in case of.md"
               }
             }
           },
@@ -236,10 +236,10 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "819476c4aab7b892",
+  "active": "37e35dfd44d8e634",
   "lastOpenFiles": [
-    "수업/Untitled 11.md",
     "문법/비롯해서.md",
+    "수업/Untitled 11.md",
     "숙제/3B/textbook/50-52.md",
     "숙제/3B/textbook/43-46.md",
     "단어/상태/증상.md",
