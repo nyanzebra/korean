@@ -29,7 +29,8 @@ birds of a feather
 ## 지피 지기 백전 백승 #card
 ?
 ### 뜻
-- know other, myself, 100
+- know other, myself, 100 battle, 100 wins
 ### 예
--
+- 당신의 식습관을 제대로 알면 다이어트는 백건백승이에요
+	- if you know your eating ha
 
