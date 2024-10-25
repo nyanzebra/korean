@@ -26,4 +26,10 @@ birds of a feather
 - 나이든 세대들은 아직까지 손자를 더 선호해요
 
 
+## 지피 지기 백전 백승 #card
+?
+### 뜻
+- know other, myself, 100
+### 예
+-
 
