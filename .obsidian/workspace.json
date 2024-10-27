@@ -80,13 +80,15 @@
           {
             "id": "bfc85f7f67ebf6a0",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
                 "file": "숙제/3B/textbook/53-55.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "pinned": true
             }
           }
         ],
@@ -236,7 +238,7 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "bfc85f7f67ebf6a0",
+  "active": "37e35dfd44d8e634",
   "lastOpenFiles": [
     "문법/intimate or plain.md",
     "숙제/3B/textbook/53-55.md",
