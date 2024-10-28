@@ -107,13 +107,14 @@
             "id": "265ee2cc5410d363",
             "type": "leaf",
             "state": {
-              "type": "diff-view",
+              "type": "markdown",
               "state": {
-                "file": "단어/과학.md",
-                "staged": false
+                "file": "숙제/3B/textbook/53-55.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "git-pull-request",
-              "title": "Diff View (과학)"
+              "icon": "lucide-file",
+              "title": "53-55"
             }
           }
         ],
