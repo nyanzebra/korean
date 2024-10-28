@@ -26,4 +26,20 @@ birds of a feather
 - 나이든 세대들은 아직까지 손자를 더 선호해요
 
 
+## 지피 지기 백전 백승 #card
+?
+### 뜻
+- know other, myself, 100 battle, 100 wins
+### 예
+- 당신의 식습관을 제대로 알면 다이어트는 백건백승이에요
+	- if you know your eating habits then you will master  your diet
+
+## 사과가 나무에서 멀리 떨어지지 않아요 / 아들이랑 아버지랑 행동이 똑같아요 #card
+?
+### 뜻
+- apple doesn't fall far from tree
+### similar
+- 당신은 아버지/어머니를 꼭 닮았어요
+- 당신은 아버지와 판박이에요
+- 당신은 어머니와 붕어빵이에요
 
