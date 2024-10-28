@@ -90,19 +90,34 @@
           {
             "id": "b9bfc6f5e8a627a3",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "문법/Counting days.md",
+                "file": "문법/을까 하다 & 을까 보다.md",
                 "mode": "source",
                 "source": false
               },
+              "pinned": true,
               "icon": "lucide-file",
-              "title": "Counting days"
+              "title": "을까 하다 & 을까 보다"
+            }
+          },
+          {
+            "id": "265ee2cc5410d363",
+            "type": "leaf",
+            "state": {
+              "type": "diff-view",
+              "state": {
+                "file": "사자성어/ㄱ.md",
+                "staged": false
+              },
+              "icon": "git-pull-request",
+              "title": "Diff View (ㄱ)"
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -227,16 +242,6 @@
             }
           },
           {
-            "id": "7744e6238ecdac04",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
-            }
-          },
-          {
             "id": "a8ef2f75a25bba8e",
             "type": "leaf",
             "state": {
@@ -247,17 +252,7 @@
             }
           },
           {
-            "id": "18cf94b2bd6b8bc4",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
-            }
-          },
-          {
-            "id": "b8c800959230a2ca",
+            "id": "1eb83fc5a8739e0c",
             "type": "leaf",
             "state": {
               "type": "review-queue-list-view",
@@ -265,14 +260,23 @@
               "icon": "SpacedRepIcon",
               "title": "Notes Review Queue"
             }
+          },
+          {
+            "id": "4eafdec3f5dff264",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
         ],
-        "currentTab": 7
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -283,19 +287,27 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-spaced-repetition:Review flashcards": false
+      "obsidian-spaced-repetition:Review flashcards": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "37e35dfd44d8e634",
+  "active": "265ee2cc5410d363",
   "lastOpenFiles": [
     "숙제/3B/textbook/50-52.md",
+    "Joplin/문법/느라고.md",
+    "Joplin/문법/답시고.md",
+    "Joplin/문법/치고.md",
+    "문법/는 한.md",
+    "문법/을까 하다 & 을까 보다.md",
+    "문법/도록.md",
+    "문법/봤자 & 다고 (해도).md",
+    "문법/Counting days.md",
     "수업/Untitled 10.md",
     "단어/장소/병원.md",
     "단어/상태/증상.md",
     "단어/장소/집.md",
     "숙제/3A/workbook/1 과.md",
     "숙제/3B/workbook/1과.md",
-    "문법/봤자 & 다고 (해도).md",
     "문법/다고 치다.md",
     "문법/in case of.md",
     "문법/다(가) 보니(까), 고 보니, 아 보니(까), 다(가) 보면, 고 보면.md",
@@ -307,14 +319,7 @@
     "숙제/3B/textbook/43-46.md",
     "conflict-files-obsidian-git.md",
     "숙제/3B/textbook/40-42.md",
-    "문법/causitive.md",
-    "문법/Counting days.md",
-    "문법/기 나름이다.md",
-    "문법/던.md",
-    "단어/해부.md",
-    "단어/기계/집.md",
     "단어/기계",
-    "단어/과학.md",
     "숙제/3B/textbook",
     "숙제/3A/textbook",
     "숙제/3A/workbook",

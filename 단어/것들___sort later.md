@@ -4,6 +4,7 @@
 - subjective
 ### 예
 -
+<!--SR:!2024-10-26,2,226-->
 
 ## 객관적 #card
 ?
@@ -42,6 +43,7 @@
 	- decide on priority ranked things
 - 날짜를 매기다
 	- decide on a date
+<!--SR:!2024-10-25,1,208-->
 
 ## 그럭저럭 #card
 ?
@@ -62,7 +64,7 @@
 	- regardless of quantity
 - 학력을 불문하고
 	- regardless of education
-<!--SR:!2024-10-23,19,217-->
+<!--SR:!2024-11-02,9,197-->
 
 
 ## 그나저나 #card
@@ -136,7 +138,7 @@
 	- I was all ears[attention] so as not to miss a single word.
 - 곱게 차려 입다
 	- dress oneself beautifully/be finely dressed.
-<!--SR:!2024-10-24,21,228-->
+<!--SR:!2024-12-12,49,228-->
 
 ## 억누르다 #card
 ?
@@ -165,7 +167,7 @@
   - ominous dream
 - 그가 곧 죽는 것이나 아닐까 하는 불길한 예감이 든다
   - I have a premonition[an uneasy feeling] that he will die before long.
-<!--SR:!2024-10-12,1,130-->
+<!--SR:!2024-10-25,1,130-->
 
 ## 후계하다 #card
 ?
