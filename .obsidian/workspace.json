@@ -103,7 +103,8 @@
               "title": "을까 하다 & 을까 보다"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -279,8 +280,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9953151e62d3307b",
+  "active": "183bbf4380563543",
   "lastOpenFiles": [
+    "문법/다(가) 보니(까), 고 보니, 아 보니(까), 다(가) 보면, 고 보면.md",
+    "문법/in case of.md",
     "문법/봤자 & 다고 (해도).md",
     "문법/을까 하다 & 을까 보다.md",
     "숙제/3B/textbook/53-55.md",
@@ -304,8 +307,6 @@
     "숙제/3A/workbook/1 과.md",
     "숙제/3B/workbook/1과.md",
     "문법/다고 치다.md",
-    "문법/in case of.md",
-    "문법/다(가) 보니(까), 고 보니, 아 보니(까), 다(가) 보면, 고 보면.md",
     "문법/(으)나 마나.md",
     "단어/기계",
     "숙제/3B/textbook",
