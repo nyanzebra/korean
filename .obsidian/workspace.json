@@ -135,7 +135,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "professional",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
