@@ -18,7 +18,9 @@
                 "mode": "source",
                 "source": false
               },
-              "pinned": true
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "in case of"
             }
           },
           {
@@ -32,7 +34,9 @@
                 "mode": "source",
                 "source": false
               },
-              "pinned": true
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "다(가) 보니(까), 고 보니, 아 보니(까), 다(가) 보면, 고 보면"
             }
           },
           {
@@ -46,7 +50,9 @@
                 "mode": "source",
                 "source": false
               },
-              "pinned": true
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "(으)나 마나"
             }
           },
           {
@@ -60,7 +66,9 @@
                 "mode": "source",
                 "source": false
               },
-              "pinned": true
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "다고 치다"
             }
           },
           {
@@ -74,21 +82,25 @@
                 "mode": "source",
                 "source": false
               },
-              "pinned": true
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "봤자 & 다고 (해도)"
             }
           },
           {
-            "id": "bfc85f7f67ebf6a0",
+            "id": "b9bfc6f5e8a627a3",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "숙제/3B/textbook/53-55.md",
+                "file": "문법/을까 하다 & 을까 보다.md",
                 "mode": "source",
                 "source": false
               },
-              "pinned": true
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "을까 하다 & 을까 보다"
             }
           }
         ],
@@ -112,7 +124,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -121,13 +135,15 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "대비",
+                "query": "짓",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -135,7 +151,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
@@ -158,7 +176,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "숙제/3B/textbook/53-55.md",
+                "file": "문법/Counting days.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -166,7 +184,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Counting days"
             }
           },
           {
@@ -175,10 +195,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "숙제/3B/textbook/53-55.md",
+                "file": "문법/Counting days.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Counting days"
             }
           },
           {
@@ -189,7 +211,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -198,16 +222,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "숙제/3B/textbook/53-55.md"
-              }
-            }
-          },
-          {
-            "id": "7744e6238ecdac04",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {}
+                "file": "문법/Counting days.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Counting days"
             }
           },
           {
@@ -215,11 +233,33 @@
             "type": "leaf",
             "state": {
               "type": "advanced-tables-toolbar",
-              "state": {}
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
+            }
+          },
+          {
+            "id": "1eb83fc5a8739e0c",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "SpacedRepIcon",
+              "title": "Notes Review Queue"
+            }
+          },
+          {
+            "id": "4eafdec3f5dff264",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
@@ -235,37 +275,38 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-spaced-repetition:Review flashcards": false
+      "obsidian-spaced-repetition:Review flashcards": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "37e35dfd44d8e634",
+  "active": "b9bfc6f5e8a627a3",
   "lastOpenFiles": [
-    "문법/도록.md",
-    "문법/는 한.md",
-    "문법/intimate or plain.md",
     "숙제/3B/textbook/53-55.md",
-    "phrases/proverbs.md",
+    "conflict-files-obsidian-git.md",
+    "수업/Untitled 11.md",
+    "문법/서 vs 으니까.md",
     "문법/비롯해서.md",
     "문법/거든.md",
-    "문법/서 vs 으니까.md",
-    "문법/in case of.md",
-    "수업/Untitled 11.md",
+    "문법/intimate or plain.md",
     "숙제/3B/textbook/50-52.md",
-    "숙제/3B/textbook/43-46.md",
-    "단어/상태/증상.md",
-    "단어/상태/개인.md",
-    "단어/장소/병원.md",
-    "사자성어/ㄱ.md",
+    "Joplin/문법/느라고.md",
+    "Joplin/문법/답시고.md",
+    "Joplin/문법/치고.md",
+    "문법/는 한.md",
+    "문법/을까 하다 & 을까 보다.md",
+    "문법/도록.md",
     "문법/봤자 & 다고 (해도).md",
-    "단어/추상적인 것/감정.md",
+    "문법/Counting days.md",
     "수업/Untitled 10.md",
+    "단어/장소/병원.md",
+    "단어/상태/증상.md",
     "단어/장소/집.md",
     "숙제/3A/workbook/1 과.md",
     "숙제/3B/workbook/1과.md",
     "문법/다고 치다.md",
+    "문법/in case of.md",
     "문법/다(가) 보니(까), 고 보니, 아 보니(까), 다(가) 보면, 고 보면.md",
     "문법/(으)나 마나.md",
-    "문법/단 말이에요.md",
     "단어/기계",
     "숙제/3B/textbook",
     "숙제/3A/textbook",
