@@ -135,7 +135,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "짓",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -156,7 +156,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -279,7 +280,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b9bfc6f5e8a627a3",
+  "active": "0a3a0e6033d1b09d",
   "lastOpenFiles": [
     "숙제/3B/textbook/53-55.md",
     "conflict-files-obsidian-git.md",
