@@ -134,9 +134,23 @@
               "icon": "lucide-file",
               "title": "도록"
             }
+          },
+          {
+            "id": "951830c770b7cb23",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Topik/Grammar Checklist.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Grammar Checklist"
+            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -312,10 +326,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "06d87823c4eadbf3",
+  "active": "951830c770b7cb23",
   "lastOpenFiles": [
-    "문법/도록.md",
     "Joplin/문법/make & let.md",
+    "문법/도록.md",
     "Joplin/sort later/2.md",
     "문법/(으)나 마나.md",
     "수업/Untitled 12.md",
