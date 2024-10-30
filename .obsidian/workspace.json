@@ -135,7 +135,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "professional",
+                "query": "organ",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -280,7 +280,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "183bbf4380563543",
+  "active": "0a3a0e6033d1b09d",
   "lastOpenFiles": [
     "수업/Untitled 12.md",
     "문법/다(가) 보니(까), 고 보니, 아 보니(까), 다(가) 보면, 고 보면.md",
