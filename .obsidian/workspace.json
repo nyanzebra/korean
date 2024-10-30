@@ -102,21 +102,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "c0ec7150c1462f04",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 7
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -182,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "수업/Untitled 12.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -199,7 +187,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "수업/Untitled 12.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -222,7 +210,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "conflict-files-obsidian-git.md"
+                "file": "수업/Untitled 12.md"
               }
             }
           },
@@ -262,7 +250,7 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "c0ec7150c1462f04",
+  "active": "5a96e5c71a626d21",
   "lastOpenFiles": [
     "conflict-files-obsidian-git.md",
     "수업/Untitled 12.md",
