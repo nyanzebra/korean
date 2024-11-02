@@ -95,7 +95,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Joplin/문법/make & let.md",
+                "file": "문법/도록.md",
                 "mode": "source",
                 "source": false
               }
@@ -168,7 +168,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Joplin/문법/make & let.md",
+                "file": "문법/도록.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -185,7 +185,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Joplin/문법/make & let.md",
+                "file": "문법/도록.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -208,7 +208,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Joplin/문법/make & let.md"
+                "file": "문법/도록.md"
               }
             }
           },
@@ -250,6 +250,8 @@
   },
   "active": "7ff5971d16ea7f24",
   "lastOpenFiles": [
+    "문법/를 위하다 & 기(를) 위하다.md",
+    "Joplin/문법/make & let.md",
     "문법/봤자 & 다고 (해도).md",
     "숙제/3B/textbook/53-55.md",
     "숙제/3B/textbook/56-60.md",
@@ -274,8 +276,6 @@
     "수업/Untitled 10.md",
     "단어/장소/집.md",
     "숙제/3A/workbook/1 과.md",
-    "숙제/3B/workbook/1과.md",
-    "문법/다고 치다.md",
     "단어/기계",
     "숙제/3B/textbook",
     "숙제/3A/textbook",
