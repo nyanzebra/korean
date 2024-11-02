@@ -78,26 +78,24 @@
             }
           },
           {
-            "id": "bfc85f7f67ebf6a0",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "숙제/3B/textbook/53-55.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true
-            }
-          },
-          {
             "id": "5a96e5c71a626d21",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "숙제/3B/textbook/56-60.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7ff5971d16ea7f24",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Joplin/문법/make & let.md",
                 "mode": "source",
                 "source": false
               }
@@ -154,7 +152,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "b1471ea056cf348b",
@@ -170,7 +169,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "숙제/3B/textbook/56-60.md",
+                "file": "Joplin/문법/make & let.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,7 +186,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "숙제/3B/textbook/56-60.md",
+                "file": "Joplin/문법/make & let.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -210,7 +209,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "숙제/3B/textbook/56-60.md"
+                "file": "Joplin/문법/make & let.md"
               }
             }
           },
@@ -250,12 +249,13 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "5a96e5c71a626d21",
+  "active": "7ff5971d16ea7f24",
   "lastOpenFiles": [
-    "수업/Untitled 12.md",
-    "숙제/3B/textbook/56-60.md",
-    "conflict-files-obsidian-git.md",
+    "문법/봤자 & 다고 (해도).md",
     "숙제/3B/textbook/53-55.md",
+    "숙제/3B/textbook/56-60.md",
+    "수업/Untitled 12.md",
+    "conflict-files-obsidian-git.md",
     "문법/도록.md",
     "문법/는 한.md",
     "문법/intimate or plain.md",
@@ -271,7 +271,6 @@
     "단어/상태/개인.md",
     "단어/장소/병원.md",
     "사자성어/ㄱ.md",
-    "문법/봤자 & 다고 (해도).md",
     "단어/추상적인 것/감정.md",
     "수업/Untitled 10.md",
     "단어/장소/집.md",
