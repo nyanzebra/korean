@@ -83,7 +83,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "숙제/3B/textbook/56-60.md",
+                "file": "문법/는지.md",
                 "mode": "source",
                 "source": false
               }
@@ -168,7 +168,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "숙제/3B/textbook/56-60.md",
+                "file": "문법/는지.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -185,7 +185,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "숙제/3B/textbook/56-60.md",
+                "file": "문법/는지.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -208,7 +208,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "숙제/3B/textbook/56-60.md"
+                "file": "문법/는지.md"
               }
             }
           },
@@ -250,13 +250,14 @@
   },
   "active": "5a96e5c71a626d21",
   "lastOpenFiles": [
+    "숙제/3B/textbook/56-60.md",
+    "문법/는지.md",
     "문법/에 의하다.md",
     "문법/도록.md",
     "문법/를 위하다 & 기(를) 위하다.md",
     "Joplin/문법/make & let.md",
     "문법/봤자 & 다고 (해도).md",
     "숙제/3B/textbook/53-55.md",
-    "숙제/3B/textbook/56-60.md",
     "수업/Untitled 12.md",
     "conflict-files-obsidian-git.md",
     "문법/는 한.md",
@@ -275,7 +276,6 @@
     "사자성어/ㄱ.md",
     "단어/추상적인 것/감정.md",
     "수업/Untitled 10.md",
-    "단어/장소/집.md",
     "단어/기계",
     "숙제/3B/textbook",
     "숙제/3A/textbook",
