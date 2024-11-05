@@ -95,7 +95,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "문법/에 의하다.md",
+                "file": "숙제/3B/workbook/1과.md",
                 "mode": "source",
                 "source": false
               }
@@ -168,7 +168,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "문법/에 의하다.md",
+                "file": "숙제/3B/workbook/1과.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -185,7 +185,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "문법/에 의하다.md",
+                "file": "숙제/3B/workbook/1과.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -208,7 +208,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "문법/에 의하다.md"
+                "file": "숙제/3B/workbook/1과.md"
               }
             }
           },
@@ -250,6 +250,9 @@
   },
   "active": "51a06afa89ec57bb",
   "lastOpenFiles": [
+    "숙제/3A/workbook/1 과.md",
+    "숙제/3B/workbook/1과.md",
+    "문법/에 의하다.md",
     "문법/수록.md",
     "문법/텐데.md",
     "Joplin/문법/도록.md",
@@ -257,7 +260,6 @@
     "문법/는데.md",
     "문법/는지.md",
     "숙제/3B/textbook/56-60.md",
-    "문법/에 의하다.md",
     "문법/도록.md",
     "문법/를 위하다 & 기(를) 위하다.md",
     "Joplin/문법/make & let.md",
@@ -274,8 +276,6 @@
     "문법/in case of.md",
     "수업/Untitled 11.md",
     "숙제/3B/textbook/50-52.md",
-    "숙제/3B/textbook/43-46.md",
-    "단어/상태/증상.md",
     "단어/기계",
     "숙제/3B/textbook",
     "숙제/3A/textbook",
