@@ -83,7 +83,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "문법/텐데.md",
+                "file": "문법/수록.md",
                 "mode": "source",
                 "source": false
               }
@@ -168,7 +168,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "문법/텐데.md",
+                "file": "문법/수록.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -185,7 +185,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "문법/텐데.md",
+                "file": "문법/수록.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -208,7 +208,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "문법/텐데.md"
+                "file": "문법/수록.md"
               }
             }
           },
@@ -250,8 +250,10 @@
   },
   "active": "5a96e5c71a626d21",
   "lastOpenFiles": [
-    "문법/는 데.md",
     "문법/텐데.md",
+    "문법/수록.md",
+    "Joplin/문법/도록.md",
+    "문법/는 데.md",
     "문법/는데.md",
     "문법/는지.md",
     "숙제/3B/textbook/56-60.md",
@@ -274,8 +276,6 @@
     "숙제/3B/textbook/50-52.md",
     "숙제/3B/textbook/43-46.md",
     "단어/상태/증상.md",
-    "단어/상태/개인.md",
-    "단어/장소/병원.md",
     "단어/기계",
     "숙제/3B/textbook",
     "숙제/3A/textbook",
