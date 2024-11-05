@@ -95,7 +95,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "숙제/3B/workbook/1과.md",
+                "file": "숙제/3B/workbook/2과 - fixed.md",
                 "mode": "source",
                 "source": false
               }
@@ -168,7 +168,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "숙제/3B/workbook/1과.md",
+                "file": "숙제/3B/workbook/2과 - fixed.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -185,7 +185,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "숙제/3B/workbook/1과.md",
+                "file": "숙제/3B/workbook/2과 - fixed.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -208,7 +208,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "숙제/3B/workbook/1과.md"
+                "file": "숙제/3B/workbook/2과 - fixed.md"
               }
             }
           },
@@ -250,8 +250,9 @@
   },
   "active": "51a06afa89ec57bb",
   "lastOpenFiles": [
-    "숙제/3A/workbook/1 과.md",
     "숙제/3B/workbook/1과.md",
+    "숙제/3B/workbook/2과 - fixed.md",
+    "숙제/3A/workbook/1 과.md",
     "문법/에 의하다.md",
     "문법/수록.md",
     "문법/텐데.md",
@@ -275,7 +276,6 @@
     "문법/서 vs 으니까.md",
     "문법/in case of.md",
     "수업/Untitled 11.md",
-    "숙제/3B/textbook/50-52.md",
     "단어/기계",
     "숙제/3B/textbook",
     "숙제/3A/textbook",
