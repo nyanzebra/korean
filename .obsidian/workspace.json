@@ -83,7 +83,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "문법/Counters.md",
+                "file": "문법/텐데.md",
                 "mode": "source",
                 "source": false
               }
@@ -156,7 +156,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "문법/Counters.md",
+                "file": "문법/텐데.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -173,7 +173,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "문법/Counters.md",
+                "file": "문법/텐데.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -196,7 +196,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "문법/Counters.md"
+                "file": "문법/텐데.md"
               }
             }
           },
@@ -238,6 +238,7 @@
   },
   "active": "71902beb5e1d1818",
   "lastOpenFiles": [
+    "문법/Counters.md",
     "문법/서 죽겠다.md",
     "문법/대로.md",
     "문법/봤자 & 다고 (해도).md",
@@ -263,7 +264,6 @@
     "문법/는 한.md",
     "문법/intimate or plain.md",
     "phrases/proverbs.md",
-    "문법/비롯해서.md",
     "단어/기계",
     "숙제/3B/textbook",
     "숙제/3A/textbook",
