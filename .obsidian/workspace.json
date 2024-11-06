@@ -88,21 +88,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "51a06afa89ec57bb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "숙제/3B/textbook/56-60.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -152,8 +140,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "b1471ea056cf348b",
@@ -169,7 +156,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "숙제/3B/textbook/56-60.md",
+                "file": "문법/수록.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -186,7 +173,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "숙제/3B/textbook/56-60.md",
+                "file": "문법/수록.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -209,7 +196,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "숙제/3B/textbook/56-60.md"
+                "file": "문법/수록.md"
               }
             }
           },
@@ -249,8 +236,9 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "37e35dfd44d8e634",
+  "active": "5a96e5c71a626d21",
   "lastOpenFiles": [
+    "숙제/3B/textbook/56-60.md",
     "숙제/3B/workbook/2과 - fixed.md",
     "숙제/3B/workbook/1과.md",
     "숙제/3A/workbook/1 과.md",
@@ -261,7 +249,6 @@
     "문법/는 데.md",
     "문법/는데.md",
     "문법/는지.md",
-    "숙제/3B/textbook/56-60.md",
     "문법/도록.md",
     "문법/를 위하다 & 기(를) 위하다.md",
     "Joplin/문법/make & let.md",
