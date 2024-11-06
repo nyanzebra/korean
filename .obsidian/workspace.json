@@ -95,7 +95,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "숙제/3B/workbook/2과 - fixed.md",
+                "file": "숙제/3B/textbook/56-60.md",
                 "mode": "source",
                 "source": false
               }
@@ -169,7 +169,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "숙제/3B/workbook/2과 - fixed.md",
+                "file": "숙제/3B/textbook/56-60.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -186,7 +186,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "숙제/3B/workbook/2과 - fixed.md",
+                "file": "숙제/3B/textbook/56-60.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -209,7 +209,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "숙제/3B/workbook/2과 - fixed.md"
+                "file": "숙제/3B/textbook/56-60.md"
               }
             }
           },
@@ -249,10 +249,10 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "51a06afa89ec57bb",
+  "active": "37e35dfd44d8e634",
   "lastOpenFiles": [
-    "숙제/3B/workbook/1과.md",
     "숙제/3B/workbook/2과 - fixed.md",
+    "숙제/3B/workbook/1과.md",
     "숙제/3A/workbook/1 과.md",
     "문법/에 의하다.md",
     "문법/수록.md",
