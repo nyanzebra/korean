@@ -119,7 +119,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "불",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -136,7 +136,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -236,7 +237,7 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "71902beb5e1d1818",
+  "active": "0a3a0e6033d1b09d",
   "lastOpenFiles": [
     "문법/Counters.md",
     "문법/서 죽겠다.md",
