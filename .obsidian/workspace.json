@@ -119,7 +119,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "불",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -141,7 +141,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "b1471ea056cf348b",
