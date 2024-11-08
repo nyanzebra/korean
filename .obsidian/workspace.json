@@ -95,7 +95,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "단어/부사.md",
+                "file": "문법/in case of.md",
                 "mode": "source",
                 "source": false
               }
@@ -168,7 +168,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "단어/부사.md",
+                "file": "문법/in case of.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -185,7 +185,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "단어/부사.md",
+                "file": "문법/in case of.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -208,7 +208,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "단어/부사.md"
+                "file": "문법/in case of.md"
               }
             }
           },
@@ -250,10 +250,10 @@
   },
   "active": "e21d858365122aab",
   "lastOpenFiles": [
+    "단어/부사.md",
     "문법/다(가) 보니(까), 고 보니, 아 보니(까), 다(가) 보면, 고 보면.md",
     "문법/in case of.md",
     "Joplin/단어/helping words.md",
-    "단어/부사.md",
     "단어/상태/개인.md",
     "단어/상태/증상.md",
     "단어/추상적인 것/생각___마음.md",
