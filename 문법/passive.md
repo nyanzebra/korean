@@ -79,3 +79,5 @@ If there are not matching passive verbs, then add -아/어/여지다 after a ver
 |이루다|**이루어지다**|소원이 이루어질 거예요. Your dream will be come true.|
 
 Passive voice is often confusing with causative sentences which are ‘make/have/let someone do’, but they are different.
+
+https://www.koreanwikiproject.com/wiki/Passive_form

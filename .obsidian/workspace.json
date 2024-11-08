@@ -83,7 +83,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "문법/텐데.md",
+                "file": "문법/causitive.md",
                 "mode": "source",
                 "source": false
               }
@@ -136,13 +136,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "b1471ea056cf348b",
@@ -158,7 +156,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "문법/텐데.md",
+                "file": "문법/causitive.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +173,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "문법/텐데.md",
+                "file": "문법/causitive.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -198,7 +196,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "문법/텐데.md"
+                "file": "문법/causitive.md"
               }
             }
           },
@@ -238,8 +236,10 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "0a3a0e6033d1b09d",
+  "active": "71902beb5e1d1818",
   "lastOpenFiles": [
+    "문법/passive.md",
+    "문법/텐데.md",
     "문법/Counters.md",
     "문법/서 죽겠다.md",
     "문법/대로.md",
@@ -252,7 +252,6 @@
     "숙제/3B/workbook/1과.md",
     "숙제/3A/workbook/1 과.md",
     "문법/에 의하다.md",
-    "문법/텐데.md",
     "Joplin/문법/도록.md",
     "문법/는 데.md",
     "문법/는데.md",
@@ -265,7 +264,6 @@
     "conflict-files-obsidian-git.md",
     "문법/는 한.md",
     "문법/intimate or plain.md",
-    "phrases/proverbs.md",
     "단어/기계",
     "숙제/3B/textbook",
     "숙제/3A/textbook",

@@ -96,3 +96,5 @@ Let’s look at causative verbs first. Causative verbs are already fixed, they h
 # Verb+게 하다
 
 As I said above, if you use -게 하다, it usually means a subject orders/commands/tells an object to do the action. For example, **엄마가 아기한테 밥을 먹여요. (먹이다 is the causative verb for 먹다) : In this sentence, the mom is using her hand and feeding the baby. The baby doesn’t do anything except for opening the mouth 🙂**  **엄마가 아이한테 밥을 먹게 했어요. (먹게 하다 is indirect causative by ordering) : In this sentence, the mom told the kid to eat (by him/herself).**  아빠가 아기를 재워요. (재우다 is the causative verb for 자다) : We can imagine that the dad is holding the baby, maybe the dad is singing a lullaby or he is reading a book to put the baby to sleep. 고양이가 저를 못 자게 해요. (자게 하다 is indirect causative by ordering) :  In this sentence, we can imagine that the cat is meowing(maybe shouting) at me and let me not sleep
+
+https://a-pop-of-korean.tumblr.com/post/615919387050950656/level-8-lesson-3-causative-verbs
