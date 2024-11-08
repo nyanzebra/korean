@@ -95,7 +95,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "문법/in case of.md",
+                "file": "문법/Nominalization (todo).md",
                 "mode": "source",
                 "source": false
               }
@@ -168,7 +168,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "문법/in case of.md",
+                "file": "문법/Nominalization (todo).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -185,7 +185,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "문법/in case of.md",
+                "file": "문법/Nominalization (todo).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -208,7 +208,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "문법/in case of.md"
+                "file": "문법/Nominalization (todo).md"
               }
             }
           },
@@ -248,11 +248,12 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "37e35dfd44d8e634",
+  "active": "e21d858365122aab",
   "lastOpenFiles": [
+    "문법/in case of.md",
+    "문법/Nominalization (todo).md",
     "단어/부사.md",
     "문법/다(가) 보니(까), 고 보니, 아 보니(까), 다(가) 보면, 고 보면.md",
-    "문법/in case of.md",
     "Joplin/단어/helping words.md",
     "단어/상태/개인.md",
     "단어/상태/증상.md",
@@ -275,7 +276,6 @@
     "숙제/3B/workbook/2과 - fixed.md",
     "숙제/3B/workbook/1과.md",
     "숙제/3A/workbook/1 과.md",
-    "문법/에 의하다.md",
     "단어/기계",
     "숙제/3B/textbook",
     "숙제/3A/textbook",
