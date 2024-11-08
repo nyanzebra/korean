@@ -83,7 +83,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "단어/Untitled.md",
+                "file": "단어/부사.md",
                 "mode": "source",
                 "source": false
               }
@@ -156,7 +156,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "단어/Untitled.md",
+                "file": "단어/부사.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -173,7 +173,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "단어/Untitled.md",
+                "file": "단어/부사.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -196,7 +196,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "단어/Untitled.md"
+                "file": "단어/부사.md"
               }
             }
           },
@@ -239,7 +239,7 @@
   "active": "71902beb5e1d1818",
   "lastOpenFiles": [
     "단어/상태/개인.md",
-    "단어/Untitled.md",
+    "단어/부사.md",
     "단어/상태/증상.md",
     "단어/추상적인 것/생각___마음.md",
     "단어/추상적인 것/감정.md",
