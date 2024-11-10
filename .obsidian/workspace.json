@@ -95,7 +95,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "숙제/3B/textbook/56-60.md",
+                "file": "숙제/3B/textbook/56-60 Fixed.md",
                 "mode": "source",
                 "source": false
               }
@@ -152,8 +152,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "b1471ea056cf348b",
@@ -169,7 +168,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "숙제/3B/textbook/56-60.md",
+                "file": "숙제/3B/textbook/56-60 Fixed.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -186,7 +185,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "숙제/3B/textbook/56-60.md",
+                "file": "숙제/3B/textbook/56-60 Fixed.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -209,7 +208,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "숙제/3B/textbook/56-60.md"
+                "file": "숙제/3B/textbook/56-60 Fixed.md"
               }
             }
           },
@@ -249,8 +248,10 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "37e35dfd44d8e634",
+  "active": "e21d858365122aab",
   "lastOpenFiles": [
+    "숙제/3B/textbook/56-60.md",
+    "숙제/3B/textbook/56-60 Fixed.md",
     "수업/Untitled 13.md",
     "문법/다는것 & 라는것.md",
     "문법/Nominalization (todo).md",
@@ -275,8 +276,6 @@
     "문법/기도 하고.md",
     "문법/다니.md",
     "문법/수록.md",
-    "숙제/3B/textbook/56-60.md",
-    "숙제/3B/workbook/2과 - fixed.md",
     "단어/기계",
     "숙제/3B/textbook",
     "숙제/3A/textbook",
