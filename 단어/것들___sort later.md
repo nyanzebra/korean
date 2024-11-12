@@ -43,7 +43,7 @@
 	- decide on priority ranked things
 - 날짜를 매기다
 	- decide on a date
-<!--SR:!2024-11-03,2,208-->
+<!--SR:!2024-11-16,4,208-->
 
 ## 그럭저럭 #card
 ?
