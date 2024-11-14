@@ -24,12 +24,16 @@
 -
 <!--SR:!2024-11-15,1,225-->
 
-## 단어 #card
+## 꾸준하다 #card
 ?
 ### 뜻
--
+- steady
+- constant
+- consistent
 ### 예
--
+- 꾸준한 노력으로만 성공할 수 있는 것이다
+	- You will succeed only with unceasing[untiring/persistent] effort.
+- 
 
 ## 단어 #card
 ?
