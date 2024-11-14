@@ -19,9 +19,13 @@
 ## 각각 #card
 ?
 ### 뜻
-- 
+- each
+- respectively
+- individually
+- 각각으로 - moment by moment, hour by hour
 ### 예
--
+- 각각 입장권을 지참할 것
+	- 
 <!--SR:!2024-11-15,1,225-->
 
 ## 꾸준하다 #card
