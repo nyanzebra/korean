@@ -25,7 +25,11 @@
 - 각각으로 - moment by moment, hour by hour
 ### 예
 - 각각 입장권을 지참할 것
-	- 
+	- Each (is expected) to bring his (own) ticket.
+- 우리는 각각 자기 방이 있다
+	- Each one of us has a room to himself/We each have our own room.
+- 이 두 문제는 각각 별도로 생각해야 한다
+	- The two problems have to be considered separately.
 <!--SR:!2024-11-15,1,225-->
 
 ## 꾸준하다 #card
