@@ -203,6 +203,8 @@
 	- regardless of whether I see it or not, it is the same
 - 날마다 마찬가지였다
 	- every day was the same
+- 그것은 있거나 없거나 마찬가지다
+	- whether I have it or not, it is the same
 
 
 
