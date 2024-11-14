@@ -83,7 +83,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "단어/색깔.md",
+                "file": "단어/것들___sort later.md",
                 "mode": "source",
                 "source": false
               }
@@ -156,7 +156,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "단어/색깔.md",
+                "file": "단어/것들___sort later.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -173,7 +173,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "단어/색깔.md",
+                "file": "단어/것들___sort later.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -196,7 +196,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "단어/색깔.md"
+                "file": "단어/것들___sort later.md"
               }
             }
           },
@@ -238,8 +238,8 @@
   },
   "active": "71902beb5e1d1818",
   "lastOpenFiles": [
-    "Joplin/단어/helping words.md",
     "단어/색깔.md",
+    "Joplin/단어/helping words.md",
     "문법/로 인하다.md",
     "숙제/3B/textbook/62-64.md",
     "문법/락 말락 하다.md",

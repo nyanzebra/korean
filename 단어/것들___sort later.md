@@ -193,4 +193,13 @@
   - Pets make excellent companions and can be a welcome addition to any family.
 <!--SR:!2024-12-14,36,208-->
 
+## 단어 #card
+?
+### 뜻
+-
+### 예
+-
+
+
+
 불다 blow 부르다 call 버리다 toss/completely 벌다 earn
