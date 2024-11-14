@@ -16,10 +16,10 @@
 	- So what I did was, I went through and I prioritized that list.
 <!--SR:!2025-01-26,75,270-->
 
-## 단어 #card
+## 각각 #card
 ?
 ### 뜻
--
+- 
 ### 예
 -
 <!--SR:!2024-11-15,1,225-->

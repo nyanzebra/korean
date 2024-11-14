@@ -13,7 +13,7 @@
 마침내 vs 결국 vs 급기야
 finally, in the end, even (slight negative connotation)
 
-각각 - individually
+ - individually
 각자 - individual
 따로 - separately/apart
 서로 - each other
