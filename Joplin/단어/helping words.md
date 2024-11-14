@@ -14,7 +14,6 @@
 finally, in the end, even (slight negative connotation)
 
 
-서로 - each other
 미리 - in advance
 스스로 - oneself, personally
 

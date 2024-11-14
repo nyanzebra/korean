@@ -83,7 +83,7 @@
 - 우리는 서로의 차이점을 존중해 주어야 합니다.
 	- We have to respect each other's differences.
 - 그 두 극장은 아주 비슷한 영화로 서로 더 많은 관중을 끌어들이려고 한다
-	- 
+	- The two theaters are trying to out draw each other with very similar films.
 
 ## 단어 #card
 ?
