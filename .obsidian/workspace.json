@@ -83,7 +83,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Joplin/단어/helping words.md",
+                "file": "단어/색깔.md",
                 "mode": "source",
                 "source": false
               }
@@ -156,7 +156,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Joplin/단어/helping words.md",
+                "file": "단어/색깔.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -173,7 +173,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Joplin/단어/helping words.md",
+                "file": "단어/색깔.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -196,7 +196,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Joplin/단어/helping words.md"
+                "file": "단어/색깔.md"
               }
             }
           },
@@ -238,6 +238,8 @@
   },
   "active": "71902beb5e1d1818",
   "lastOpenFiles": [
+    "Joplin/단어/helping words.md",
+    "단어/색깔.md",
     "문법/로 인하다.md",
     "숙제/3B/textbook/62-64.md",
     "문법/락 말락 하다.md",
@@ -254,7 +256,6 @@
     "문법/Nominalization (todo).md",
     "단어/부사.md",
     "문법/다(가) 보니(까), 고 보니, 아 보니(까), 다(가) 보면, 고 보면.md",
-    "Joplin/단어/helping words.md",
     "단어/상태/개인.md",
     "단어/상태/증상.md",
     "단어/추상적인 것/생각___마음.md",
@@ -263,7 +264,6 @@
     "단어/전자 기기.md",
     "단어/대명사.md",
     "문법/causitive.md",
-    "문법/passive.md",
     "단어/기계",
     "숙제/3B/textbook",
     "숙제/3A/textbook",
