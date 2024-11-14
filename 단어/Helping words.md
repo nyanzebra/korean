@@ -46,10 +46,11 @@
 - 그러나 올 한 해 대부분은 성장이 느리지만 꾸준하게 유지될 것이다.
 	- However, the growth should remain slow but steady for much of the year.
 
-## 단어 #card
+## 각자 #card
 ?
 ### 뜻
--
+- each
+- one's own
 ### 예
 -
 
