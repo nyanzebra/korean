@@ -193,12 +193,15 @@
   - Pets make excellent companions and can be a welcome addition to any family.
 <!--SR:!2024-12-14,36,208-->
 
-## 단어 #card
+## 마찬가지 #card
 ?
 ### 뜻
--
+- same
+- likewise
 ### 예
--
+- 보나 마나 마찬가지다
+	- regardless of whether I see it or not, it is the same
+- 
 
 
 
