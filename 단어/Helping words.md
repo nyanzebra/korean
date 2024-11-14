@@ -72,12 +72,18 @@
 - 물건을 각각 따로 두다
 	- keep things apart.
 
-## 단어 #card
+## 서로 #card
 ?
 ### 뜻
--
+- each other
+- together
 ### 예
--
+- 서로가 바흐의 음악을 좋아한 것 때문에 그 두 사람은 결합되었다
+	- A common love of Bach's music brought the couple together.
+- 우리는 서로의 차이점을 존중해 주어야 합니다.
+	- We have to respect each other's differences.
+- 그 두 극장은 아주 비슷한 영화로 서로 더 많은 관중을 끌어들이려고 한다
+	- 
 
 ## 단어 #card
 ?
