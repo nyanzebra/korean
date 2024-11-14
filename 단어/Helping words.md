@@ -68,7 +68,9 @@
 - 더 좋은 좌석을 원하시면 따로 돈을 내야 합니다
 	- You have to pay extra for a better seat.
 - 교육비조로 돈을 따로 제쳐놓다
-	- 
+	- put money apart for educational expenses.
+- 물건을 각각 따로 두다
+	- keep things apart.
 
 ## 단어 #card
 ?
