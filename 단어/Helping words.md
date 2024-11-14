@@ -59,12 +59,16 @@
 - 홍수 경보가 내렸으므로 마을 사람들은 각자의 집을 비우고 피난했다
 	- A (general) flood warning was issued, and so the villagers evacuated their houses.
 
-## 단어 #card
+## 따로 #card
 ?
 ### 뜻
--
+- separately
+- aside
 ### 예
--
+- 더 좋은 좌석을 원하시면 따로 돈을 내야 합니다
+	- You have to pay extra for a better seat.
+- 교육비조로 돈을 따로 제쳐놓다
+	- 
 
 ## 단어 #card
 ?
