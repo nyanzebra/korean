@@ -33,7 +33,10 @@
 ### 예
 - 꾸준한 노력으로만 성공할 수 있는 것이다
 	- You will succeed only with unceasing[untiring/persistent] effort.
-- 
+- 꾸준한 수요
+	- steady demand.
+- 그러나 올 한 해 대부분은 성장이 느리지만 꾸준하게 유지될 것이다.
+	- However, the growth should remain slow but steady for much of the year.
 
 ## 단어 #card
 ?
