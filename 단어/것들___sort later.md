@@ -201,7 +201,8 @@
 ### 예
 - 보나 마나 마찬가지다
 	- regardless of whether I see it or not, it is the same
-- 
+- 날마다 마찬가지였다
+	- every day was the same
 
 
 
