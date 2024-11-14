@@ -52,7 +52,12 @@
 - each
 - one's own
 ### 예
--
+- 나는 각자가 특기를 살릴 수 있도록 일을 그들에게 안배하려고 노력했다
+	- I tried to assign them tasks in which they could make the most of their own special abilities.
+- 우리는 각자가 의견이 다르다는 점에 동의했다
+	- We agreed to differ.
+- 홍수 경보가 내렸으므로 마을 사람들은 각자의 집을 비우고 피난했다
+	- 
 
 ## 단어 #card
 ?
