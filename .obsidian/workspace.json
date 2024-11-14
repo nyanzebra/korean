@@ -106,7 +106,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -172,7 +172,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "단어/Helping words.md",
+                "file": "Joplin/단어/helping words.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -189,7 +189,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "단어/Helping words.md",
+                "file": "Joplin/단어/helping words.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -212,7 +212,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "단어/Helping words.md"
+                "file": "Joplin/단어/helping words.md"
               }
             }
           },
@@ -252,10 +252,10 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "f9bba6c899a4a2cf",
+  "active": "71902beb5e1d1818",
   "lastOpenFiles": [
-    "Joplin/단어/helping words.md",
     "단어/Helping words.md",
+    "Joplin/단어/helping words.md",
     "문법/봤자 & 다고 (해도).md",
     "문법/다고 치다.md",
     "문법/(으)나 마나.md",

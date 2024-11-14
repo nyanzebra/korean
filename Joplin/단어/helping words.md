@@ -14,7 +14,6 @@
 finally, in the end, even (slight negative connotation)
 
 
-각자 - individual
 따로 - separately/apart
 서로 - each other
 미리 - in advance
