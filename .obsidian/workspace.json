@@ -107,7 +107,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "숙제/3B/textbook/62-64.md",
+                "file": "문법/락 말락 하다.md",
                 "mode": "source",
                 "source": false
               }
@@ -143,7 +143,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "집",
+                "query": "말락",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -160,8 +160,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -181,7 +180,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "숙제/3B/textbook/62-64.md",
+                "file": "문법/락 말락 하다.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -198,7 +197,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "숙제/3B/textbook/62-64.md",
+                "file": "문법/락 말락 하다.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -221,7 +220,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "숙제/3B/textbook/62-64.md"
+                "file": "문법/락 말락 하다.md"
               }
             }
           },
@@ -261,14 +260,15 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "0a3a0e6033d1b09d",
+  "active": "71f6b412a8cc1dde",
   "lastOpenFiles": [
+    "숙제/3B/textbook/62-64.md",
+    "문법/락 말락 하다.md",
     "수업/Untitled 10.md",
     "수업/Untitled 11.md",
     "수업/Untitled 12.md",
     "수업/Untitled 13.md",
     "문법/느니.md",
-    "숙제/3B/textbook/62-64.md",
     "문법/in case of.md",
     "문법/로 인하다.md",
     "문법/Index.md",
@@ -288,7 +288,6 @@
     "단어/대명사.md",
     "문법/causitive.md",
     "문법/passive.md",
-    "문법/텐데.md",
     "단어/기계",
     "숙제/3B/textbook",
     "숙제/3A/textbook",
