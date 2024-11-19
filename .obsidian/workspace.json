@@ -116,9 +116,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "50424a9975355604",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "문법/다니.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -184,7 +196,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "문법/봤자 & 다고 (해도).md",
+                "file": "문법/다니.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -201,7 +213,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "문법/봤자 & 다고 (해도).md",
+                "file": "문법/다니.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -224,7 +236,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "문법/봤자 & 다고 (해도).md"
+                "file": "문법/다니.md"
               }
             }
           },
@@ -264,8 +276,9 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "9e18e1819724d934",
+  "active": "50424a9975355604",
   "lastOpenFiles": [
+    "문법/봤자 & 다고 (해도).md",
     "문법/다고 치다.md",
     "문법/(으)나 마나.md",
     "문법/다(가) 보니(까), 고 보니, 아 보니(까), 다(가) 보면, 고 보면.md",
@@ -277,7 +290,6 @@
     "숙제/3B/textbook/62-64.md",
     "숙제/3B/textbook/56-60 Fixed.md",
     "Joplin/단어/helping words.md",
-    "문법/봤자 & 다고 (해도).md",
     "단어/것들___sort later.md",
     "단어/색깔.md",
     "문법/로 인하다.md",
