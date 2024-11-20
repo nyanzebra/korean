@@ -123,7 +123,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "문법/다니.md",
+                "file": "단어/장소/병원.md",
                 "mode": "source",
                 "source": false
               }
@@ -159,7 +159,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "말락",
+                "query": "register",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -176,7 +176,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -196,7 +197,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "문법/다니.md",
+                "file": "단어/장소/병원.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -213,7 +214,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "문법/다니.md",
+                "file": "단어/장소/병원.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -236,7 +237,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "문법/다니.md"
+                "file": "단어/장소/병원.md"
               }
             }
           },
@@ -278,6 +279,9 @@
   },
   "active": "50424a9975355604",
   "lastOpenFiles": [
+    "단어/생활/일.md",
+    "단어/장소/학교.md",
+    "문법/다니.md",
     "문법/봤자 & 다고 (해도).md",
     "문법/다고 치다.md",
     "문법/(으)나 마나.md",
@@ -301,9 +305,6 @@
     "문법/느니.md",
     "문법/Index.md",
     "숙제/3B/textbook/56-60.md",
-    "문법/다는것 & 라는것.md",
-    "문법/Nominalization (todo).md",
-    "단어/부사.md",
     "단어/기계",
     "숙제/3B/textbook",
     "숙제/3A/textbook",
