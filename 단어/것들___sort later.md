@@ -206,6 +206,7 @@
 	- every day was the same
 - 그것은 있거나 없거나 마찬가지다
 	- whether I have it or not, it is the same
+<!--SR:!2024-11-21,2,218-->
 
 
 
