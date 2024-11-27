@@ -84,6 +84,7 @@
 	- We have to respect each other's differences.
 - 그 두 극장은 아주 비슷한 영화로 서로 더 많은 관중을 끌어들이려고 한다
 	- The two theaters are trying to out draw each other with very similar films.
+<!--SR:!2024-11-28,2,249-->
 
 ## 단어 #card
 ?
@@ -91,6 +92,7 @@
 -
 ### 예
 -
+<!--SR:!2024-11-27,1,229-->
 <!--SR:!2024-11-27,1,229-->
 <!--SR:!2024-11-27,1,229-->
 <!--SR:!2024-11-27,1,229-->
