@@ -72,7 +72,7 @@
 	- put money apart for educational expenses.
 - 물건을 각각 따로 두다
 	- keep things apart.
-<!--SR:!2024-11-27,1,229-->
+<!--SR:!2024-11-29,2,229-->
 
 ## 서로 #card
 ?
