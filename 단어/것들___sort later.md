@@ -4,7 +4,7 @@
 - subjective
 ### 예
 -
-<!--SR:!2024-11-15,1,186-->
+<!--SR:!2024-11-19,1,166-->
 
 ## 객관적 #card
 ?
@@ -27,7 +27,7 @@
 	- It was a proud moment for me.
 - 뿌듯하게 맞다
 	- fit tightly/suit to a T.
-<!--SR:!2024-11-15,1,203-->
+<!--SR:!2024-11-19,1,183-->
 
 ## 매기다 #card
 ?
@@ -44,7 +44,7 @@
 	- decide on priority ranked things
 - 날짜를 매기다
 	- decide on a date
-<!--SR:!2024-11-16,4,208-->
+<!--SR:!2024-11-25,7,208-->
 
 ## 그럭저럭 #card
 ?
@@ -65,7 +65,7 @@
 	- regardless of quantity
 - 학력을 불문하고
 	- regardless of education
-<!--SR:!2024-11-18,6,177-->
+<!--SR:!2024-12-01,13,177-->
 
 
 ## 그나저나 #card
