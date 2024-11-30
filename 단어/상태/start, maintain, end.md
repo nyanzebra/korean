@@ -31,7 +31,7 @@
 	- That concludes today's meeting./That's all for today's meeting.
 - 그는 고등학교를 마치자 바로 대학에 들어갔다
 	- He entered college directly after finishing high school.
-<!--SR:!2024-11-30,1,228-->
+<!--SR:!2024-12-02,2,228-->
 
 ## 멈추다 #card
 ?
