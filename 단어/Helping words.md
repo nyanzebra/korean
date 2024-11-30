@@ -45,7 +45,7 @@
 	- steady demand.
 - 그러나 올 한 해 대부분은 성장이 느리지만 꾸준하게 유지될 것이다.
 	- However, the growth should remain slow but steady for much of the year.
-<!--SR:!2024-11-29,2,229-->
+<!--SR:!2024-12-03,4,229-->
 
 ## 각자 #card
 ?
