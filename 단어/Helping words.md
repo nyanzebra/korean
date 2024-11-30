@@ -30,7 +30,7 @@
 	- Each one of us has a room to himself/We each have our own room.
 - 이 두 문제는 각각 별도로 생각해야 한다
 	- The two problems have to be considered separately.
-<!--SR:!2024-11-30,5,225-->
+<!--SR:!2024-12-11,11,225-->
 
 ## 꾸준하다 #card
 ?
