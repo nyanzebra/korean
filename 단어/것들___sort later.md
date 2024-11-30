@@ -27,7 +27,7 @@
 	- It was a proud moment for me.
 - 뿌듯하게 맞다
 	- fit tightly/suit to a T.
-<!--SR:!2024-11-29,1,143-->
+<!--SR:!2024-11-30,1,143-->
 
 ## 매기다 #card
 ?
@@ -206,7 +206,7 @@
 	- every day was the same
 - 그것은 있거나 없거나 마찬가지다
 	- whether I have it or not, it is the same
-<!--SR:!2024-11-29,4,218-->
+<!--SR:!2024-12-09,10,218-->
 
 
 
