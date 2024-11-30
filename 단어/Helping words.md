@@ -30,7 +30,7 @@
 	- Each one of us has a room to himself/We each have our own room.
 - 이 두 문제는 각각 별도로 생각해야 한다
 	- The two problems have to be considered separately.
-<!--SR:!2024-11-20,2,225-->
+<!--SR:!2024-11-30,5,225-->
 
 ## 꾸준하다 #card
 ?
@@ -45,6 +45,7 @@
 	- steady demand.
 - 그러나 올 한 해 대부분은 성장이 느리지만 꾸준하게 유지될 것이다.
 	- However, the growth should remain slow but steady for much of the year.
+<!--SR:!2024-12-03,4,229-->
 
 ## 각자 #card
 ?
@@ -71,6 +72,7 @@
 	- put money apart for educational expenses.
 - 물건을 각각 따로 두다
 	- keep things apart.
+<!--SR:!2024-12-04,5,229-->
 
 ## 서로 #card
 ?
@@ -84,6 +86,7 @@
 	- We have to respect each other's differences.
 - 그 두 극장은 아주 비슷한 영화로 서로 더 많은 관중을 끌어들이려고 한다
 	- The two theaters are trying to out draw each other with very similar films.
+<!--SR:!2024-12-02,4,249-->
 
 ## 단어 #card
 ?
@@ -91,6 +94,7 @@
 -
 ### 예
 -
+<!--SR:!2024-11-30,1,225-->
 
 ## 단어 #card
 ?

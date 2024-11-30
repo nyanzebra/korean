@@ -4,7 +4,7 @@
 - subjective
 ### 예
 -
-<!--SR:!2024-11-19,1,166-->
+<!--SR:!2024-11-30,1,146-->
 
 ## 객관적 #card
 ?
@@ -27,7 +27,7 @@
 	- It was a proud moment for me.
 - 뿌듯하게 맞다
 	- fit tightly/suit to a T.
-<!--SR:!2024-11-19,1,183-->
+<!--SR:!2024-11-30,1,143-->
 
 ## 매기다 #card
 ?
@@ -44,7 +44,7 @@
 	- decide on priority ranked things
 - 날짜를 매기다
 	- decide on a date
-<!--SR:!2024-11-25,7,208-->
+<!--SR:!2024-12-09,14,208-->
 
 ## 그럭저럭 #card
 ?
@@ -53,7 +53,7 @@
 ### 예
 - 그럭저럭 지냈어요
 - 업적 평가 / 사람 평가
-<!--SR:!2024-11-28,16,170-->
+<!--SR:!2024-12-24,26,170-->
 
 ## 불문하다 #card
 ?
@@ -79,7 +79,7 @@
 	- And by the way, the arts aren't just important because they improve math scores.
 - 그나저나 지금도 별로 바뀐 건 없습니다.
 	- Not much has changed, by the way.
-<!--SR:!2024-11-19,7,192-->
+<!--SR:!2024-12-04,15,192-->
 
 
 ## 무사하다 #card
@@ -168,7 +168,7 @@
   - ominous dream
 - 그가 곧 죽는 것이나 아닐까 하는 불길한 예감이 든다
   - I have a premonition[an uneasy feeling] that he will die before long.
-<!--SR:!2024-11-15,1,130-->
+<!--SR:!2024-11-30,1,130-->
 
 ## 후계하다 #card
 ?
@@ -206,6 +206,7 @@
 	- every day was the same
 - 그것은 있거나 없거나 마찬가지다
 	- whether I have it or not, it is the same
+<!--SR:!2024-12-09,10,218-->
 
 
 
