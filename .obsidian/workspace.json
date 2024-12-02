@@ -148,21 +148,9 @@
               "icon": "lucide-file",
               "title": "Grammar Checklist"
             }
-          },
-          {
-            "id": "308a9150f2680bc4",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.7.7"
-              },
-              "icon": "lucide-file",
-              "title": "Release Notes 1.7.7"
-            }
           }
         ],
-        "currentTab": 9
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -338,7 +326,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "308a9150f2680bc4",
+  "active": "951830c770b7cb23",
   "lastOpenFiles": [
     "conflict-files-obsidian-git.md",
     "문법/Nominalization (todo).md",
