@@ -24,4 +24,4 @@ For more examples with -다면 and 라면,
 4) **이게 꿈이라면** 좋겠다. I would be nice if this were a dream.
 5) 너에게 **갈 수 있다면**… If I could come to you…
 ### Notes
-<!--SR:!2024-12-01,3,250-->
+<!--SR:!2024-12-09,7,250-->

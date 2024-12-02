@@ -4,7 +4,7 @@
 - subjective
 ### 예
 -
-<!--SR:!2024-12-01,1,146-->
+<!--SR:!2024-12-03,1,146-->
 
 ## 객관적 #card
 ?
@@ -12,6 +12,7 @@
 - objective
 ### 예
 -
+<!--SR:!2024-12-04,2,217-->
 
 
 ## 뿌듯하다 #card
@@ -168,7 +169,7 @@
   - ominous dream
 - 그가 곧 죽는 것이나 아닐까 하는 불길한 예감이 든다
   - I have a premonition[an uneasy feeling] that he will die before long.
-<!--SR:!2024-12-01,1,130-->
+<!--SR:!2024-12-03,1,130-->
 
 ## 후계하다 #card
 ?

@@ -31,7 +31,7 @@
 	- That concludes today's meeting./That's all for today's meeting.
 - 그는 고등학교를 마치자 바로 대학에 들어갔다
 	- He entered college directly after finishing high school.
-<!--SR:!2024-12-02,2,228-->
+<!--SR:!2024-12-07,5,228-->
 
 ## 멈추다 #card
 ?
@@ -46,4 +46,4 @@
 	- What would happen if economic growth halts in the Republic of Korea now?
 - 그리고 뭐, 고통 또한 사랑스럽죠. 왜냐면 고통이 잠시동안 멈추면 그렇게 좋을 수가 없거든요.
 	- We like our suffering because it's so good when it ceases for a while
-<!--SR:!2024-12-01,2,248-->
+<!--SR:!2024-12-07,5,248-->
