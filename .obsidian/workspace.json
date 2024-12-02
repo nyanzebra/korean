@@ -136,7 +136,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -188,8 +188,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -312,8 +311,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c0e282f7069631ca",
+  "active": "06d87823c4eadbf3",
   "lastOpenFiles": [
+    "문법/도록.md",
     "문법/던.md",
     "Topik/Grammar Checklist.md",
     "conflict-files-obsidian-git.md",
@@ -322,7 +322,6 @@
     "단어/부사.md",
     "단어/대명사.md",
     "Joplin/문법/make & let.md",
-    "문법/도록.md",
     "Joplin/sort later/2.md",
     "문법/(으)나 마나.md",
     "수업/Untitled 12.md",
