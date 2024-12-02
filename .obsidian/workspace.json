@@ -202,8 +202,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -326,7 +325,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "951830c770b7cb23",
+  "active": "37e35dfd44d8e634",
   "lastOpenFiles": [
     "conflict-files-obsidian-git.md",
     "문법/Nominalization (todo).md",
