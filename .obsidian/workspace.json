@@ -18,9 +18,7 @@
                 "mode": "source",
                 "source": false
               },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "in case of"
+              "pinned": true
             }
           },
           {
@@ -34,9 +32,7 @@
                 "mode": "source",
                 "source": false
               },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "다(가) 보니(까), 고 보니, 아 보니(까), 다(가) 보면, 고 보면"
+              "pinned": true
             }
           },
           {
@@ -50,9 +46,7 @@
                 "mode": "source",
                 "source": false
               },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "(으)나 마나"
+              "pinned": true
             }
           },
           {
@@ -66,9 +60,7 @@
                 "mode": "source",
                 "source": false
               },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "다고 치다"
+              "pinned": true
             }
           },
           {
@@ -82,61 +74,63 @@
                 "mode": "source",
                 "source": false
               },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "봤자 & 다고 (해도)"
+              "pinned": true
             }
           },
           {
-            "id": "b9bfc6f5e8a627a3",
+            "id": "71902beb5e1d1818",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "문법/을까 하다 & 을까 보다.md",
+                "file": "Joplin/단어/helping words.md",
                 "mode": "source",
                 "source": false
               },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "을까 하다 & 을까 보다"
+              "pinned": true
             }
           },
           {
-            "id": "06d87823c4eadbf3",
+            "id": "f9bba6c899a4a2cf",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Joplin/문법/make & let.md",
+                "file": "단어/Helping words.md",
                 "mode": "source",
                 "source": false
               },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "make & let"
+              "pinned": true
             }
           },
           {
-            "id": "c0e282f7069631ca",
+            "id": "429fce78903a13ab",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "문법/도록.md",
+                "file": "문법/수록.md",
                 "mode": "source",
                 "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "도록"
+              }
+            }
+          },
+          {
+            "id": "50424a9975355604",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "숙제/3B/workbook/3 과.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -156,9 +150,7 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              },
-              "icon": "lucide-folder-closed",
-              "title": "Files"
+              }
             }
           },
           {
@@ -167,15 +159,13 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "었던",
+                "query": "register",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              },
-              "icon": "lucide-search",
-              "title": "Search"
+              }
             }
           },
           {
@@ -183,9 +173,7 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {},
-              "icon": "lucide-bookmark",
-              "title": "Bookmarks"
+              "state": {}
             }
           }
         ]
@@ -208,7 +196,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "문법/Counting days.md",
+                "file": "숙제/3B/workbook/3 과.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -216,9 +204,7 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              },
-              "icon": "links-coming-in",
-              "title": "Backlinks for Counting days"
+              }
             }
           },
           {
@@ -227,12 +213,10 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "문법/Counting days.md",
+                "file": "숙제/3B/workbook/3 과.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              },
-              "icon": "links-going-out",
-              "title": "Outgoing links from Counting days"
+              }
             }
           },
           {
@@ -243,9 +227,7 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              },
-              "icon": "lucide-tags",
-              "title": "Tags"
+              }
             }
           },
           {
@@ -254,10 +236,16 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "문법/Counting days.md"
-              },
-              "icon": "lucide-list",
-              "title": "Outline of Counting days"
+                "file": "숙제/3B/workbook/3 과.md"
+              }
+            }
+          },
+          {
+            "id": "7744e6238ecdac04",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {}
             }
           },
           {
@@ -265,29 +253,7 @@
             "type": "leaf",
             "state": {
               "type": "advanced-tables-toolbar",
-              "state": {},
-              "icon": "spreadsheet",
-              "title": "Advanced Tables"
-            }
-          },
-          {
-            "id": "1eb83fc5a8739e0c",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "SpacedRepIcon",
-              "title": "Notes Review Queue"
-            }
-          },
-          {
-            "id": "4eafdec3f5dff264",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
+              "state": {}
             }
           }
         ],
@@ -307,38 +273,37 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-spaced-repetition:Review flashcards": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "06d87823c4eadbf3",
+  "active": "50424a9975355604",
   "lastOpenFiles": [
-    "문법/도록.md",
-    "문법/던.md",
-    "Topik/Grammar Checklist.md",
-    "conflict-files-obsidian-git.md",
-    "문법/Nominalization (todo).md",
-    "단어/색깔.md",
     "단어/부사.md",
-    "단어/대명사.md",
-    "Joplin/문법/make & let.md",
-    "Joplin/sort later/2.md",
+    "숙제/3B/workbook/3 과.md",
+    "단어/장소/병원.md",
+    "단어/생활/일.md",
+    "단어/장소/학교.md",
+    "문법/다니.md",
+    "문법/봤자 & 다고 (해도).md",
+    "문법/다고 치다.md",
     "문법/(으)나 마나.md",
-    "수업/Untitled 12.md",
     "문법/다(가) 보니(까), 고 보니, 아 보니(까), 다(가) 보면, 고 보면.md",
     "문법/in case of.md",
-    "문법/봤자 & 다고 (해도).md",
-    "문법/을까 하다 & 을까 보다.md",
-    "숙제/3B/textbook/53-55.md",
+    "문법/수록.md",
+    "문법/텐데.md",
+    "단어/Helping words.md",
+    "숙제/3B/textbook/62-64 Fixed.md",
+    "숙제/3B/textbook/62-64.md",
+    "숙제/3B/textbook/56-60 Fixed.md",
+    "Joplin/단어/helping words.md",
+    "단어/것들___sort later.md",
+    "단어/색깔.md",
+    "문법/로 인하다.md",
+    "문법/락 말락 하다.md",
+    "수업/Untitled 10.md",
     "수업/Untitled 11.md",
-    "문법/서 vs 으니까.md",
-    "문법/비롯해서.md",
-    "문법/거든.md",
-    "문법/intimate or plain.md",
-    "숙제/3B/textbook/50-52.md",
-    "Joplin/문법/느라고.md",
-    "Joplin/문법/답시고.md",
-    "Joplin/문법/치고.md",
+    "수업/Untitled 12.md",
+    "수업/Untitled 13.md",
     "단어/기계",
     "숙제/3B/textbook",
     "숙제/3A/textbook",
