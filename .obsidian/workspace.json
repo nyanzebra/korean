@@ -125,7 +125,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "문법/락 말락 하다.md",
+                "file": "숙제/3B/workbook/3 과.md",
                 "mode": "source",
                 "source": false
               }
@@ -198,7 +198,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "문법/락 말락 하다.md",
+                "file": "숙제/3B/workbook/3 과.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -215,7 +215,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "문법/락 말락 하다.md",
+                "file": "숙제/3B/workbook/3 과.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -238,7 +238,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "문법/락 말락 하다.md"
+                "file": "숙제/3B/workbook/3 과.md"
               }
             }
           },
@@ -287,8 +287,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "1eb83fc5a8739e0c",
+  "active": "880bc42ff38f3f0b",
   "lastOpenFiles": [
+    "문법/락 말락 하다.md",
     "문법/도록.md",
     "Joplin/문법/make & let.md",
     "숙제/3B/workbook/3 과.md",
@@ -314,7 +315,6 @@
     "문법/intimate or plain.md",
     "숙제/3B/textbook/50-52.md",
     "Joplin/문법/느라고.md",
-    "Joplin/문법/답시고.md",
     "단어/기계",
     "숙제/3B/textbook",
     "숙제/3A/textbook",
