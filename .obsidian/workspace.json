@@ -141,12 +141,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "문법/간접화범 축약.md",
+                "file": "문법/다니.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "간접화범 축약"
+              "title": "다니"
             }
           }
         ],
@@ -325,8 +325,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1eb83fc5a8739e0c",
+  "active": "880bc42ff38f3f0b",
   "lastOpenFiles": [
+    "문법/간접화범 축약.md",
     "문법/락 말락 하다.md",
     "문법/도록.md",
     "Joplin/문법/make & let.md",
@@ -352,7 +353,6 @@
     "문법/거든.md",
     "문법/intimate or plain.md",
     "숙제/3B/textbook/50-52.md",
-    "Joplin/문법/느라고.md",
     "단어/기계",
     "숙제/3B/textbook",
     "숙제/3A/textbook",
