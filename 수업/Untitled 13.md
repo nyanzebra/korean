@@ -14,7 +14,7 @@ Kyunghee Min (Nov 8, 2024, 17:09)
 
 Kyunghee Min (Nov 8, 2024, 17:17)
 
-후식/식후
+
 
 Messages addressed to "Meeting Group Chat" will also appear in the meeting group chat in Team Chat
 
