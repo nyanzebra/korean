@@ -120,7 +120,7 @@
             }
           },
           {
-            "id": "880bc42ff38f3f0b",
+            "id": "d52f7bf36e9c193a",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -130,21 +130,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "d52f7bf36e9c193a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "수업/Untitled 14.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 9
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -210,7 +198,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "수업/Untitled 14.md",
+                "file": "단어/의학.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -227,7 +215,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "수업/Untitled 14.md",
+                "file": "단어/의학.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -250,7 +238,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "수업/Untitled 14.md"
+                "file": "단어/의학.md"
               }
             }
           },
@@ -301,13 +289,14 @@
   },
   "active": "d52f7bf36e9c193a",
   "lastOpenFiles": [
-    "단어/의학.md",
     "수업/Untitled 14.md",
+    "단어/의학.md",
+    "문법/다(가) 보니(까), 고 보니, 아 보니(까), 다(가) 보면, 고 보면.md",
+    "문법/in case of.md",
     "단어/장소/병원.md",
     "단어/세상/날씨.md",
     "수업/Untitled 12.md",
     "수업/Untitled 13.md",
-    "문법/in case of.md",
     "단어/Untitled",
     "단어/기술.md",
     "단어/상태/것들.md",
@@ -324,7 +313,6 @@
     "단어/대명사.md",
     "Joplin/sort later/2.md",
     "문법/(으)나 마나.md",
-    "문법/다(가) 보니(까), 고 보니, 아 보니(까), 다(가) 보면, 고 보면.md",
     "문법/봤자 & 다고 (해도).md",
     "문법/을까 하다 & 을까 보다.md",
     "숙제/3B/textbook/53-55.md",
