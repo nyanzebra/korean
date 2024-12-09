@@ -237,7 +237,14 @@
 - occasion
 - time
 ### 예
--
+- 가족과 더 많은 시간을 보내고 더 가까워 질 수 있는 기회입니다.
+	- It is an opportunity to spend more time with family and become closer.
+- 여러분에게 영원히 살 기회가 주어진다면 그 기회를 활용하시겠습니까?
+	- If you had the chance to live forever, would you take it?
+- 도시 재개발은 도시에 매우 좋고 시 정부가 오래된 동네를 더 나은 방법으로 활용할 수 있는 기회를 제공합니다.
+	- Urban redevelopment is great for the city and gives opportunities for city governments to utilize older neighborhoods in a better way.
+- "이번 기회에 정계는 농업부문 활성화 조치를 마련해야 한다.
+	- 
 
 
 
