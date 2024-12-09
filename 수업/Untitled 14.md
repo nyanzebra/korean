@@ -11,10 +11,6 @@ Kyunghee Min (Dec 6, 2024, 17:07)
 Kyunghee Min (Dec 6, 2024, 17:13)
 
 
-비바람이 치다
-
 Kyunghee Min (Dec 6, 2024, 17:19)
 
 이가 빠지다
-
-24시간 병원
