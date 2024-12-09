@@ -15,8 +15,6 @@ Kyunghee Min (Dec 6, 2024, 17:13)
 
 비바람이 치다
 
-전봇대
-
 Kyunghee Min (Dec 6, 2024, 17:19)
 
 이가 빠지다
