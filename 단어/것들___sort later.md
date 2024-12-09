@@ -219,7 +219,14 @@
 ### 예
 - 숙부님이 도산의 위기에 처해 있는 것을 나는 좌시할 수가 없다
 	- I cannot (just) sit (idle) and watch my uncle tottering on the verge of bankruptcy.
-- 
+- 헌정의 위기
+	- a constitutional crisis.
+- 위기를 맞다
+	- be confronted by a crisis.
+- 위기 일발에서 목숨을 건지다
+	- have a narrow escape from death/escape narrowly[barely] with one's life.
+- 위기의 국면
+	- a critical phase.
 
 ## 기회 #card
 ?
