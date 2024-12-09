@@ -125,7 +125,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "단어/식사/음식.md",
+                "file": "수업/Untitled 13.md",
                 "mode": "source",
                 "source": false
               }
@@ -198,7 +198,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "단어/식사/음식.md",
+                "file": "수업/Untitled 13.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -215,7 +215,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "단어/식사/음식.md",
+                "file": "수업/Untitled 13.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -238,7 +238,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "단어/식사/음식.md"
+                "file": "수업/Untitled 13.md"
               }
             }
           },
@@ -289,8 +289,8 @@
   },
   "active": "d52f7bf36e9c193a",
   "lastOpenFiles": [
-    "수업/Untitled 13.md",
     "단어/식사/음식.md",
+    "수업/Untitled 13.md",
     "단어/대명사.md",
     "단어/식사/맛.md",
     "단어/장소/식당.md",
