@@ -125,7 +125,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "단어/장소/병원.md",
+                "file": "단어/의학.md",
                 "mode": "source",
                 "source": false
               }
@@ -198,7 +198,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "단어/장소/병원.md",
+                "file": "단어/의학.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -215,7 +215,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "단어/장소/병원.md",
+                "file": "단어/의학.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -238,7 +238,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "단어/장소/병원.md"
+                "file": "단어/의학.md"
               }
             }
           },
@@ -289,9 +289,11 @@
   },
   "active": "880bc42ff38f3f0b",
   "lastOpenFiles": [
+    "단어/장소/병원.md",
+    "단어/의학.md",
+    "단어/Untitled",
     "수업/Untitled 13.md",
     "수업/Untitled 14.md",
-    "단어/장소/병원.md",
     "단어/기술.md",
     "단어/상태/것들.md",
     "숙제/3B/workbook/3 과.md",
@@ -314,7 +316,6 @@
     "문법/을까 하다 & 을까 보다.md",
     "숙제/3B/textbook/53-55.md",
     "수업/Untitled 11.md",
-    "문법/서 vs 으니까.md",
     "단어/기계",
     "숙제/3B/textbook",
     "숙제/3A/textbook",
@@ -323,7 +324,6 @@
     "단어/상태",
     "Joplin/수업/class",
     "Joplin/수업/3A",
-    "Joplin/수업",
-    "Joplin/문법"
+    "Joplin/수업"
   ]
 }
