@@ -29,7 +29,3 @@ Kyunghee Min (Nov 8, 2024, 17:29)
 Kyunghee Min (Nov 8, 2024, 17:43)
 
 기름기 있다/자극적인 음식
-
-Kyunghee Min (Nov 8, 2024, 17:52)
-
-영양제
