@@ -231,7 +231,11 @@
 ## 기회 #card
 ?
 ### 뜻
--
+- opportunity
+- chance
+- way
+- occasion
+- time
 ### 예
 -
 
