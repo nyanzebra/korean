@@ -12,7 +12,6 @@ Kyunghee Min (Dec 6, 2024, 17:07)
 
 Kyunghee Min (Dec 6, 2024, 17:13)
 
-음식이 상하다
 
 비바람이 치다
 
