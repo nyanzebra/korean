@@ -209,13 +209,24 @@
 	- whether I have it or not, it is the same
 <!--SR:!2024-12-09,10,218-->
 
-## 기회/위기 #card
+## 위기 #card
+?
+### 뜻
+- crisis
+- danger
+- threat
+- emergency
+### 예
+- 숙부님이 도산의 위기에 처해 있는 것을 나는 좌시할 수가 없다
+	- I cannot (just) sit (idle) and watch my uncle tottering on the verge of bankruptcy.
+- 
+
+## 기회 #card
 ?
 ### 뜻
 -
 ### 예
 -
-
 
 
 
