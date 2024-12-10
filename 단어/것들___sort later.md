@@ -250,8 +250,15 @@
 ?
 ### 뜻
 - everything
+- all
+- whole
 ### 예
--
+- 두 번 다시 오지 않도록 필요한 서류를 전부 가지고 오시오
+	- Bring all the necessary documents so that you will not have to come again.
+- 새 공사는 전부 청부를 준다
+	- All the new work will be put out to contract.
+- 하나는 형의 것이 되었으나 나머지는 전부 그의 손으로 돌아갔다
+	- 
 
 
 불다 blow 부르다 call 버리다 toss/completely 벌다 earn
