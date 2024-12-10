@@ -285,7 +285,10 @@
 ### 예
 - 그들의 몸 속에 있는 뼈 한두 개가 부러질 수도 있다.
 	- They could break a bone or two in their bodies.
-- 
+- 갈비뼈 두 대가 부러졌다. 함께 간 셰르파는 목숨을 잃었다.
+	- Two of his ribs were fractured and his sherpa died.
+- 하지만 부러지는 것보다 휘는 것이 낫다고 했다.
+	- But it is better to bend than snap.
 
 
 불다 blow 부르다 call 버리다 toss/completely 벌다 earn
