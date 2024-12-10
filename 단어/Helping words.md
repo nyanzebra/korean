@@ -59,7 +59,7 @@
 	- We agreed to differ.
 - 홍수 경보가 내렸으므로 마을 사람들은 각자의 집을 비우고 피난했다
 	- A (general) flood warning was issued, and so the villagers evacuated their houses.
-<!--SR:!2024-12-04,2,243-->
+<!--SR:!2024-12-14,5,243-->
 
 ## 따로 #card
 ?
