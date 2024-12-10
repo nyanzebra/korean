@@ -125,7 +125,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "단어/것들___sort later.md",
+                "file": "단어/상태/것들.md",
                 "mode": "source",
                 "source": false
               }
@@ -198,7 +198,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "단어/것들___sort later.md",
+                "file": "단어/상태/것들.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -215,7 +215,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "단어/것들___sort later.md",
+                "file": "단어/상태/것들.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -238,7 +238,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "단어/것들___sort later.md"
+                "file": "단어/상태/것들.md"
               }
             }
           },
@@ -287,8 +287,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "37e35dfd44d8e634",
+  "active": "d52f7bf36e9c193a",
   "lastOpenFiles": [
+    "단어/것들___sort later.md",
     "단어/식사/음식.md",
     "단어/의학.md",
     "단어/기계/집.md",
@@ -305,7 +306,6 @@
     "수업/Untitled 2.md",
     "수업/Untitled 1.md",
     "수업/Untitled.md",
-    "단어/것들___sort later.md",
     "수업/Untitled 14.md",
     "단어/추상적인 것/생각___마음.md",
     "단어/전자 기기.md",
