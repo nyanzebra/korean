@@ -258,7 +258,9 @@
 - 새 공사는 전부 청부를 준다
 	- All the new work will be put out to contract.
 - 하나는 형의 것이 되었으나 나머지는 전부 그의 손으로 돌아갔다
-	- 
+	- One went into his brother's possession, but all the rest fell into his hands.
+- 전부 한데 모아 보내는 편이 낫다
+	- [You'd]() better send them all together.
 
 
 불다 blow 부르다 call 버리다 toss/completely 벌다 earn
