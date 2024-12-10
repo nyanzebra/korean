@@ -157,7 +157,7 @@
 	- They are venting out their bottled-up antipathy to a fellow lawmaker
 - 불편한 감정을 억누르거나 그런 감정을 가지고 있다고 자신을 판단하지 말라.
 	- Don’t repress uncomfortable emotions or judge yourself for having them
-<!--SR:!2024-12-09,33,210-->
+<!--SR:!2024-12-26,17,190-->
 
 ## 불길하다 #card
 ?
@@ -169,7 +169,7 @@
   - ominous dream
 - 그가 곧 죽는 것이나 아닐까 하는 불길한 예감이 든다
   - I have a premonition[an uneasy feeling] that he will die before long.
-<!--SR:!2024-12-09,1,130-->
+<!--SR:!2024-12-10,1,130-->
 
 ## 후계하다 #card
 ?
