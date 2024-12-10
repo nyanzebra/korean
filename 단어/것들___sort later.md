@@ -284,7 +284,8 @@
 	- One common problem that many women faced was getting pushed into the "assistant" role.
 - 훈련 중 다른 선수와 부딪쳐 왼쪽 아킬레스힘줄이 찢어졌어요.
 	- While training, I bump into another competitor and ruptured my left Achilles' tendon.
-- 
+- 운을 하늘에 맡기고 부딪쳐 보다
+	- risk it / chance it
 
 ## 부러지다 #card
 ?
