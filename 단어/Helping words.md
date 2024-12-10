@@ -59,7 +59,7 @@
 	- We agreed to differ.
 - 홍수 경보가 내렸으므로 마을 사람들은 각자의 집을 비우고 피난했다
 	- A (general) flood warning was issued, and so the villagers evacuated their houses.
-<!--SR:!2024-12-04,2,243-->
+<!--SR:!2024-12-14,5,243-->
 
 ## 따로 #card
 ?
@@ -73,7 +73,7 @@
 	- put money apart for educational expenses.
 - 물건을 각각 따로 두다
 	- keep things apart.
-<!--SR:!2024-12-04,5,229-->
+<!--SR:!2024-12-20,11,229-->
 
 ## 서로 #card
 ?

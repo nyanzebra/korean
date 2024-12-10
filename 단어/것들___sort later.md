@@ -45,7 +45,7 @@
 	- decide on priority ranked things
 - 날짜를 매기다
 	- decide on a date
-<!--SR:!2024-12-09,14,208-->
+<!--SR:!2025-01-07,29,208-->
 
 ## 그럭저럭 #card
 ?
@@ -81,7 +81,6 @@
 - 그나저나 지금도 별로 바뀐 건 없습니다.
 	- Not much has changed, by the way.
 <!--SR:!2025-01-07,28,192-->
-
 
 ## 무사하다 #card
 ?
@@ -157,7 +156,7 @@
 	- They are venting out their bottled-up antipathy to a fellow lawmaker
 - 불편한 감정을 억누르거나 그런 감정을 가지고 있다고 자신을 판단하지 말라.
 	- Don’t repress uncomfortable emotions or judge yourself for having them
-<!--SR:!2024-12-09,33,210-->
+<!--SR:!2024-12-26,17,190-->
 
 ## 불길하다 #card
 ?
@@ -169,7 +168,7 @@
   - ominous dream
 - 그가 곧 죽는 것이나 아닐까 하는 불길한 예감이 든다
   - I have a premonition[an uneasy feeling] that he will die before long.
-<!--SR:!2024-12-09,1,130-->
+<!--SR:!2024-12-10,1,130-->
 
 ## 후계하다 #card
 ?
@@ -246,6 +245,60 @@
 - "이번 기회에 정계는 농업부문 활성화 조치를 마련해야 한다.
 	- On this occasion, the political circle should prepare for measures to revitalize the farming sector.
 
+## 전부 #card
+?
+### 뜻
+- everything
+- all
+- whole
+### 예
+- 두 번 다시 오지 않도록 필요한 서류를 전부 가지고 오시오
+	- Bring all the necessary documents so that you will not have to come again.
+- 새 공사는 전부 청부를 준다
+	- All the new work will be put out to contract.
+- 하나는 형의 것이 되었으나 나머지는 전부 그의 손으로 돌아갔다
+	- One went into his brother's possession, but all the rest fell into his hands.
+- 전부 한데 모아 보내는 편이 낫다
+	- You'd better send them all together.
+
+## 인기를 끌다 #card
+?
+### 뜻
+- gain popularity (attract popularity)
+### 예
+-
+
+## 부딪치다 #card
+?
+### 뜻
+- hit
+- bump
+- run into
+### 예
+- 남과 부딪치다
+	- bump into a person
+- 어느 정도 성공이 있은 후에 우리는 큰 장애에 부딪쳤습니다.
+	- After some success, we've hit a big hurdle.
+- 많은 여성들이 접하게 되는 한 공통된 문제점은 "보조적" 역할에 부딪치게(역할로 떠밀리게) 된다는 것이었다.
+	- One common problem that many women faced was getting pushed into the "assistant" role.
+- 훈련 중 다른 선수와 부딪쳐 왼쪽 아킬레스힘줄이 찢어졌어요.
+	- While training, I bump into another competitor and ruptured my left Achilles' tendon.
+- 운을 하늘에 맡기고 부딪쳐 보다
+	- risk it / chance it
+
+## 부러지다 #card
+?
+### 뜻
+- break
+- fracture
+- snap
+### 예
+- 그들의 몸 속에 있는 뼈 한두 개가 부러질 수도 있다.
+	- They could break a bone or two in their bodies.
+- 갈비뼈 두 대가 부러졌다. 함께 간 셰르파는 목숨을 잃었다.
+	- Two of his ribs were fractured and his sherpa died.
+- 하지만 부러지는 것보다 휘는 것이 낫다고 했다.
+	- But it is better to bend than snap.
 
 
 불다 blow 부르다 call 버리다 toss/completely 벌다 earn
