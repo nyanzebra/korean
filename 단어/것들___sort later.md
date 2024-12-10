@@ -281,8 +281,11 @@
 ### 뜻
 - break
 - fracture
+- snap
 ### 예
--
+- 그들의 몸 속에 있는 뼈 한두 개가 부러질 수도 있다.
+	- They could break a bone or two in their bodies.
+- 
 
 
 불다 blow 부르다 call 버리다 toss/completely 벌다 earn
