@@ -80,7 +80,7 @@
 	- And by the way, the arts aren't just important because they improve math scores.
 - 그나저나 지금도 별로 바뀐 건 없습니다.
 	- Not much has changed, by the way.
-<!--SR:!2024-12-04,15,192-->
+<!--SR:!2025-01-07,28,192-->
 
 
 ## 무사하다 #card
