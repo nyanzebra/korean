@@ -246,6 +246,12 @@
 - "이번 기회에 정계는 농업부문 활성화 조치를 마련해야 한다.
 	- On this occasion, the political circle should prepare for measures to revitalize the farming sector.
 
+## 전부 #card
+?
+### 뜻
+- everything
+### 예
+-
 
 
 불다 blow 부르다 call 버리다 toss/completely 벌다 earn
