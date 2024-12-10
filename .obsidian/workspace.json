@@ -161,7 +161,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "narrow",
+                "query": "wide",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
