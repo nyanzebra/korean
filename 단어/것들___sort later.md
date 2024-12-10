@@ -276,7 +276,12 @@
 - bump
 - run into
 ### 예
--
+- 남과 부딪치다
+	- bump into a person
+- 어느 정도 성공이 있은 후에 우리는 큰 장애에 부딪쳤습니다.
+	- After some success, we've hit a big hurdle.
+- 많은 여성들이 접하게 되는 한 공통된 문제점은 "보조적" 역할에 부딪치게(역할로 떠밀리게) 된다는 것이었다.
+	- 
 
 ## 부러지다 #card
 ?
