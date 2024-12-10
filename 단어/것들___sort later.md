@@ -262,5 +262,13 @@
 - 전부 한데 모아 보내는 편이 낫다
 	- You'd better send them all together.
 
+## 인기를 끌다 #card
+?
+### 뜻
+- gain popularity
+### 예
+-
+
+
 
 불다 blow 부르다 call 버리다 toss/completely 벌다 earn
