@@ -265,7 +265,7 @@
 ## 인기를 끌다 #card
 ?
 ### 뜻
-- gain popularity
+- gain popularity (attract popularity)
 ### 예
 -
 
