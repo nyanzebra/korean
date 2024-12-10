@@ -281,7 +281,10 @@
 - 어느 정도 성공이 있은 후에 우리는 큰 장애에 부딪쳤습니다.
 	- After some success, we've hit a big hurdle.
 - 많은 여성들이 접하게 되는 한 공통된 문제점은 "보조적" 역할에 부딪치게(역할로 떠밀리게) 된다는 것이었다.
-	- 
+	- One common problem that many women faced was getting pushed into the "assistant" role.
+- 훈련 중 다른 선수와 부딪쳐 왼쪽 아킬레스힘줄이 찢어졌어요.
+	- While training, I bump into another competitor and ruptured my left Achilles' tendon.
+- 
 
 ## 부러지다 #card
 ?
