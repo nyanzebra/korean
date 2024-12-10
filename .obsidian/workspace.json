@@ -161,7 +161,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "전부",
+                "query": "미끄",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -287,7 +287,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "d52f7bf36e9c193a",
+  "active": "37e35dfd44d8e634",
   "lastOpenFiles": [
     "단어/식사/음식.md",
     "단어/의학.md",
