@@ -125,7 +125,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "단어/길.md",
+                "file": "단어/특질 & 특성 & 특징 & 특기.md",
                 "mode": "source",
                 "source": false
               }
@@ -198,7 +198,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "단어/길.md",
+                "file": "단어/특질 & 특성 & 특징 & 특기.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -215,7 +215,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "단어/길.md",
+                "file": "단어/특질 & 특성 & 특징 & 특기.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -238,7 +238,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "단어/길.md"
+                "file": "단어/특질 & 특성 & 특징 & 특기.md"
               }
             }
           },
@@ -289,8 +289,8 @@
   },
   "active": "d52f7bf36e9c193a",
   "lastOpenFiles": [
-    "단어/특질 & 특성 & 특징 & 특기.md",
     "단어/길.md",
+    "단어/특질 & 특성 & 특징 & 특기.md",
     "단어/직장.md",
     "단어/전공.md",
     "Conversational Korean/단어/116.md",
