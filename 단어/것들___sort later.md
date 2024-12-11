@@ -206,7 +206,7 @@
 	- every day was the same
 - 그것은 있거나 없거나 마찬가지다
 	- whether I have it or not, it is the same
-<!--SR:!2024-12-09,10,218-->
+<!--SR:!2025-01-02,22,218-->
 
 ## 위기 #card
 ?
