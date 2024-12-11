@@ -125,7 +125,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "단어/직장.md",
+                "file": "단어/특질.md",
                 "mode": "source",
                 "source": false
               }
@@ -198,7 +198,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "단어/직장.md",
+                "file": "단어/특질.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -215,7 +215,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "단어/직장.md",
+                "file": "단어/특질.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -238,7 +238,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "단어/직장.md"
+                "file": "단어/특질.md"
               }
             }
           },
@@ -289,8 +289,9 @@
   },
   "active": "d52f7bf36e9c193a",
   "lastOpenFiles": [
-    "단어/전공.md",
     "단어/직장.md",
+    "단어/특질.md",
+    "단어/전공.md",
     "Conversational Korean/단어/116.md",
     "단어/것들___sort later.md",
     "단어/상태/증상.md",
@@ -315,7 +316,6 @@
     "수업/Untitled 8.md",
     "수업/Untitled 10.md",
     "수업/Untitled 11.md",
-    "수업/Untitled 2.md",
     "단어/기계",
     "숙제/3B/textbook",
     "숙제/3A/textbook",
