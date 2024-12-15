@@ -118,21 +118,9 @@
               },
               "pinned": true
             }
-          },
-          {
-            "id": "6b6941a8c7802ebe",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "단어/전자 기술.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 8
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -199,7 +187,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "단어/전자 기술.md",
+                "file": "문법/도록.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -216,7 +204,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "단어/전자 기술.md",
+                "file": "문법/도록.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -239,7 +227,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "단어/전자 기술.md"
+                "file": "문법/도록.md"
               }
             }
           },
@@ -288,10 +276,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "0a3a0e6033d1b09d",
+  "active": "c0e282f7069631ca",
   "lastOpenFiles": [
-    "문법/도록.md",
     "단어/전자 기술.md",
+    "문법/도록.md",
     "단어/것들___sort later.md",
     "숙제/3B/textbook/68-.md",
     "사자성어/ㄱ.md",
