@@ -118,9 +118,21 @@
               },
               "pinned": true
             }
+          },
+          {
+            "id": "6b6941a8c7802ebe",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "숙제/3B/textbook/68-.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 7
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -186,7 +198,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "사자성어/ㄱ.md",
+                "file": "숙제/3B/textbook/68-.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -203,7 +215,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "사자성어/ㄱ.md",
+                "file": "숙제/3B/textbook/68-.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -226,7 +238,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "사자성어/ㄱ.md"
+                "file": "숙제/3B/textbook/68-.md"
               }
             }
           },
@@ -275,8 +287,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "37e35dfd44d8e634",
+  "active": "6b6941a8c7802ebe",
   "lastOpenFiles": [
+    "사자성어/ㄱ.md",
+    "숙제/3B/textbook/68-.md",
     "phrases/사자성어.md",
     "phrases/proverbs.md",
     "문법/기 나름이다.md",
@@ -301,8 +315,6 @@
     "단어/식사/음식.md",
     "단어/기계/집.md",
     "단어/정치.md",
-    "수업/Untitled 13.md",
-    "단어/대명사.md",
     "단어/식사",
     "단어/기계",
     "숙제/3B/textbook",
