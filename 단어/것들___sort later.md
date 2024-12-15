@@ -12,7 +12,7 @@
 - objective
 ### 예
 -
-<!--SR:!2024-12-12,4,217-->
+<!--SR:!2024-12-24,10,217-->
 
 
 ## 뿌듯하다 #card
@@ -139,7 +139,7 @@
 	- I was all ears[attention] so as not to miss a single word.
 - 곱게 차려 입다
 	- dress oneself beautifully/be finely dressed.
-<!--SR:!2024-12-12,49,228-->
+<!--SR:!2025-04-04,111,228-->
 
 ## 억누르다 #card
 ?
