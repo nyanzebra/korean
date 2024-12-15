@@ -35,7 +35,7 @@ birds of a feather
 ### 예
 - 당신의 식습관을 제대로 알면 다이어트는 백건백승이에요
 	- if you know your eating habits then you will master  your diet
-<!--SR:!2024-12-14,12,280-->
+<!--SR:!2025-01-17,34,280-->
 
 ## 사과가 나무에서 멀리 떨어지지 않아요 / 아들이랑 아버지랑 행동이 똑같아요 #card
 ?
