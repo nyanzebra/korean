@@ -125,7 +125,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "문법/다고 치다.md",
+                "file": "숙제/3B/textbook/68-.md",
                 "mode": "source",
                 "source": false
               }
@@ -198,7 +198,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "문법/다고 치다.md",
+                "file": "숙제/3B/textbook/68-.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -215,7 +215,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "문법/다고 치다.md",
+                "file": "숙제/3B/textbook/68-.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -238,7 +238,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "문법/다고 치다.md"
+                "file": "숙제/3B/textbook/68-.md"
               }
             }
           },
@@ -289,6 +289,7 @@
   },
   "active": "09dff0d6cd182180",
   "lastOpenFiles": [
+    "문법/다고 치다.md",
     "문법/도록.md",
     "단어/전자 기술.md",
     "단어/것들___sort later.md",
@@ -314,7 +315,6 @@
     "단어/추상적인 것/감정.md",
     "단어/생활/것.md",
     "단어/상태/것들.md",
-    "단어/식사/음식.md",
     "단어/식사",
     "단어/기계",
     "숙제/3B/textbook",
