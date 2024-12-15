@@ -125,7 +125,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "문법/기 나름이다.md",
+                "file": "phrases/사자성어.md",
                 "mode": "source",
                 "source": false
               }
@@ -161,7 +161,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "blood",
+                "query": "to launch",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -198,7 +198,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "문법/기 나름이다.md",
+                "file": "phrases/사자성어.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -215,7 +215,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "문법/기 나름이다.md",
+                "file": "phrases/사자성어.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -238,7 +238,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "문법/기 나름이다.md"
+                "file": "phrases/사자성어.md"
               }
             }
           },
@@ -289,6 +289,8 @@
   },
   "active": "d52f7bf36e9c193a",
   "lastOpenFiles": [
+    "phrases/proverbs.md",
+    "문법/기 나름이다.md",
     "단어/쇼핑.md",
     "문법/던데.md",
     "단어/특질 & 특성 & 특징 & 특기.md",
@@ -313,9 +315,7 @@
     "수업/Untitled 13.md",
     "단어/대명사.md",
     "단어/식사/맛.md",
-    "단어/장소/식당.md",
     "단어/식사",
-    "수업/Untitled 8.md",
     "단어/기계",
     "숙제/3B/textbook",
     "숙제/3A/textbook",
