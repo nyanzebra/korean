@@ -161,7 +161,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "regardless",
+                "query": "성별",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
