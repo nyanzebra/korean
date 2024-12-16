@@ -262,7 +262,7 @@
 	- One went into his brother's possession, but all the rest fell into his hands.
 - 전부 한데 모아 보내는 편이 낫다
 	- You'd better send them all together.
-<!--SR:!2024-12-16,1,195-->
+<!--SR:!2024-12-19,3,215-->
 
 ## 인기를 끌다 #card
 ?
