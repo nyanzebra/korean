@@ -125,7 +125,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "숙제/3B/textbook/68-.md",
+                "file": "단어/생활/여행지.md",
                 "mode": "source",
                 "source": false
               }
@@ -178,8 +178,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -199,7 +198,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "숙제/3B/textbook/68-.md",
+                "file": "단어/생활/여행지.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -216,7 +215,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "숙제/3B/textbook/68-.md",
+                "file": "단어/생활/여행지.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -239,7 +238,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "숙제/3B/textbook/68-.md"
+                "file": "단어/생활/여행지.md"
               }
             }
           },
@@ -288,13 +287,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "0a3a0e6033d1b09d",
+  "active": "09dff0d6cd182180",
   "lastOpenFiles": [
+    "단어/것들___sort later.md",
+    "숙제/3B/textbook/68-.md",
     "문법/다고 치다.md",
     "문법/도록.md",
     "단어/전자 기술.md",
-    "단어/것들___sort later.md",
-    "숙제/3B/textbook/68-.md",
     "사자성어/ㄱ.md",
     "phrases/사자성어.md",
     "phrases/proverbs.md",
