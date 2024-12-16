@@ -161,7 +161,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "nutrit",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
