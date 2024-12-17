@@ -125,7 +125,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "숙제/3B/textbook/68-71.md",
+                "file": "단어/생활/여행지.md",
                 "mode": "source",
                 "source": false
               }
@@ -161,7 +161,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "여행",
+                "query": "코스",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -199,7 +199,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "숙제/3B/textbook/68-71.md",
+                "file": "단어/생활/여행지.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -216,7 +216,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "숙제/3B/textbook/68-71.md",
+                "file": "단어/생활/여행지.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -239,7 +239,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "숙제/3B/textbook/68-71.md"
+                "file": "단어/생활/여행지.md"
               }
             }
           },
@@ -290,9 +290,9 @@
   },
   "active": "0a3a0e6033d1b09d",
   "lastOpenFiles": [
+    "숙제/3B/textbook/68-71.md",
     "단어/장소/은행.md",
     "단어/전자 기술.md",
-    "숙제/3B/textbook/68-71.md",
     "단어/생활/일.md",
     "단어/생활/여행지.md",
     "단어/것들___sort later.md",
