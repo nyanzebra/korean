@@ -125,7 +125,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "단어/생활/일.md",
+                "file": "숙제/3B/textbook/68-71.md",
                 "mode": "source",
                 "source": false
               }
@@ -198,7 +198,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "단어/생활/일.md",
+                "file": "숙제/3B/textbook/68-71.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -215,7 +215,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "단어/생활/일.md",
+                "file": "숙제/3B/textbook/68-71.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -238,7 +238,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "단어/생활/일.md"
+                "file": "숙제/3B/textbook/68-71.md"
               }
             }
           },
@@ -287,11 +287,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "37e35dfd44d8e634",
+  "active": "09dff0d6cd182180",
   "lastOpenFiles": [
+    "단어/생활/일.md",
     "단어/생활/여행지.md",
     "단어/것들___sort later.md",
-    "숙제/3B/textbook/68-.md",
+    "숙제/3B/textbook/68-71.md",
     "문법/다고 치다.md",
     "문법/도록.md",
     "단어/전자 기술.md",
@@ -314,7 +315,6 @@
     "단어/장소/세탁소.md",
     "단어/추상적인 것/생각___마음.md",
     "단어/추상적인 것/감정.md",
-    "단어/생활/것.md",
     "단어/식사",
     "단어/기계",
     "숙제/3B/textbook",
