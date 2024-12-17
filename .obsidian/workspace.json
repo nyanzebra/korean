@@ -161,7 +161,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "코스",
+                "query": "낮",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
