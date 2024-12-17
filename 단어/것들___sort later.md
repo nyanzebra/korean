@@ -306,6 +306,15 @@
 	- But it is better to bend than snap.
 <!--SR:!2024-12-17,2,215-->
 
+## 겪다 #card
+?
+### 뜻
+- suffer
+- undergo
+- experience
+### 예
+- 어려움을 겪다
+
 
 
 불다 blow 부르다 call 버리다 toss/completely 벌다 earn

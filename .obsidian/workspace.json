@@ -125,7 +125,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "문법/아 보니까.md",
+                "file": "단어/것들___sort later.md",
                 "mode": "source",
                 "source": false
               }
@@ -198,7 +198,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "문법/아 보니까.md",
+                "file": "단어/것들___sort later.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -215,7 +215,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "문법/아 보니까.md",
+                "file": "단어/것들___sort later.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -238,7 +238,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "문법/아 보니까.md"
+                "file": "단어/것들___sort later.md"
               }
             }
           },
@@ -287,10 +287,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "37e35dfd44d8e634",
+  "active": "09dff0d6cd182180",
   "lastOpenFiles": [
-    "단어/세상/시간.md",
     "문법/아 보니까.md",
+    "단어/세상/시간.md",
     "단어/생활/여행지.md",
     "숙제/3B/textbook/68-71.md",
     "단어/장소/은행.md",
