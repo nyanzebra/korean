@@ -178,8 +178,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -288,7 +287,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "0a3a0e6033d1b09d",
+  "active": "37e35dfd44d8e634",
   "lastOpenFiles": [
     "단어/세상/시간.md",
     "문법/아 보니까.md",
