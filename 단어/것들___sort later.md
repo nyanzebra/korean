@@ -270,7 +270,7 @@
 - gain popularity (attract popularity)
 ### 예
 -
-<!--SR:!2024-12-17,2,215-->
+<!--SR:!2024-12-21,4,215-->
 
 ## 부딪치다 #card
 ?
