@@ -314,6 +314,8 @@
 - experience
 ### 예
 - 어려움을 겪다
+	- suffer hardships
+- 
 
 
 
