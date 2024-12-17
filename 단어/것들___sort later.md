@@ -315,7 +315,12 @@
 ### 예
 - 어려움을 겪다
 	- suffer hardships
-- 
+- 손님을 겪다
+	- suffer a guest
+- 반 고흐는 많은 고통을 겪었습니다.
+	- Van Gogh suffered a lot.
+- 한국은 지난 몇 주 동안 극심한 더위를 겪고 있습니다.
+	- Korea has been experiencing extreme heat for the past few weeks.
 
 
 
