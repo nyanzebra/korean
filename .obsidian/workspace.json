@@ -161,7 +161,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "밤",
+                "query": "방금",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -288,7 +288,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "09dff0d6cd182180",
+  "active": "0a3a0e6033d1b09d",
   "lastOpenFiles": [
     "단어/생활/여행지.md",
     "숙제/3B/textbook/68-71.md",
