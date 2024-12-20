@@ -125,7 +125,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "수업/Untitled 14.md",
+                "file": "단어/생활/일.md",
                 "mode": "source",
                 "source": false
               }
@@ -199,7 +199,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "수업/Untitled 14.md",
+                "file": "단어/생활/일.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -216,7 +216,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "수업/Untitled 14.md",
+                "file": "단어/생활/일.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -239,7 +239,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "수업/Untitled 14.md"
+                "file": "단어/생활/일.md"
               }
             }
           },
@@ -288,10 +288,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "0a3a0e6033d1b09d",
+  "active": "09dff0d6cd182180",
   "lastOpenFiles": [
-    "숙제/3B/textbook/68-71.md",
     "수업/Untitled 14.md",
+    "숙제/3B/textbook/68-71.md",
     "숙제/3B/textbook/84-86.md",
     "단어/수학.md",
     "단어/것들___sort later.md",
