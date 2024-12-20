@@ -141,12 +141,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Joplin/단어/집 & 이웃.md",
+                "file": "단어/의학.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "집 & 이웃"
+              "title": "의학"
             }
           }
         ],
@@ -181,7 +181,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "나오다",
+                "query": "ultrasoun",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -328,6 +328,7 @@
   },
   "active": "63a1854d2abac5b8",
   "lastOpenFiles": [
+    "Joplin/단어/집 & 이웃.md",
     "숙제/3B/textbook/68-71.md",
     "문법/다(가) 보니(까), 고 보니, 아 보니(까), 다(가) 보면, 고 보면.md",
     "문법/다고 치다.md",
@@ -354,7 +355,6 @@
     "단어/식사",
     "단어/상태/것들.md",
     "단어/기술.md",
-    "수업/Untitled 14.md",
     "단어/기계",
     "숙제/3B/textbook",
     "숙제/3A/textbook",
