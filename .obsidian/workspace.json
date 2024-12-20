@@ -141,12 +141,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "숙제/3B/textbook/68-71.md",
+                "file": "Joplin/단어/집 & 이웃.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "68-71"
+              "title": "집 & 이웃"
             }
           }
         ],
@@ -181,7 +181,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "deposit",
+                "query": "나오다",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -202,7 +202,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -327,8 +328,8 @@
   },
   "active": "63a1854d2abac5b8",
   "lastOpenFiles": [
-    "문법/다(가) 보니(까), 고 보니, 아 보니(까), 다(가) 보면, 고 보면.md",
     "숙제/3B/textbook/68-71.md",
+    "문법/다(가) 보니(까), 고 보니, 아 보니(까), 다(가) 보면, 고 보면.md",
     "문법/다고 치다.md",
     "conflict-files-obsidian-git.md",
     "숙제/3B/textbook/84-86.md",
