@@ -45,3 +45,4 @@ Kyunghee Min (Dec 19, 2024, 17:27)
 You (Dec 19, 2024, 17:27)
 
 calves
+종아리
