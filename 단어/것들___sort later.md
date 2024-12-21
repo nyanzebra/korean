@@ -322,13 +322,15 @@
 - 한국은 지난 몇 주 동안 극심한 더위를 겪고 있습니다.
 	- Korea has been experiencing extreme heat for the past few weeks.
 
-## 쏙 빼닮다 #card
+## 쏙/꼭 빼닮다 #card
 ?
 ### 뜻
 - completely resembles
 - spitting image
 ### 예
--
+- 딸 애가 엄마를 꼭 빼닮았죠
+	- My daughter looks like her, too.
+- 
 
 
 불다 blow 부르다 call 버리다 toss/completely 벌다 earn
