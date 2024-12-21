@@ -125,7 +125,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "단어/것들___sort later.md",
+                "file": "단어/Helping words.md",
                 "mode": "source",
                 "source": false
               }
@@ -198,7 +198,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "단어/것들___sort later.md",
+                "file": "단어/Helping words.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -215,7 +215,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "단어/것들___sort later.md",
+                "file": "단어/Helping words.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -238,7 +238,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "단어/것들___sort later.md"
+                "file": "단어/Helping words.md"
               }
             }
           },
@@ -289,6 +289,7 @@
   },
   "active": "09dff0d6cd182180",
   "lastOpenFiles": [
+    "단어/것들___sort later.md",
     "단어/Helping words.md",
     "단어/부사.md",
     "단어/생활/일.md",
@@ -296,7 +297,6 @@
     "숙제/3B/textbook/68-71.md",
     "숙제/3B/textbook/84-86.md",
     "단어/수학.md",
-    "단어/것들___sort later.md",
     "문법/아 보니까.md",
     "단어/세상/시간.md",
     "단어/생활/여행지.md",
