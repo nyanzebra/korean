@@ -92,11 +92,19 @@
 ## 역시 #card
 ?
 ### 뜻
--
+- also
+- too
+- as well
+- again
+- still
+- 
 ### 예
 - 나 역시 그렇소
 	- me too
 - 역시 그건 정말이었다
 	- It turned out to be true after all.
-- 
+- 그것이 사실이라 치더라도, 역시 자네가 그르다
+	- Granting that it is so, you are still (in the) wrong.
+- 그녀는 지금도 역시 아름답다
+	- She is as beautiful as ever.
 <!--SR:!2024-12-18,1,204-->
