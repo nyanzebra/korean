@@ -97,7 +97,7 @@
 - as well
 - again
 - still
-- 
+- as expected
 ### 예
 - 나 역시 그렇소
 	- me too
