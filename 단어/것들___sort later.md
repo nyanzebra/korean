@@ -326,7 +326,7 @@
 ?
 ### 뜻
 - completely resembles
-- 
+- spitting image
 ### 예
 -
 
