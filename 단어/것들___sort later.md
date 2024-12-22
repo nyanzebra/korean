@@ -446,6 +446,17 @@
 - 그녀는 아빠에게 반항하고 늘 모험을 떠날 준비가 되어있다.
 	- She rebels against her father and is always ready for adventure
 
+## 선행 #card
+?
+### 뜻
+- precede
+- advance
+- doing good
+### 예
+- 그의 사상은 시대에 선행하고 있었다
+	- His ideas were ahead of the times.
+- 선행을 쌓다
+- 
 
 
 불다 blow 부르다 call 버리다 toss/completely 벌다 earn
