@@ -125,7 +125,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "단어/것들___sort later.md",
+                "file": "단어/추상적인 것/생각___마음.md",
                 "mode": "source",
                 "source": false
               }
@@ -198,7 +198,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "단어/것들___sort later.md",
+                "file": "단어/추상적인 것/생각___마음.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -215,7 +215,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "단어/것들___sort later.md",
+                "file": "단어/추상적인 것/생각___마음.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -238,7 +238,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "단어/것들___sort later.md"
+                "file": "단어/추상적인 것/생각___마음.md"
               }
             }
           },
@@ -289,8 +289,9 @@
   },
   "active": "09dff0d6cd182180",
   "lastOpenFiles": [
-    "단어/해부.md",
     "단어/것들___sort later.md",
+    "단어/추상적인 것/감정.md",
+    "단어/해부.md",
     "문법/도록.md",
     "단어/Helping words.md",
     "단어/부사.md",
@@ -314,7 +315,6 @@
     "단어/특질 & 특성 & 특징 & 특기.md",
     "단어/길.md",
     "단어/직장.md",
-    "단어/전공.md",
     "단어/식사",
     "단어/기계",
     "숙제/3B/textbook",

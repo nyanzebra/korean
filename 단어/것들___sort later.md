@@ -364,17 +364,6 @@
 ### 예
 -
 
-## 다정하다 #card
-?
-### 뜻
-- affectionate
-- intimate
-### 예
-- 여자는 남자보다 다정하다
-	- Women have warmer affection than men.
-- 그는 유머 있는 이야기로 다정한 분위기를 자아내었다
-	- He created a friendly atmosphere with his humorous remarks.
-
 ## 여전하다 #card
 ?
 ### 뜻
@@ -416,18 +405,7 @@
 - 그의 어머니를 부산행 열차에 태워 주도록 나는 그에게 부탁을 받았다
 	- I was asked to put his mother on the train bound for Busan.
 
-## 안심하다 #card
-?
-### 뜻
-- feel easy
-- feel at rest
-### 예
-- 딸이 결혼하는 것을 보기 전에는 내가 안심하고 눈을 감을 수 없다
-	- I cannot die in peace before I see my daughter married.
-- 안심하는 순간 나는 긴장이 풀렸다
-	- My tension melted away the moment I stopped worrying.
-- 너무 안심치 마라
-	- Don't be too sure of it.
+
 
 
 
