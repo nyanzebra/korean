@@ -508,7 +508,7 @@
 ## 호적까지 싹 다 긁어오고 미행도 몇 붙여봐라 #card
 ?
 ### 뜻
-- 
+- Why don't you swipe the family register and put a few tails on him?
 ### 예
 -
 
