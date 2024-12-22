@@ -498,4 +498,12 @@
 	- We'll have a nice father-son chat.
 
 
+## 단어 #card
+?
+### 뜻
+-
+### 예
+-
+
+
 불다 blow 부르다 call 버리다 toss/completely 벌다 earn
