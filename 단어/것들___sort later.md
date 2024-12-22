@@ -529,5 +529,21 @@
 - 애초부터 우리는 불공평하게 대우받았다
 	- Right from the beginning[From the very beginning] we've been unfairly treated
 
+## 보살피다 #card
+?
+### 뜻
+- oversee
+- look after
+- take care of
+### 예
+-
+
+## 단어 #card
+?
+### 뜻
+-
+### 예
+-
+
 
 불다 blow 부르다 call 버리다 toss/completely 벌다 earn
