@@ -582,6 +582,12 @@
 - 규칙적인 생활을 해 버릇하다
 	- accustom oneself to a regular life.
 
+## 단어 #card
+?
+### 뜻
+-
+### 예
+-
 
 
 불다 blow 부르다 call 버리다 toss/completely 벌다 earn
