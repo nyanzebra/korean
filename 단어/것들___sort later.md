@@ -559,7 +559,8 @@
 	- systemization
 - 조직체
 	- organism
-- 
+- 조직도
+	- organization chart
 
 
 
