@@ -346,5 +346,15 @@
 - 그들은 아침 일찍 일어나는 것이 학생들로 하여금 기강을 발전시키는 것을 돕는다고 말했다.
 	- They said that getting up early helps students develop discipline.
 
+## 해이하다 #card
+?
+### 뜻
+- relax
+- slacken up
+### 예
+- 공무원들의 해이해진 기강에서 발생하다
+	- 
+
+
 
 불다 blow 부르다 call 버리다 toss/completely 벌다 earn
