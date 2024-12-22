@@ -364,5 +364,15 @@
 ### 예
 -
 
+## 다정하다 #card
+?
+### 뜻
+- affectionate
+- intimate
+### 예
+- 여자는 남자보다 다정하다
+	- Women have warmer affection than men.
+- 
+
 
 불다 blow 부르다 call 버리다 toss/completely 벌다 earn
