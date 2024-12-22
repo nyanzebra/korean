@@ -498,10 +498,10 @@
 	- We'll have a nice father-son chat.
 
 
-## 단어 #card
+## 투기장 #card
 ?
 ### 뜻
--
+- arena
 ### 예
 -
 
