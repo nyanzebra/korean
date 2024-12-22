@@ -357,6 +357,12 @@
 - 요즘 관기가 눈에 띄게 해이해 졌다
 	- These days official discipline has been remarkably slack[lax].
 
+## 편안하다 #card
+?
+### 뜻
+- physically or emotionally comfortable
+### 예
+-
 
 
 불다 blow 부르다 call 버리다 toss/completely 벌다 earn
