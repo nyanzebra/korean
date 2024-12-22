@@ -523,9 +523,11 @@
 ## 애초 #card
 ?
 ### 뜻
--
+- from the beginning
+- from the outset
 ### 예
--
+- 애초부터 우리는 불공평하게 대우받았다
+	- Right from the beginning[From the very beginning] we've been unfairly treated
 
 
 불다 blow 부르다 call 버리다 toss/completely 벌다 earn
