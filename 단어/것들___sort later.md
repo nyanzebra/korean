@@ -339,9 +339,12 @@
 ### 뜻
 - discipline
 ### 예
-* 
+* 사회 기강
 	- social discipline
-- 
+- 이 정부는 공무원들의 근무 기강을 임기 마지막 날까지 챙긴다는 비장한 각오로 임해야 할 것이다.
+	- The administration should show determination in maintaining the discipline of government officials.
+- 그들은 아침 일찍 일어나는 것이 학생들로 하여금 기강을 발전시키는 것을 돕는다고 말했다.
+	- They said that getting up early helps students develop discipline.
 
 
 불다 blow 부르다 call 버리다 toss/completely 벌다 earn
