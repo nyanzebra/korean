@@ -569,6 +569,7 @@
 - flux
 ### 예
 - 간만에 바람 좀 쐬면서 걸을까 한다
+	- It's been a while since I've had some fresh air
 
 
 불다 blow 부르다 call 버리다 toss/completely 벌다 earn
