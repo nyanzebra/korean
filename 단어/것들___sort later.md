@@ -536,14 +536,17 @@
 - look after
 - take care of
 ### 예
--
+- 정상적으로 자랄 수 있게 잘 보살펴준 것
+	- Take good care of them so they can grow up normally.
 
-## 단어 #card
+## 정상 #card
 ?
 ### 뜻
--
+- normalcy
+- normality
 ### 예
--
+- 정상적으로 자랄 수 있게 잘 보살펴준 것
+	- Take good care of them so they can grow up normally.
 
 
 불다 blow 부르다 call 버리다 toss/completely 벌다 earn
