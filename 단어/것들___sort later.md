@@ -353,7 +353,9 @@
 - slacken up
 ### 예
 - 공무원들의 해이해진 기강에서 발생하다
-	- 
+	- result from slackened discipline among public officials.
+- 요즘 관기가 눈에 띄게 해이해 졌다
+	- These days official discipline has been remarkably slack[lax].
 
 
 
