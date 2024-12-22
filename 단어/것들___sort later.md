@@ -471,5 +471,17 @@
 - 사람들은 소년의 선행을 극구 칭찬했다
 	- People praised[문어 lauded] the boy to the skies for his good deed.
 
+## 기대하다 #card
+?
+### 뜻
+- expect
+- anticipate
+### 예
+- 그가 돌아올 것을 기대해도 소용없는 데도 나는 희망을 버리지 못하고 있다
+	- I am hoping against hope that he will come back.
+- 내게 너무 기대하지 말게
+	- 
+
+
 
 불다 blow 부르다 call 버리다 toss/completely 벌다 earn
