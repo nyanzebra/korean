@@ -548,5 +548,19 @@
 - 정상적으로 자랄 수 있게 잘 보살펴준 것
 	- Take good care of them so they can grow up normally.
 
+## 조직 #card
+?
+### 뜻
+- structured
+- organized
+- tissue
+### 예
+- 조직화
+	- systemization
+- 조직체
+	- organism
+- 
+
+
 
 불다 blow 부르다 call 버리다 toss/completely 벌다 earn
