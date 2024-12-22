@@ -582,12 +582,19 @@
 - 규칙적인 생활을 해 버릇하다
 	- accustom oneself to a regular life.
 
-## 단어 #card
+## 쥐어짜다 #card
 ?
 ### 뜻
--
+- press out
+- squeeze
+- extract
 ### 예
--
+- 수건을 쥐어짜다
+	- wring a towel
+- 그는 돈을 더 달라고 어머니를 쥐어짰다
+	- He pressed his mother for more money.
+- 종일 머리를 쥐어짜다
+	- 
 
 
 불다 blow 부르다 call 버리다 toss/completely 벌다 earn
