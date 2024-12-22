@@ -480,7 +480,7 @@
 - 그가 돌아올 것을 기대해도 소용없는 데도 나는 희망을 버리지 못하고 있다
 	- I am hoping against hope that he will come back.
 - 내게 너무 기대하지 말게
-	- 
+	- Don't expect too much of me.
 
 
 
