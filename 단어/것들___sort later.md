@@ -425,9 +425,13 @@
 ?
 ### 뜻
 - want of filial piety
-- unfilial beha
+- unfilial behavior
+- disobedience to one's parents
 ### 예
--
+- 부모님보다 먼저 이 세상을 하직하는 불효의 죄를 용서하십시오
+	- Dear parents, please pardon me for preceding you in death.
+
+
 
 
 
