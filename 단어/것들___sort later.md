@@ -391,7 +391,7 @@
 ?
 ### 뜻
 - list (as a company?)
-- public (as a compan)
+- public (as a company?)
 - certificate of merit
 - mourning ribbon
 ### 예
@@ -401,6 +401,13 @@
 	- drape a flag in mourning[black].
 - 증권 거래소 2부에 우리 회사 주식이 상장되었다
 	- Our company is listed on the Second Market.
+
+## 태우다 #card
+?
+### 뜻
+- burn, scorch
+### 예
+-
 
 
 불다 blow 부르다 call 버리다 toss/completely 벌다 earn
