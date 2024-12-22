@@ -125,7 +125,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "단어/해부.md",
+                "file": "단어/것들___sort later.md",
                 "mode": "source",
                 "source": false
               }
@@ -178,8 +178,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -199,7 +198,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "단어/해부.md",
+                "file": "단어/것들___sort later.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -216,7 +215,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "단어/해부.md",
+                "file": "단어/것들___sort later.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -239,7 +238,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "단어/해부.md"
+                "file": "단어/것들___sort later.md"
               }
             }
           },
@@ -290,6 +289,7 @@
   },
   "active": "09dff0d6cd182180",
   "lastOpenFiles": [
+    "단어/해부.md",
     "단어/것들___sort later.md",
     "문법/도록.md",
     "단어/Helping words.md",
@@ -315,7 +315,6 @@
     "단어/길.md",
     "단어/직장.md",
     "단어/전공.md",
-    "Conversational Korean/단어/116.md",
     "단어/식사",
     "단어/기계",
     "숙제/3B/textbook",
