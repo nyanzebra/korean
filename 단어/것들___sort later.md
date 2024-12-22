@@ -482,6 +482,13 @@
 - 내게 너무 기대하지 말게
 	- Don't expect too much of me.
 
+## 부자간 #card
+?
+### 뜻
+- father-son chat?
+### 예
+- 부자간의 멋진 대화를 나눠야죠
+	- We'll have a nice father-son chat.
 
 
 불다 blow 부르다 call 버리다 toss/completely 벌다 earn
