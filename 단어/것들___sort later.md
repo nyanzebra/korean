@@ -390,12 +390,17 @@
 ## 상장 #card
 ?
 ### 뜻
-- list
-- public
+- list (as a company?)
+- public (as a compan)
 - certificate of merit
-- mourning 
+- mourning ribbon
 ### 예
--
+- 그는 개근[입선] 상장을 받았다
+	- He was awarded a certificate for perfect attendance[winning a prize].
+- 기에 상장을 달다
+	- drape a flag in mourning[black].
+- 증권 거래소 2부에 우리 회사 주식이 상장되었다
+	- Our company is listed on the Second Market.
 
 
 불다 blow 부르다 call 버리다 toss/completely 벌다 earn
