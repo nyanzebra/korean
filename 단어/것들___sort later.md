@@ -432,6 +432,14 @@
 	- Dear parents, please pardon me for preceding you in death.
 
 
+## 반항 #card
+?
+### 뜻
+- rebellious
+- rebel
+- defiance
+### 예
+-
 
 
 
