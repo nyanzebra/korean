@@ -429,6 +429,13 @@
 - 효자가 충신이 된다
 	- A good son will make a good subject.
 
+## 효도하다 #card
+?
+### 뜻
+- filial piety
+### 예
+-
+
 
 ## 불효 #card
 ?
