@@ -562,6 +562,13 @@
 - 조직도
 	- organization chart
 
+## 간만 #card
+?
+### 뜻
+- ebb and flow
+- flux
+### 예
+- 간만에 바람 좀 쐬면서 걸을까 한다
 
 
 불다 blow 부르다 call 버리다 toss/completely 벌다 earn
