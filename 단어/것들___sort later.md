@@ -421,6 +421,15 @@
 ### 예
 -
 
+## 효자 #card
+?
+### 뜻
+- dutiful son
+### 예
+- 효자가 충신이 된다
+	- A good son will make a good subject.
+
+
 ## 불효 #card
 ?
 ### 뜻
