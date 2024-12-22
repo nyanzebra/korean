@@ -416,5 +416,15 @@
 - 그의 어머니를 부산행 열차에 태워 주도록 나는 그에게 부탁을 받았다
 	- I was asked to put his mother on the train bound for Busan.
 
+## 안심하다 #card
+?
+### 뜻
+- feel easy
+- feel at rest
+### 예
+- 딸이 결혼하는 것을 보기 전에는 내가 안심하고 눈을 감을 수 없다
+	- 
+
+
 
 불다 blow 부르다 call 버리다 toss/completely 벌다 earn
