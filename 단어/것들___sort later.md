@@ -334,4 +334,14 @@
 	- "You look just like my father," Suu Kyi told Ahn.
 
 
+## 기강 #card
+?
+### 뜻
+- discipline
+### 예
+* 
+	- social discipline
+- 
+
+
 불다 blow 부르다 call 버리다 toss/completely 벌다 earn
