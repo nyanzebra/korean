@@ -456,7 +456,11 @@
 - 그의 사상은 시대에 선행하고 있었다
 	- His ideas were ahead of the times.
 - 선행을 쌓다
-- 
+	- accumulate[keep on doing] good deeds.
+- 그의 선행은 세상 사람들의 거울이 되었다
+	- His good conduct set an example for the world.
+- 사람들은 소년의 선행을 극구 칭찬했다
+	- People praised[문어 lauded] the boy to the skies for his good deed.
 
 
 불다 blow 부르다 call 버리다 toss/completely 벌다 earn
