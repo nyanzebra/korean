@@ -378,9 +378,14 @@
 ## 여전하다 #card
 ?
 ### 뜻
--
+- remain unchanged
+- be as usual
+- be just as it was
 ### 예
--
+- 아버지의 병세는 여전하시다
+	- My father's condition remains the same.
+- 한 달이 지난 지금도 북한의 군사적 위협은 여전하다.
+	- A month has passed, and the North Korean military threat remains.
 
 
 불다 blow 부르다 call 버리다 toss/completely 벌다 earn
