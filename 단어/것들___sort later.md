@@ -410,7 +410,11 @@
 - take on board
 ### 예
 - 나무를 태워서 재를 만들었다
-	- 
+	- I made ash by burning wood.
+- 태워 주다
+	- give 《a person》 a lift[ride] 《in one's car》/give 《a person》 a passage 《on one's boat》/(도와서) help 《a person》 into 《a car》/put[place] 《a child》 on 《a train》.
+- 그의 어머니를 부산행 열차에 태워 주도록 나는 그에게 부탁을 받았다
+	- I was asked to put his mother on the train bound for Busan.
 
 
 불다 blow 부르다 call 버리다 toss/completely 벌다 earn
