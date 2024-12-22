@@ -372,7 +372,15 @@
 ### 예
 - 여자는 남자보다 다정하다
 	- Women have warmer affection than men.
-- 
+- 그는 유머 있는 이야기로 다정한 분위기를 자아내었다
+	- He created a friendly atmosphere with his humorous remarks.
+
+## 여전하다 #card
+?
+### 뜻
+-
+### 예
+-
 
 
 불다 blow 부르다 call 버리다 toss/completely 벌다 earn
