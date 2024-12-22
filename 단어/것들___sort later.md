@@ -387,5 +387,15 @@
 - 한 달이 지난 지금도 북한의 군사적 위협은 여전하다.
 	- A month has passed, and the North Korean military threat remains.
 
+## 상장 #card
+?
+### 뜻
+- list
+- public
+- certificate of merit
+- mourning 
+### 예
+-
+
 
 불다 blow 부르다 call 버리다 toss/completely 벌다 earn
