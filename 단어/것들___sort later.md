@@ -515,7 +515,7 @@
 ## 군말하다 #card
 ?
 ### 뜻
-- 
+- say unnecessary things
 ### 예
 -
 
