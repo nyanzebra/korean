@@ -161,7 +161,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "register",
+                "query": "apply ",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
