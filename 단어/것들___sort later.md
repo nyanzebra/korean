@@ -520,6 +520,12 @@
 - 항상 군말없이 따라주는 네 수고는 내가 다 기억한다
 	- I remember all the trouble you've gone to to keep me company!
 
+## 애초 #card
+?
+### 뜻
+-
+### 예
+-
 
 
 불다 blow 부르다 call 버리다 toss/completely 벌다 earn
