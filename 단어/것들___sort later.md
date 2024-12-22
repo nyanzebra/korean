@@ -594,7 +594,9 @@
 - 그는 돈을 더 달라고 어머니를 쥐어짰다
 	- He pressed his mother for more money.
 - 종일 머리를 쥐어짜다
-	- 
+	- rack one's brains all day long.
+- 목소리를 쥐어짜다
+	- strain one's voice.
 
 
 불다 blow 부르다 call 버리다 toss/completely 벌다 earn
