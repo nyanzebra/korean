@@ -580,7 +580,7 @@
 - 일찍 일어나 버릇하다
 	- accustom oneself to early rising
 - 규칙적인 생활을 해 버릇하다
-	- 
+	- accustom oneself to a regular life.
 
 
 
