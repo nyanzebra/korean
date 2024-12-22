@@ -439,7 +439,12 @@
 - rebel
 - defiance
 ### 예
--
+- 사람들은 청바지를 반항적이고 체제에 반대하는 젊은이들과 점점 커지는 반체제와 연관시키기 시작했다.
+	- People began associating jeans with rebellious, anti-establishment youth and the growing counterculture.
+- 반항적인 사르트르가 세계적 명성의 상을 거절한 것은 전적으로 그다운 일이었다.
+	- For the rebellious Sartre, then, turning down a world-famous award was completely in character.
+- 그녀는 아빠에게 반항하고 늘 모험을 떠날 준비가 되어있다.
+	- She rebels against her father and is always ready for adventure
 
 
 
