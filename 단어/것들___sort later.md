@@ -571,5 +571,17 @@
 - 간만에 바람 좀 쐬면서 걸을까 한다
 	- It's been a while since I've had some fresh air
 
+## 버릇하다 #card
+?
+### 뜻
+- be accustomed to
+- be in the habit of
+### 예
+- 일찍 일어나 버릇하다
+	- accustom oneself to early rising
+- 규칙적인 생활을 해 버릇하다
+	- 
+
+
 
 불다 blow 부르다 call 버리다 toss/completely 벌다 earn
