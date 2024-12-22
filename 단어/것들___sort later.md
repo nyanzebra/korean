@@ -405,6 +405,15 @@
 - 그의 어머니를 부산행 열차에 태워 주도록 나는 그에게 부탁을 받았다
 	- I was asked to put his mother on the train bound for Busan.
 
+## 포옹 #card
+?
+### 뜻
+- hug
+- embracement
+- cuddle
+### 예
+- 그의 정열적인 포옹으로 그녀는 숨도 쉴 수 없었다
+	- 
 
 
 
