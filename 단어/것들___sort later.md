@@ -642,7 +642,12 @@
 - question
 ### 예
 - 우리는 그가 돈을 횡령하지 않았나 하고 의심했다
-	- 
+	- We suspected that he had embezzled the money./We suspected him of embezzlement[embezzling the money].
+- 꿈이 아닌가 하고 의심하다
+	- wonder if it is only a dream.
+- 그의 능력을 의심하지 않을 수 없다
+	- I can't help being doubtful[skeptical] of his ability.
+- 형님께서는 지금... 시원이 식구를 의심하시는 것 ㄱ
 
 
 불다 blow 부르다 call 버리다 toss/completely 벌다 earn
