@@ -706,5 +706,14 @@ go in and out frequently
 - 울타리 틈새로 고양이가 들락날락하고 있다
 	- Cats go in and out through the opening in the fence.
 
+## 꺼내다 #card
+?
+### 뜻
+- take out
+- bring out
+- draw out
+### 예
+-
+
 
 불다 blow 부르다 call 버리다 toss/completely 벌다 earn
