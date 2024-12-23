@@ -647,7 +647,8 @@
 	- wonder if it is only a dream.
 - 그의 능력을 의심하지 않을 수 없다
 	- I can't help being doubtful[skeptical] of his ability.
-- 형님께서는 지금... 시원이 식구를 의심하시는 것 ㄱ
+- 형님께서는 지금... 시원이 식구를 의심하시는 것 같다...
+	- To the boss now, it seems he is skeptical of sl won's family
 
 
 불다 blow 부르다 call 버리다 toss/completely 벌다 earn
