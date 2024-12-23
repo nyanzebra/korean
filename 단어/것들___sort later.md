@@ -225,7 +225,7 @@
 	- have a narrow escape from death/escape narrowly[barely] with one's life.
 - 위기의 국면
 	- a critical phase.
-<!--SR:!2024-12-21,4,215-->
+<!--SR:!2025-01-01,10,215-->
 
 ## 기회 #card
 ?

@@ -107,4 +107,4 @@
 	- Granting that it is so, you are still (in the) wrong.
 - 그녀는 지금도 역시 아름답다
 	- She is as beautiful as ever.
-<!--SR:!2024-12-18,1,204-->
+<!--SR:!2024-12-24,2,204-->
