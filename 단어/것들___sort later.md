@@ -613,6 +613,12 @@
 - 천국은 넉넉하고, 흐르는 강으로 풍족한 정원입니다.
 	- It's plenty. It's gardens watered by running streams.
 
+## 작용하다 #card
+?
+### 뜻
+- 
+### 예
+-
 
 
 불다 blow 부르다 call 버리다 toss/completely 벌다 earn
