@@ -616,9 +616,16 @@
 ## 작용하다 #card
 ?
 ### 뜻
-- 
+- act
+- work
+- operate
 ### 예
--
+- 계략은 멋지게 작용했다
+	- The strategy worked excellently.
+- 어떤 초자연적인 힘이 작용하고 있는 것 같다
+	- Some supernatural power seems to be at work
+- 연이 올라갈 때는 바람이 양력으로 작용한다
+	- When a kite flies, the wind provides lift.
 
 
 불다 blow 부르다 call 버리다 toss/completely 벌다 earn
