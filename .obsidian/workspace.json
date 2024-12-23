@@ -122,17 +122,31 @@
           {
             "id": "09dff0d6cd182180",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
                 "file": "단어/것들___sort later.md",
                 "mode": "source",
                 "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "32c98b9e41416f19",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "단어/해부.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -198,7 +212,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "단어/것들___sort later.md",
+                "file": "단어/해부.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -215,7 +229,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "단어/것들___sort later.md",
+                "file": "단어/해부.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -238,7 +252,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "단어/것들___sort later.md"
+                "file": "단어/해부.md"
               }
             }
           },
@@ -287,10 +301,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "37e35dfd44d8e634",
+  "active": "32c98b9e41416f19",
   "lastOpenFiles": [
-    "문법/다고 보다.md",
     "단어/것들___sort later.md",
+    "문법/다고 보다.md",
     "단어/식사/음식.md",
     "단어/식사/맛.md",
     "단어/추상적인 것/감정.md",
