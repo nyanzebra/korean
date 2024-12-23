@@ -683,5 +683,16 @@
 - 탐정은 수상한 그 사나이를 놓쳤다
 	- The detective lost track of the suspicious man.
 
+## 낌새 #card
+?
+### 뜻
+- secrets
+- secret devices
+- inner workings
+### 예
+- 상대방의 계략을 낌새 채다
+	- get wind of one's opponent's plans/구어 get wise to one's opponent's tricks.
+- 
+
 
 불다 blow 부르다 call 버리다 toss/completely 벌다 earn
