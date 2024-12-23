@@ -627,6 +627,12 @@
 - 연이 올라갈 때는 바람이 양력으로 작용한다
 	- When a kite flies, the wind provides lift.
 
+## 그닥 #card
+?
+### 뜻
+- 별로 그렇게까지 (not so much)?
+### 예
+-
 
 
 불다 blow 부르다 call 버리다 toss/completely 벌다 earn
