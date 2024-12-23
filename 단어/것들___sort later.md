@@ -697,12 +697,14 @@
 - 나는 낌새를 알고 있었다
 	- I had an inkling of it.
 
-## 들ㄹ #card
+## 들락날락 #card
 ?
 ### 뜻
--
+-   
+go in and out frequently
 ### 예
--
+- 울타리 틈새로 고양이가 들락날락하고 있다
+	- Cats go in and out through the opening in the fence.
 
 
 불다 blow 부르다 call 버리다 toss/completely 벌다 earn
