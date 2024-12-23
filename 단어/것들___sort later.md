@@ -607,7 +607,11 @@
 - sufficient
 ### 예
 - 하지만 불행하게도 4m의 날개 길이는 넉넉하지가 않습니다.
-	- 
+	- For that, unfortunately, four meters wingspan is not enough.
+- 의심을 없애기 위해, 그녀는 넉넉한 양의 샴푸를 듬뿍 바르는 자신을 촬영했고, 이것은 그녀의 바위처럼 단단한 머리카락을 부드럽게 하는데 실패했습니다.
+	- To dispel any doubts, she filmed herself slathering on a generous amount of shampoo, which failed to soften her rock-hard hair.
+- 천국은 넉넉하고, 흐르는 강으로 풍족한 정원입니다.
+	- It's plenty. It's gardens watered by running streams.
 
 
 
