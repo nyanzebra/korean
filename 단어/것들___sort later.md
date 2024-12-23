@@ -671,6 +671,17 @@
 - 그녀는 그런 불행한 일을 겪고도 태연하다
 	- Even after such an unhappy experience, she looks quite unconcerned.
 
+## 수상하다 #card
+?
+### 뜻
+- strange
+- mysterious
+- dubious
+### 예
+- 그녀는 수상한 남자와 사귀고 있는 것 같다
+	- She seems to be going about[around] with a questionable man.
+- 탐정은 수상한 그 사나이를 놓쳤다
+	- The detective lost track of the suspicious man.
 
 
 불다 blow 부르다 call 버리다 toss/completely 벌다 earn
