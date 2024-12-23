@@ -598,5 +598,17 @@
 - 목소리를 쥐어짜다
 	- strain one's voice.
 
+## 넉넉하다 #card
+?
+### 뜻
+- enough
+- plenty
+- generous
+- sufficient
+### 예
+- 하지만 불행하게도 4m의 날개 길이는 넉넉하지가 않습니다.
+	- 
+
+
 
 불다 blow 부르다 call 버리다 toss/completely 벌다 earn
