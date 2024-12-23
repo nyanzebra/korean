@@ -697,5 +697,12 @@
 - 나는 낌새를 알고 있었다
 	- I had an inkling of it.
 
+## 들ㄹ #card
+?
+### 뜻
+-
+### 예
+-
+
 
 불다 blow 부르다 call 버리다 toss/completely 벌다 earn
