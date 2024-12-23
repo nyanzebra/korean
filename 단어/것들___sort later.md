@@ -664,7 +664,12 @@
 - miserable
 - unfortunate
 ### 예
-- 
+- 불행한 일이 첩출하다
+	- have one misfortune after another/have a series of misfortunes
+- 우리 집안에 최근 불행한 일이 계속되었다
+	- Recently we have had a run of bad luck in our family.
+- 그녀는 그런 불행한 일을 겪고도 태연하다
+	- 
 
 
 불다 blow 부르다 call 버리다 toss/completely 벌다 earn
