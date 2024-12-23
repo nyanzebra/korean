@@ -692,7 +692,10 @@
 ### 예
 - 상대방의 계략을 낌새 채다
 	- get wind of one's opponent's plans/구어 get wise to one's opponent's tricks.
-- 
+- 그 일에 대하여 그들이 상의한 낌새는 없었다
+	- There were no signs of their having discussed the matter.
+- 나는 낌새를 알고 있었다
+	- I had an inkling of it.
 
 
 불다 blow 부르다 call 버리다 toss/completely 벌다 earn
