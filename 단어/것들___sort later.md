@@ -634,5 +634,15 @@
 ### 예
 -
 
+## 의심하다 #card
+?
+### 뜻
+- doubt
+- suspect
+- question
+### 예
+- 우리는 그가 돈을 횡령하지 않았나 하고 의심했다
+	- 
+
 
 불다 blow 부르다 call 버리다 toss/completely 벌다 earn
