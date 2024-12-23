@@ -715,10 +715,12 @@ go in and out frequently
 ### 예
 -
 
-## 단어 #card
+## 적임자 #card
 ?
 ### 뜻
--
+- person well suited
+- competent person
+- right man
 ### 예
 -
 
