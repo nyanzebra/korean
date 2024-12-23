@@ -650,12 +650,21 @@
 - 형님께서는 지금... 시원이 식구를 의심하시는 것 같다...
 	- To the boss now, it seems he is skeptical of sl won's family
 
-## 단어 #card
+## 명실상부 #card
 ?
 ### 뜻
--
+- ?
 ### 예
 -
+
+## 불행하다 #card
+?
+### 뜻
+- unhappy
+- miserable
+- unfortunate
+### 예
+- 
 
 
 불다 blow 부르다 call 버리다 toss/completely 벌다 earn
