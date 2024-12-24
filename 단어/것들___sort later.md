@@ -244,7 +244,7 @@
 	- Urban redevelopment is great for the city and gives opportunities for city governments to utilize older neighborhoods in a better way.
 - "이번 기회에 정계는 농업부문 활성화 조치를 마련해야 한다.
 	- On this occasion, the political circle should prepare for measures to revitalize the farming sector.
-<!--SR:!2024-12-23,6,235-->
+<!--SR:!2025-01-06,14,235-->
 
 ## 전부 #card
 ?
