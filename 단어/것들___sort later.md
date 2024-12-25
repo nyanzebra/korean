@@ -820,10 +820,12 @@ go in and out frequently
 ## 기록하다 #card
 ?
 ### 뜻
-- record (physically)
+- record (not voice)
 ### 예
 - 나는 일의 경과를 자세히 기록해 두었다
-- 
+	- I have put down the course of events in detail[in full/minutely].
+- 이 팀은 과거 2년간 무패를 기록했다
+	- The team has not suffered a single defeat for the last two years.
 
 
 불다 blow 부르다 call 버리다 toss/completely 벌다 earn
