@@ -789,12 +789,17 @@ go in and out frequently
 ### 예
 -
 
-## 단어 #card
+## 승부 #card
 ?
 ### 뜻
--
+- match
+- game
+- competition
 ### 예
--
+- 승부 조작이 아시아 전역에서 유행이 된 것 같다.
+	- It seems that match fixing has become an epidemic across Asia
+- 조 감독은 빠른 공격으로 승부를 낼 계획이다.
+	- 
 
 
 불다 blow 부르다 call 버리다 toss/completely 벌다 earn
