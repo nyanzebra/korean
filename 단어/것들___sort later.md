@@ -834,5 +834,19 @@ go in and out frequently
 ### 예
 -
 
+## 건네다 #card
+?
+### 뜻
+- give
+- hand
+- deliver
+- pay
+- transfer
+### 예
+- 그리고 경조사를 맞은 사람에게 이를 건넨다.
+	- Then they give it to the person celebrating or mourning an event
+- 그리고 그것을 마컴에게 건네면서 말했다.
+	- 
+
 
 불다 blow 부르다 call 버리다 toss/completely 벌다 earn
