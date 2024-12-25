@@ -877,12 +877,17 @@ go in and out frequently
 - 그녀는 질책을 받아도 부끄럽지도 않은 것 같고 사과하려고 하지도 않습니다.
 	- She never seems embarrassed about the reprimand, nor is she apologetic.
 
-## 단어 #card
+## 덤 #card
 ?
 ### 뜻
--
+- addition
+- premium
+- throw in
 ### 예
--
+- 덤을 붙이다
+	- throw in something extra.
+- 덤으로 귤 2개를 드리겠습니다
+	- I'll throw these two oranges in extra./I'll give you two oranges into the bargain.
 
 
 불다 blow 부르다 call 버리다 toss/completely 벌다 earn
