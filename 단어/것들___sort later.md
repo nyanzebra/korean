@@ -900,9 +900,13 @@ go in and out frequently
 ## 단번에 #card
 ?
 ### 뜻
--
+- at a stroke
+- at one try
 ### 예
--
+- 단번에 시험에 합격하다
+	- succeed in an examination at one's first attempt
+- 그 아이는 욕심을 부려 단번에 사탕 3개를 한입에 쑤셔 넣었다
+	- The child greedily crammed three candies into his mouth all at once.
 
 
 불다 blow 부르다 call 버리다 toss/completely 벌다 earn
