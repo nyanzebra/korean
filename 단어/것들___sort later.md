@@ -774,6 +774,13 @@ go in and out frequently
 ### 예
 -
 
+## 헤엄하다 #card
+?
+### 뜻
+- have a swim
+### 예
+- 어린이를 풀에서 헤엄치게 하다
+	- let the children swim in the pool.
 
 
 
