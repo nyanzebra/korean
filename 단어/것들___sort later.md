@@ -806,7 +806,7 @@ go in and out frequently
 ## 걸어오다/걸어가다 #card
 ?
 ### 뜻
--
+- come/go by walking/foot
 ### 예
 -
 
