@@ -760,6 +760,20 @@ go in and out frequently
 - 성균관대 교수들에 따르면 기계적 공명 때문이라고 건물이 흔들렸다고 한다.
 	- According to the professors, the building shook because of mechanical resonance.
 
+## 비술 #card
+?
+### 뜻
+- secret technique
+### 예
+-
+
+## 물겨 #card
+?
+### 뜻
+-
+### 예
+-
+
 
 
 
