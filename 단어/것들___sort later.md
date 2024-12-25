@@ -740,9 +740,21 @@ go in and out frequently
 ?
 ### 뜻
 - still
-- quie
+- quiet
+- tranquil
+### 예
+- 호면은 바람기 하나 없이 잔잔하였다
+	- Not a breeze stirred the lake
+- 잔잔한 수면에는 잔물결 하나 없었다
+	- Not a ripple disturbed the glassy surface of the water.
+
+## 단어 #card
+?
+### 뜻
+-
 ### 예
 -
+
 
 
 
