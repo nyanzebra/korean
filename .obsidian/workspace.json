@@ -139,7 +139,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "단어/해부.md",
+                "file": "숙제/3B/textbook/74-76.md",
                 "mode": "source",
                 "source": false
               }
@@ -151,14 +151,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "숙제/3B/textbook/74-76.md",
+                "file": "문법/간접화범 축약.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 10
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -313,11 +313,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "95f9cc9328ccec9a",
+  "active": "32c98b9e41416f19",
   "lastOpenFiles": [
-    "단어/것들___sort later.md",
-    "숙제/3B/textbook/74-76.md",
     "단어/해부.md",
+    "문법/간접화범 축약.md",
+    "숙제/3B/textbook/74-76.md",
+    "단어/것들___sort later.md",
     "문법/다고 보다.md",
     "단어/식사/음식.md",
     "단어/식사/맛.md",
@@ -340,7 +341,6 @@
     "사자성어/ㄱ.md",
     "phrases/사자성어.md",
     "phrases/proverbs.md",
-    "문법/기 나름이다.md",
     "단어/식사",
     "단어/기계",
     "숙제/3B/textbook",
