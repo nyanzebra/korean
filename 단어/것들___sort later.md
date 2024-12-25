@@ -817,5 +817,13 @@ go in and out frequently
 ### 예
 -
 
+## 기록하다 #card
+?
+### 뜻
+- record (physically)
+### 예
+- 나는 일의 경과를 자세히 기록해 두었다
+- 
+
 
 불다 blow 부르다 call 버리다 toss/completely 벌다 earn
