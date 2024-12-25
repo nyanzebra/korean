@@ -908,5 +908,13 @@ go in and out frequently
 - 그 아이는 욕심을 부려 단번에 사탕 3개를 한입에 쑤셔 넣었다
 	- The child greedily crammed three candies into his mouth all at once.
 
+## 밀어붙이다 #card
+?
+### 뜻
+- push against
+### 예
+- 여러모로, 우리의 이런 대담한 생각들은 가능성의 경계선을 밀어붙이는걸 돕습니다.
+	- In many ways, our audacity to imagine helps push the boundaries of possibility.
+
 
 불다 blow 부르다 call 버리다 toss/completely 벌다 earn
