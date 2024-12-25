@@ -767,10 +767,10 @@ go in and out frequently
 ### 예
 -
 
-## 물겨 #card
+## 물결 #card
 ?
 ### 뜻
--
+- wave (ocean/water)
 ### 예
 -
 
