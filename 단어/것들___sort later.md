@@ -827,5 +827,12 @@ go in and out frequently
 - 이 팀은 과거 2년간 무패를 기록했다
 	- The team has not suffered a single defeat for the last two years.
 
+## 틀니 #card
+?
+### 뜻
+- dentures
+### 예
+-
+
 
 불다 blow 부르다 call 버리다 toss/completely 벌다 earn
