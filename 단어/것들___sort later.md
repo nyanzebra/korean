@@ -859,10 +859,11 @@ go in and out frequently
 ### 예
 -
 
-## 단어 #card
+## 씹히다 #card
 ?
 ### 뜻
--
+- chew
+- masticate
 ### 예
 -
 
