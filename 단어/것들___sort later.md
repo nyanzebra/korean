@@ -867,5 +867,15 @@ go in and out frequently
 ### 예
 -
 
+## 부끄럽다 #card
+?
+### 뜻
+- embarrassing
+- ashamed
+- shame
+### 예
+- 그녀는 질책을 받아도 부끄럽지도 않은 것 같고 사과하려고 하지도 않습니다.
+	- She never seems embarrassed about the reprimand, nor is she apologetic.
+
 
 불다 blow 부르다 call 버리다 toss/completely 벌다 earn
