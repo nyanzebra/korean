@@ -889,5 +889,12 @@ go in and out frequently
 - 덤으로 귤 2개를 드리겠습니다
 	- I'll throw these two oranges in extra./I'll give you two oranges into the bargain.
 
+## 단어 #card
+?
+### 뜻
+-
+### 예
+-
+
 
 불다 blow 부르다 call 버리다 toss/completely 벌다 earn
