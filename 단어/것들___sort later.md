@@ -846,7 +846,11 @@ go in and out frequently
 - 그리고 경조사를 맞은 사람에게 이를 건넨다.
 	- Then they give it to the person celebrating or mourning an event
 - 그리고 그것을 마컴에게 건네면서 말했다.
-	- 
+	- "Here's a funny one, sir," he said, handing it to Markham.
+- 이 브로커들 중 일부는 9월 11일 공격 후에 테러리스트들이 돈을 건네는 데 도움을 주었을지도 모른다.
+	- Some of these brokers may have helped terrorists transfer money after the September 11 attacks.
+- 검찰에 따르면 모두 120명의 구직자들이 기아차에 입사하기 위해 뇌물을 건넨 것으로 밝혀졌다.
+	- A total of 120 employees were found to have paid bribes to gain work at the automaker's factory in Gwangju, 330 kilometers south of Seoul, according to the prosecution.
 
 
 불다 blow 부르다 call 버리다 toss/completely 벌다 earn
