@@ -852,5 +852,12 @@ go in and out frequently
 - 검찰에 따르면 모두 120명의 구직자들이 기아차에 입사하기 위해 뇌물을 건넨 것으로 밝혀졌다.
 	- A total of 120 employees were found to have paid bribes to gain work at the automaker's factory in Gwangju, 330 kilometers south of Seoul, according to the prosecution.
 
+## 단어 #card
+?
+### 뜻
+-
+### 예
+-
+
 
 불다 blow 부르다 call 버리다 toss/completely 벌다 earn
