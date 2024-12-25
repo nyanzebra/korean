@@ -748,12 +748,17 @@ go in and out frequently
 - 잔잔한 수면에는 잔물결 하나 없었다
 	- Not a ripple disturbed the glassy surface of the water.
 
-## 단어 #card
+## 흔들리다 #card
 ?
 ### 뜻
--
+- shake
+- sway
+- wave
 ### 예
--
+- 바람에 흔들리는 갈대
+	- reeds swaying in the wind.
+- 성균관대 교수들에 따르면 기계적 공명 때문이라고 건물이 흔들렸다고 한다.
+	- According to the professors, the building shook because of mechanical resonance.
 
 
 
