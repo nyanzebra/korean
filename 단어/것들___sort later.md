@@ -799,7 +799,17 @@ go in and out frequently
 - 승부 조작이 아시아 전역에서 유행이 된 것 같다.
 	- It seems that match fixing has become an epidemic across Asia
 - 조 감독은 빠른 공격으로 승부를 낼 계획이다.
-	- 
+	- Korea coach Cho plans to use a quick offense to determine the game.
+- 플레이오프 기간 동안 4팀이 승부를 겨룬다.
+	- Four teams are competing in the playoffs.
+
+## 걸어오다/걸어가다 #card
+?
+### 뜻
+-
+### 예
+-
+
 
 
 불다 blow 부르다 call 버리다 toss/completely 벌다 earn
