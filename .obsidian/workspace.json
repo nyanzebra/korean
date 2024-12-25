@@ -144,9 +144,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "95f9cc9328ccec9a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "숙제/3B/textbook/74-76.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 8
+        "currentTab": 10
       }
     ],
     "direction": "vertical"
@@ -192,8 +204,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -213,7 +224,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "단어/것들___sort later.md",
+                "file": "숙제/3B/textbook/74-76.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -230,7 +241,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "단어/것들___sort later.md",
+                "file": "숙제/3B/textbook/74-76.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -253,7 +264,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "단어/것들___sort later.md"
+                "file": "숙제/3B/textbook/74-76.md"
               }
             }
           },
@@ -302,10 +313,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "0a3a0e6033d1b09d",
+  "active": "95f9cc9328ccec9a",
   "lastOpenFiles": [
-    "단어/해부.md",
     "단어/것들___sort later.md",
+    "숙제/3B/textbook/74-76.md",
+    "단어/해부.md",
     "문법/다고 보다.md",
     "단어/식사/음식.md",
     "단어/식사/맛.md",
@@ -329,7 +341,6 @@
     "phrases/사자성어.md",
     "phrases/proverbs.md",
     "문법/기 나름이다.md",
-    "단어/쇼핑.md",
     "단어/식사",
     "단어/기계",
     "숙제/3B/textbook",
