@@ -729,8 +729,21 @@ go in and out frequently
 ### 뜻
 - sleep
 - slumber
+- surface of the water
+### 예
+- 수면을 제대로 취하다
+	- sleep regular hours
+- 이들은 수면에서 생활한다.
+	- They live at the surface of the water.
+
+## 잔잔하다 #card
+?
+### 뜻
+- still
+- quie
 ### 예
 -
+
 
 
 불다 blow 부르다 call 버리다 toss/completely 벌다 earn
