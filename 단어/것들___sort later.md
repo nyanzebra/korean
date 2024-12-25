@@ -877,5 +877,12 @@ go in and out frequently
 - 그녀는 질책을 받아도 부끄럽지도 않은 것 같고 사과하려고 하지도 않습니다.
 	- She never seems embarrassed about the reprimand, nor is she apologetic.
 
+## 단어 #card
+?
+### 뜻
+-
+### 예
+-
+
 
 불다 blow 부르다 call 버리다 toss/completely 벌다 earn
