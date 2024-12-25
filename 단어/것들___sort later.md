@@ -782,6 +782,19 @@ go in and out frequently
 - 어린이를 풀에서 헤엄치게 하다
 	- let the children swim in the pool.
 
+## 햇빛에 타다 #card
+?
+### 뜻
+- get sunburnt
+### 예
+-
+
+## 단어 #card
+?
+### 뜻
+-
+### 예
+-
 
 
 불다 blow 부르다 call 버리다 toss/completely 벌다 earn
