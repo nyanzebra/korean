@@ -139,7 +139,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "숙제/3B/textbook/74-76.md",
+                "file": "숙제/3B/textbook/74-76 Fixed.md",
                 "mode": "source",
                 "source": false
               }
@@ -224,7 +224,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "숙제/3B/textbook/74-76.md",
+                "file": "숙제/3B/textbook/74-76 Fixed.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -241,7 +241,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "숙제/3B/textbook/74-76.md",
+                "file": "숙제/3B/textbook/74-76 Fixed.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -264,7 +264,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "숙제/3B/textbook/74-76.md"
+                "file": "숙제/3B/textbook/74-76 Fixed.md"
               }
             }
           },
@@ -315,9 +315,10 @@
   },
   "active": "32c98b9e41416f19",
   "lastOpenFiles": [
+    "숙제/3B/textbook/74-76.md",
+    "숙제/3B/textbook/74-76 Fixed.md",
     "단어/해부.md",
     "문법/간접화범 축약.md",
-    "숙제/3B/textbook/74-76.md",
     "단어/것들___sort later.md",
     "문법/다고 보다.md",
     "단어/식사/음식.md",
@@ -340,7 +341,6 @@
     "문법/다고 치다.md",
     "사자성어/ㄱ.md",
     "phrases/사자성어.md",
-    "phrases/proverbs.md",
     "단어/식사",
     "단어/기계",
     "숙제/3B/textbook",
