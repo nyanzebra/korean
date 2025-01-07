@@ -44,7 +44,7 @@
 	- decide on priority ranked things
 - 날짜를 매기다
 	- decide on a date
-<!--SR:!2025-01-07,29,208-->
+<!--SR:!2025-01-21,14,188-->
 
 ## 그럭저럭 #card
 ?
@@ -637,7 +637,7 @@
 - 별로 그렇게까지 (not so much)?
 ### 예
 -
-<!--SR:!2025-01-07,1,202-->
+<!--SR:!2025-01-08,1,182-->
 
 ## 의심하다 #card
 ?
@@ -764,7 +764,7 @@ go in and out frequently
 	- reeds swaying in the wind.
 - 성균관대 교수들에 따르면 기계적 공명 때문이라고 건물이 흔들렸다고 한다.
 	- According to the professors, the building shook because of mechanical resonance.
-<!--SR:!2025-01-07,1,202-->
+<!--SR:!2025-01-08,1,182-->
 
 ## 비술 #card
 ?
