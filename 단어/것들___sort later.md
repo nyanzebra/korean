@@ -562,7 +562,7 @@
 	- organism
 - 조직도
 	- organization chart
-<!--SR:!2025-01-07,1,202-->
+<!--SR:!2025-01-08,1,182-->
 
 ## 간만 #card
 ?
@@ -876,7 +876,7 @@ go in and out frequently
 - masticate
 ### 예
 -
-<!--SR:!2025-01-07,1,202-->
+<!--SR:!2025-01-09,2,202-->
 
 ## 부끄럽다 #card
 ?
@@ -918,7 +918,7 @@ go in and out frequently
 	- succeed in an examination at one's first attempt
 - 그 아이는 욕심을 부려 단번에 사탕 3개를 한입에 쑤셔 넣었다
 	- The child greedily crammed three candies into his mouth all at once.
-<!--SR:!2025-01-07,1,202-->
+<!--SR:!2025-01-09,2,202-->
 
 ## 밀어붙이다 #card
 ?
