@@ -362,6 +362,7 @@
 - physically or emotionally comfortable
 ### 예
 -
+<!--SR:!2025-01-07,1,202-->
 
 ## 여전하다 #card
 ?
@@ -633,6 +634,7 @@
 - 별로 그렇게까지 (not so much)?
 ### 예
 -
+<!--SR:!2025-01-07,1,202-->
 
 ## 의심하다 #card
 ?
@@ -781,6 +783,7 @@ go in and out frequently
 ### 예
 - 어린이를 풀에서 헤엄치게 하다
 	- let the children swim in the pool.
+<!--SR:!2025-01-07,1,202-->
 
 ## 햇빛에 타다 #card
 ?
@@ -866,6 +869,7 @@ go in and out frequently
 - masticate
 ### 예
 -
+<!--SR:!2025-01-07,1,202-->
 
 ## 부끄럽다 #card
 ?
