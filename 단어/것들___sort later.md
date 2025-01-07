@@ -583,6 +583,7 @@
 	- accustom oneself to early rising
 - 규칙적인 생활을 해 버릇하다
 	- accustom oneself to a regular life.
+<!--SR:!2025-01-07,1,202-->
 
 ## 쥐어짜다 #card
 ?
@@ -762,6 +763,7 @@ go in and out frequently
 	- reeds swaying in the wind.
 - 성균관대 교수들에 따르면 기계적 공명 때문이라고 건물이 흔들렸다고 한다.
 	- According to the professors, the building shook because of mechanical resonance.
+<!--SR:!2025-01-07,1,202-->
 
 ## 비술 #card
 ?
@@ -813,6 +815,7 @@ go in and out frequently
 - come/go by walking/foot
 ### 예
 -
+<!--SR:!2025-01-08,2,222-->
 
 ## 도감 #card
 ?
@@ -837,6 +840,7 @@ go in and out frequently
 - dentures
 ### 예
 -
+<!--SR:!2025-01-07,1,202-->
 
 ## 건네다 #card
 ?
@@ -913,6 +917,7 @@ go in and out frequently
 	- succeed in an examination at one's first attempt
 - 그 아이는 욕심을 부려 단번에 사탕 3개를 한입에 쑤셔 넣었다
 	- The child greedily crammed three candies into his mouth all at once.
+<!--SR:!2025-01-07,1,202-->
 
 ## 밀어붙이다 #card
 ?
