@@ -362,7 +362,7 @@
 - physically or emotionally comfortable
 ### 예
 -
-<!--SR:!2025-01-07,1,202-->
+<!--SR:!2025-01-09,2,202-->
 
 ## 여전하다 #card
 ?
@@ -572,7 +572,7 @@
 ### 예
 - 간만에 바람 좀 쐬면서 걸을까 한다
 	- It's been a while since I've had some fresh air
-<!--SR:!2025-01-07,1,202-->
+<!--SR:!2025-01-08,1,182-->
 
 ## 버릇하다 #card
 ?
@@ -584,7 +584,7 @@
 	- accustom oneself to early rising
 - 규칙적인 생활을 해 버릇하다
 	- accustom oneself to a regular life.
-<!--SR:!2025-01-07,1,202-->
+<!--SR:!2025-01-08,1,182-->
 
 ## 쥐어짜다 #card
 ?
