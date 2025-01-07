@@ -841,7 +841,7 @@ go in and out frequently
 - dentures
 ### 예
 -
-<!--SR:!2025-01-07,1,202-->
+<!--SR:!2025-01-08,1,182-->
 
 ## 건네다 #card
 ?
