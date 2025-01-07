@@ -787,7 +787,7 @@ go in and out frequently
 ### 예
 - 어린이를 풀에서 헤엄치게 하다
 	- let the children swim in the pool.
-<!--SR:!2025-01-07,1,202-->
+<!--SR:!2025-01-08,1,182-->
 
 ## 햇빛에 타다 #card
 ?
