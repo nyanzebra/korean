@@ -407,6 +407,7 @@
 	- give 《a person》 a lift[ride] 《in one's car》/give 《a person》 a passage 《on one's boat》/(도와서) help 《a person》 into 《a car》/put[place] 《a child》 on 《a train》.
 - 그의 어머니를 부산행 열차에 태워 주도록 나는 그에게 부탁을 받았다
 	- I was asked to put his mother on the train bound for Busan.
+<!--SR:!2025-01-08,1,195-->
 
 ## 포옹 #card
 ?
@@ -432,6 +433,7 @@
 ### 예
 - 효자가 충신이 된다
 	- A good son will make a good subject.
+<!--SR:!2025-01-09,2,215-->
 
 ## 효도하다 #card
 ?
@@ -510,6 +512,7 @@
 - arena
 ### 예
 -
+<!--SR:!2025-01-08,1,195-->
 
 ## 호적까지 싹 다 긁어오고 미행도 몇 붙여봐라 #card
 ?
@@ -810,6 +813,7 @@ go in and out frequently
 - get sunburnt
 ### 예
 -
+<!--SR:!2025-01-09,2,215-->
 
 ## 승부 #card
 ?
@@ -903,6 +907,7 @@ go in and out frequently
 ### 예
 - 그녀는 질책을 받아도 부끄럽지도 않은 것 같고 사과하려고 하지도 않습니다.
 	- She never seems embarrassed about the reprimand, nor is she apologetic.
+<!--SR:!2025-01-08,1,195-->
 
 ## 덤 #card
 ?
