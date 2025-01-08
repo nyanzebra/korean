@@ -601,6 +601,7 @@
 	- rack one's brains all day long.
 - 목소리를 쥐어짜다
 	- strain one's voice.
+<!--SR:!2025-01-08,1,195-->
 
 ## 넉넉하다 #card
 ?
