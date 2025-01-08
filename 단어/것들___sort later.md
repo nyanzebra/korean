@@ -439,6 +439,7 @@
 - filial piety
 ### 예
 -
+<!--SR:!2025-01-09,2,215-->
 
 
 ## 불효 #card
@@ -481,6 +482,7 @@
 	- His good conduct set an example for the world.
 - 사람들은 소년의 선행을 극구 칭찬했다
 	- People praised[문어 lauded] the boy to the skies for his good deed.
+<!--SR:!2025-01-08,1,195-->
 
 ## 기대하다 #card
 ?
@@ -533,6 +535,7 @@
 ### 예
 - 애초부터 우리는 불공평하게 대우받았다
 	- Right from the beginning[From the very beginning] we've been unfairly treated
+<!--SR:!2025-01-08,1,195-->
 
 ## 보살피다 #card
 ?
@@ -661,6 +664,7 @@
 	- I can't help being doubtful[skeptical] of his ability.
 - 형님께서는 지금... 시원이 식구를 의심하시는 것 같다...
 	- To the boss now, it seems he is skeptical of sl won's family
+<!--SR:!2025-01-08,1,195-->
 
 ## 명실상부 #card
 ?
@@ -709,6 +713,7 @@
 	- There were no signs of their having discussed the matter.
 - 나는 낌새를 알고 있었다
 	- I had an inkling of it.
+<!--SR:!2025-01-08,1,195-->
 
 ## 들락날락 #card
 ?
@@ -918,6 +923,7 @@ go in and out frequently
 - take a firm bite
 ### 예
 -
+<!--SR:!2025-01-08,1,195-->
 
 ## 단번에 #card
 ?
