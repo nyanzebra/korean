@@ -780,6 +780,7 @@ go in and out frequently
 - wave (ocean/water)
 ### 예
 -
+<!--SR:!2025-01-08,1,195-->
 
 ## 헤엄하다 #card
 ?
@@ -928,6 +929,7 @@ go in and out frequently
 ### 예
 - 여러모로, 우리의 이런 대담한 생각들은 가능성의 경계선을 밀어붙이는걸 돕습니다.
 	- In many ways, our audacity to imagine helps push the boundaries of possibility.
+<!--SR:!2025-01-08,1,195-->
 
 
 불다 blow 부르다 call 버리다 toss/completely 벌다 earn
