@@ -320,6 +320,7 @@
 	- Van Gogh suffered a lot.
 - 한국은 지난 몇 주 동안 극심한 더위를 겪고 있습니다.
 	- Korea has been experiencing extreme heat for the past few weeks.
+<!--SR:!2025-01-09,2,215-->
 
 ## 쏙/꼭 빼닮다 #card
 ?
@@ -514,6 +515,7 @@
 - Why don't you swipe the family register and put a few tails on him?
 ### 예
 -
+<!--SR:!2025-01-08,1,195-->
 
 ## 군말하다 #card
 ?
@@ -541,6 +543,7 @@
 ### 예
 - 정상적으로 자랄 수 있게 잘 보살펴준 것
 	- Take good care of them so they can grow up normally.
+<!--SR:!2025-01-08,1,195-->
 
 ## 정상 #card
 ?
@@ -745,6 +748,7 @@ go in and out frequently
 	- sleep regular hours
 - 이들은 수면에서 생활한다.
 	- They live at the surface of the water.
+<!--SR:!2025-01-08,1,195-->
 
 ## 잔잔하다 #card
 ?
