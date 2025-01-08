@@ -375,6 +375,7 @@
 	- My father's condition remains the same.
 - 한 달이 지난 지금도 북한의 군사적 위협은 여전하다.
 	- A month has passed, and the North Korean military threat remains.
+<!--SR:!2025-01-08,1,195-->
 
 ## 상장 #card
 ?
@@ -548,6 +549,7 @@
 ### 예
 - 정상적으로 자랄 수 있게 잘 보살펴준 것
 	- Take good care of them so they can grow up normally.
+<!--SR:!2025-01-08,1,195-->
 
 ## 조직 #card
 ?
@@ -662,6 +664,7 @@
 - ?
 ### 예
 -
+<!--SR:!2025-01-08,1,195-->
 
 ## 불행하다 #card
 ?
@@ -836,6 +839,7 @@ go in and out frequently
 	- I have put down the course of events in detail[in full/minutely].
 - 이 팀은 과거 2년간 무패를 기록했다
 	- The team has not suffered a single defeat for the last two years.
+<!--SR:!2025-01-08,1,195-->
 
 ## 틀니 #card
 ?
