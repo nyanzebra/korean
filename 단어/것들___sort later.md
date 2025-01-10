@@ -364,7 +364,7 @@
 - physically or emotionally comfortable
 ### 예
 -
-<!--SR:!2025-01-09,2,202-->
+<!--SR:!2025-01-14,4,202-->
 
 ## 여전하다 #card
 ?
@@ -559,7 +559,7 @@
 ### 예
 - 정상적으로 자랄 수 있게 잘 보살펴준 것
 	- Take good care of them so they can grow up normally.
-<!--SR:!2025-01-08,1,195-->
+<!--SR:!2025-01-11,1,175-->
 
 ## 조직 #card
 ?
@@ -805,7 +805,7 @@ go in and out frequently
 ### 예
 - 어린이를 풀에서 헤엄치게 하다
 	- let the children swim in the pool.
-<!--SR:!2025-01-08,1,182-->
+<!--SR:!2025-01-11,1,162-->
 
 ## 햇빛에 타다 #card
 ?
@@ -861,7 +861,7 @@ go in and out frequently
 - dentures
 ### 예
 -
-<!--SR:!2025-01-08,1,182-->
+<!--SR:!2025-01-12,2,182-->
 
 ## 건네다 #card
 ?
@@ -896,7 +896,7 @@ go in and out frequently
 - masticate
 ### 예
 -
-<!--SR:!2025-01-09,2,202-->
+<!--SR:!2025-01-14,4,202-->
 
 ## 부끄럽다 #card
 ?
