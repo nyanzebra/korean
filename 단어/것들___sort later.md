@@ -813,7 +813,7 @@ go in and out frequently
 - get sunburnt
 ### 예
 -
-<!--SR:!2025-01-09,2,215-->
+<!--SR:!2025-01-16,6,235-->
 
 ## 승부 #card
 ?
