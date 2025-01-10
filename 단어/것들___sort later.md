@@ -425,6 +425,7 @@
 - I thought you were growing up wrong
 ### 예
 -
+<!--SR:!2025-01-11,1,174-->
 
 ## 효자 #card
 ?
@@ -531,6 +532,7 @@
 ### 예
 - 항상 군말없이 따라주는 네 수고는 내가 다 기억한다
 	- I remember all the trouble you've gone to to keep me company!
+<!--SR:!2025-01-11,1,174-->
 
 ## 애초 #card
 ?
@@ -692,6 +694,7 @@
 	- Recently we have had a run of bad luck in our family.
 - 그녀는 그런 불행한 일을 겪고도 태연하다
 	- Even after such an unhappy experience, she looks quite unconcerned.
+<!--SR:!2025-01-11,1,174-->
 
 ## 수상하다 #card
 ?
@@ -890,6 +893,7 @@ go in and out frequently
 - I hastily put on my dentures
 ### 예
 -
+<!--SR:!2025-01-11,1,174-->
 
 ## 씹히다 #card
 ?
