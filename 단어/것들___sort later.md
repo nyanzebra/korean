@@ -357,6 +357,7 @@
 	- result from slackened discipline among public officials.
 - 요즘 관기가 눈에 띄게 해이해 졌다
 	- These days official discipline has been remarkably slack[lax].
+<!--SR:!2025-01-11,1,174-->
 
 ## 편안하다 #card
 ?
@@ -707,6 +708,7 @@
 	- She seems to be going about[around] with a questionable man.
 - 탐정은 수상한 그 사나이를 놓쳤다
 	- The detective lost track of the suspicious man.
+<!--SR:!2025-01-11,1,174-->
 
 ## 낌새 #card
 ?
@@ -749,6 +751,7 @@ go in and out frequently
 - right man
 ### 예
 -
+<!--SR:!2025-01-11,1,174-->
 
 ## 수면 #card
 ?
@@ -774,6 +777,7 @@ go in and out frequently
 	- Not a breeze stirred the lake
 - 잔잔한 수면에는 잔물결 하나 없었다
 	- Not a ripple disturbed the glassy surface of the water.
+<!--SR:!2025-01-11,1,174-->
 
 ## 흔들리다 #card
 ?
@@ -848,6 +852,7 @@ go in and out frequently
 - picture book?
 ### 예
 -
+<!--SR:!2025-01-11,1,174-->
 
 ## 기록하다 #card
 ?
@@ -926,6 +931,7 @@ go in and out frequently
 	- throw in something extra.
 - 덤으로 귤 2개를 드리겠습니다
 	- I'll throw these two oranges in extra./I'll give you two oranges into the bargain.
+<!--SR:!2025-01-11,1,174-->
 
 ## 악물다 #card
 ?
