@@ -332,6 +332,7 @@
 	- My daughter looks like her, too.
 - "당신은 우리 아버지와 쏙 빼닮았습니다."라고 수치 여사가 안재욱에게 말했다.
 	- "You look just like my father," Suu Kyi told Ahn.
+<!--SR:!2025-01-11,1,174-->
 
 
 ## 기강 #card
@@ -394,6 +395,7 @@
 	- drape a flag in mourning[black].
 - 증권 거래소 2부에 우리 회사 주식이 상장되었다
 	- Our company is listed on the Second Market.
+<!--SR:!2025-01-11,1,174-->
 
 ## 태우다 #card
 ?
@@ -470,6 +472,7 @@
 	- For the rebellious Sartre, then, turning down a world-famous award was completely in character.
 - 그녀는 아빠에게 반항하고 늘 모험을 떠날 준비가 되어있다.
 	- She rebels against her father and is always ready for adventure
+<!--SR:!2025-01-11,1,174-->
 
 ## 선행 #card
 ?
@@ -648,6 +651,7 @@
 	- Some supernatural power seems to be at work
 - 연이 올라갈 때는 바람이 양력으로 작용한다
 	- When a kite flies, the wind provides lift.
+<!--SR:!2025-01-11,1,174-->
 
 ## 그닥 #card
 ?
@@ -728,11 +732,12 @@
 ## 들락날락 #card
 ?
 ### 뜻
--   
+-
 go in and out frequently
 ### 예
 - 울타리 틈새로 고양이가 들락날락하고 있다
 	- Cats go in and out through the opening in the fence.
+<!--SR:!2025-01-11,1,174-->
 
 ## 꺼내다 #card
 ?
@@ -742,6 +747,7 @@ go in and out frequently
 - draw out
 ### 예
 -
+<!--SR:!2025-01-12,2,194-->
 
 ## 적임자 #card
 ?
@@ -798,6 +804,7 @@ go in and out frequently
 - secret technique
 ### 예
 -
+<!--SR:!2025-01-11,1,174-->
 
 ## 물결 #card
 ?
@@ -837,6 +844,7 @@ go in and out frequently
 	- Korea coach Cho plans to use a quick offense to determine the game.
 - 플레이오프 기간 동안 4팀이 승부를 겨룬다.
 	- Four teams are competing in the playoffs.
+<!--SR:!2025-01-12,2,194-->
 
 ## 걸어오다/걸어가다 #card
 ?
