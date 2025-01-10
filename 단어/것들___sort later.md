@@ -853,7 +853,7 @@ go in and out frequently
 	- I have put down the course of events in detail[in full/minutely].
 - 이 팀은 과거 2년간 무패를 기록했다
 	- The team has not suffered a single defeat for the last two years.
-<!--SR:!2025-01-08,1,195-->
+<!--SR:!2025-01-11,1,175-->
 
 ## 틀니 #card
 ?
