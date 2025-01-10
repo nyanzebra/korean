@@ -496,6 +496,7 @@
 	- I am hoping against hope that he will come back.
 - 내게 너무 기대하지 말게
 	- Don't expect too much of me.
+<!--SR:!2025-01-11,1,174-->
 
 ## 부자간 #card
 ?
@@ -504,6 +505,7 @@
 ### 예
 - 부자간의 멋진 대화를 나눠야죠
 	- We'll have a nice father-son chat.
+<!--SR:!2025-01-11,1,174-->
 
 
 ## 투기장 #card
