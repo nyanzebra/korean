@@ -421,6 +421,7 @@
 ### 예
 - 그의 정열적인 포옹으로 그녀는 숨도 쉴 수 없었다
 	- His passionate embrace took her breath away./He took her breath away with a passionate embrace.
+<!--SR:!2025-01-11,1,174-->
 
 ## 잘못 크는줄 알았다 #card
 ?
@@ -457,6 +458,7 @@
 ### 예
 - 부모님보다 먼저 이 세상을 하직하는 불효의 죄를 용서하십시오
 	- Dear parents, please pardon me for preceding you in death.
+<!--SR:!2025-01-12,2,194-->
 
 
 ## 반항 #card
@@ -637,6 +639,7 @@
 	- To dispel any doubts, she filmed herself slathering on a generous amount of shampoo, which failed to soften her rock-hard hair.
 - 천국은 넉넉하고, 흐르는 강으로 풍족한 정원입니다.
 	- It's plenty. It's gardens watered by running streams.
+<!--SR:!2025-01-11,1,174-->
 
 ## 작용하다 #card
 ?
