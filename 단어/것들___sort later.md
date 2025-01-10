@@ -345,7 +345,7 @@
 	- The administration should show determination in maintaining the discipline of government officials.
 - 그들은 아침 일찍 일어나는 것이 학생들로 하여금 기강을 발전시키는 것을 돕는다고 말했다.
 	- They said that getting up early helps students develop discipline.
-<!--SR:!2025-01-08,1,195-->
+<!--SR:!2025-01-11,1,175-->
 
 ## 해이하다 #card
 ?
@@ -484,7 +484,7 @@
 	- His good conduct set an example for the world.
 - 사람들은 소년의 선행을 극구 칭찬했다
 	- People praised[문어 lauded] the boy to the skies for his good deed.
-<!--SR:!2025-01-08,1,195-->
+<!--SR:!2025-01-11,1,175-->
 
 ## 기대하다 #card
 ?
@@ -512,7 +512,7 @@
 - arena
 ### 예
 -
-<!--SR:!2025-01-08,1,195-->
+<!--SR:!2025-01-11,1,175-->
 
 ## 호적까지 싹 다 긁어오고 미행도 몇 붙여봐라 #card
 ?
