@@ -796,7 +796,7 @@ go in and out frequently
 - wave (ocean/water)
 ### 예
 -
-<!--SR:!2025-01-08,1,195-->
+<!--SR:!2025-01-11,1,175-->
 
 ## 헤엄하다 #card
 ?
