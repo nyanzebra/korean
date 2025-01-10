@@ -441,7 +441,7 @@
 - filial piety
 ### 예
 -
-<!--SR:!2025-01-09,2,215-->
+<!--SR:!2025-01-11,1,195-->
 
 
 ## 불효 #card
@@ -520,7 +520,7 @@
 - Why don't you swipe the family register and put a few tails on him?
 ### 예
 -
-<!--SR:!2025-01-08,1,195-->
+<!--SR:!2025-01-11,1,175-->
 
 ## 군말하다 #card
 ?
@@ -584,7 +584,7 @@
 ### 예
 - 간만에 바람 좀 쐬면서 걸을까 한다
 	- It's been a while since I've had some fresh air
-<!--SR:!2025-01-08,1,182-->
+<!--SR:!2025-01-11,1,162-->
 
 ## 버릇하다 #card
 ?
