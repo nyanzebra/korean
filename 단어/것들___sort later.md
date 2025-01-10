@@ -596,7 +596,7 @@
 	- accustom oneself to early rising
 - 규칙적인 생활을 해 버릇하다
 	- accustom oneself to a regular life.
-<!--SR:!2025-01-08,1,182-->
+<!--SR:!2025-01-11,1,162-->
 
 ## 쥐어짜다 #card
 ?
@@ -756,7 +756,7 @@ go in and out frequently
 	- sleep regular hours
 - 이들은 수면에서 생활한다.
 	- They live at the surface of the water.
-<!--SR:!2025-01-08,1,195-->
+<!--SR:!2025-01-11,1,175-->
 
 ## 잔잔하다 #card
 ?
@@ -880,7 +880,7 @@ go in and out frequently
 	- Some of these brokers may have helped terrorists transfer money after the September 11 attacks.
 - 검찰에 따르면 모두 120명의 구직자들이 기아차에 입사하기 위해 뇌물을 건넨 것으로 밝혀졌다.
 	- A total of 120 employees were found to have paid bribes to gain work at the automaker's factory in Gwangju, 330 kilometers south of Seoul, according to the prosecution.
-<!--SR:!2025-01-08,1,182-->
+<!--SR:!2025-01-12,2,182-->
 
 ## 받은 틀니를 서둘러 꼈다 #card
 ?
@@ -949,7 +949,7 @@ go in and out frequently
 ### 예
 - 여러모로, 우리의 이런 대담한 생각들은 가능성의 경계선을 밀어붙이는걸 돕습니다.
 	- In many ways, our audacity to imagine helps push the boundaries of possibility.
-<!--SR:!2025-01-08,1,195-->
+<!--SR:!2025-01-12,2,195-->
 
 
 불다 blow 부르다 call 버리다 toss/completely 벌다 earn
