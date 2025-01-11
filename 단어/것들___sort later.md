@@ -1123,7 +1123,7 @@ go in and out frequently
 ## 코디 #card
 ?
 ### 뜻
--
+- coordinating outfit
 ### 예
 -
 
