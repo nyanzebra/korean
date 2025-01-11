@@ -1066,5 +1066,14 @@ go in and out frequently
 - 그러나 나머지 한국 기업들은 인지도가 낮으며 규모도 매우 작다"고 이 연구원은 말했다.
 	- But the rest are pretty insufficient and very small in scale, said Lee.
 
+## 짜내다 #card
+?
+### 뜻
+- squeeze
+- rack
+- press
+### 예
+-
+
 
 불다 blow 부르다 call 버리다 toss/completely 벌다 earn
