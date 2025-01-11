@@ -1130,7 +1130,15 @@ go in and out frequently
 ## 뺨 #card
 ?
 ### 뜻
+- cheek
+- slap in the cheek
+### 예
 -
+
+## 흉터 #card
+?
+### 뜻
+- scar
 ### 예
 -
 
