@@ -1156,9 +1156,14 @@ go in and out frequently
 ## 별개 #card
 ?
 ### 뜻
--
+- separate
+- different
+- aside from
 ### 예
--
+- 그의 수법은 나의 수법과는 전혀 별개의 것이다
+	- His technique is quite different from mine
+- 두 선수 그룹은 개별적으로 훈련을 하고, 별개의 호텔 층에 숙박하며, 심지어 비행기 여행에서도 떨어져서 앉는다.
+	- The two groups of skaters train separately, stay in separate hotel floors, and even sit separately during plane trips.
 
 
 불다 blow 부르다 call 버리다 toss/completely 벌다 earn
