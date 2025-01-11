@@ -989,7 +989,8 @@ go in and out frequently
 ### 뜻
 - grocery (misc.)
 ### 예
--
+- 플라스틱 가방은 흔히 식료 잡화류와 다른 상품들을 담기 위해 사용된다.
+	- Plastic bags are commonly used to carry groceries and other products.
 
 
 불다 blow 부르다 call 버리다 toss/completely 벌다 earn
