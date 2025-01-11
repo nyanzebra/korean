@@ -529,7 +529,7 @@
 - Why don't you swipe the family register and put a few tails on him?
 ### 예
 -
-<!--SR:!2025-01-11,1,175-->
+<!--SR:!2025-01-13,2,175-->
 
 ## 군말하다 #card
 ?
@@ -929,7 +929,7 @@ go in and out frequently
 ### 예
 - 그녀는 질책을 받아도 부끄럽지도 않은 것 같고 사과하려고 하지도 않습니다.
 	- She never seems embarrassed about the reprimand, nor is she apologetic.
-<!--SR:!2025-01-11,1,175-->
+<!--SR:!2025-01-12,1,155-->
 
 ## 덤 #card
 ?
