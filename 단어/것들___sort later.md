@@ -1113,6 +1113,12 @@ go in and out frequently
 - 너 참 둔하구나
 	- You are so oblivious.
 
+## 소개팅 #card
+?
+### 뜻
+- blind date
+### 예
+-
 
 
 불다 blow 부르다 call 버리다 toss/completely 벌다 earn
