@@ -1045,7 +1045,10 @@ go in and out frequently
 ### 뜻
 - dig
 ### 예
-- 
+- 비밀을 속속들이 캐내다
+	- root out a secret.
+- 나무 등걸을 캐내다
+	- dig up the stump of a tree.
 
 
 불다 blow 부르다 call 버리다 toss/completely 벌다 earn
