@@ -1164,6 +1164,10 @@ go in and out frequently
 	- His technique is quite different from mine
 - 두 선수 그룹은 개별적으로 훈련을 하고, 별개의 호텔 층에 숙박하며, 심지어 비행기 여행에서도 떨어져서 앉는다.
 	- The two groups of skaters train separately, stay in separate hotel floors, and even sit separately during plane trips.
+- 외피는 별개의 것으로 가장 어려운 부분입니다.
+	- The skin's a whole another thing, probably the hardest part.
+- 그리고 그와는 별개로, 저는 작곡과 단편을 썼습니다.
+	- And aside from that, I wrote music and short stories.
 
 
 불다 blow 부르다 call 버리다 toss/completely 벌다 earn
