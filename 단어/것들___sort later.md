@@ -1026,7 +1026,16 @@ go in and out frequently
 - clever
 ### 예
 - 똘똘한 사내아이
-	- 
+	- a bright[clever] boy
+- 그는 너무 똘똘해서 당할 수가 없다.
+	- He's too sharp for me.
+
+## 잠입하다 #card
+?
+### 뜻
+- infiltrate
+### 예
+-
 
 
 불다 blow 부르다 call 버리다 toss/completely 벌다 earn
