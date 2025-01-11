@@ -1110,7 +1110,8 @@ go in and out frequently
 ### 예
 - 따뜻해진 날씨는 사람들이 더 둔하고 피곤하게 느끼게 만든다.
 	- The warmer weather makes them feel slower and more tired.
-- 
+- 너 참 둔하구나
+	- You are so oblivious.
 
 
 
