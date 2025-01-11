@@ -1096,7 +1096,10 @@ go in and out frequently
 - in the end
 - after all
 ### 예
-- 
+- 킹은 감염에서는 결국 회복되었지만, 몸에 입은 상처로 인해 패혈증을 회복할 수 없었고, 궁극적으로 목숨을 잃고 말았다.
+	- Though he eventually recovered from the infection, the toll on his body led to him being unable to recover from sepsis, which ultimately took his life.
+- 하지만, 결국 관계는 자존심보다 더 중요하게 여겨져야 합니다.
+	- But, in the end, the relationship should be more important than one’s own pride
 
 
 불다 blow 부르다 call 버리다 toss/completely 벌다 earn
