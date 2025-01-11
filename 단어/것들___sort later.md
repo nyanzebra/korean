@@ -1172,9 +1172,16 @@ go in and out frequently
 ## 소행 #card
 ?
 ### 뜻
-- 
+- conduct
+- actions
+- deeds
 ### 예
--
+- 이건 그의 소행임에 틀림없다
+	- It must be his doing.
+- 소행이 나쁜 남자
+	- a man of dubious morality[character]/a degenerate.
+- 경찰관은 평소에도 소행을 조심하지 않으면 안 된다
+	- Police officers should always be careful of[watch] their own conduct.
 
 
 
