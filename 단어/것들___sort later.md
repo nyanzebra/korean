@@ -1072,8 +1072,14 @@ go in and out frequently
 - squeeze
 - rack
 - press
+- create
 ### 예
--
+- 이 구조는 모래에 숨어있는 습기를 짜내 모읍니다.
+	- It squeeze the moisture hidden in the sand.
+- 인간을 능가하는 동물들의 표정 연기는 눈물을 짜낼 정도로 살아있다.
+	- Facial expressions of created animals that were even more real than those of real human made me cry.
+- 분명히 비행자제의 기간을 한 달로 제한함으로써 일본 정부가 항의의 효과를 최대화하는 반면 실제 마찰은 최소화 하기 위해 머리를 짜낸 것 같기는 하다. 그렇게 함으로써 한국정부가 정부 조달 협정 위반으로 이 문제를 세계 무역기구에 제소하기 어렵기 만들었는데 관련 액수가 기준치인 20만 달러에 미치지 못할 것 같기 때문이다.
+	- 
 
 
 불다 blow 부르다 call 버리다 toss/completely 벌다 earn
