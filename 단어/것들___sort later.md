@@ -1254,7 +1254,15 @@ go in and out frequently
 - 비종교적 단체
 	- a nonreligious organization.
 - 정치적 색채를 띤 단체
-	- 
+	- a politically-colored group.
+
+## 웅성거리다 #card
+?
+### 뜻
+- 
+### 예
+-
+
 
 
 불다 blow 부르다 call 버리다 toss/completely 벌다 earn
