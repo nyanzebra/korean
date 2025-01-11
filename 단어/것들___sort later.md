@@ -1259,9 +1259,14 @@ go in and out frequently
 ## 웅성거리다 #card
 ?
 ### 뜻
-- 
+- noisy
+- hum
+- excited
 ### 예
--
+- 군중들의 웅성거림이 단속적으로 들려 왔다
+	- The racket made by the mob could be heard intermittently
+- 웅성거리는 대화 소리.
+	- a buzz of conversation
 
 
 
