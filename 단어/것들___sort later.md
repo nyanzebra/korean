@@ -1169,5 +1169,13 @@ go in and out frequently
 - 그리고 그와는 별개로, 저는 작곡과 단편을 썼습니다.
 	- And aside from that, I wrote music and short stories.
 
+## 소행 #card
+?
+### 뜻
+- 
+### 예
+-
+
+
 
 불다 blow 부르다 call 버리다 toss/completely 벌다 earn
