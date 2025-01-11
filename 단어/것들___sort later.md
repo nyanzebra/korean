@@ -995,9 +995,13 @@ go in and out frequently
 ## 들키다 #card
 ?
 ### 뜻
--
+- found
+- discovered
 ### 예
--
+- 장난치다가 들키다
+	- be caught in mischief
+- 들키면 나는 큰일이다
+	- If I am discovered, I am done for
 
 
 불다 blow 부르다 call 버리다 toss/completely 벌다 earn
