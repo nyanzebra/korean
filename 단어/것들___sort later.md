@@ -429,7 +429,7 @@
 - I thought you were growing up wrong
 ### 예
 -
-<!--SR:!2025-01-11,1,174-->
+<!--SR:!2025-01-13,2,174-->
 
 ## 효자 #card
 ?
@@ -654,7 +654,7 @@
 	- Some supernatural power seems to be at work
 - 연이 올라갈 때는 바람이 양력으로 작용한다
 	- When a kite flies, the wind provides lift.
-<!--SR:!2025-01-11,1,174-->
+<!--SR:!2025-01-12,1,154-->
 
 ## 그닥 #card
 ?
@@ -662,7 +662,7 @@
 - 별로 그렇게까지 (not so much)?
 ### 예
 -
-<!--SR:!2025-01-11,1,162-->
+<!--SR:!2025-01-12,1,142-->
 
 ## 의심하다 #card
 ?
@@ -730,7 +730,7 @@
 	- There were no signs of their having discussed the matter.
 - 나는 낌새를 알고 있었다
 	- I had an inkling of it.
-<!--SR:!2025-01-11,1,175-->
+<!--SR:!2025-01-12,1,155-->
 
 ## 들락날락 #card
 ?
@@ -773,7 +773,7 @@ go in and out frequently
 	- sleep regular hours
 - 이들은 수면에서 생활한다.
 	- They live at the surface of the water.
-<!--SR:!2025-01-11,1,175-->
+<!--SR:!2025-01-12,1,155-->
 
 ## 잔잔하다 #card
 ?
@@ -786,7 +786,7 @@ go in and out frequently
 	- Not a breeze stirred the lake
 - 잔잔한 수면에는 잔물결 하나 없었다
 	- Not a ripple disturbed the glassy surface of the water.
-<!--SR:!2025-01-11,1,174-->
+<!--SR:!2025-01-12,1,154-->
 
 ## 흔들리다 #card
 ?
@@ -799,7 +799,7 @@ go in and out frequently
 	- reeds swaying in the wind.
 - 성균관대 교수들에 따르면 기계적 공명 때문이라고 건물이 흔들렸다고 한다.
 	- According to the professors, the building shook because of mechanical resonance.
-<!--SR:!2025-01-11,1,162-->
+<!--SR:!2025-01-13,2,162-->
 
 ## 비술 #card
 ?
@@ -824,7 +824,7 @@ go in and out frequently
 ### 예
 - 어린이를 풀에서 헤엄치게 하다
 	- let the children swim in the pool.
-<!--SR:!2025-01-11,1,162-->
+<!--SR:!2025-01-13,2,162-->
 
 ## 햇빛에 타다 #card
 ?
