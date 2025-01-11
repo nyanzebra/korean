@@ -1214,7 +1214,13 @@ go in and out frequently
 - ransack
 - fall behind
 ### 예
--
+- 이탈자를 찾아 그 일대를 샅샅이 뒤지다
+	- comb the area for the deserter.
+- 쉬었던 동안의 뒤진 것을 나는 만회하지 않으면 안 된다
+	- I must make up for the time I lost while I was absent.
+- 학업이 뒤진 것을 돌이키다
+	- catch up with[on] one's studies[work].
+- 
 
 
 불다 blow 부르다 call 버리다 toss/completely 벌다 earn
