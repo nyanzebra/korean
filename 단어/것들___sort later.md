@@ -1101,5 +1101,17 @@ go in and out frequently
 - 하지만, 결국 관계는 자존심보다 더 중요하게 여겨져야 합니다.
 	- But, in the end, the relationship should be more important than one’s own pride
 
+## 둔하다 #card
+?
+### 뜻
+- slow
+- dull
+- sluggish
+### 예
+- 따뜻해진 날씨는 사람들이 더 둔하고 피곤하게 느끼게 만든다.
+	- The warmer weather makes them feel slower and more tired.
+- 
+
+
 
 불다 blow 부르다 call 버리다 toss/completely 벌다 earn
