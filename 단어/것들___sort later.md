@@ -981,6 +981,8 @@ go in and out frequently
 ### 예
 - 식료잡화점
 	- grocery store
+- 맥신이 식료품 구매 대행으로 일하는 동안 조나는 불안과 싸우고 있다.
+	- Maxine works as a personal grocery shopper, while Jonah struggles with anxiety.
 
 
 
