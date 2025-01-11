@@ -974,6 +974,13 @@ go in and out frequently
 	- In many ways, our audacity to imagine helps push the boundaries of possibility.
 <!--SR:!2025-01-12,2,195-->
 
+## 식료품 #card
+?
+### 뜻
+- grocery
+### 예
+- 식료잡화점
+	- grocery store
 
 
 
