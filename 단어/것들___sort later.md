@@ -1003,5 +1003,15 @@ go in and out frequently
 - 들키면 나는 큰일이다
 	- If I am discovered, I am done for
 
+## 입장 #card
+?
+### 뜻
+- position
+- stance
+- enter / entrance
+- perspective
+### 예
+-
+
 
 불다 blow 부르다 call 버리다 toss/completely 벌다 earn
