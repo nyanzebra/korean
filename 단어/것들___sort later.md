@@ -1225,12 +1225,16 @@ go in and out frequently
 - 한국은 첨단 기술 분야에서 외국에 뒤져 있지 않다
 	- In the field of modern technology, Korea is not behind other countries.
 
-## 단어 #card
+## 의논하다 #card
 ?
 ### 뜻
--
+- talk
+- consult
 ### 예
--
+- 측근과 의논하다
+	- consult one's aides.
+- 변호사와 의논하다
+	- consult a lawyer.
 
 
 불다 blow 부르다 call 버리다 toss/completely 벌다 earn
