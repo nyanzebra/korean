@@ -1151,7 +1151,7 @@ go in and out frequently
 - 시민들은 폭도로 변하여 시청사를 습격했다
 	- The townspeople turned into rioters and attacked the town hall.
 - 적진을 습격하여 탈취했다
-	- 
+	- The enemy camp was taken in a surprise attack.
 
 
 불다 blow 부르다 call 버리다 toss/completely 벌다 earn
