@@ -1153,5 +1153,12 @@ go in and out frequently
 - 적진을 습격하여 탈취했다
 	- The enemy camp was taken in a surprise attack.
 
+## 별개 #card
+?
+### 뜻
+-
+### 예
+-
+
 
 불다 blow 부르다 call 버리다 toss/completely 벌다 earn
