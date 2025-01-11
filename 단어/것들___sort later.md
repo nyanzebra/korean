@@ -977,13 +977,19 @@ go in and out frequently
 ## 식료품 #card
 ?
 ### 뜻
-- grocery
+- grocery (specifically food)
 ### 예
 - 식료잡화점
 	- grocery store
 - 맥신이 식료품 구매 대행으로 일하는 동안 조나는 불안과 싸우고 있다.
 	- Maxine works as a personal grocery shopper, while Jonah struggles with anxiety.
 
+## 잡화류 #card
+?
+### 뜻
+- grocery (misc.)
+### 예
+-
 
 
 불다 blow 부르다 call 버리다 toss/completely 벌다 earn
