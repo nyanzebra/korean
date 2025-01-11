@@ -1062,7 +1062,9 @@ go in and out frequently
 - 폭포의 약 75퍼센트는 짐바브웨에서 볼 수 있고 나머지 25퍼센트는 잠비아에서 볼 수 있습니다.
 	- About 75 percent of the falls can be seen from Zimbabwe and the remaining 25 percent can be seen from Zambia.
 - 그들 중 일부는 그가 아는 사람들이고 나머지는 그에게 있어 낯선 사람들이다.
-	- 
+	- Some of them are people that he knows, while others are strangers to him.
+- 그러나 나머지 한국 기업들은 인지도가 낮으며 규모도 매우 작다"고 이 연구원은 말했다.
+	- But the rest are pretty insufficient and very small in scale, said Lee.
 
 
 불다 blow 부르다 call 버리다 toss/completely 벌다 earn
