@@ -1236,5 +1236,13 @@ go in and out frequently
 - 변호사와 의논하다
 	- consult a lawyer.
 
+## 꿇리다 #card
+?
+### 뜻
+- make kneel
+- force to yield
+### 예
+-
+
 
 불다 blow 부르다 call 버리다 toss/completely 벌다 earn
