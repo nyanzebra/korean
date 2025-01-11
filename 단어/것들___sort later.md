@@ -1244,5 +1244,17 @@ go in and out frequently
 ### 예
 -
 
+## 단체 #card
+?
+### 뜻
+- group
+- association
+- party
+### 예
+- 비종교적 단체
+	- a nonreligious organization.
+- 정치적 색채를 띤 단체
+	- 
+
 
 불다 blow 부르다 call 버리다 toss/completely 벌다 earn
