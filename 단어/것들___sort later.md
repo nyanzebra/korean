@@ -332,7 +332,7 @@
 	- My daughter looks like her, too.
 - "당신은 우리 아버지와 쏙 빼닮았습니다."라고 수치 여사가 안재욱에게 말했다.
 	- "You look just like my father," Suu Kyi told Ahn.
-<!--SR:!2025-01-11,1,174-->
+<!--SR:!2025-01-13,2,174-->
 
 
 ## 기강 #card
@@ -421,7 +421,7 @@
 ### 예
 - 그의 정열적인 포옹으로 그녀는 숨도 쉴 수 없었다
 	- His passionate embrace took her breath away./He took her breath away with a passionate embrace.
-<!--SR:!2025-01-11,1,174-->
+<!--SR:!2025-01-13,2,174-->
 
 ## 잘못 크는줄 알았다 #card
 ?
@@ -521,7 +521,7 @@
 - arena
 ### 예
 -
-<!--SR:!2025-01-11,1,175-->
+<!--SR:!2025-01-12,1,155-->
 
 ## 호적까지 싹 다 긁어오고 미행도 몇 붙여봐라 #card
 ?
