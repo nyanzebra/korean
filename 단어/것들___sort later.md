@@ -167,7 +167,7 @@
   - ominous dream
 - 그가 곧 죽는 것이나 아닐까 하는 불길한 예감이 든다
   - I have a premonition[an uneasy feeling] that he will die before long.
-<!--SR:!2025-01-11,5,150-->
+<!--SR:!2025-01-19,8,150-->
 
 ## 후계하다 #card
 ?
@@ -474,7 +474,7 @@
 	- For the rebellious Sartre, then, turning down a world-famous award was completely in character.
 - 그녀는 아빠에게 반항하고 늘 모험을 떠날 준비가 되어있다.
 	- She rebels against her father and is always ready for adventure
-<!--SR:!2025-01-11,1,174-->
+<!--SR:!2025-01-12,1,154-->
 
 ## 선행 #card
 ?
@@ -715,7 +715,7 @@
 	- She seems to be going about[around] with a questionable man.
 - 탐정은 수상한 그 사나이를 놓쳤다
 	- The detective lost track of the suspicious man.
-<!--SR:!2025-01-11,1,174-->
+<!--SR:!2025-01-12,1,154-->
 
 ## 낌새 #card
 ?
