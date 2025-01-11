@@ -1198,5 +1198,12 @@ go in and out frequently
 - 책임 소재를 따지지 않더라도, 여전히 국가 차원의 문제이며 한쪽은 다른 쪽보다 이 문제를 더 심각하게 생각하고 있습니다.
 	- But even if you blame nobody, it still is a national problem, and one side has been more concerned about it than the other.
 
+## 전국 #card
+?
+### 뜻
+- nationwide
+### 예
+-
+
 
 불다 blow 부르다 call 버리다 toss/completely 벌다 earn
