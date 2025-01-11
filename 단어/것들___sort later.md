@@ -1183,6 +1183,17 @@ go in and out frequently
 - 경찰관은 평소에도 소행을 조심하지 않으면 안 된다
 	- Police officers should always be careful of[watch] their own conduct.
 
+## 따지다 #card
+?
+### 뜻
+- calculate
+- blame
+- quibble over
+- argumentative
+### 예
+- 득실을 따져보고 변화를 추구할 때이다
+	- Time to calculate gains, losses and seek changes
+- 다른 연구들은 고양이들이 집에 가져온 먹이만 따졌기 때문에 이 사실은 놀라웠다.
 
 
 불다 blow 부르다 call 버리다 toss/completely 벌다 earn
