@@ -1011,7 +1011,12 @@ go in and out frequently
 - enter / entrance
 - perspective
 ### 예
--
+- 네 자신의 입장을 염두에 둔다면 그런 일은 할 수 없을 것이다
+	- If you consider[think of] your position, you will see that you cannot do such a thing.
+- 그는 정부의 입장을 강경히 변호했다
+	- He delivered a staunch defense of the government.
+- 괴로운 입장
+	- an awkward situation.
 
 
 불다 blow 부르다 call 버리다 toss/completely 벌다 earn
