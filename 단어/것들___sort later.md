@@ -1035,7 +1035,10 @@ go in and out frequently
 ### 뜻
 - infiltrate
 ### 예
--
+- 무장 간첩들이 서울에 잠입했다
+	- Some armed agents infiltrated Seoul.
+- 그는 결사의 각오로 적지에 잠입하였다
+	- He smuggled himself into enemy territory, ready to die if necessary.
 
 
 불다 blow 부르다 call 버리다 toss/completely 벌다 earn
