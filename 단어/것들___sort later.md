@@ -1220,7 +1220,10 @@ go in and out frequently
 	- I must make up for the time I lost while I was absent.
 - 학업이 뒤진 것을 돌이키다
 	- catch up with[on] one's studies[work].
-- 
+- 잃어버린 시계를 찾으려고 나는 온 집안을 뒤졌다
+	- I searched all over the house for the missing watch.
+- 한국은 첨단 기술 분야에서 외국에 뒤져 있지 않다
+	- In the field of modern technology, Korea is not behind other countries.
 
 
 불다 blow 부르다 call 버리다 toss/completely 벌다 earn
