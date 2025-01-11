@@ -1089,5 +1089,14 @@ go in and out frequently
 - 소지품 전부에 자기 이름을 붙이다
 	- put one's name on all one's belongings.
 
+## 결국 #card
+?
+### 뜻
+- ultimately
+- in the end
+- after all
+### 예
+- 
+
 
 불다 blow 부르다 call 버리다 toss/completely 벌다 earn
