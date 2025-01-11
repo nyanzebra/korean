@@ -1295,10 +1295,18 @@ go in and out frequently
 ## 박히다 #card
 ?
 ### 뜻
--
+- embedded
+- stuck
 ### 예
 -
 
+## 굳은살 #card
+?
+### 뜻
+- hardened skin
+- callus
+### 예
+-
 
 
 불다 blow 부르다 call 버리다 toss/completely 벌다 earn
