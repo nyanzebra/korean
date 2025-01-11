@@ -379,7 +379,7 @@
 	- My father's condition remains the same.
 - 한 달이 지난 지금도 북한의 군사적 위협은 여전하다.
 	- A month has passed, and the North Korean military threat remains.
-<!--SR:!2025-01-11,1,175-->
+<!--SR:!2025-01-12,1,155-->
 
 ## 상장 #card
 ?
@@ -584,7 +584,7 @@
 	- organism
 - 조직도
 	- organization chart
-<!--SR:!2025-01-11,1,162-->
+<!--SR:!2025-01-13,2,162-->
 
 ## 간만 #card
 ?
@@ -606,7 +606,7 @@
 	- accustom oneself to early rising
 - 규칙적인 생활을 해 버릇하다
 	- accustom oneself to a regular life.
-<!--SR:!2025-01-11,1,162-->
+<!--SR:!2025-01-13,2,162-->
 
 ## 쥐어짜다 #card
 ?
