@@ -1018,5 +1018,15 @@ go in and out frequently
 - 괴로운 입장
 	- an awkward situation.
 
+## 똘똘하다 #card
+?
+### 뜻
+- bright
+- smart
+- clever
+### 예
+- 똘똘한 사내아이
+	- 
+
 
 불다 blow 부르다 call 버리다 toss/completely 벌다 earn
