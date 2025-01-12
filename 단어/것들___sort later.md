@@ -807,7 +807,7 @@ go in and out frequently
 - secret technique
 ### 예
 -
-<!--SR:!2025-01-11,1,174-->
+<!--SR:!2025-01-13,1,154-->
 
 ## 물결 #card
 ?
@@ -942,7 +942,7 @@ go in and out frequently
 	- throw in something extra.
 - 덤으로 귤 2개를 드리겠습니다
 	- I'll throw these two oranges in extra./I'll give you two oranges into the bargain.
-<!--SR:!2025-01-11,1,174-->
+<!--SR:!2025-01-13,1,154-->
 
 ## 악물다 #card
 ?
