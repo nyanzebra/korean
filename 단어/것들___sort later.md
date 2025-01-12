@@ -53,7 +53,7 @@
 ### 예
 - 그럭저럭 지냈어요
 - 업적 평가 / 사람 평가
-<!--SR:!2025-01-12,14,150-->
+<!--SR:!2025-02-02,21,150-->
 
 ## 불문하다 #card
 ?
@@ -538,7 +538,7 @@
 ### 예
 - 항상 군말없이 따라주는 네 수고는 내가 다 기억한다
 	- I remember all the trouble you've gone to to keep me company!
-<!--SR:!2025-01-11,1,174-->
+<!--SR:!2025-01-13,1,154-->
 
 ## 애초 #card
 ?
@@ -773,7 +773,7 @@ go in and out frequently
 	- sleep regular hours
 - 이들은 수면에서 생활한다.
 	- They live at the surface of the water.
-<!--SR:!2025-01-12,1,155-->
+<!--SR:!2025-01-14,2,155-->
 
 ## 잔잔하다 #card
 ?
