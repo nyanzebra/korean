@@ -288,7 +288,7 @@
 	- While training, I bump into another competitor and ruptured my left Achilles' tendon.
 - 운을 하늘에 맡기고 부딪쳐 보다
 	- risk it / chance it
-<!--SR:!2025-01-11,13,215-->
+<!--SR:!2025-02-09,28,215-->
 
 ## 부러지다 #card
 ?
@@ -569,7 +569,7 @@
 ### 예
 - 정상적으로 자랄 수 있게 잘 보살펴준 것
 	- Take good care of them so they can grow up normally.
-<!--SR:!2025-01-11,1,175-->
+<!--SR:!2025-01-13,1,155-->
 
 ## 조직 #card
 ?
@@ -594,7 +594,7 @@
 ### 예
 - 간만에 바람 좀 쐬면서 걸을까 한다
 	- It's been a while since I've had some fresh air
-<!--SR:!2025-01-11,1,162-->
+<!--SR:!2025-01-13,1,142-->
 
 ## 버릇하다 #card
 ?
