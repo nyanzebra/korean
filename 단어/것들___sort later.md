@@ -346,7 +346,7 @@
 	- The administration should show determination in maintaining the discipline of government officials.
 - 그들은 아침 일찍 일어나는 것이 학생들로 하여금 기강을 발전시키는 것을 돕는다고 말했다.
 	- They said that getting up early helps students develop discipline.
-<!--SR:!2025-01-11,1,175-->
+<!--SR:!2025-01-13,1,155-->
 
 ## 해이하다 #card
 ?
@@ -358,7 +358,7 @@
 	- result from slackened discipline among public officials.
 - 요즘 관기가 눈에 띄게 해이해 졌다
 	- These days official discipline has been remarkably slack[lax].
-<!--SR:!2025-01-11,1,174-->
+<!--SR:!2025-01-13,1,154-->
 
 ## 편안하다 #card
 ?
@@ -446,7 +446,7 @@
 - filial piety
 ### 예
 -
-<!--SR:!2025-01-11,1,195-->
+<!--SR:!2025-01-13,1,175-->
 
 
 ## 불효 #card
@@ -458,7 +458,7 @@
 ### 예
 - 부모님보다 먼저 이 세상을 하직하는 불효의 죄를 용서하십시오
 	- Dear parents, please pardon me for preceding you in death.
-<!--SR:!2025-01-12,2,194-->
+<!--SR:!2025-01-16,4,194-->
 
 
 ## 반항 #card
@@ -474,7 +474,7 @@
 	- For the rebellious Sartre, then, turning down a world-famous award was completely in character.
 - 그녀는 아빠에게 반항하고 늘 모험을 떠날 준비가 되어있다.
 	- She rebels against her father and is always ready for adventure
-<!--SR:!2025-01-12,1,154-->
+<!--SR:!2025-01-13,1,134-->
 
 ## 선행 #card
 ?
@@ -702,7 +702,7 @@
 	- Recently we have had a run of bad luck in our family.
 - 그녀는 그런 불행한 일을 겪고도 태연하다
 	- Even after such an unhappy experience, she looks quite unconcerned.
-<!--SR:!2025-01-11,1,174-->
+<!--SR:!2025-01-13,1,154-->
 
 ## 수상하다 #card
 ?
@@ -874,7 +874,7 @@ go in and out frequently
 	- I have put down the course of events in detail[in full/minutely].
 - 이 팀은 과거 2년간 무패를 기록했다
 	- The team has not suffered a single defeat for the last two years.
-<!--SR:!2025-01-11,1,175-->
+<!--SR:!2025-01-13,1,155-->
 
 ## 틀니 #card
 ?
