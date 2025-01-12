@@ -679,7 +679,7 @@
 	- I can't help being doubtful[skeptical] of his ability.
 - 형님께서는 지금... 시원이 식구를 의심하시는 것 같다...
 	- To the boss now, it seems he is skeptical of sl won's family
-<!--SR:!2025-01-11,1,175-->
+<!--SR:!2025-01-13,1,155-->
 
 ## 명실상부 #card
 ?
@@ -972,7 +972,7 @@ go in and out frequently
 ### 예
 - 여러모로, 우리의 이런 대담한 생각들은 가능성의 경계선을 밀어붙이는걸 돕습니다.
 	- In many ways, our audacity to imagine helps push the boundaries of possibility.
-<!--SR:!2025-01-12,2,195-->
+<!--SR:!2025-01-16,4,195-->
 
 ## 식료품 #card
 ?
