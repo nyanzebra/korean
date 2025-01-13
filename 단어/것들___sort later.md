@@ -332,7 +332,7 @@
 	- My daughter looks like her, too.
 - "당신은 우리 아버지와 쏙 빼닮았습니다."라고 수치 여사가 안재욱에게 말했다.
 	- "You look just like my father," Suu Kyi told Ahn.
-<!--SR:!2025-01-13,2,174-->
+<!--SR:!2025-01-16,3,174-->
 
 
 ## 기강 #card
@@ -654,7 +654,7 @@
 	- Some supernatural power seems to be at work
 - 연이 올라갈 때는 바람이 양력으로 작용한다
 	- When a kite flies, the wind provides lift.
-<!--SR:!2025-01-12,1,154-->
+<!--SR:!2025-01-14,1,134-->
 
 ## 그닥 #card
 ?
