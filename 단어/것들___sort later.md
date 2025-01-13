@@ -1017,6 +1017,7 @@ go in and out frequently
 	- He delivered a staunch defense of the government.
 - 괴로운 입장
 	- an awkward situation.
+<!--SR:!2025-01-15,2,182-->
 
 ## 똘똘하다 #card
 ?
@@ -1152,6 +1153,7 @@ go in and out frequently
 	- The townspeople turned into rioters and attacked the town hall.
 - 적진을 습격하여 탈취했다
 	- The enemy camp was taken in a surprise attack.
+<!--SR:!2025-01-15,2,182-->
 
 ## 별개 #card
 ?
@@ -1267,6 +1269,7 @@ go in and out frequently
 	- The racket made by the mob could be heard intermittently
 - 웅성거리는 대화 소리.
 	- a buzz of conversation
+<!--SR:!2025-01-14,1,162-->
 
 ## 갈아입다 #card
 ?
@@ -1282,6 +1285,7 @@ go in and out frequently
 - narrowly
 ### 예
 -
+<!--SR:!2025-01-14,1,162-->
 
 ## 겁먹다 #card
 ?
@@ -1307,6 +1311,7 @@ go in and out frequently
 - callus
 ### 예
 -
+<!--SR:!2025-01-14,1,162-->
 
 ## 초식 #card
 ?
