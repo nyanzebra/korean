@@ -346,7 +346,7 @@
 	- The administration should show determination in maintaining the discipline of government officials.
 - 그들은 아침 일찍 일어나는 것이 학생들로 하여금 기강을 발전시키는 것을 돕는다고 말했다.
 	- They said that getting up early helps students develop discipline.
-<!--SR:!2025-01-13,1,155-->
+<!--SR:!2025-01-14,1,135-->
 
 ## 해이하다 #card
 ?
@@ -594,7 +594,7 @@
 ### 예
 - 간만에 바람 좀 쐬면서 걸을까 한다
 	- It's been a while since I've had some fresh air
-<!--SR:!2025-01-13,1,142-->
+<!--SR:!2025-01-14,1,130-->
 
 ## 버릇하다 #card
 ?
@@ -687,7 +687,7 @@
 - ?
 ### 예
 -
-<!--SR:!2025-01-13,1,155-->
+<!--SR:!2025-01-14,1,135-->
 
 ## 불행하다 #card
 ?
@@ -740,7 +740,7 @@ go in and out frequently
 ### 예
 - 울타리 틈새로 고양이가 들락날락하고 있다
 	- Cats go in and out through the opening in the fence.
-<!--SR:!2025-01-12,1,154-->
+<!--SR:!2025-01-14,1,134-->
 
 ## 꺼내다 #card
 ?
