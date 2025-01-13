@@ -1030,6 +1030,7 @@ go in and out frequently
 	- a bright[clever] boy
 - 그는 너무 똘똘해서 당할 수가 없다.
 	- He's too sharp for me.
+<!--SR:!2025-01-15,2,182-->
 
 ## 잠입하다 #card
 ?
@@ -1089,6 +1090,7 @@ go in and out frequently
 ### 예
 - 소지품 전부에 자기 이름을 붙이다
 	- put one's name on all one's belongings.
+<!--SR:!2025-01-14,1,162-->
 
 ## 결국 #card
 ?
@@ -1113,6 +1115,7 @@ go in and out frequently
 	- The warmer weather makes them feel slower and more tired.
 - 너 참 둔하구나
 	- You are so oblivious.
+<!--SR:!2025-01-14,1,162-->
 
 ## 소개팅 #card
 ?
@@ -1127,6 +1130,7 @@ go in and out frequently
 - coordinating outfit
 ### 예
 -
+<!--SR:!2025-01-15,2,182-->
 
 ## 뺨 #card
 ?
@@ -1245,6 +1249,7 @@ go in and out frequently
 - force to yield
 ### 예
 -
+<!--SR:!2025-01-14,1,162-->
 
 ## 단체 #card
 ?
@@ -1257,6 +1262,7 @@ go in and out frequently
 	- a nonreligious organization.
 - 정치적 색채를 띤 단체
 	- a politically-colored group.
+<!--SR:!2025-01-14,1,162-->
 
 ## 웅성거리다 #card
 ?
@@ -1277,6 +1283,7 @@ go in and out frequently
 - change clothes
 ### 예
 -
+<!--SR:!2025-01-15,2,182-->
 
 ## 간신히 #card
 ?
@@ -1303,6 +1310,7 @@ go in and out frequently
 - stuck
 ### 예
 -
+<!--SR:!2025-01-14,1,162-->
 
 ## 굳은살 #card
 ?
