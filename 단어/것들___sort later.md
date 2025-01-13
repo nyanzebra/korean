@@ -983,6 +983,7 @@ go in and out frequently
 	- grocery store
 - 맥신이 식료품 구매 대행으로 일하는 동안 조나는 불안과 싸우고 있다.
 	- Maxine works as a personal grocery shopper, while Jonah struggles with anxiety.
+<!--SR:!2025-01-14,1,162-->
 
 ## 잡화류 #card
 ?
@@ -1054,6 +1055,7 @@ go in and out frequently
 	- root out a secret.
 - 나무 등걸을 캐내다
 	- dig up the stump of a tree.
+<!--SR:!2025-01-14,1,162-->
 
 ## 나머지 #card
 ?
@@ -1070,6 +1072,7 @@ go in and out frequently
 	- Some of them are people that he knows, while others are strangers to him.
 - 그러나 나머지 한국 기업들은 인지도가 낮으며 규모도 매우 작다"고 이 연구원은 말했다.
 	- But the rest are pretty insufficient and very small in scale, said Lee.
+<!--SR:!2025-01-15,2,182-->
 
 ## 짜내다 #card
 ?
@@ -1085,6 +1088,7 @@ go in and out frequently
 	- Facial expressions of created animals that were even more real than those of real human made me cry.
 - 분명히 비행자제의 기간을 한 달로 제한함으로써 일본 정부가 항의의 효과를 최대화하는 반면 실제 마찰은 최소화 하기 위해 머리를 짜낸 것 같기는 하다. 그렇게 함으로써 한국정부가 정부 조달 협정 위반으로 이 문제를 세계 무역기구에 제소하기 어렵기 만들었는데 관련 액수가 기준치인 20만 달러에 미치지 못할 것 같기 때문이다.
 	- Admittedly, Tokyo seems to have racked its brains to maximize the protest's effect while minimizing actual friction, by limiting the period of flight restraint to one month. This makes it hard for Seoul to bring it to the World Trade Organization for violating of government procurement accord, as the sum involved is unlikely to reach the criterion of $200,000.
+<!--SR:!2025-01-14,1,162-->
 
 ## 소지품 #card
 ?
@@ -1210,6 +1214,7 @@ go in and out frequently
 	- This was surprising because other studies only counted prey that cats brought home.
 - 책임 소재를 따지지 않더라도, 여전히 국가 차원의 문제이며 한쪽은 다른 쪽보다 이 문제를 더 심각하게 생각하고 있습니다.
 	- But even if you blame nobody, it still is a national problem, and one side has been more concerned about it than the other.
+<!--SR:!2025-01-14,1,162-->
 
 ## 전국 #card
 ?
@@ -1249,6 +1254,7 @@ go in and out frequently
 	- consult one's aides.
 - 변호사와 의논하다
 	- consult a lawyer.
+<!--SR:!2025-01-14,1,162-->
 
 ## 꿇리다 #card
 ?
@@ -1310,6 +1316,7 @@ go in and out frequently
 - freak out
 ### 예
 -
+<!--SR:!2025-01-14,1,162-->
 
 ## 박히다 #card
 ?
