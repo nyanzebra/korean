@@ -521,7 +521,7 @@
 - arena
 ### 예
 -
-<!--SR:!2025-01-12,1,155-->
+<!--SR:!2025-01-15,2,155-->
 
 ## 호적까지 싹 다 긁어오고 미행도 몇 붙여봐라 #card
 ?
@@ -799,7 +799,7 @@ go in and out frequently
 	- reeds swaying in the wind.
 - 성균관대 교수들에 따르면 기계적 공명 때문이라고 건물이 흔들렸다고 한다.
 	- According to the professors, the building shook because of mechanical resonance.
-<!--SR:!2025-01-13,2,162-->
+<!--SR:!2025-01-16,3,162-->
 
 ## 비술 #card
 ?
@@ -942,7 +942,7 @@ go in and out frequently
 	- throw in something extra.
 - 덤으로 귤 2개를 드리겠습니다
 	- I'll throw these two oranges in extra./I'll give you two oranges into the bargain.
-<!--SR:!2025-01-13,1,154-->
+<!--SR:!2025-01-15,2,154-->
 
 ## 악물다 #card
 ?
