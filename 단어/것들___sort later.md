@@ -715,7 +715,7 @@
 	- She seems to be going about[around] with a questionable man.
 - 탐정은 수상한 그 사나이를 놓쳤다
 	- The detective lost track of the suspicious man.
-<!--SR:!2025-01-12,1,154-->
+<!--SR:!2025-01-15,2,154-->
 
 ## 낌새 #card
 ?
@@ -786,7 +786,7 @@ go in and out frequently
 	- Not a breeze stirred the lake
 - 잔잔한 수면에는 잔물결 하나 없었다
 	- Not a ripple disturbed the glassy surface of the water.
-<!--SR:!2025-01-12,1,154-->
+<!--SR:!2025-01-14,1,134-->
 
 ## 흔들리다 #card
 ?
