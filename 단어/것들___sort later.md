@@ -421,7 +421,7 @@
 ### 예
 - 그의 정열적인 포옹으로 그녀는 숨도 쉴 수 없었다
 	- His passionate embrace took her breath away./He took her breath away with a passionate embrace.
-<!--SR:!2025-01-13,2,174-->
+<!--SR:!2025-01-16,3,174-->
 
 ## 잘못 크는줄 알았다 #card
 ?
@@ -584,7 +584,7 @@
 	- organism
 - 조직도
 	- organization chart
-<!--SR:!2025-01-13,2,162-->
+<!--SR:!2025-01-14,1,142-->
 
 ## 간만 #card
 ?
@@ -750,7 +750,7 @@ go in and out frequently
 - draw out
 ### 예
 -
-<!--SR:!2025-01-12,2,194-->
+<!--SR:!2025-01-14,1,174-->
 
 ## 적임자 #card
 ?
