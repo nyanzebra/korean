@@ -491,7 +491,7 @@
 	- His good conduct set an example for the world.
 - 사람들은 소년의 선행을 극구 칭찬했다
 	- People praised[문어 lauded] the boy to the skies for his good deed.
-<!--SR:!2025-01-11,1,175-->
+<!--SR:!2025-01-14,1,155-->
 
 ## 기대하다 #card
 ?
@@ -679,7 +679,7 @@
 	- I can't help being doubtful[skeptical] of his ability.
 - 형님께서는 지금... 시원이 식구를 의심하시는 것 같다...
 	- To the boss now, it seems he is skeptical of sl won's family
-<!--SR:!2025-01-13,1,155-->
+<!--SR:!2025-01-15,2,155-->
 
 ## 명실상부 #card
 ?
@@ -702,7 +702,7 @@
 	- Recently we have had a run of bad luck in our family.
 - 그녀는 그런 불행한 일을 겪고도 태연하다
 	- Even after such an unhappy experience, she looks quite unconcerned.
-<!--SR:!2025-01-13,1,154-->
+<!--SR:!2025-01-14,1,134-->
 
 ## 수상하다 #card
 ?
@@ -882,7 +882,7 @@ go in and out frequently
 - dentures
 ### 예
 -
-<!--SR:!2025-01-12,2,182-->
+<!--SR:!2025-01-17,4,182-->
 
 ## 건네다 #card
 ?
