@@ -429,7 +429,7 @@
 - I thought you were growing up wrong
 ### 예
 -
-<!--SR:!2025-01-13,2,174-->
+<!--SR:!2025-01-16,3,174-->
 
 ## 효자 #card
 ?
@@ -503,7 +503,7 @@
 	- I am hoping against hope that he will come back.
 - 내게 너무 기대하지 말게
 	- Don't expect too much of me.
-<!--SR:!2025-01-11,1,174-->
+<!--SR:!2025-01-14,1,154-->
 
 ## 부자간 #card
 ?
@@ -807,7 +807,7 @@ go in and out frequently
 - secret technique
 ### 예
 -
-<!--SR:!2025-01-13,1,154-->
+<!--SR:!2025-01-14,1,134-->
 
 ## 물결 #card
 ?
@@ -951,7 +951,7 @@ go in and out frequently
 - take a firm bite
 ### 예
 -
-<!--SR:!2025-01-11,1,175-->
+<!--SR:!2025-01-14,1,155-->
 
 ## 단번에 #card
 ?
