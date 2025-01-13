@@ -991,6 +991,7 @@ go in and out frequently
 ### 예
 - 플라스틱 가방은 흔히 식료 잡화류와 다른 상품들을 담기 위해 사용된다.
 	- Plastic bags are commonly used to carry groceries and other products.
+<!--SR:!2025-01-14,1,162-->
 
 ## 들키다 #card
 ?
@@ -1002,6 +1003,7 @@ go in and out frequently
 	- be caught in mischief
 - 들키면 나는 큰일이다
 	- If I am discovered, I am done for
+<!--SR:!2025-01-14,1,162-->
 
 ## 입장 #card
 ?
@@ -1041,6 +1043,7 @@ go in and out frequently
 	- Some armed agents infiltrated Seoul.
 - 그는 결사의 각오로 적지에 잠입하였다
 	- He smuggled himself into enemy territory, ready to die if necessary.
+<!--SR:!2025-01-14,1,162-->
 
 ## 캐내다 #card
 ?
@@ -1123,6 +1126,7 @@ go in and out frequently
 - blind date
 ### 예
 -
+<!--SR:!2025-01-15,2,182-->
 
 ## 코디 #card
 ?
@@ -1139,6 +1143,7 @@ go in and out frequently
 - slap in the cheek
 ### 예
 -
+<!--SR:!2025-01-14,1,162-->
 
 ## 흉터 #card
 ?
@@ -1146,6 +1151,7 @@ go in and out frequently
 - scar
 ### 예
 -
+<!--SR:!2025-01-14,1,162-->
 
 ## 습격하다 #card
 ?
@@ -1174,6 +1180,7 @@ go in and out frequently
 	- The skin's a whole another thing, probably the hardest part.
 - 그리고 그와는 별개로, 저는 작곡과 단편을 썼습니다.
 	- And aside from that, I wrote music and short stories.
+<!--SR:!2025-01-14,1,162-->
 
 ## 소행 #card
 ?
@@ -1210,6 +1217,7 @@ go in and out frequently
 - nationwide
 ### 예
 -
+<!--SR:!2025-01-15,2,182-->
 
 ## 뒤지다 #card
 ?
@@ -1327,6 +1335,7 @@ go in and out frequently
 - herbivore
 ### 예
 -
+<!--SR:!2025-01-14,1,162-->
 
 
 불다 blow 부르다 call 버리다 toss/completely 벌다 earn
