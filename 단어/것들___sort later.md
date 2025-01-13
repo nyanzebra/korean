@@ -395,7 +395,7 @@
 	- drape a flag in mourning[black].
 - 증권 거래소 2부에 우리 회사 주식이 상장되었다
 	- Our company is listed on the Second Market.
-<!--SR:!2025-01-11,1,174-->
+<!--SR:!2025-01-14,1,154-->
 
 ## 태우다 #card
 ?
@@ -639,7 +639,7 @@
 	- To dispel any doubts, she filmed herself slathering on a generous amount of shampoo, which failed to soften her rock-hard hair.
 - 천국은 넉넉하고, 흐르는 강으로 풍족한 정원입니다.
 	- It's plenty. It's gardens watered by running streams.
-<!--SR:!2025-01-12,1,154-->
+<!--SR:!2025-01-14,1,134-->
 
 ## 작용하다 #card
 ?
@@ -863,7 +863,7 @@ go in and out frequently
 - picture book?
 ### 예
 -
-<!--SR:!2025-01-13,1,154-->
+<!--SR:!2025-01-14,1,134-->
 
 ## 기록하다 #card
 ?
@@ -901,7 +901,7 @@ go in and out frequently
 	- Some of these brokers may have helped terrorists transfer money after the September 11 attacks.
 - 검찰에 따르면 모두 120명의 구직자들이 기아차에 입사하기 위해 뇌물을 건넨 것으로 밝혀졌다.
 	- A total of 120 employees were found to have paid bribes to gain work at the automaker's factory in Gwangju, 330 kilometers south of Seoul, according to the prosecution.
-<!--SR:!2025-01-12,2,182-->
+<!--SR:!2025-01-14,1,162-->
 
 ## 받은 틀니를 서둘러 꼈다 #card
 ?
