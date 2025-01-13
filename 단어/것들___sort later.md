@@ -512,7 +512,7 @@
 ### 예
 - 부자간의 멋진 대화를 나눠야죠
 	- We'll have a nice father-son chat.
-<!--SR:!2025-01-11,1,174-->
+<!--SR:!2025-01-14,1,154-->
 
 
 ## 투기장 #card
@@ -874,7 +874,7 @@ go in and out frequently
 	- I have put down the course of events in detail[in full/minutely].
 - 이 팀은 과거 2년간 무패를 기록했다
 	- The team has not suffered a single defeat for the last two years.
-<!--SR:!2025-01-13,1,155-->
+<!--SR:!2025-01-14,1,135-->
 
 ## 틀니 #card
 ?
