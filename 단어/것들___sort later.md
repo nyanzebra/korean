@@ -909,7 +909,7 @@ go in and out frequently
 - I hastily put on my dentures
 ### 예
 -
-<!--SR:!2025-01-11,1,174-->
+<!--SR:!2025-01-15,2,174-->
 
 ## 씹히다 #card
 ?
