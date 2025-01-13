@@ -1110,6 +1110,7 @@ go in and out frequently
 	- Though he eventually recovered from the infection, the toll on his body led to him being unable to recover from sepsis, which ultimately took his life.
 - 하지만, 결국 관계는 자존심보다 더 중요하게 여겨져야 합니다.
 	- But, in the end, the relationship should be more important than one’s own pride
+<!--SR:!2025-01-14,1,162-->
 
 ## 둔하다 #card
 ?
@@ -1199,6 +1200,7 @@ go in and out frequently
 	- a man of dubious morality[character]/a degenerate.
 - 경찰관은 평소에도 소행을 조심하지 않으면 안 된다
 	- Police officers should always be careful of[watch] their own conduct.
+<!--SR:!2025-01-14,1,162-->
 
 ## 따지다 #card
 ?
@@ -1243,6 +1245,7 @@ go in and out frequently
 	- I searched all over the house for the missing watch.
 - 한국은 첨단 기술 분야에서 외국에 뒤져 있지 않다
 	- In the field of modern technology, Korea is not behind other countries.
+<!--SR:!2025-01-14,1,162-->
 
 ## 의논하다 #card
 ?
