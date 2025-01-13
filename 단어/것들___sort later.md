@@ -815,7 +815,7 @@ go in and out frequently
 - wave (ocean/water)
 ### 예
 -
-<!--SR:!2025-01-11,1,175-->
+<!--SR:!2025-01-15,2,175-->
 
 ## 헤엄하다 #card
 ?
@@ -847,7 +847,7 @@ go in and out frequently
 	- Korea coach Cho plans to use a quick offense to determine the game.
 - 플레이오프 기간 동안 4팀이 승부를 겨룬다.
 	- Four teams are competing in the playoffs.
-<!--SR:!2025-01-12,2,194-->
+<!--SR:!2025-01-17,4,194-->
 
 ## 걸어오다/걸어가다 #card
 ?
