@@ -760,7 +760,7 @@ go in and out frequently
 - right man
 ### 예
 -
-<!--SR:!2025-01-11,1,174-->
+<!--SR:!2025-01-14,1,154-->
 
 ## 수면 #card
 ?
