@@ -1381,7 +1381,10 @@ go in and out frequently
 ### 뜻
 - on purpose
 ### 예
--
+- 이 때문인지 법원 주변에서는 두 사람이 구내식당에서 밥을 먹을 때도 일부러 다른 메뉴를 시킨다는 우스개 소리가 나올 정도였다.
+	- People jokingly said the two chose different food at a cafeteria on purpose.
+- 일부러 정보를 주지 않는 것이 관객들이 몰입하게 합니다.
+	- You know, doing that intentionally is much more engaging.
 
 
 
