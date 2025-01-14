@@ -1364,10 +1364,11 @@ go in and out frequently
 - 결코 나는 그를 용서할 수 없다
 	- I cannot forgive him on any account.
 
-## 정지 #card
+## 정직하다 #card
 ?
 ### 뜻
--
+- be honest
+- suspension from duty
 ### 예
 -
 
