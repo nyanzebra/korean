@@ -27,7 +27,7 @@
 	- It was a proud moment for me.
 - 뿌듯하게 맞다
 	- fit tightly/suit to a T.
-<!--SR:!2025-01-14,14,163-->
+<!--SR:!2025-01-21,7,143-->
 
 ## 매기다 #card
 ?
@@ -366,7 +366,7 @@
 - physically or emotionally comfortable
 ### 예
 -
-<!--SR:!2025-01-14,4,202-->
+<!--SR:!2025-01-22,8,202-->
 
 ## 여전하다 #card
 ?
@@ -438,7 +438,7 @@
 ### 예
 - 효자가 충신이 된다
 	- A good son will make a good subject.
-<!--SR:!2025-01-14,4,215-->
+<!--SR:!2025-01-24,10,215-->
 
 ## 효도하다 #card
 ?
@@ -584,7 +584,7 @@
 	- organism
 - 조직도
 	- organization chart
-<!--SR:!2025-01-14,1,142-->
+<!--SR:!2025-01-15,1,130-->
 
 ## 간만 #card
 ?
