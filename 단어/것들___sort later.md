@@ -1359,7 +1359,18 @@ go in and out frequently
 ### 뜻
 - forgive
 ### 예
+- 본의가 아닌 말을 드린 것을 용서하십시오
+	- Please forgive me, for I did not mean what I said.
+- 결코 나는 그를 용서할 수 없다
+	- I cannot forgive him on any account.
+
+## 정지 #card
+?
+### 뜻
 -
+### 예
+-
+
 
 
 불다 blow 부르다 call 버리다 toss/completely 벌다 earn
