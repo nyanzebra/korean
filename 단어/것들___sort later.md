@@ -1370,7 +1370,11 @@ go in and out frequently
 - be honest
 - suspension from duty
 ### 예
--
+- 그는 정직한 사람 같은데 ― 그렇고 말고
+	- He seems to be an honest man. ― So he is.
+- 이것은 정직한 사람이 손해를 보는 좋은 예다
+	- This is a good example of a case in which honesty doesn't pay.
+- 
 
 
 
