@@ -654,7 +654,7 @@
 	- Some supernatural power seems to be at work
 - 연이 올라갈 때는 바람이 양력으로 작용한다
 	- When a kite flies, the wind provides lift.
-<!--SR:!2025-01-14,1,134-->
+<!--SR:!2025-01-15,1,130-->
 
 ## 그닥 #card
 ?
@@ -1148,7 +1148,7 @@ go in and out frequently
 - slap in the cheek
 ### 예
 -
-<!--SR:!2025-01-14,1,162-->
+<!--SR:!2025-01-16,2,162-->
 
 ## 흉터 #card
 ?
@@ -1315,7 +1315,7 @@ go in and out frequently
 ?
 ### 뜻
 - frighten
-- scar off
+- scare off
 - freak out
 ### 예
 -
