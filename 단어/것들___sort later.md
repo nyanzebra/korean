@@ -662,7 +662,7 @@
 - 별로 그렇게까지 (not so much)?
 ### 예
 -
-<!--SR:!2025-01-14,1,130-->
+<!--SR:!2025-01-15,1,130-->
 
 ## 의심하다 #card
 ?
@@ -786,7 +786,7 @@ go in and out frequently
 	- Not a breeze stirred the lake
 - 잔잔한 수면에는 잔물결 하나 없었다
 	- Not a ripple disturbed the glassy surface of the water.
-<!--SR:!2025-01-14,1,134-->
+<!--SR:!2025-01-15,1,134-->
 
 ## 흔들리다 #card
 ?
@@ -1279,7 +1279,7 @@ go in and out frequently
 	- a nonreligious organization.
 - 정치적 색채를 띤 단체
 	- a politically-colored group.
-<!--SR:!2025-01-14,1,162-->
+<!--SR:!2025-01-15,1,142-->
 
 ## 웅성거리다 #card
 ?
