@@ -1347,10 +1347,17 @@ go in and out frequently
 -
 <!--SR:!2025-01-14,1,162-->
 
-## 단어 #card
+## 연못 #card
 ?
 ### 뜻
+- pond
+### 예
 -
+
+## 용서하다 #card
+?
+### 뜻
+- forgive
 ### 예
 -
 
