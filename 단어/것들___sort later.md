@@ -320,7 +320,7 @@
 	- Van Gogh suffered a lot.
 - 한국은 지난 몇 주 동안 극심한 더위를 겪고 있습니다.
 	- Korea has been experiencing extreme heat for the past few weeks.
-<!--SR:!2025-01-14,4,215-->
+<!--SR:!2025-01-23,9,215-->
 
 ## 쏙/꼭 빼닮다 #card
 ?
@@ -512,7 +512,7 @@
 ### 예
 - 부자간의 멋진 대화를 나눠야죠
 	- We'll have a nice father-son chat.
-<!--SR:!2025-01-14,1,154-->
+<!--SR:!2025-01-15,1,134-->
 
 
 ## 투기장 #card
