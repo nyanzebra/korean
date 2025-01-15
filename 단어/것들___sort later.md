@@ -750,7 +750,7 @@ go in and out frequently
 - draw out
 ### 예
 -
-<!--SR:!2025-01-14,1,174-->
+<!--SR:!2025-01-16,2,174-->
 
 ## 적임자 #card
 ?
@@ -863,7 +863,7 @@ go in and out frequently
 - picture book?
 ### 예
 -
-<!--SR:!2025-01-14,1,134-->
+<!--SR:!2025-01-15,1,130-->
 
 ## 기록하다 #card
 ?
@@ -1004,7 +1004,7 @@ go in and out frequently
 	- be caught in mischief
 - 들키면 나는 큰일이다
 	- If I am discovered, I am done for
-<!--SR:!2025-01-14,1,162-->
+<!--SR:!2025-01-15,1,142-->
 
 ## 입장 #card
 ?
@@ -1055,7 +1055,7 @@ go in and out frequently
 	- root out a secret.
 - 나무 등걸을 캐내다
 	- dig up the stump of a tree.
-<!--SR:!2025-01-14,1,162-->
+<!--SR:!2025-01-15,1,142-->
 
 ## 나머지 #card
 ?
@@ -1156,7 +1156,7 @@ go in and out frequently
 - scar
 ### 예
 -
-<!--SR:!2025-01-14,1,162-->
+<!--SR:!2025-01-16,2,162-->
 
 ## 습격하다 #card
 ?
@@ -1257,7 +1257,7 @@ go in and out frequently
 	- consult one's aides.
 - 변호사와 의논하다
 	- consult a lawyer.
-<!--SR:!2025-01-14,1,162-->
+<!--SR:!2025-01-15,1,142-->
 
 ## 꿇리다 #card
 ?
@@ -1266,7 +1266,7 @@ go in and out frequently
 - force to yield
 ### 예
 -
-<!--SR:!2025-01-14,1,162-->
+<!--SR:!2025-01-15,1,142-->
 
 ## 단체 #card
 ?
