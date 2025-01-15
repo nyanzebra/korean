@@ -702,7 +702,7 @@
 	- Recently we have had a run of bad luck in our family.
 - 그녀는 그런 불행한 일을 겪고도 태연하다
 	- Even after such an unhappy experience, she looks quite unconcerned.
-<!--SR:!2025-01-15,1,130-->
+<!--SR:!2025-01-16,1,130-->
 
 ## 수상하다 #card
 ?
@@ -730,7 +730,7 @@
 	- There were no signs of their having discussed the matter.
 - 나는 낌새를 알고 있었다
 	- I had an inkling of it.
-<!--SR:!2025-01-15,2,155-->
+<!--SR:!2025-01-18,3,155-->
 
 ## 들락날락 #card
 ?
@@ -992,7 +992,7 @@ go in and out frequently
 ### 예
 - 플라스틱 가방은 흔히 식료 잡화류와 다른 상품들을 담기 위해 사용된다.
 	- Plastic bags are commonly used to carry groceries and other products.
-<!--SR:!2025-01-15,1,142-->
+<!--SR:!2025-01-16,1,142-->
 
 ## 들키다 #card
 ?
