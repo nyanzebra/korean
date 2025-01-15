@@ -379,7 +379,7 @@
 	- My father's condition remains the same.
 - 한 달이 지난 지금도 북한의 군사적 위협은 여전하다.
 	- A month has passed, and the North Korean military threat remains.
-<!--SR:!2025-01-14,1,135-->
+<!--SR:!2025-01-15,1,135-->
 
 ## 상장 #card
 ?
@@ -491,7 +491,7 @@
 	- His good conduct set an example for the world.
 - 사람들은 소년의 선행을 극구 칭찬했다
 	- People praised[문어 lauded] the boy to the skies for his good deed.
-<!--SR:!2025-01-14,1,155-->
+<!--SR:!2025-01-15,1,135-->
 
 ## 기대하다 #card
 ?
@@ -503,7 +503,7 @@
 	- I am hoping against hope that he will come back.
 - 내게 너무 기대하지 말게
 	- Don't expect too much of me.
-<!--SR:!2025-01-14,1,154-->
+<!--SR:!2025-01-15,1,134-->
 
 ## 부자간 #card
 ?
@@ -594,7 +594,7 @@
 ### 예
 - 간만에 바람 좀 쐬면서 걸을까 한다
 	- It's been a while since I've had some fresh air
-<!--SR:!2025-01-14,1,130-->
+<!--SR:!2025-01-15,1,130-->
 
 ## 버릇하다 #card
 ?
@@ -992,7 +992,7 @@ go in and out frequently
 ### 예
 - 플라스틱 가방은 흔히 식료 잡화류와 다른 상품들을 담기 위해 사용된다.
 	- Plastic bags are commonly used to carry groceries and other products.
-<!--SR:!2025-01-14,1,162-->
+<!--SR:!2025-01-15,1,142-->
 
 ## 들키다 #card
 ?
@@ -1097,7 +1097,7 @@ go in and out frequently
 ### 예
 - 소지품 전부에 자기 이름을 붙이다
 	- put one's name on all one's belongings.
-<!--SR:!2025-01-14,1,162-->
+<!--SR:!2025-01-15,1,142-->
 
 ## 결국 #card
 ?
@@ -1292,7 +1292,7 @@ go in and out frequently
 	- The racket made by the mob could be heard intermittently
 - 웅성거리는 대화 소리.
 	- a buzz of conversation
-<!--SR:!2025-01-14,1,162-->
+<!--SR:!2025-01-15,1,142-->
 
 ## 갈아입다 #card
 ?
@@ -1328,7 +1328,7 @@ go in and out frequently
 - stuck
 ### 예
 -
-<!--SR:!2025-01-14,1,162-->
+<!--SR:!2025-01-15,1,142-->
 
 ## 굳은살 #card
 ?
