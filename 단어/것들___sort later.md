@@ -410,7 +410,7 @@
 	- give 《a person》 a lift[ride] 《in one's car》/give 《a person》 a passage 《on one's boat》/(도와서) help 《a person》 into 《a car》/put[place] 《a child》 on 《a train》.
 - 그의 어머니를 부산행 열차에 태워 주도록 나는 그에게 부탁을 받았다
 	- I was asked to put his mother on the train bound for Busan.
-<!--SR:!2025-01-15,2,175-->
+<!--SR:!2025-01-19,4,175-->
 
 ## 포옹 #card
 ?
