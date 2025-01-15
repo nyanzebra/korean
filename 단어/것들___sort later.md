@@ -474,7 +474,7 @@
 	- For the rebellious Sartre, then, turning down a world-famous award was completely in character.
 - 그녀는 아빠에게 반항하고 늘 모험을 떠날 준비가 되어있다.
 	- She rebels against her father and is always ready for adventure
-<!--SR:!2025-01-14,1,130-->
+<!--SR:!2025-01-15,1,130-->
 
 ## 선행 #card
 ?
@@ -1245,7 +1245,7 @@ go in and out frequently
 	- I searched all over the house for the missing watch.
 - 한국은 첨단 기술 분야에서 외국에 뒤져 있지 않다
 	- In the field of modern technology, Korea is not behind other countries.
-<!--SR:!2025-01-14,1,162-->
+<!--SR:!2025-01-16,2,162-->
 
 ## 의논하다 #card
 ?
