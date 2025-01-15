@@ -1353,6 +1353,7 @@ go in and out frequently
 - pond
 ### 예
 -
+<!--SR:!2025-01-15,1,152-->
 
 ## 용서하다 #card
 ?
@@ -1363,6 +1364,7 @@ go in and out frequently
 	- Please forgive me, for I did not mean what I said.
 - 결코 나는 그를 용서할 수 없다
 	- I cannot forgive him on any account.
+<!--SR:!2025-01-16,2,172-->
 
 ## 정직하다 #card
 ?
@@ -1374,7 +1376,8 @@ go in and out frequently
 	- He seems to be an honest man. ― So he is.
 - 이것은 정직한 사람이 손해를 보는 좋은 예다
 	- This is a good example of a case in which honesty doesn't pay.
-- 
+-
+<!--SR:!2025-01-15,1,152--> 
 
 ## 일부러 #card
 ?
@@ -1385,6 +1388,7 @@ go in and out frequently
 	- People jokingly said the two chose different food at a cafeteria on purpose.
 - 일부러 정보를 주지 않는 것이 관객들이 몰입하게 합니다.
 	- You know, doing that intentionally is much more engaging.
+<!--SR:!2025-01-15,1,152-->
 
 
 
