@@ -559,7 +559,7 @@
 ### 예
 - 정상적으로 자랄 수 있게 잘 보살펴준 것
 	- Take good care of them so they can grow up normally.
-<!--SR:!2025-01-14,1,155-->
+<!--SR:!2025-01-15,1,135-->
 
 ## 정상 #card
 ?
@@ -807,7 +807,7 @@ go in and out frequently
 - secret technique
 ### 예
 -
-<!--SR:!2025-01-14,1,134-->
+<!--SR:!2025-01-15,1,134-->
 
 ## 물결 #card
 ?
@@ -1044,7 +1044,7 @@ go in and out frequently
 	- Some armed agents infiltrated Seoul.
 - 그는 결사의 각오로 적지에 잠입하였다
 	- He smuggled himself into enemy territory, ready to die if necessary.
-<!--SR:!2025-01-14,1,162-->
+<!--SR:!2025-01-15,1,142-->
 
 ## 캐내다 #card
 ?
@@ -1123,7 +1123,7 @@ go in and out frequently
 	- The warmer weather makes them feel slower and more tired.
 - 너 참 둔하구나
 	- You are so oblivious.
-<!--SR:!2025-01-14,1,162-->
+<!--SR:!2025-01-15,1,142-->
 
 ## 소개팅 #card
 ?
@@ -1309,7 +1309,7 @@ go in and out frequently
 - narrowly
 ### 예
 -
-<!--SR:!2025-01-14,1,162-->
+<!--SR:!2025-01-15,1,142-->
 
 ## 겁먹다 #card
 ?
