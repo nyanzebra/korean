@@ -155,7 +155,7 @@
 	- They are venting out their bottled-up antipathy to a fellow lawmaker
 - 불편한 감정을 억누르거나 그런 감정을 가지고 있다고 자신을 판단하지 말라.
 	- Don’t repress uncomfortable emotions or judge yourself for having them
-<!--SR:!2025-01-15,5,150-->
+<!--SR:!2025-01-23,8,150-->
 
 ## 불길하다 #card
 ?
@@ -740,7 +740,7 @@ go in and out frequently
 ### 예
 - 울타리 틈새로 고양이가 들락날락하고 있다
 	- Cats go in and out through the opening in the fence.
-<!--SR:!2025-01-15,1,134-->
+<!--SR:!2025-01-16,1,134-->
 
 ## 꺼내다 #card
 ?
@@ -1257,7 +1257,7 @@ go in and out frequently
 	- consult one's aides.
 - 변호사와 의논하다
 	- consult a lawyer.
-<!--SR:!2025-01-15,1,142-->
+<!--SR:!2025-01-16,1,130-->
 
 ## 꿇리다 #card
 ?
@@ -1279,7 +1279,7 @@ go in and out frequently
 	- a nonreligious organization.
 - 정치적 색채를 띤 단체
 	- a politically-colored group.
-<!--SR:!2025-01-15,1,142-->
+<!--SR:!2025-01-16,1,130-->
 
 ## 웅성거리다 #card
 ?
