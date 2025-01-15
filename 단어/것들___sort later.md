@@ -1033,7 +1033,7 @@ go in and out frequently
 	- a bright[clever] boy
 - 그는 너무 똘똘해서 당할 수가 없다.
 	- He's too sharp for me.
-<!--SR:!2025-01-15,2,182-->
+<!--SR:!2025-01-19,4,182-->
 
 ## 잠입하다 #card
 ?
