@@ -491,7 +491,7 @@
 	- His good conduct set an example for the world.
 - 사람들은 소년의 선행을 극구 칭찬했다
 	- People praised[문어 lauded] the boy to the skies for his good deed.
-<!--SR:!2025-01-15,1,135-->
+<!--SR:!2025-01-16,1,130-->
 
 ## 기대하다 #card
 ?
@@ -983,7 +983,7 @@ go in and out frequently
 	- grocery store
 - 맥신이 식료품 구매 대행으로 일하는 동안 조나는 불안과 싸우고 있다.
 	- Maxine works as a personal grocery shopper, while Jonah struggles with anxiety.
-<!--SR:!2025-01-15,1,142-->
+<!--SR:!2025-01-16,1,142-->
 
 ## 잡화류 #card
 ?
@@ -1139,7 +1139,7 @@ go in and out frequently
 - coordinating outfit
 ### 예
 -
-<!--SR:!2025-01-15,2,182-->
+<!--SR:!2025-01-19,4,182-->
 
 ## 뺨 #card
 ?
