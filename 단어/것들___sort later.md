@@ -569,7 +569,7 @@
 ### 예
 - 정상적으로 자랄 수 있게 잘 보살펴준 것
 	- Take good care of them so they can grow up normally.
-<!--SR:!2025-01-14,1,135-->
+<!--SR:!2025-01-15,1,130-->
 
 ## 조직 #card
 ?
@@ -874,7 +874,7 @@ go in and out frequently
 	- I have put down the course of events in detail[in full/minutely].
 - 이 팀은 과거 2년간 무패를 기록했다
 	- The team has not suffered a single defeat for the last two years.
-<!--SR:!2025-01-14,1,135-->
+<!--SR:!2025-01-15,1,130-->
 
 ## 틀니 #card
 ?
@@ -918,7 +918,7 @@ go in and out frequently
 - masticate
 ### 예
 -
-<!--SR:!2025-01-14,4,202-->
+<!--SR:!2025-01-16,2,182-->
 
 ## 부끄럽다 #card
 ?
