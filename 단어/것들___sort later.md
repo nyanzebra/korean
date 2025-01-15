@@ -358,7 +358,7 @@
 	- result from slackened discipline among public officials.
 - 요즘 관기가 눈에 띄게 해이해 졌다
 	- These days official discipline has been remarkably slack[lax].
-<!--SR:!2025-01-15,1,134-->
+<!--SR:!2025-01-16,1,134-->
 
 ## 편안하다 #card
 ?
@@ -815,7 +815,7 @@ go in and out frequently
 - wave (ocean/water)
 ### 예
 -
-<!--SR:!2025-01-15,2,175-->
+<!--SR:!2025-01-16,1,155-->
 
 ## 헤엄하다 #card
 ?
@@ -1185,7 +1185,7 @@ go in and out frequently
 	- The skin's a whole another thing, probably the hardest part.
 - 그리고 그와는 별개로, 저는 작곡과 단편을 썼습니다.
 	- And aside from that, I wrote music and short stories.
-<!--SR:!2025-01-15,1,142-->
+<!--SR:!2025-01-16,1,142-->
 
 ## 소행 #card
 ?
@@ -1345,7 +1345,7 @@ go in and out frequently
 - herbivore
 ### 예
 -
-<!--SR:!2025-01-15,1,142-->
+<!--SR:!2025-01-16,1,130-->
 
 ## 연못 #card
 ?
