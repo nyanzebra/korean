@@ -379,7 +379,7 @@
 	- My father's condition remains the same.
 - 한 달이 지난 지금도 북한의 군사적 위협은 여전하다.
 	- A month has passed, and the North Korean military threat remains.
-<!--SR:!2025-01-15,1,135-->
+<!--SR:!2025-01-16,1,135-->
 
 ## 상장 #card
 ?
@@ -1044,7 +1044,7 @@ go in and out frequently
 	- Some armed agents infiltrated Seoul.
 - 그는 결사의 각오로 적지에 잠입하였다
 	- He smuggled himself into enemy territory, ready to die if necessary.
-<!--SR:!2025-01-15,1,142-->
+<!--SR:!2025-01-16,1,130-->
 
 ## 캐내다 #card
 ?
@@ -1072,7 +1072,7 @@ go in and out frequently
 	- Some of them are people that he knows, while others are strangers to him.
 - 그러나 나머지 한국 기업들은 인지도가 낮으며 규모도 매우 작다"고 이 연구원은 말했다.
 	- But the rest are pretty insufficient and very small in scale, said Lee.
-<!--SR:!2025-01-15,2,182-->
+<!--SR:!2025-01-19,4,182-->
 
 ## 짜내다 #card
 ?
@@ -1168,7 +1168,7 @@ go in and out frequently
 	- The townspeople turned into rioters and attacked the town hall.
 - 적진을 습격하여 탈취했다
 	- The enemy camp was taken in a surprise attack.
-<!--SR:!2025-01-15,2,182-->
+<!--SR:!2025-01-19,4,182-->
 
 ## 별개 #card
 ?
