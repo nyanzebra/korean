@@ -395,7 +395,7 @@
 	- drape a flag in mourning[black].
 - 증권 거래소 2부에 우리 회사 주식이 상장되었다
 	- Our company is listed on the Second Market.
-<!--SR:!2025-01-15,1,134-->
+<!--SR:!2025-01-16,1,130-->
 
 ## 태우다 #card
 ?
