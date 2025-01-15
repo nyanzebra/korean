@@ -346,7 +346,7 @@
 	- The administration should show determination in maintaining the discipline of government officials.
 - 그들은 아침 일찍 일어나는 것이 학생들로 하여금 기강을 발전시키는 것을 돕는다고 말했다.
 	- They said that getting up early helps students develop discipline.
-<!--SR:!2025-01-14,1,135-->
+<!--SR:!2025-01-15,1,130-->
 
 ## 해이하다 #card
 ?
@@ -740,7 +740,7 @@ go in and out frequently
 ### 예
 - 울타리 틈새로 고양이가 들락날락하고 있다
 	- Cats go in and out through the opening in the fence.
-<!--SR:!2025-01-14,1,134-->
+<!--SR:!2025-01-15,1,134-->
 
 ## 꺼내다 #card
 ?
@@ -1200,7 +1200,7 @@ go in and out frequently
 	- a man of dubious morality[character]/a degenerate.
 - 경찰관은 평소에도 소행을 조심하지 않으면 안 된다
 	- Police officers should always be careful of[watch] their own conduct.
-<!--SR:!2025-01-14,1,162-->
+<!--SR:!2025-01-15,1,142-->
 
 ## 따지다 #card
 ?
@@ -1337,7 +1337,7 @@ go in and out frequently
 - callus
 ### 예
 -
-<!--SR:!2025-01-14,1,162-->
+<!--SR:!2025-01-15,1,142-->
 
 ## 초식 #card
 ?
