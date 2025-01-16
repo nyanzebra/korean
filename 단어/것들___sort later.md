@@ -512,7 +512,7 @@
 ### 예
 - 부자간의 멋진 대화를 나눠야죠
 	- We'll have a nice father-son chat.
-<!--SR:!2025-01-16,1,134-->
+<!--SR:!2025-01-17,1,134-->
 
 
 ## 투기장 #card
@@ -786,7 +786,7 @@ go in and out frequently
 	- Not a breeze stirred the lake
 - 잔잔한 수면에는 잔물결 하나 없었다
 	- Not a ripple disturbed the glassy surface of the water.
-<!--SR:!2025-01-16,1,134-->
+<!--SR:!2025-01-17,1,134-->
 
 ## 흔들리다 #card
 ?
