@@ -346,7 +346,7 @@
 	- The administration should show determination in maintaining the discipline of government officials.
 - 그들은 아침 일찍 일어나는 것이 학생들로 하여금 기강을 발전시키는 것을 돕는다고 말했다.
 	- They said that getting up early helps students develop discipline.
-<!--SR:!2025-01-15,1,130-->
+<!--SR:!2025-01-16,1,130-->
 
 ## 해이하다 #card
 ?
@@ -679,7 +679,7 @@
 	- I can't help being doubtful[skeptical] of his ability.
 - 형님께서는 지금... 시원이 식구를 의심하시는 것 같다...
 	- To the boss now, it seems he is skeptical of sl won's family
-<!--SR:!2025-01-15,2,155-->
+<!--SR:!2025-01-16,1,135-->
 
 ## 명실상부 #card
 ?
@@ -1200,7 +1200,7 @@ go in and out frequently
 	- a man of dubious morality[character]/a degenerate.
 - 경찰관은 평소에도 소행을 조심하지 않으면 안 된다
 	- Police officers should always be careful of[watch] their own conduct.
-<!--SR:!2025-01-15,1,142-->
+<!--SR:!2025-01-16,1,130-->
 
 ## 따지다 #card
 ?
@@ -1319,7 +1319,7 @@ go in and out frequently
 - freak out
 ### 예
 -
-<!--SR:!2025-01-15,1,142-->
+<!--SR:!2025-01-16,1,142-->
 
 ## 박히다 #card
 ?
