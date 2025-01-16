@@ -474,7 +474,7 @@
 	- For the rebellious Sartre, then, turning down a world-famous award was completely in character.
 - 그녀는 아빠에게 반항하고 늘 모험을 떠날 준비가 되어있다.
 	- She rebels against her father and is always ready for adventure
-<!--SR:!2025-01-15,1,130-->
+<!--SR:!2025-01-16,1,130-->
 
 ## 선행 #card
 ?
@@ -687,7 +687,7 @@
 - ?
 ### 예
 -
-<!--SR:!2025-01-15,1,130-->
+<!--SR:!2025-01-16,1,130-->
 
 ## 불행하다 #card
 ?
@@ -807,7 +807,7 @@ go in and out frequently
 - secret technique
 ### 예
 -
-<!--SR:!2025-01-15,1,134-->
+<!--SR:!2025-01-16,1,134-->
 
 ## 물결 #card
 ?
@@ -863,7 +863,7 @@ go in and out frequently
 - picture book?
 ### 예
 -
-<!--SR:!2025-01-15,1,130-->
+<!--SR:!2025-01-16,1,130-->
 
 ## 기록하다 #card
 ?
@@ -942,7 +942,7 @@ go in and out frequently
 	- throw in something extra.
 - 덤으로 귤 2개를 드리겠습니다
 	- I'll throw these two oranges in extra./I'll give you two oranges into the bargain.
-<!--SR:!2025-01-15,2,154-->
+<!--SR:!2025-01-18,3,154-->
 
 ## 악물다 #card
 ?
