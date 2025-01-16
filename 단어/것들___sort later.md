@@ -1044,7 +1044,7 @@ go in and out frequently
 	- Some armed agents infiltrated Seoul.
 - 그는 결사의 각오로 적지에 잠입하였다
 	- He smuggled himself into enemy territory, ready to die if necessary.
-<!--SR:!2025-01-16,1,130-->
+<!--SR:!2025-01-17,1,130-->
 
 ## 캐내다 #card
 ?
@@ -1148,7 +1148,7 @@ go in and out frequently
 - slap in the cheek
 ### 예
 -
-<!--SR:!2025-01-16,2,162-->
+<!--SR:!2025-01-19,3,162-->
 
 ## 흉터 #card
 ?
