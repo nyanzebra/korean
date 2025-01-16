@@ -503,7 +503,7 @@
 	- I am hoping against hope that he will come back.
 - 내게 너무 기대하지 말게
 	- Don't expect too much of me.
-<!--SR:!2025-01-15,1,134-->
+<!--SR:!2025-01-16,1,134-->
 
 ## 부자간 #card
 ?
@@ -521,7 +521,7 @@
 - arena
 ### 예
 -
-<!--SR:!2025-01-15,2,155-->
+<!--SR:!2025-01-18,3,155-->
 
 ## 호적까지 싹 다 긁어오고 미행도 몇 붙여봐라 #card
 ?
@@ -594,7 +594,7 @@
 ### 예
 - 간만에 바람 좀 쐬면서 걸을까 한다
 	- It's been a while since I've had some fresh air
-<!--SR:!2025-01-15,1,130-->
+<!--SR:!2025-01-16,1,130-->
 
 ## 버릇하다 #card
 ?
@@ -1097,7 +1097,7 @@ go in and out frequently
 ### 예
 - 소지품 전부에 자기 이름을 붙이다
 	- put one's name on all one's belongings.
-<!--SR:!2025-01-15,1,142-->
+<!--SR:!2025-01-16,1,130-->
 
 ## 결국 #card
 ?
@@ -1300,7 +1300,7 @@ go in and out frequently
 - change clothes
 ### 예
 -
-<!--SR:!2025-01-15,2,182-->
+<!--SR:!2025-01-16,1,162-->
 
 ## 간신히 #card
 ?
@@ -1388,7 +1388,7 @@ go in and out frequently
 	- People jokingly said the two chose different food at a cafeteria on purpose.
 - 일부러 정보를 주지 않는 것이 관객들이 몰입하게 합니다.
 	- You know, doing that intentionally is much more engaging.
-<!--SR:!2025-01-15,1,152-->
+<!--SR:!2025-01-17,2,152-->
 
 
 
