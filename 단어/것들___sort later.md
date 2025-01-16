@@ -548,7 +548,7 @@
 ### 예
 - 애초부터 우리는 불공평하게 대우받았다
 	- Right from the beginning[From the very beginning] we've been unfairly treated
-<!--SR:!2025-01-16,4,195-->
+<!--SR:!2025-01-25,9,195-->
 
 ## 보살피다 #card
 ?
@@ -951,7 +951,7 @@ go in and out frequently
 - take a firm bite
 ### 예
 -
-<!--SR:!2025-01-16,1,135-->
+<!--SR:!2025-01-17,1,135-->
 
 ## 단번에 #card
 ?
@@ -983,7 +983,7 @@ go in and out frequently
 	- grocery store
 - 맥신이 식료품 구매 대행으로 일하는 동안 조나는 불안과 싸우고 있다.
 	- Maxine works as a personal grocery shopper, while Jonah struggles with anxiety.
-<!--SR:!2025-01-16,1,142-->
+<!--SR:!2025-01-17,1,142-->
 
 ## 잡화류 #card
 ?
@@ -1055,7 +1055,7 @@ go in and out frequently
 	- root out a secret.
 - 나무 등걸을 캐내다
 	- dig up the stump of a tree.
-<!--SR:!2025-01-16,1,130-->
+<!--SR:!2025-01-17,1,130-->
 
 ## 나머지 #card
 ?
