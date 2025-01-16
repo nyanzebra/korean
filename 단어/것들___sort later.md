@@ -1345,7 +1345,7 @@ go in and out frequently
 - herbivore
 ### 예
 -
-<!--SR:!2025-01-16,1,130-->
+<!--SR:!2025-01-17,1,130-->
 
 ## 연못 #card
 ?
