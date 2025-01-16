@@ -1020,7 +1020,7 @@ go in and out frequently
 	- He delivered a staunch defense of the government.
 - 괴로운 입장
 	- an awkward situation.
-<!--SR:!2025-01-15,2,182-->
+<!--SR:!2025-01-19,4,182-->
 
 ## 똘똘하다 #card
 ?
@@ -1377,7 +1377,7 @@ go in and out frequently
 - 이것은 정직한 사람이 손해를 보는 좋은 예다
 	- This is a good example of a case in which honesty doesn't pay.
 -
-<!--SR:!2025-01-15,1,152--> 
+<!--SR:!2025-01-16,1,132--> 
 
 ## 일부러 #card
 ?
