@@ -446,7 +446,7 @@
 - filial piety
 ### 예
 -
-<!--SR:!2025-01-15,2,175-->
+<!--SR:!2025-01-19,4,175-->
 
 
 ## 불효 #card
@@ -1055,7 +1055,7 @@ go in and out frequently
 	- root out a secret.
 - 나무 등걸을 캐내다
 	- dig up the stump of a tree.
-<!--SR:!2025-01-15,1,142-->
+<!--SR:!2025-01-16,1,130-->
 
 ## 나머지 #card
 ?
