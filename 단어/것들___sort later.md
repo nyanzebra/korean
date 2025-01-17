@@ -639,7 +639,7 @@
 	- To dispel any doubts, she filmed herself slathering on a generous amount of shampoo, which failed to soften her rock-hard hair.
 - 천국은 넉넉하고, 흐르는 강으로 풍족한 정원입니다.
 	- It's plenty. It's gardens watered by running streams.
-<!--SR:!2025-01-16,1,130-->
+<!--SR:!2025-01-17,1,130-->
 
 ## 작용하다 #card
 ?
@@ -1088,7 +1088,7 @@ go in and out frequently
 	- Facial expressions of created animals that were even more real than those of real human made me cry.
 - 분명히 비행자제의 기간을 한 달로 제한함으로써 일본 정부가 항의의 효과를 최대화하는 반면 실제 마찰은 최소화 하기 위해 머리를 짜낸 것 같기는 하다. 그렇게 함으로써 한국정부가 정부 조달 협정 위반으로 이 문제를 세계 무역기구에 제소하기 어렵기 만들었는데 관련 액수가 기준치인 20만 달러에 미치지 못할 것 같기 때문이다.
 	- Admittedly, Tokyo seems to have racked its brains to maximize the protest's effect while minimizing actual friction, by limiting the period of flight restraint to one month. This makes it hard for Seoul to bring it to the World Trade Organization for violating of government procurement accord, as the sum involved is unlikely to reach the criterion of $200,000.
-<!--SR:!2025-01-16,2,162-->
+<!--SR:!2025-01-19,3,162-->
 
 ## 소지품 #card
 ?
