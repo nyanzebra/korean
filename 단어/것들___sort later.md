@@ -379,7 +379,7 @@
 	- My father's condition remains the same.
 - 한 달이 지난 지금도 북한의 군사적 위협은 여전하다.
 	- A month has passed, and the North Korean military threat remains.
-<!--SR:!2025-01-16,1,135-->
+<!--SR:!2025-01-17,1,135-->
 
 ## 상장 #card
 ?
@@ -421,7 +421,7 @@
 ### 예
 - 그의 정열적인 포옹으로 그녀는 숨도 쉴 수 없었다
 	- His passionate embrace took her breath away./He took her breath away with a passionate embrace.
-<!--SR:!2025-01-16,3,174-->
+<!--SR:!2025-01-21,5,174-->
 
 ## 잘못 크는줄 알았다 #card
 ?
@@ -538,7 +538,7 @@
 ### 예
 - 항상 군말없이 따라주는 네 수고는 내가 다 기억한다
 	- I remember all the trouble you've gone to to keep me company!
-<!--SR:!2025-01-16,1,130-->
+<!--SR:!2025-01-17,1,130-->
 
 ## 애초 #card
 ?
@@ -584,7 +584,7 @@
 	- organism
 - 조직도
 	- organization chart
-<!--SR:!2025-01-16,1,130-->
+<!--SR:!2025-01-17,1,130-->
 
 ## 간만 #card
 ?
