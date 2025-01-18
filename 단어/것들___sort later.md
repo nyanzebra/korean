@@ -1300,7 +1300,7 @@ go in and out frequently
 - change clothes
 ### 예
 -
-<!--SR:!2025-01-16,1,162-->
+<!--SR:!2025-01-20,2,162-->
 
 ## 간신히 #card
 ?
@@ -1328,7 +1328,7 @@ go in and out frequently
 - stuck
 ### 예
 -
-<!--SR:!2025-01-16,1,142-->
+<!--SR:!2025-01-19,1,142-->
 
 ## 굳은살 #card
 ?
