@@ -491,7 +491,7 @@
 	- His good conduct set an example for the world.
 - 사람들은 소년의 선행을 극구 칭찬했다
 	- People praised[문어 lauded] the boy to the skies for his good deed.
-<!--SR:!2025-01-16,1,130-->
+<!--SR:!2025-01-19,1,130-->
 
 ## 기대하다 #card
 ?
@@ -715,7 +715,7 @@
 	- She seems to be going about[around] with a questionable man.
 - 탐정은 수상한 그 사나이를 놓쳤다
 	- The detective lost track of the suspicious man.
-<!--SR:!2025-01-18,3,154-->
+<!--SR:!2025-01-23,5,154-->
 
 ## 낌새 #card
 ?
@@ -740,7 +740,7 @@ go in and out frequently
 ### 예
 - 울타리 틈새로 고양이가 들락날락하고 있다
 	- Cats go in and out through the opening in the fence.
-<!--SR:!2025-01-16,1,134-->
+<!--SR:!2025-01-19,1,134-->
 
 ## 꺼내다 #card
 ?
@@ -832,7 +832,7 @@ go in and out frequently
 - get sunburnt
 ### 예
 -
-<!--SR:!2025-01-16,6,235-->
+<!--SR:!2025-01-31,13,235-->
 
 ## 승부 #card
 ?
