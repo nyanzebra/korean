@@ -358,7 +358,7 @@
 	- result from slackened discipline among public officials.
 - 요즘 관기가 눈에 띄게 해이해 졌다
 	- These days official discipline has been remarkably slack[lax].
-<!--SR:!2025-01-17,1,134-->
+<!--SR:!2025-01-19,1,134-->
 
 ## 편안하다 #card
 ?
@@ -458,7 +458,7 @@
 ### 예
 - 부모님보다 먼저 이 세상을 하직하는 불효의 죄를 용서하십시오
 	- Dear parents, please pardon me for preceding you in death.
-<!--SR:!2025-01-16,4,194-->
+<!--SR:!2025-01-26,8,194-->
 
 
 ## 반항 #card
@@ -1200,7 +1200,7 @@ go in and out frequently
 	- a man of dubious morality[character]/a degenerate.
 - 경찰관은 평소에도 소행을 조심하지 않으면 안 된다
 	- Police officers should always be careful of[watch] their own conduct.
-<!--SR:!2025-01-16,1,130-->
+<!--SR:!2025-01-19,1,130-->
 
 ## 따지다 #card
 ?
