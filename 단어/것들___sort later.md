@@ -1156,7 +1156,7 @@ go in and out frequently
 - scar
 ### 예
 -
-<!--SR:!2025-01-16,2,162-->
+<!--SR:!2025-01-21,3,162-->
 
 ## 습격하다 #card
 ?
@@ -1216,7 +1216,7 @@ go in and out frequently
 	- This was surprising because other studies only counted prey that cats brought home.
 - 책임 소재를 따지지 않더라도, 여전히 국가 차원의 문제이며 한쪽은 다른 쪽보다 이 문제를 더 심각하게 생각하고 있습니다.
 	- But even if you blame nobody, it still is a national problem, and one side has been more concerned about it than the other.
-<!--SR:!2025-01-16,1,130-->
+<!--SR:!2025-01-19,1,130-->
 
 ## 전국 #card
 ?
