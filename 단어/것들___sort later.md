@@ -474,7 +474,7 @@
 	- For the rebellious Sartre, then, turning down a world-famous award was completely in character.
 - 그녀는 아빠에게 반항하고 늘 모험을 떠날 준비가 되어있다.
 	- She rebels against her father and is always ready for adventure
-<!--SR:!2025-01-16,1,130-->
+<!--SR:!2025-01-19,1,130-->
 
 ## 선행 #card
 ?
@@ -584,7 +584,7 @@
 	- organism
 - 조직도
 	- organization chart
-<!--SR:!2025-01-17,1,130-->
+<!--SR:!2025-01-19,1,130-->
 
 ## 간만 #card
 ?
@@ -951,7 +951,7 @@ go in and out frequently
 - take a firm bite
 ### 예
 -
-<!--SR:!2025-01-17,1,135-->
+<!--SR:!2025-01-19,1,135-->
 
 ## 단번에 #card
 ?
@@ -1292,7 +1292,7 @@ go in and out frequently
 	- The racket made by the mob could be heard intermittently
 - 웅성거리는 대화 소리.
 	- a buzz of conversation
-<!--SR:!2025-01-17,1,130-->
+<!--SR:!2025-01-19,1,130-->
 
 ## 갈아입다 #card
 ?
