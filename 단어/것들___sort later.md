@@ -786,7 +786,7 @@ go in and out frequently
 	- Not a breeze stirred the lake
 - 잔잔한 수면에는 잔물결 하나 없었다
 	- Not a ripple disturbed the glassy surface of the water.
-<!--SR:!2025-01-17,1,134-->
+<!--SR:!2025-01-19,1,134-->
 
 ## 흔들리다 #card
 ?
@@ -815,7 +815,7 @@ go in and out frequently
 - wave (ocean/water)
 ### 예
 -
-<!--SR:!2025-01-16,1,155-->
+<!--SR:!2025-01-20,2,155-->
 
 ## 헤엄하다 #card
 ?
@@ -863,7 +863,7 @@ go in and out frequently
 - picture book?
 ### 예
 -
-<!--SR:!2025-01-16,1,130-->
+<!--SR:!2025-01-19,1,130-->
 
 ## 기록하다 #card
 ?
@@ -992,7 +992,7 @@ go in and out frequently
 ### 예
 - 플라스틱 가방은 흔히 식료 잡화류와 다른 상품들을 담기 위해 사용된다.
 	- Plastic bags are commonly used to carry groceries and other products.
-<!--SR:!2025-01-16,1,142-->
+<!--SR:!2025-01-19,1,142-->
 
 ## 들키다 #card
 ?
