@@ -594,7 +594,7 @@
 ### 예
 - 간만에 바람 좀 쐬면서 걸을까 한다
 	- It's been a while since I've had some fresh air
-<!--SR:!2025-01-16,1,130-->
+<!--SR:!2025-01-19,1,130-->
 
 ## 버릇하다 #card
 ?
@@ -942,7 +942,7 @@ go in and out frequently
 	- throw in something extra.
 - 덤으로 귤 2개를 드리겠습니다
 	- I'll throw these two oranges in extra./I'll give you two oranges into the bargain.
-<!--SR:!2025-01-18,3,154-->
+<!--SR:!2025-01-23,5,154-->
 
 ## 악물다 #card
 ?
@@ -1097,7 +1097,7 @@ go in and out frequently
 ### 예
 - 소지품 전부에 자기 이름을 붙이다
 	- put one's name on all one's belongings.
-<!--SR:!2025-01-17,1,130-->
+<!--SR:!2025-01-19,1,130-->
 
 ## 결국 #card
 ?
