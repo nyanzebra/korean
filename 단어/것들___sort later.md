@@ -346,7 +346,7 @@
 	- The administration should show determination in maintaining the discipline of government officials.
 - 그들은 아침 일찍 일어나는 것이 학생들로 하여금 기강을 발전시키는 것을 돕는다고 말했다.
 	- They said that getting up early helps students develop discipline.
-<!--SR:!2025-01-16,1,130-->
+<!--SR:!2025-01-20,1,130-->
 
 ## 해이하다 #card
 ?
@@ -503,7 +503,7 @@
 	- I am hoping against hope that he will come back.
 - 내게 너무 기대하지 말게
 	- Don't expect too much of me.
-<!--SR:!2025-01-17,1,134-->
+<!--SR:!2025-01-20,1,134-->
 
 ## 부자간 #card
 ?
@@ -773,7 +773,7 @@ go in and out frequently
 	- sleep regular hours
 - 이들은 수면에서 생활한다.
 	- They live at the surface of the water.
-<!--SR:!2025-01-17,3,155-->
+<!--SR:!2025-01-24,5,155-->
 
 ## 잔잔하다 #card
 ?
@@ -972,7 +972,7 @@ go in and out frequently
 ### 예
 - 여러모로, 우리의 이런 대담한 생각들은 가능성의 경계선을 밀어붙이는걸 돕습니다.
 	- In many ways, our audacity to imagine helps push the boundaries of possibility.
-<!--SR:!2025-01-16,4,195-->
+<!--SR:!2025-01-27,8,195-->
 
 ## 식료품 #card
 ?
@@ -1266,7 +1266,7 @@ go in and out frequently
 - force to yield
 ### 예
 -
-<!--SR:!2025-01-16,1,130-->
+<!--SR:!2025-01-20,1,130-->
 
 ## 단체 #card
 ?
