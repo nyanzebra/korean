@@ -491,7 +491,7 @@
 	- His good conduct set an example for the world.
 - 사람들은 소년의 선행을 극구 칭찬했다
 	- People praised[문어 lauded] the boy to the skies for his good deed.
-<!--SR:!2025-01-19,1,130-->
+<!--SR:!2025-01-20,1,130-->
 
 ## 기대하다 #card
 ?
@@ -750,7 +750,7 @@ go in and out frequently
 - draw out
 ### 예
 -
-<!--SR:!2025-01-19,3,174-->
+<!--SR:!2025-01-24,5,174-->
 
 ## 적임자 #card
 ?
@@ -929,7 +929,7 @@ go in and out frequently
 ### 예
 - 그녀는 질책을 받아도 부끄럽지도 않은 것 같고 사과하려고 하지도 않습니다.
 	- She never seems embarrassed about the reprimand, nor is she apologetic.
-<!--SR:!2025-01-19,1,135-->
+<!--SR:!2025-01-20,1,135-->
 
 ## 덤 #card
 ?
@@ -1168,7 +1168,7 @@ go in and out frequently
 	- The townspeople turned into rioters and attacked the town hall.
 - 적진을 습격하여 탈취했다
 	- The enemy camp was taken in a surprise attack.
-<!--SR:!2025-01-19,4,182-->
+<!--SR:!2025-01-26,7,182-->
 
 ## 별개 #card
 ?
