@@ -606,7 +606,7 @@
 	- accustom oneself to early rising
 - 규칙적인 생활을 해 버릇하다
 	- accustom oneself to a regular life.
-<!--SR:!2025-01-16,3,162-->
+<!--SR:!2025-01-24,5,162-->
 
 ## 쥐어짜다 #card
 ?
@@ -1033,7 +1033,7 @@ go in and out frequently
 	- a bright[clever] boy
 - 그는 너무 똘똘해서 당할 수가 없다.
 	- He's too sharp for me.
-<!--SR:!2025-01-19,4,182-->
+<!--SR:!2025-01-26,7,182-->
 
 ## 잠입하다 #card
 ?
