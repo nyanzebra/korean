@@ -529,7 +529,7 @@
 - Why don't you swipe the family register and put a few tails on him?
 ### 예
 -
-<!--SR:!2025-01-17,4,175-->
+<!--SR:!2025-01-26,7,175-->
 
 ## 군말하다 #card
 ?
@@ -679,7 +679,7 @@
 	- I can't help being doubtful[skeptical] of his ability.
 - 형님께서는 지금... 시원이 식구를 의심하시는 것 같다...
 	- To the boss now, it seems he is skeptical of sl won's family
-<!--SR:!2025-01-16,1,135-->
+<!--SR:!2025-01-20,1,130-->
 
 ## 명실상부 #card
 ?
@@ -1257,7 +1257,7 @@ go in and out frequently
 	- consult one's aides.
 - 변호사와 의논하다
 	- consult a lawyer.
-<!--SR:!2025-01-16,1,130-->
+<!--SR:!2025-01-20,1,130-->
 
 ## 꿇리다 #card
 ?
@@ -1345,7 +1345,7 @@ go in and out frequently
 - herbivore
 ### 예
 -
-<!--SR:!2025-01-17,1,130-->
+<!--SR:!2025-01-20,1,130-->
 
 ## 연못 #card
 ?
