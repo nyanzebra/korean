@@ -623,7 +623,7 @@
 	- rack one's brains all day long.
 - 목소리를 쥐어짜다
 	- strain one's voice.
-<!--SR:!2025-01-19,3,155-->
+<!--SR:!2025-01-24,5,155-->
 
 ## 넉넉하다 #card
 ?
