@@ -882,7 +882,7 @@ go in and out frequently
 - dentures
 ### 예
 -
-<!--SR:!2025-01-17,4,182-->
+<!--SR:!2025-01-26,7,182-->
 
 ## 건네다 #card
 ?
@@ -1097,7 +1097,7 @@ go in and out frequently
 ### 예
 - 소지품 전부에 자기 이름을 붙이다
 	- put one's name on all one's belongings.
-<!--SR:!2025-01-19,1,130-->
+<!--SR:!2025-01-20,1,130-->
 
 ## 결국 #card
 ?
