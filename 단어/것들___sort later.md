@@ -807,7 +807,7 @@ go in and out frequently
 - secret technique
 ### 예
 -
-<!--SR:!2025-01-16,1,134-->
+<!--SR:!2025-01-20,1,134-->
 
 ## 물결 #card
 ?
@@ -1004,7 +1004,7 @@ go in and out frequently
 	- be caught in mischief
 - 들키면 나는 큰일이다
 	- If I am discovered, I am done for
-<!--SR:!2025-01-17,1,130-->
+<!--SR:!2025-01-20,1,130-->
 
 ## 입장 #card
 ?
@@ -1110,7 +1110,7 @@ go in and out frequently
 	- Though he eventually recovered from the infection, the toll on his body led to him being unable to recover from sepsis, which ultimately took his life.
 - 하지만, 결국 관계는 자존심보다 더 중요하게 여겨져야 합니다.
 	- But, in the end, the relationship should be more important than one’s own pride
-<!--SR:!2025-01-16,1,130-->
+<!--SR:!2025-01-20,1,130-->
 
 ## 둔하다 #card
 ?
