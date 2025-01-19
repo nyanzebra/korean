@@ -654,7 +654,7 @@
 	- Some supernatural power seems to be at work
 - 연이 올라갈 때는 바람이 양력으로 작용한다
 	- When a kite flies, the wind provides lift.
-<!--SR:!2025-01-16,1,130-->
+<!--SR:!2025-01-20,1,130-->
 
 ## 그닥 #card
 ?
@@ -847,7 +847,7 @@ go in and out frequently
 	- Korea coach Cho plans to use a quick offense to determine the game.
 - 플레이오프 기간 동안 4팀이 승부를 겨룬다.
 	- Four teams are competing in the playoffs.
-<!--SR:!2025-01-17,4,194-->
+<!--SR:!2025-01-26,7,194-->
 
 ## 걸어오다/걸어가다 #card
 ?
