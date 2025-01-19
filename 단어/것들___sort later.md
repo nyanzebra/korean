@@ -1396,7 +1396,12 @@ go in and out frequently
 - oncall
 - be on duty
 ### 예
--
+- 당직을 두다
+	- place a watch
+- 당직은 4시간마다 교대한다
+	- The watches are alternated[changed] every four hours.
+- 어젯밤에 당직했다
+	- I was on duty[watch] last night.
 
 
 불다 blow 부르다 call 버리다 toss/completely 벌다 earn
