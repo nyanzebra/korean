@@ -559,7 +559,7 @@
 ### 예
 - 정상적으로 자랄 수 있게 잘 보살펴준 것
 	- Take good care of them so they can grow up normally.
-<!--SR:!2025-01-19,1,135-->
+<!--SR:!2025-01-20,1,135-->
 
 ## 정상 #card
 ?
@@ -594,7 +594,7 @@
 ### 예
 - 간만에 바람 좀 쐬면서 걸을까 한다
 	- It's been a while since I've had some fresh air
-<!--SR:!2025-01-19,1,130-->
+<!--SR:!2025-01-20,1,130-->
 
 ## 버릇하다 #card
 ?
@@ -1328,7 +1328,7 @@ go in and out frequently
 - stuck
 ### 예
 -
-<!--SR:!2025-01-19,1,142-->
+<!--SR:!2025-01-20,1,142-->
 
 ## 굳은살 #card
 ?
