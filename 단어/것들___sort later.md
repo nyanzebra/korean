@@ -512,7 +512,7 @@
 ### 예
 - 부자간의 멋진 대화를 나눠야죠
 	- We'll have a nice father-son chat.
-<!--SR:!2025-01-17,1,134-->
+<!--SR:!2025-01-20,1,134-->
 
 
 ## 투기장 #card
@@ -538,7 +538,7 @@
 ### 예
 - 항상 군말없이 따라주는 네 수고는 내가 다 기억한다
 	- I remember all the trouble you've gone to to keep me company!
-<!--SR:!2025-01-17,1,130-->
+<!--SR:!2025-01-20,1,130-->
 
 ## 애초 #card
 ?
@@ -983,7 +983,7 @@ go in and out frequently
 	- grocery store
 - 맥신이 식료품 구매 대행으로 일하는 동안 조나는 불안과 싸우고 있다.
 	- Maxine works as a personal grocery shopper, while Jonah struggles with anxiety.
-<!--SR:!2025-01-17,1,142-->
+<!--SR:!2025-01-20,1,142-->
 
 ## 잡화류 #card
 ?
@@ -1055,7 +1055,7 @@ go in and out frequently
 	- root out a secret.
 - 나무 등걸을 캐내다
 	- dig up the stump of a tree.
-<!--SR:!2025-01-17,1,130-->
+<!--SR:!2025-01-20,1,130-->
 
 ## 나머지 #card
 ?
