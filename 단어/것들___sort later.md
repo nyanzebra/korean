@@ -824,7 +824,7 @@ go in and out frequently
 ### 예
 - 어린이를 풀에서 헤엄치게 하다
 	- let the children swim in the pool.
-<!--SR:!2025-01-16,3,162-->
+<!--SR:!2025-01-24,5,162-->
 
 ## 햇빛에 타다 #card
 ?
@@ -1139,7 +1139,7 @@ go in and out frequently
 - coordinating outfit
 ### 예
 -
-<!--SR:!2025-01-19,4,182-->
+<!--SR:!2025-01-26,7,182-->
 
 ## 뺨 #card
 ?
@@ -1279,7 +1279,7 @@ go in and out frequently
 	- a nonreligious organization.
 - 정치적 색채를 띤 단체
 	- a politically-colored group.
-<!--SR:!2025-01-17,1,130-->
+<!--SR:!2025-01-20,1,130-->
 
 ## 웅성거리다 #card
 ?
@@ -1377,7 +1377,7 @@ go in and out frequently
 - 이것은 정직한 사람이 손해를 보는 좋은 예다
 	- This is a good example of a case in which honesty doesn't pay.
 -
-<!--SR:!2025-01-16,1,132--> 
+<!--SR:!2025-01-20,1,130--> 
 
 ## 일부러 #card
 ?
@@ -1388,7 +1388,7 @@ go in and out frequently
 	- People jokingly said the two chose different food at a cafeteria on purpose.
 - 일부러 정보를 주지 않는 것이 관객들이 몰입하게 합니다.
 	- You know, doing that intentionally is much more engaging.
-<!--SR:!2025-01-17,2,152-->
+<!--SR:!2025-01-22,3,152-->
 
 
 
