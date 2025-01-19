@@ -303,7 +303,7 @@
 	- Two of his ribs were fractured and his sherpa died.
 - 하지만 부러지는 것보다 휘는 것이 낫다고 했다.
 	- But it is better to bend than snap.
-<!--SR:!2025-01-19,21,255-->
+<!--SR:!2025-03-15,55,255-->
 
 ## 겪다 #card
 ?
@@ -918,7 +918,7 @@ go in and out frequently
 - masticate
 ### 예
 -
-<!--SR:!2025-01-16,2,182-->
+<!--SR:!2025-01-23,4,182-->
 
 ## 부끄럽다 #card
 ?
@@ -1072,7 +1072,7 @@ go in and out frequently
 	- Some of them are people that he knows, while others are strangers to him.
 - 그러나 나머지 한국 기업들은 인지도가 낮으며 규모도 매우 작다"고 이 연구원은 말했다.
 	- But the rest are pretty insufficient and very small in scale, said Lee.
-<!--SR:!2025-01-19,4,182-->
+<!--SR:!2025-01-26,7,182-->
 
 ## 짜내다 #card
 ?
@@ -1185,7 +1185,7 @@ go in and out frequently
 	- The skin's a whole another thing, probably the hardest part.
 - 그리고 그와는 별개로, 저는 작곡과 단편을 썼습니다.
 	- And aside from that, I wrote music and short stories.
-<!--SR:!2025-01-19,1,142-->
+<!--SR:!2025-01-20,1,142-->
 
 ## 소행 #card
 ?
@@ -1309,7 +1309,7 @@ go in and out frequently
 - narrowly
 ### 예
 -
-<!--SR:!2025-01-19,1,130-->
+<!--SR:!2025-01-20,1,130-->
 
 ## 겁먹다 #card
 ?
@@ -1353,7 +1353,7 @@ go in and out frequently
 - pond
 ### 예
 -
-<!--SR:!2025-01-17,2,152-->
+<!--SR:!2025-01-22,3,152-->
 
 ## 용서하다 #card
 ?
@@ -1364,7 +1364,7 @@ go in and out frequently
 	- Please forgive me, for I did not mean what I said.
 - 결코 나는 그를 용서할 수 없다
 	- I cannot forgive him on any account.
-<!--SR:!2025-01-16,2,172-->
+<!--SR:!2025-01-22,3,172-->
 
 ## 정직하다 #card
 ?
