@@ -1390,6 +1390,13 @@ go in and out frequently
 	- You know, doing that intentionally is much more engaging.
 <!--SR:!2025-01-22,3,152-->
 
+## 당직 #card
+?
+### 뜻
+- oncall
+- be on duty
+### 예
+-
 
 
 불다 blow 부르다 call 버리다 toss/completely 벌다 earn
