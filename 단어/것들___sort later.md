@@ -855,7 +855,7 @@ go in and out frequently
 - come/go by walking/foot
 ### 예
 -
-<!--SR:!2025-01-16,6,242-->
+<!--SR:!2025-02-02,14,242-->
 
 ## 도감 #card
 ?
@@ -1148,7 +1148,7 @@ go in and out frequently
 - slap in the cheek
 ### 예
 -
-<!--SR:!2025-01-19,3,162-->
+<!--SR:!2025-01-24,5,162-->
 
 ## 흉터 #card
 ?
@@ -1337,7 +1337,7 @@ go in and out frequently
 - callus
 ### 예
 -
-<!--SR:!2025-01-16,1,142-->
+<!--SR:!2025-01-20,1,142-->
 
 ## 초식 #card
 ?
