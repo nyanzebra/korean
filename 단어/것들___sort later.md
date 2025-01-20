@@ -1418,13 +1418,20 @@ go in and out frequently
 - fined
 - impose
 - levy
+- put off
+- change direction
+- put away
+- exorcise
+- be fed up
 ### 예
 - 벼룩에 물리다
 	- be bitten by a flea.
 - 사람을 방 밖으로 물리다
 	- clear the room of people.
 - 깨뜨린 그릇 값을 물리다
-	- 
+	- make 《a person》 pay for a broken dish.
+- 악귀를 물리다
+	- exorcise evil spirits
 
 ## 미치다 #card
 ?
