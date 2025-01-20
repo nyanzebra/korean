@@ -1419,7 +1419,12 @@ go in and out frequently
 - impose
 - levy
 ### 예
--
+- 벼룩에 물리다
+	- be bitten by a flea.
+- 사람을 방 밖으로 물리다
+	- clear the room of people.
+- 깨뜨린 그릇 값을 물리다
+	- 
 
 ## 미치다 #card
 ?
