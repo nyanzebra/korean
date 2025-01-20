@@ -1432,6 +1432,8 @@ go in and out frequently
 	- make 《a person》 pay for a broken dish.
 - 악귀를 물리다
 	- exorcise evil spirits
+- 하루하루 물리다
+	- put off from day to day.
 
 ## 미치다 #card
 ?
