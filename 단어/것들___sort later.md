@@ -1411,5 +1411,25 @@ go in and out frequently
 ### 예
 -
 
+## 물리다 #card
+?
+### 뜻
+- bitten
+- fined
+- impose
+- levy
+### 예
+-
+
+## 미치다 #card
+?
+### 뜻
+- affect
+- go crazy
+- below
+- match
+- reach
+### 예
+-
 
 불다 blow 부르다 call 버리다 toss/completely 벌다 earn
