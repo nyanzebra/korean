@@ -538,7 +538,7 @@
 ### 예
 - 항상 군말없이 따라주는 네 수고는 내가 다 기억한다
 	- I remember all the trouble you've gone to to keep me company!
-<!--SR:!2025-01-20,1,130-->
+<!--SR:!2025-01-21,1,130-->
 
 ## 애초 #card
 ?
@@ -1292,7 +1292,7 @@ go in and out frequently
 	- The racket made by the mob could be heard intermittently
 - 웅성거리는 대화 소리.
 	- a buzz of conversation
-<!--SR:!2025-01-20,1,130-->
+<!--SR:!2025-01-21,1,130-->
 
 ## 갈아입다 #card
 ?
