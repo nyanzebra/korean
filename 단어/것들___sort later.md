@@ -167,7 +167,7 @@
   - ominous dream
 - 그가 곧 죽는 것이나 아닐까 하는 불길한 예감이 든다
   - I have a premonition[an uneasy feeling] that he will die before long.
-<!--SR:!2025-01-19,8,150-->
+<!--SR:!2025-02-01,12,150-->
 
 ## 후계하다 #card
 ?
@@ -654,7 +654,7 @@
 	- Some supernatural power seems to be at work
 - 연이 올라갈 때는 바람이 양력으로 작용한다
 	- When a kite flies, the wind provides lift.
-<!--SR:!2025-01-20,1,130-->
+<!--SR:!2025-01-21,1,130-->
 
 ## 그닥 #card
 ?
@@ -815,7 +815,7 @@ go in and out frequently
 - wave (ocean/water)
 ### 예
 -
-<!--SR:!2025-01-20,2,155-->
+<!--SR:!2025-01-23,3,155-->
 
 ## 헤엄하다 #card
 ?
