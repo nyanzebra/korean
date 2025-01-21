@@ -503,7 +503,7 @@
 	- I am hoping against hope that he will come back.
 - 내게 너무 기대하지 말게
 	- Don't expect too much of me.
-<!--SR:!2025-01-20,1,134-->
+<!--SR:!2025-01-21,1,134-->
 
 ## 부자간 #card
 ?
@@ -687,7 +687,7 @@
 - ?
 ### 예
 -
-<!--SR:!2025-01-20,1,130-->
+<!--SR:!2025-01-21,1,130-->
 
 ## 불행하다 #card
 ?
@@ -983,7 +983,7 @@ go in and out frequently
 	- grocery store
 - 맥신이 식료품 구매 대행으로 일하는 동안 조나는 불안과 싸우고 있다.
 	- Maxine works as a personal grocery shopper, while Jonah struggles with anxiety.
-<!--SR:!2025-01-20,1,142-->
+<!--SR:!2025-01-21,1,142-->
 
 ## 잡화류 #card
 ?
@@ -992,7 +992,7 @@ go in and out frequently
 ### 예
 - 플라스틱 가방은 흔히 식료 잡화류와 다른 상품들을 담기 위해 사용된다.
 	- Plastic bags are commonly used to carry groceries and other products.
-<!--SR:!2025-01-20,1,142-->
+<!--SR:!2025-01-21,1,142-->
 
 ## 들키다 #card
 ?
@@ -1345,7 +1345,7 @@ go in and out frequently
 - herbivore
 ### 예
 -
-<!--SR:!2025-01-20,1,130-->
+<!--SR:!2025-01-21,1,130-->
 
 ## 연못 #card
 ?
@@ -1377,7 +1377,7 @@ go in and out frequently
 - 이것은 정직한 사람이 손해를 보는 좋은 예다
 	- This is a good example of a case in which honesty doesn't pay.
 -
-<!--SR:!2025-01-20,1,130--> 
+<!--SR:!2025-01-21,1,130--> 
 
 ## 일부러 #card
 ?
