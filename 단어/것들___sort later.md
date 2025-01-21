@@ -679,7 +679,7 @@
 	- I can't help being doubtful[skeptical] of his ability.
 - 형님께서는 지금... 시원이 식구를 의심하시는 것 같다...
 	- To the boss now, it seems he is skeptical of sl won's family
-<!--SR:!2025-01-20,1,130-->
+<!--SR:!2025-01-21,1,130-->
 
 ## 명실상부 #card
 ?
@@ -951,7 +951,7 @@ go in and out frequently
 - take a firm bite
 ### 예
 -
-<!--SR:!2025-01-20,1,135-->
+<!--SR:!2025-01-21,1,135-->
 
 ## 단번에 #card
 ?
@@ -1200,7 +1200,7 @@ go in and out frequently
 	- a man of dubious morality[character]/a degenerate.
 - 경찰관은 평소에도 소행을 조심하지 않으면 안 된다
 	- Police officers should always be careful of[watch] their own conduct.
-<!--SR:!2025-01-19,1,130-->
+<!--SR:!2025-01-21,1,130-->
 
 ## 따지다 #card
 ?
