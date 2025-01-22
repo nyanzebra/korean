@@ -538,7 +538,7 @@
 ### 예
 - 항상 군말없이 따라주는 네 수고는 내가 다 기억한다
 	- I remember all the trouble you've gone to to keep me company!
-<!--SR:!2025-01-21,1,130-->
+<!--SR:!2025-01-23,1,130-->
 
 ## 애초 #card
 ?
@@ -786,7 +786,7 @@ go in and out frequently
 	- Not a breeze stirred the lake
 - 잔잔한 수면에는 잔물결 하나 없었다
 	- Not a ripple disturbed the glassy surface of the water.
-<!--SR:!2025-01-21,1,134-->
+<!--SR:!2025-01-23,1,134-->
 
 ## 흔들리다 #card
 ?
@@ -1044,7 +1044,7 @@ go in and out frequently
 	- Some armed agents infiltrated Seoul.
 - 그는 결사의 각오로 적지에 잠입하였다
 	- He smuggled himself into enemy territory, ready to die if necessary.
-<!--SR:!2025-01-20,1,130-->
+<!--SR:!2025-01-23,1,130-->
 
 ## 캐내다 #card
 ?
@@ -1328,7 +1328,7 @@ go in and out frequently
 - stuck
 ### 예
 -
-<!--SR:!2025-01-20,1,142-->
+<!--SR:!2025-01-23,1,142-->
 
 ## 굳은살 #card
 ?
