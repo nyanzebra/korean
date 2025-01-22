@@ -1279,7 +1279,7 @@ go in and out frequently
 	- a nonreligious organization.
 - 정치적 색채를 띤 단체
 	- a politically-colored group.
-<!--SR:!2025-01-20,1,130-->
+<!--SR:!2025-01-23,1,130-->
 
 ## 웅성거리다 #card
 ?
