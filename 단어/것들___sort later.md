@@ -901,7 +901,7 @@ go in and out frequently
 	- Some of these brokers may have helped terrorists transfer money after the September 11 attacks.
 - 검찰에 따르면 모두 120명의 구직자들이 기아차에 입사하기 위해 뇌물을 건넨 것으로 밝혀졌다.
 	- A total of 120 employees were found to have paid bribes to gain work at the automaker's factory in Gwangju, 330 kilometers south of Seoul, according to the prosecution.
-<!--SR:!2025-01-21,3,162-->
+<!--SR:!2025-01-27,5,162-->
 
 ## 받은 틀니를 서둘러 꼈다 #card
 ?
@@ -1156,7 +1156,7 @@ go in and out frequently
 - scar
 ### 예
 -
-<!--SR:!2025-01-21,3,162-->
+<!--SR:!2025-01-27,5,162-->
 
 ## 습격하다 #card
 ?
