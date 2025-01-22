@@ -992,7 +992,7 @@ go in and out frequently
 ### 예
 - 플라스틱 가방은 흔히 식료 잡화류와 다른 상품들을 담기 위해 사용된다.
 	- Plastic bags are commonly used to carry groceries and other products.
-<!--SR:!2025-01-21,1,142-->
+<!--SR:!2025-01-23,1,142-->
 
 ## 들키다 #card
 ?
