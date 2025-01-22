@@ -1318,8 +1318,13 @@ go in and out frequently
 - scare off
 - freak out
 ### 예
--
-<!--SR:!2025-01-16,1,142-->
+- 전 여러분을 겁먹게 하도록 되어 있답니다. 왜냐면 이것은 공포에 관한것이니까요? 맞죠?
+  - I'm supposed to scare you, because it's about fear, right?
+- 이래서 내게 겁먹은 거야?
+  - Is that why you are afraid of me?
+- 사실, 완전히 겁먹었죠. 저는 저체온증에 걸린 것 같았고 제 친구들은 결국 저를 물밖으로 꺼내야만 했습니다.
+  - Actually, I was totally freaking out and I was borderline hypothermic, and my friends eventually had to help me out of the water.
+<!--SR:!2025-01-23,1,142-->
 
 ## 박히다 #card
 ?
