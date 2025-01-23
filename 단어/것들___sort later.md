@@ -395,7 +395,7 @@
 	- drape a flag in mourning[black].
 - 증권 거래소 2부에 우리 회사 주식이 상장되었다
 	- Our company is listed on the Second Market.
-<!--SR:!2025-01-20,1,130-->
+<!--SR:!2025-01-23,1,130-->
 
 ## 태우다 #card
 ?
@@ -503,7 +503,7 @@
 	- I am hoping against hope that he will come back.
 - 내게 너무 기대하지 말게
 	- Don't expect too much of me.
-<!--SR:!2025-01-21,1,134-->
+<!--SR:!2025-01-23,1,134-->
 
 ## 부자간 #card
 ?
@@ -730,7 +730,7 @@
 	- There were no signs of their having discussed the matter.
 - 나는 낌새를 알고 있었다
 	- I had an inkling of it.
-<!--SR:!2025-01-18,3,155-->
+<!--SR:!2025-01-27,5,155-->
 
 ## 들락날락 #card
 ?
