@@ -421,7 +421,7 @@
 ### 예
 - 그의 정열적인 포옹으로 그녀는 숨도 쉴 수 없었다
 	- His passionate embrace took her breath away./He took her breath away with a passionate embrace.
-<!--SR:!2025-01-21,5,174-->
+<!--SR:!2025-01-31,9,174-->
 
 ## 잘못 크는줄 알았다 #card
 ?
@@ -559,7 +559,7 @@
 ### 예
 - 정상적으로 자랄 수 있게 잘 보살펴준 것
 	- Take good care of them so they can grow up normally.
-<!--SR:!2025-01-20,1,135-->
+<!--SR:!2025-01-23,1,135-->
 
 ## 정상 #card
 ?
@@ -807,7 +807,7 @@ go in and out frequently
 - secret technique
 ### 예
 -
-<!--SR:!2025-01-20,1,134-->
+<!--SR:!2025-01-23,1,134-->
 
 ## 물결 #card
 ?
