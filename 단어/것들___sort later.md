@@ -346,7 +346,7 @@
 	- The administration should show determination in maintaining the discipline of government officials.
 - 그들은 아침 일찍 일어나는 것이 학생들로 하여금 기강을 발전시키는 것을 돕는다고 말했다.
 	- They said that getting up early helps students develop discipline.
-<!--SR:!2025-01-21,1,130-->
+<!--SR:!2025-01-23,1,130-->
 
 ## 해이하다 #card
 ?
@@ -512,7 +512,7 @@
 ### 예
 - 부자간의 멋진 대화를 나눠야죠
 	- We'll have a nice father-son chat.
-<!--SR:!2025-01-21,1,134-->
+<!--SR:!2025-01-23,1,134-->
 
 
 ## 투기장 #card
@@ -799,7 +799,7 @@ go in and out frequently
 	- reeds swaying in the wind.
 - 성균관대 교수들에 따르면 기계적 공명 때문이라고 건물이 흔들렸다고 한다.
 	- According to the professors, the building shook because of mechanical resonance.
-<!--SR:!2025-01-21,5,162-->
+<!--SR:!2025-01-31,9,162-->
 
 ## 비술 #card
 ?
@@ -1292,7 +1292,7 @@ go in and out frequently
 	- The racket made by the mob could be heard intermittently
 - 웅성거리는 대화 소리.
 	- a buzz of conversation
-<!--SR:!2025-01-21,1,130-->
+<!--SR:!2025-01-23,1,130-->
 
 ## 갈아입다 #card
 ?
