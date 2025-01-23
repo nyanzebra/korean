@@ -12,7 +12,7 @@
 - objective
 ### 예
 -
-<!--SR:!2025-01-22,22,217-->
+<!--SR:!2025-02-03,12,197-->
 
 ## 뿌듯하다 #card
 ?
@@ -740,7 +740,7 @@ go in and out frequently
 ### 예
 - 울타리 틈새로 고양이가 들락날락하고 있다
 	- Cats go in and out through the opening in the fence.
-<!--SR:!2025-01-20,1,134-->
+<!--SR:!2025-01-23,1,134-->
 
 ## 꺼내다 #card
 ?
@@ -760,7 +760,7 @@ go in and out frequently
 - right man
 ### 예
 -
-<!--SR:!2025-01-21,3,154-->
+<!--SR:!2025-01-27,5,154-->
 
 ## 수면 #card
 ?
@@ -1097,7 +1097,7 @@ go in and out frequently
 ### 예
 - 소지품 전부에 자기 이름을 붙이다
 	- put one's name on all one's belongings.
-<!--SR:!2025-01-20,1,130-->
+<!--SR:!2025-01-23,1,130-->
 
 ## 결국 #card
 ?
@@ -1123,7 +1123,7 @@ go in and out frequently
 	- The warmer weather makes them feel slower and more tired.
 - 너 참 둔하구나
 	- You are so oblivious.
-<!--SR:!2025-01-20,1,130-->
+<!--SR:!2025-01-23,1,130-->
 
 ## 소개팅 #card
 ?
