@@ -503,7 +503,7 @@
 	- I am hoping against hope that he will come back.
 - 내게 너무 기대하지 말게
 	- Don't expect too much of me.
-<!--SR:!2025-01-23,1,134-->
+<!--SR:!2025-01-24,1,134-->
 
 ## 부자간 #card
 ?
@@ -559,7 +559,7 @@
 ### 예
 - 정상적으로 자랄 수 있게 잘 보살펴준 것
 	- Take good care of them so they can grow up normally.
-<!--SR:!2025-01-23,1,135-->
+<!--SR:!2025-01-24,1,135-->
 
 ## 정상 #card
 ?
@@ -687,7 +687,7 @@
 - ?
 ### 예
 -
-<!--SR:!2025-01-23,1,130-->
+<!--SR:!2025-01-24,1,130-->
 
 ## 불행하다 #card
 ?
@@ -815,7 +815,7 @@ go in and out frequently
 - wave (ocean/water)
 ### 예
 -
-<!--SR:!2025-01-23,3,155-->
+<!--SR:!2025-01-28,5,155-->
 
 ## 헤엄하다 #card
 ?
@@ -863,7 +863,7 @@ go in and out frequently
 - picture book?
 ### 예
 -
-<!--SR:!2025-01-23,1,130-->
+<!--SR:!2025-01-24,1,130-->
 
 ## 기록하다 #card
 ?
@@ -951,7 +951,7 @@ go in and out frequently
 - take a firm bite
 ### 예
 -
-<!--SR:!2025-01-21,1,135-->
+<!--SR:!2025-01-24,1,135-->
 
 ## 단번에 #card
 ?
