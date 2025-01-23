@@ -569,7 +569,7 @@
 ### 예
 - 정상적으로 자랄 수 있게 잘 보살펴준 것
 	- Take good care of them so they can grow up normally.
-<!--SR:!2025-01-20,1,130-->
+<!--SR:!2025-01-23,1,130-->
 
 ## 조직 #card
 ?
@@ -1110,7 +1110,7 @@ go in and out frequently
 	- Though he eventually recovered from the infection, the toll on his body led to him being unable to recover from sepsis, which ultimately took his life.
 - 하지만, 결국 관계는 자존심보다 더 중요하게 여겨져야 합니다.
 	- But, in the end, the relationship should be more important than one’s own pride
-<!--SR:!2025-01-20,1,130-->
+<!--SR:!2025-01-23,1,130-->
 
 ## 둔하다 #card
 ?
@@ -1131,7 +1131,7 @@ go in and out frequently
 - blind date
 ### 예
 -
-<!--SR:!2025-01-19,4,182-->
+<!--SR:!2025-01-29,7,182-->
 
 ## 코디 #card
 ?
