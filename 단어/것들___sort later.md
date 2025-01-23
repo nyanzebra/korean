@@ -155,7 +155,7 @@
 	- They are venting out their bottled-up antipathy to a fellow lawmaker
 - 불편한 감정을 억누르거나 그런 감정을 가지고 있다고 자신을 판단하지 말라.
 	- Don’t repress uncomfortable emotions or judge yourself for having them
-<!--SR:!2025-01-23,8,150-->
+<!--SR:!2025-01-27,4,130-->
 
 ## 불길하다 #card
 ?
@@ -1110,7 +1110,7 @@ go in and out frequently
 	- Though he eventually recovered from the infection, the toll on his body led to him being unable to recover from sepsis, which ultimately took his life.
 - 하지만, 결국 관계는 자존심보다 더 중요하게 여겨져야 합니다.
 	- But, in the end, the relationship should be more important than one’s own pride
-<!--SR:!2025-01-23,1,130-->
+<!--SR:!2025-01-24,1,130-->
 
 ## 둔하다 #card
 ?
@@ -1333,7 +1333,7 @@ go in and out frequently
 - stuck
 ### 예
 -
-<!--SR:!2025-01-23,1,142-->
+<!--SR:!2025-01-24,1,142-->
 
 ## 굳은살 #card
 ?
