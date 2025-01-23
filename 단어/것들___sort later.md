@@ -983,7 +983,7 @@ go in and out frequently
 	- grocery store
 - 맥신이 식료품 구매 대행으로 일하는 동안 조나는 불안과 싸우고 있다.
 	- Maxine works as a personal grocery shopper, while Jonah struggles with anxiety.
-<!--SR:!2025-01-21,1,142-->
+<!--SR:!2025-01-23,1,142-->
 
 ## 잡화류 #card
 ?
@@ -1350,7 +1350,7 @@ go in and out frequently
 - herbivore
 ### 예
 -
-<!--SR:!2025-01-21,1,130-->
+<!--SR:!2025-01-23,1,130-->
 
 ## 연못 #card
 ?
