@@ -584,7 +584,7 @@
 	- organism
 - 조직도
 	- organization chart
-<!--SR:!2025-01-19,1,130-->
+<!--SR:!2025-01-23,1,130-->
 
 ## 간만 #card
 ?
@@ -863,7 +863,7 @@ go in and out frequently
 - picture book?
 ### 예
 -
-<!--SR:!2025-01-21,1,130-->
+<!--SR:!2025-01-23,1,130-->
 
 ## 기록하다 #card
 ?
@@ -1055,7 +1055,7 @@ go in and out frequently
 	- root out a secret.
 - 나무 등걸을 캐내다
 	- dig up the stump of a tree.
-<!--SR:!2025-01-20,1,130-->
+<!--SR:!2025-01-23,1,130-->
 
 ## 나머지 #card
 ?
