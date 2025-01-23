@@ -662,7 +662,7 @@
 - 별로 그렇게까지 (not so much)?
 ### 예
 -
-<!--SR:!2025-01-19,1,130-->
+<!--SR:!2025-01-23,1,130-->
 
 ## 의심하다 #card
 ?
@@ -1300,7 +1300,7 @@ go in and out frequently
 - change clothes
 ### 예
 -
-<!--SR:!2025-01-20,2,162-->
+<!--SR:!2025-01-25,3,162-->
 
 ## 간신히 #card
 ?
@@ -1369,7 +1369,7 @@ go in and out frequently
 	- Please forgive me, for I did not mean what I said.
 - 결코 나는 그를 용서할 수 없다
 	- I cannot forgive him on any account.
-<!--SR:!2025-01-22,3,172-->
+<!--SR:!2025-01-27,5,172-->
 
 ## 정직하다 #card
 ?
