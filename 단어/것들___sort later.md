@@ -662,7 +662,7 @@
 - 별로 그렇게까지 (not so much)?
 ### 예
 -
-<!--SR:!2025-01-23,1,130-->
+<!--SR:!2025-01-25,1,130-->
 
 ## 의심하다 #card
 ?
@@ -942,7 +942,7 @@ go in and out frequently
 	- throw in something extra.
 - 덤으로 귤 2개를 드리겠습니다
 	- I'll throw these two oranges in extra./I'll give you two oranges into the bargain.
-<!--SR:!2025-01-23,5,154-->
+<!--SR:!2025-02-02,9,154-->
 
 ## 악물다 #card
 ?
@@ -1342,7 +1342,7 @@ go in and out frequently
 - callus
 ### 예
 -
-<!--SR:!2025-01-23,1,142-->
+<!--SR:!2025-01-25,1,142-->
 
 ## 초식 #card
 ?
