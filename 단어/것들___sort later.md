@@ -379,7 +379,7 @@
 	- My father's condition remains the same.
 - 한 달이 지난 지금도 북한의 군사적 위협은 여전하다.
 	- A month has passed, and the North Korean military threat remains.
-<!--SR:!2025-01-23,1,135-->
+<!--SR:!2025-01-29,2,155-->
 
 ## 상장 #card
 ?
@@ -594,7 +594,7 @@
 ### 예
 - 간만에 바람 좀 쐬면서 걸을까 한다
 	- It's been a while since I've had some fresh air
-<!--SR:!2025-01-20,1,130-->
+<!--SR:!2025-01-28,1,130-->
 
 ## 버릇하다 #card
 ?
