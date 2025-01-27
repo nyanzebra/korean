@@ -512,7 +512,7 @@
 ### 예
 - 부자간의 멋진 대화를 나눠야죠
 	- We'll have a nice father-son chat.
-<!--SR:!2025-01-23,1,134-->
+<!--SR:!2025-01-29,2,154-->
 
 
 ## 투기장 #card
@@ -538,7 +538,7 @@
 ### 예
 - 항상 군말없이 따라주는 네 수고는 내가 다 기억한다
 	- I remember all the trouble you've gone to to keep me company!
-<!--SR:!2025-01-23,1,130-->
+<!--SR:!2025-01-28,1,130-->
 
 ## 애초 #card
 ?
@@ -715,7 +715,7 @@
 	- She seems to be going about[around] with a questionable man.
 - 탐정은 수상한 그 사나이를 놓쳤다
 	- The detective lost track of the suspicious man.
-<!--SR:!2025-01-23,5,154-->
+<!--SR:!2025-02-04,8,154-->
 
 ## 낌새 #card
 ?
@@ -1097,7 +1097,7 @@ go in and out frequently
 ### 예
 - 소지품 전부에 자기 이름을 붙이다
 	- put one's name on all one's belongings.
-<!--SR:!2025-01-23,1,130-->
+<!--SR:!2025-01-28,1,130-->
 
 ## 결국 #card
 ?
@@ -1309,7 +1309,7 @@ go in and out frequently
 - narrowly
 ### 예
 -
-<!--SR:!2025-01-23,1,130-->
+<!--SR:!2025-01-28,1,130-->
 
 ## 겁먹다 #card
 ?
