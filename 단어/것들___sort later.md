@@ -429,7 +429,7 @@
 - I thought you were growing up wrong
 ### 예
 -
-<!--SR:!2025-01-27,5,174-->
+<!--SR:!2025-02-06,10,174-->
 
 ## 효자 #card
 ?
@@ -687,7 +687,7 @@
 - ?
 ### 예
 -
-<!--SR:!2025-01-24,1,130-->
+<!--SR:!2025-01-28,1,130-->
 
 ## 불행하다 #card
 ?
@@ -740,7 +740,7 @@ go in and out frequently
 ### 예
 - 울타리 틈새로 고양이가 들락날락하고 있다
 	- Cats go in and out through the opening in the fence.
-<!--SR:!2025-01-25,2,154-->
+<!--SR:!2025-01-30,3,154-->
 
 ## 꺼내다 #card
 ?
@@ -874,7 +874,7 @@ go in and out frequently
 	- I have put down the course of events in detail[in full/minutely].
 - 이 팀은 과거 2년간 무패를 기록했다
 	- The team has not suffered a single defeat for the last two years.
-<!--SR:!2025-01-24,1,130-->
+<!--SR:!2025-01-28,1,130-->
 
 ## 틀니 #card
 ?
@@ -1200,7 +1200,7 @@ go in and out frequently
 	- a man of dubious morality[character]/a degenerate.
 - 경찰관은 평소에도 소행을 조심하지 않으면 안 된다
 	- Police officers should always be careful of[watch] their own conduct.
-<!--SR:!2025-01-21,1,130-->
+<!--SR:!2025-01-28,1,130-->
 
 ## 따지다 #card
 ?
@@ -1358,7 +1358,7 @@ go in and out frequently
 - pond
 ### 예
 -
-<!--SR:!2025-01-27,5,152-->
+<!--SR:!2025-02-04,8,152-->
 
 ## 용서하다 #card
 ?
