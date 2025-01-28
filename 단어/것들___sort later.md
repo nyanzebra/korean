@@ -503,7 +503,7 @@
 	- I am hoping against hope that he will come back.
 - 내게 너무 기대하지 말게
 	- Don't expect too much of me.
-<!--SR:!2025-01-24,1,134-->
+<!--SR:!2025-01-29,1,134-->
 
 ## 부자간 #card
 ?
@@ -750,7 +750,7 @@ go in and out frequently
 - draw out
 ### 예
 -
-<!--SR:!2025-01-24,5,174-->
+<!--SR:!2025-02-07,10,174-->
 
 ## 적임자 #card
 ?
@@ -1044,7 +1044,7 @@ go in and out frequently
 	- Some armed agents infiltrated Seoul.
 - 그는 결사의 각오로 적지에 잠입하였다
 	- He smuggled himself into enemy territory, ready to die if necessary.
-<!--SR:!2025-01-28,1,130-->
+<!--SR:!2025-01-30,2,150-->
 
 ## 캐내다 #card
 ?
