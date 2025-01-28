@@ -458,7 +458,7 @@
 ### 예
 - 부모님보다 먼저 이 세상을 하직하는 불효의 죄를 용서하십시오
 	- Dear parents, please pardon me for preceding you in death.
-<!--SR:!2025-01-26,8,194-->
+<!--SR:!2025-02-13,17,194-->
 
 
 ## 반항 #card
@@ -773,7 +773,7 @@ go in and out frequently
 	- sleep regular hours
 - 이들은 수면에서 생활한다.
 	- They live at the surface of the water.
-<!--SR:!2025-01-24,5,155-->
+<!--SR:!2025-02-04,8,155-->
 
 ## 잔잔하다 #card
 ?
@@ -1055,7 +1055,7 @@ go in and out frequently
 	- root out a secret.
 - 나무 등걸을 캐내다
 	- dig up the stump of a tree.
-<!--SR:!2025-01-24,1,130-->
+<!--SR:!2025-01-28,1,130-->
 
 ## 나머지 #card
 ?
@@ -1342,7 +1342,7 @@ go in and out frequently
 - callus
 ### 예
 -
-<!--SR:!2025-01-25,1,142-->
+<!--SR:!2025-01-28,1,142-->
 
 ## 초식 #card
 ?
