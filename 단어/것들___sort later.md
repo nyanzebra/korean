@@ -529,7 +529,7 @@
 - Why don't you swipe the family register and put a few tails on him?
 ### 예
 -
-<!--SR:!2025-01-26,7,175-->
+<!--SR:!2025-02-08,12,175-->
 
 ## 군말하다 #card
 ?
@@ -1072,7 +1072,7 @@ go in and out frequently
 	- Some of them are people that he knows, while others are strangers to him.
 - 그러나 나머지 한국 기업들은 인지도가 낮으며 규모도 매우 작다"고 이 연구원은 말했다.
 	- But the rest are pretty insufficient and very small in scale, said Lee.
-<!--SR:!2025-01-26,7,182-->
+<!--SR:!2025-02-09,13,182-->
 
 ## 짜내다 #card
 ?
