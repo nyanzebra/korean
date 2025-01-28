@@ -1139,7 +1139,7 @@ go in and out frequently
 - coordinating outfit
 ### 예
 -
-<!--SR:!2025-01-26,7,182-->
+<!--SR:!2025-02-10,13,182-->
 
 ## 뺨 #card
 ?
