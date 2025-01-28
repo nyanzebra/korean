@@ -346,7 +346,7 @@
 	- The administration should show determination in maintaining the discipline of government officials.
 - 그들은 아침 일찍 일어나는 것이 학생들로 하여금 기강을 발전시키는 것을 돕는다고 말했다.
 	- They said that getting up early helps students develop discipline.
-<!--SR:!2025-01-23,1,130-->
+<!--SR:!2025-01-29,1,130-->
 
 ## 해이하다 #card
 ?
@@ -874,7 +874,7 @@ go in and out frequently
 	- I have put down the course of events in detail[in full/minutely].
 - 이 팀은 과거 2년간 무패를 기록했다
 	- The team has not suffered a single defeat for the last two years.
-<!--SR:!2025-01-28,1,130-->
+<!--SR:!2025-01-29,1,130-->
 
 ## 틀니 #card
 ?
@@ -1055,7 +1055,7 @@ go in and out frequently
 	- root out a secret.
 - 나무 등걸을 캐내다
 	- dig up the stump of a tree.
-<!--SR:!2025-01-28,1,130-->
+<!--SR:!2025-01-29,1,130-->
 
 ## 나머지 #card
 ?
@@ -1088,7 +1088,7 @@ go in and out frequently
 	- Facial expressions of created animals that were even more real than those of real human made me cry.
 - 분명히 비행자제의 기간을 한 달로 제한함으로써 일본 정부가 항의의 효과를 최대화하는 반면 실제 마찰은 최소화 하기 위해 머리를 짜낸 것 같기는 하다. 그렇게 함으로써 한국정부가 정부 조달 협정 위반으로 이 문제를 세계 무역기구에 제소하기 어렵기 만들었는데 관련 액수가 기준치인 20만 달러에 미치지 못할 것 같기 때문이다.
 	- Admittedly, Tokyo seems to have racked its brains to maximize the protest's effect while minimizing actual friction, by limiting the period of flight restraint to one month. This makes it hard for Seoul to bring it to the World Trade Organization for violating of government procurement accord, as the sum involved is unlikely to reach the criterion of $200,000.
-<!--SR:!2025-01-24,5,162-->
+<!--SR:!2025-02-06,9,162-->
 
 ## 소지품 #card
 ?
