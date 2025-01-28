@@ -155,7 +155,7 @@
 	- They are venting out their bottled-up antipathy to a fellow lawmaker
 - 불편한 감정을 억누르거나 그런 감정을 가지고 있다고 자신을 판단하지 말라.
 	- Don’t repress uncomfortable emotions or judge yourself for having them
-<!--SR:!2025-01-27,4,130-->
+<!--SR:!2025-02-02,5,130-->
 
 ## 불길하다 #card
 ?
@@ -332,7 +332,7 @@
 	- My daughter looks like her, too.
 - "당신은 우리 아버지와 쏙 빼닮았습니다."라고 수치 여사가 안재욱에게 말했다.
 	- "You look just like my father," Suu Kyi told Ahn.
-<!--SR:!2025-01-24,5,174-->
+<!--SR:!2025-02-07,10,174-->
 
 
 ## 기강 #card
@@ -395,7 +395,7 @@
 	- drape a flag in mourning[black].
 - 증권 거래소 2부에 우리 회사 주식이 상장되었다
 	- Our company is listed on the Second Market.
-<!--SR:!2025-01-28,1,130-->
+<!--SR:!2025-01-29,1,130-->
 
 ## 태우다 #card
 ?
@@ -491,7 +491,7 @@
 	- His good conduct set an example for the world.
 - 사람들은 소년의 선행을 극구 칭찬했다
 	- People praised[문어 lauded] the boy to the skies for his good deed.
-<!--SR:!2025-01-20,1,130-->
+<!--SR:!2025-01-29,1,130-->
 
 ## 기대하다 #card
 ?
@@ -569,7 +569,7 @@
 ### 예
 - 정상적으로 자랄 수 있게 잘 보살펴준 것
 	- Take good care of them so they can grow up normally.
-<!--SR:!2025-01-23,1,130-->
+<!--SR:!2025-01-29,1,130-->
 
 ## 조직 #card
 ?
@@ -606,7 +606,7 @@
 	- accustom oneself to early rising
 - 규칙적인 생활을 해 버릇하다
 	- accustom oneself to a regular life.
-<!--SR:!2025-01-24,5,162-->
+<!--SR:!2025-01-31,3,142-->
 
 ## 쥐어짜다 #card
 ?
@@ -815,7 +815,7 @@ go in and out frequently
 - wave (ocean/water)
 ### 예
 -
-<!--SR:!2025-01-28,5,155-->
+<!--SR:!2025-02-05,8,155-->
 
 ## 헤엄하다 #card
 ?
