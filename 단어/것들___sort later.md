@@ -27,7 +27,7 @@
 	- It was a proud moment for me.
 - 뿌듯하게 맞다
 	- fit tightly/suit to a T.
-<!--SR:!2025-01-21,7,143-->
+<!--SR:!2025-01-31,4,130-->
 
 ## 매기다 #card
 ?
@@ -446,7 +446,7 @@
 - filial piety
 ### 예
 -
-<!--SR:!2025-01-26,7,175-->
+<!--SR:!2025-01-31,4,155-->
 
 
 ## 불효 #card
@@ -951,7 +951,7 @@ go in and out frequently
 - take a firm bite
 ### 예
 -
-<!--SR:!2025-01-24,1,135-->
+<!--SR:!2025-01-28,1,135-->
 
 ## 단번에 #card
 ?
@@ -1123,7 +1123,7 @@ go in and out frequently
 	- The warmer weather makes them feel slower and more tired.
 - 너 참 둔하구나
 	- You are so oblivious.
-<!--SR:!2025-01-23,1,130-->
+<!--SR:!2025-01-28,1,130-->
 
 ## 소개팅 #card
 ?
