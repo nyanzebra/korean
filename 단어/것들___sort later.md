@@ -548,7 +548,7 @@
 ### 예
 - 애초부터 우리는 불공평하게 대우받았다
 	- Right from the beginning[From the very beginning] we've been unfairly treated
-<!--SR:!2025-01-25,9,195-->
+<!--SR:!2025-02-16,19,195-->
 
 ## 보살피다 #card
 ?
