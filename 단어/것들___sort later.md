@@ -438,7 +438,7 @@
 ### 예
 - 효자가 충신이 된다
 	- A good son will make a good subject.
-<!--SR:!2025-01-24,10,215-->
+<!--SR:!2025-02-01,5,195-->
 
 ## 효도하다 #card
 ?
@@ -1044,7 +1044,7 @@ go in and out frequently
 	- Some armed agents infiltrated Seoul.
 - 그는 결사의 각오로 적지에 잠입하였다
 	- He smuggled himself into enemy territory, ready to die if necessary.
-<!--SR:!2025-01-23,1,130-->
+<!--SR:!2025-01-28,1,130-->
 
 ## 캐내다 #card
 ?
