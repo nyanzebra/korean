@@ -1292,7 +1292,7 @@ go in and out frequently
 	- The racket made by the mob could be heard intermittently
 - 웅성거리는 대화 소리.
 	- a buzz of conversation
-<!--SR:!2025-01-23,1,130-->
+<!--SR:!2025-01-28,1,130-->
 
 ## 갈아입다 #card
 ?
@@ -1300,7 +1300,7 @@ go in and out frequently
 - change clothes
 ### 예
 -
-<!--SR:!2025-01-25,3,162-->
+<!--SR:!2025-02-01,5,162-->
 
 ## 간신히 #card
 ?
