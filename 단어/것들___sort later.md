@@ -366,7 +366,7 @@
 - physically or emotionally comfortable
 ### 예
 -
-<!--SR:!2025-01-22,8,202-->
+<!--SR:!2025-01-31,4,182-->
 
 ## 여전하다 #card
 ?
@@ -395,7 +395,7 @@
 	- drape a flag in mourning[black].
 - 증권 거래소 2부에 우리 회사 주식이 상장되었다
 	- Our company is listed on the Second Market.
-<!--SR:!2025-01-23,1,130-->
+<!--SR:!2025-01-28,1,130-->
 
 ## 태우다 #card
 ?
@@ -863,7 +863,7 @@ go in and out frequently
 - picture book?
 ### 예
 -
-<!--SR:!2025-01-24,1,130-->
+<!--SR:!2025-01-28,1,130-->
 
 ## 기록하다 #card
 ?
@@ -882,7 +882,7 @@ go in and out frequently
 - dentures
 ### 예
 -
-<!--SR:!2025-01-26,7,182-->
+<!--SR:!2025-02-09,13,182-->
 
 ## 건네다 #card
 ?
@@ -1168,7 +1168,7 @@ go in and out frequently
 	- The townspeople turned into rioters and attacked the town hall.
 - 적진을 습격하여 탈취했다
 	- The enemy camp was taken in a surprise attack.
-<!--SR:!2025-01-26,7,182-->
+<!--SR:!2025-02-10,14,182-->
 
 ## 별개 #card
 ?
