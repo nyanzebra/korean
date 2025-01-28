@@ -44,7 +44,7 @@
 	- decide on priority ranked things
 - 날짜를 매기다
 	- decide on a date
-<!--SR:!2025-01-21,14,188-->
+<!--SR:!2025-02-03,7,168-->
 
 ## 그럭저럭 #card
 ?
@@ -972,7 +972,7 @@ go in and out frequently
 ### 예
 - 여러모로, 우리의 이런 대담한 생각들은 가능성의 경계선을 밀어붙이는걸 돕습니다.
 	- In many ways, our audacity to imagine helps push the boundaries of possibility.
-<!--SR:!2025-01-27,8,195-->
+<!--SR:!2025-02-12,16,195-->
 
 ## 식료품 #card
 ?
