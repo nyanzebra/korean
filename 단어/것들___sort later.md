@@ -269,7 +269,7 @@
 - gain popularity (attract popularity)
 ### 예
 -
-<!--SR:!2025-01-26,22,215-->
+<!--SR:!2025-03-17,49,215-->
 
 ## 부딪치다 #card
 ?
@@ -654,7 +654,7 @@
 	- Some supernatural power seems to be at work
 - 연이 올라갈 때는 바람이 양력으로 작용한다
 	- When a kite flies, the wind provides lift.
-<!--SR:!2025-01-21,1,130-->
+<!--SR:!2025-01-28,1,130-->
 
 ## 그닥 #card
 ?
@@ -1110,7 +1110,7 @@ go in and out frequently
 	- Though he eventually recovered from the infection, the toll on his body led to him being unable to recover from sepsis, which ultimately took his life.
 - 하지만, 결국 관계는 자존심보다 더 중요하게 여겨져야 합니다.
 	- But, in the end, the relationship should be more important than one’s own pride
-<!--SR:!2025-01-24,1,130-->
+<!--SR:!2025-01-28,1,130-->
 
 ## 둔하다 #card
 ?
