@@ -79,7 +79,7 @@
 	- And by the way, the arts aren't just important because they improve math scores.
 - 그나저나 지금도 별로 바뀐 건 없습니다.
 	- Not much has changed, by the way.
-<!--SR:!2025-01-20,13,172-->
+<!--SR:!2025-02-20,22,172-->
 
 ## 무사하다 #card
 ?
@@ -584,7 +584,7 @@
 	- organism
 - 조직도
 	- organization chart
-<!--SR:!2025-01-29,1,130-->
+<!--SR:!2025-01-30,1,130-->
 
 ## 간만 #card
 ?
@@ -951,7 +951,7 @@ go in and out frequently
 - take a firm bite
 ### 예
 -
-<!--SR:!2025-01-28,1,135-->
+<!--SR:!2025-01-30,1,135-->
 
 ## 단번에 #card
 ?
@@ -1266,7 +1266,7 @@ go in and out frequently
 - force to yield
 ### 예
 -
-<!--SR:!2025-01-20,1,130-->
+<!--SR:!2025-01-30,1,130-->
 
 ## 단체 #card
 ?
