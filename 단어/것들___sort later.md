@@ -1044,7 +1044,7 @@ go in and out frequently
 	- Some armed agents infiltrated Seoul.
 - 그는 결사의 각오로 적지에 잠입하였다
 	- He smuggled himself into enemy territory, ready to die if necessary.
-<!--SR:!2025-01-30,2,150-->
+<!--SR:!2025-02-02,3,150-->
 
 ## 캐내다 #card
 ?
