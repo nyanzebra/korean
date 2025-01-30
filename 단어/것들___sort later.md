@@ -863,7 +863,7 @@ go in and out frequently
 - picture book?
 ### 예
 -
-<!--SR:!2025-01-28,1,130-->
+<!--SR:!2025-01-31,1,130-->
 
 ## 기록하다 #card
 ?
@@ -1020,7 +1020,7 @@ go in and out frequently
 	- He delivered a staunch defense of the government.
 - 괴로운 입장
 	- an awkward situation.
-<!--SR:!2025-01-26,7,182-->
+<!--SR:!2025-02-12,13,182-->
 
 ## 똘똘하다 #card
 ?
