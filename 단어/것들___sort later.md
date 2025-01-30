@@ -786,7 +786,7 @@ go in and out frequently
 	- Not a breeze stirred the lake
 - 잔잔한 수면에는 잔물결 하나 없었다
 	- Not a ripple disturbed the glassy surface of the water.
-<!--SR:!2025-01-28,1,134-->
+<!--SR:!2025-01-31,1,134-->
 
 ## 흔들리다 #card
 ?
@@ -1004,7 +1004,7 @@ go in and out frequently
 	- be caught in mischief
 - 들키면 나는 큰일이다
 	- If I am discovered, I am done for
-<!--SR:!2025-01-29,1,130-->
+<!--SR:!2025-01-31,1,130-->
 
 ## 입장 #card
 ?
@@ -1350,7 +1350,7 @@ go in and out frequently
 - herbivore
 ### 예
 -
-<!--SR:!2025-01-23,1,130-->
+<!--SR:!2025-01-31,1,130-->
 
 ## 연못 #card
 ?
