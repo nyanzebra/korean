@@ -654,7 +654,7 @@
 	- Some supernatural power seems to be at work
 - 연이 올라갈 때는 바람이 양력으로 작용한다
 	- When a kite flies, the wind provides lift.
-<!--SR:!2025-01-29,1,130-->
+<!--SR:!2025-01-31,1,130-->
 
 ## 그닥 #card
 ?
@@ -1382,7 +1382,7 @@ go in and out frequently
 - 이것은 정직한 사람이 손해를 보는 좋은 예다
 	- This is a good example of a case in which honesty doesn't pay.
 -
-<!--SR:!2025-01-28,1,130-->
+<!--SR:!2025-01-31,1,130-->
 
 ## 일부러 #card
 ?
