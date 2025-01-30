@@ -559,7 +559,7 @@
 ### 예
 - 정상적으로 자랄 수 있게 잘 보살펴준 것
 	- Take good care of them so they can grow up normally.
-<!--SR:!2025-01-24,1,135-->
+<!--SR:!2025-01-31,1,135-->
 
 ## 정상 #card
 ?
@@ -824,7 +824,7 @@ go in and out frequently
 ### 예
 - 어린이를 풀에서 헤엄치게 하다
 	- let the children swim in the pool.
-<!--SR:!2025-01-24,5,162-->
+<!--SR:!2025-02-08,9,162-->
 
 ## 햇빛에 타다 #card
 ?
@@ -1309,7 +1309,7 @@ go in and out frequently
 - narrowly
 ### 예
 -
-<!--SR:!2025-01-29,1,130-->
+<!--SR:!2025-01-31,1,130-->
 
 ## 겁먹다 #card
 ?
@@ -1369,7 +1369,7 @@ go in and out frequently
 	- Please forgive me, for I did not mean what I said.
 - 결코 나는 그를 용서할 수 없다
 	- I cannot forgive him on any account.
-<!--SR:!2025-01-27,5,172-->
+<!--SR:!2025-02-09,10,172-->
 
 ## 정직하다 #card
 ?
