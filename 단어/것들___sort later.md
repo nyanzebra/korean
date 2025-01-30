@@ -395,7 +395,7 @@
 	- drape a flag in mourning[black].
 - 증권 거래소 2부에 우리 회사 주식이 상장되었다
 	- Our company is listed on the Second Market.
-<!--SR:!2025-01-29,1,130-->
+<!--SR:!2025-01-31,1,130-->
 
 ## 태우다 #card
 ?
@@ -687,7 +687,7 @@
 - ?
 ### 예
 -
-<!--SR:!2025-01-30,1,130-->
+<!--SR:!2025-01-31,1,130-->
 
 ## 불행하다 #card
 ?
@@ -901,7 +901,7 @@ go in and out frequently
 	- Some of these brokers may have helped terrorists transfer money after the September 11 attacks.
 - 검찰에 따르면 모두 120명의 구직자들이 기아차에 입사하기 위해 뇌물을 건넨 것으로 밝혀졌다.
 	- A total of 120 employees were found to have paid bribes to gain work at the automaker's factory in Gwangju, 330 kilometers south of Seoul, according to the prosecution.
-<!--SR:!2025-01-27,5,162-->
+<!--SR:!2025-02-02,3,142-->
 
 ## 받은 틀니를 서둘러 꼈다 #card
 ?
@@ -1033,7 +1033,7 @@ go in and out frequently
 	- a bright[clever] boy
 - 그는 너무 똘똘해서 당할 수가 없다.
 	- He's too sharp for me.
-<!--SR:!2025-01-26,7,182-->
+<!--SR:!2025-02-03,4,162-->
 
 ## 잠입하다 #card
 ?
