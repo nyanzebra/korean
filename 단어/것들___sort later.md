@@ -569,7 +569,7 @@
 ### 예
 - 정상적으로 자랄 수 있게 잘 보살펴준 것
 	- Take good care of them so they can grow up normally.
-<!--SR:!2025-01-29,1,130-->
+<!--SR:!2025-01-31,1,130-->
 
 ## 조직 #card
 ?
@@ -584,7 +584,7 @@
 	- organism
 - 조직도
 	- organization chart
-<!--SR:!2025-01-30,1,130-->
+<!--SR:!2025-01-31,1,130-->
 
 ## 간만 #card
 ?
@@ -963,7 +963,7 @@ go in and out frequently
 	- succeed in an examination at one's first attempt
 - 그 아이는 욕심을 부려 단번에 사탕 3개를 한입에 쑤셔 넣었다
 	- The child greedily crammed three candies into his mouth all at once.
-<!--SR:!2025-01-23,9,202-->
+<!--SR:!2025-02-17,18,202-->
 
 ## 밀어붙이다 #card
 ?
