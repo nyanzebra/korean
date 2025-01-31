@@ -410,7 +410,7 @@
 	- give 《a person》 a lift[ride] 《in one's car》/give 《a person》 a passage 《on one's boat》/(도와서) help 《a person》 into 《a car》/put[place] 《a child》 on 《a train》.
 - 그의 어머니를 부산행 열차에 태워 주도록 나는 그에게 부탁을 받았다
 	- I was asked to put his mother on the train bound for Busan.
-<!--SR:!2025-01-26,7,175-->
+<!--SR:!2025-02-11,11,175-->
 
 ## 포옹 #card
 ?
@@ -639,7 +639,7 @@
 	- To dispel any doubts, she filmed herself slathering on a generous amount of shampoo, which failed to soften her rock-hard hair.
 - 천국은 넉넉하고, 흐르는 강으로 풍족한 정원입니다.
 	- It's plenty. It's gardens watered by running streams.
-<!--SR:!2025-01-28,1,130-->
+<!--SR:!2025-02-01,1,130-->
 
 ## 작용하다 #card
 ?
@@ -1245,7 +1245,7 @@ go in and out frequently
 	- I searched all over the house for the missing watch.
 - 한국은 첨단 기술 분야에서 외국에 뒤져 있지 않다
 	- In the field of modern technology, Korea is not behind other countries.
-<!--SR:!2025-01-27,5,162-->
+<!--SR:!2025-02-08,8,162-->
 
 ## 의논하다 #card
 ?
