@@ -1472,12 +1472,13 @@ go in and out frequently
 ### 예
 -
 
-## 그니까 좀 정중해져 보세요 #card
+## 정중하다 #card
 ?
 ### 뜻
-- 
+- polite
+- courteous
 ### 예
--
+- 그니까
 
 
 불다 blow 부르다 call 버리다 toss/completely 벌다 earn
