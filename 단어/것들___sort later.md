@@ -1493,7 +1493,8 @@ go in and out frequently
 ### 뜻
 - 존경 + 심(mind/heart)
 ### 예
--
+- 조금이라도 존경심을 보일 순 없어?
+	- Could you show some respect?
 
 
 불다 blow 부르다 call 버리다 toss/completely 벌다 earn
