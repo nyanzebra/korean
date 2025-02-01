@@ -1472,10 +1472,10 @@ go in and out frequently
 ### 예
 -
 
-## 단어 #card
+## 그니까 좀 정중해져 보세요 #card
 ?
 ### 뜻
--
+- 
 ### 예
 -
 
