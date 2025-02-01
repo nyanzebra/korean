@@ -1465,6 +1465,12 @@ go in and out frequently
 ### 예
 -
 
+## 제가 책임지겠습니다 #card
+?
+### 뜻
+- I will take responsibility
+### 예
+-
 
 
 불다 blow 부르다 call 버리다 toss/completely 벌다 earn
