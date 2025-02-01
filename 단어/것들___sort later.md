@@ -1478,7 +1478,14 @@ go in and out frequently
 - polite
 - courteous
 ### 예
-- 그니까
+- 그니까 좀 정중해져 보세요
+
+## 존경 #card
+?
+### 뜻
+-
+### 예
+-
 
 
 불다 blow 부르다 call 버리다 toss/completely 벌다 earn
