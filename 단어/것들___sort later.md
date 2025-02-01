@@ -1458,5 +1458,13 @@ go in and out frequently
 ### 예
 -
 
+## 우리가 마지막으로 직접 만난 지 오래되었다 #card
+?
+### 뜻
+- it has been a long time since we last met in person
+### 예
+-
+
+
 
 불다 blow 부르다 call 버리다 toss/completely 벌다 earn
