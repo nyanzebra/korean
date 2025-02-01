@@ -1491,7 +1491,7 @@ go in and out frequently
 ## 존경심 #card
 ?
 ### 뜻
-- 
+- 존경 + 심(mind/heart)
 ### 예
 -
 
