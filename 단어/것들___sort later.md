@@ -1483,7 +1483,15 @@ go in and out frequently
 ## 존경 #card
 ?
 ### 뜻
+- respect
+- admiration
+### 예
 -
+
+## 존경심 #card
+?
+### 뜻
+- 
 ### 예
 -
 
