@@ -901,7 +901,7 @@ go in and out frequently
 	- Some of these brokers may have helped terrorists transfer money after the September 11 attacks.
 - 검찰에 따르면 모두 120명의 구직자들이 기아차에 입사하기 위해 뇌물을 건넨 것으로 밝혀졌다.
 	- A total of 120 employees were found to have paid bribes to gain work at the automaker's factory in Gwangju, 330 kilometers south of Seoul, according to the prosecution.
-<!--SR:!2025-02-02,3,142-->
+<!--SR:!2025-02-06,4,142-->
 
 ## 받은 틀니를 서둘러 꼈다 #card
 ?
@@ -992,7 +992,7 @@ go in and out frequently
 ### 예
 - 플라스틱 가방은 흔히 식료 잡화류와 다른 상품들을 담기 위해 사용된다.
 	- Plastic bags are commonly used to carry groceries and other products.
-<!--SR:!2025-01-29,1,142-->
+<!--SR:!2025-02-03,1,142-->
 
 ## 들키다 #card
 ?
