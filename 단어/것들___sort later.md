@@ -832,7 +832,7 @@ go in and out frequently
 - get sunburnt
 ### 예
 -
-<!--SR:!2025-01-31,13,235-->
+<!--SR:!2025-03-05,31,235-->
 
 ## 승부 #card
 ?
@@ -929,7 +929,7 @@ go in and out frequently
 ### 예
 - 그녀는 질책을 받아도 부끄럽지도 않은 것 같고 사과하려고 하지도 않습니다.
 	- She never seems embarrassed about the reprimand, nor is she apologetic.
-<!--SR:!2025-01-29,1,135-->
+<!--SR:!2025-02-03,1,135-->
 
 ## 덤 #card
 ?
