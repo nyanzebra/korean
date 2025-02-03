@@ -1266,7 +1266,7 @@ go in and out frequently
 - force to yield
 ### 예
 -
-<!--SR:!2025-01-31,1,130-->
+<!--SR:!2025-02-03,1,130-->
 
 ## 단체 #card
 ?
