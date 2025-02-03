@@ -27,7 +27,7 @@
 	- It was a proud moment for me.
 - 뿌듯하게 맞다
 	- fit tightly/suit to a T.
-<!--SR:!2025-01-31,4,130-->
+<!--SR:!2025-02-04,2,130-->
 
 ## 매기다 #card
 ?
@@ -1309,7 +1309,7 @@ go in and out frequently
 - narrowly
 ### 예
 -
-<!--SR:!2025-01-31,1,130-->
+<!--SR:!2025-02-03,1,130-->
 
 ## 겁먹다 #card
 ?
@@ -1342,7 +1342,7 @@ go in and out frequently
 - callus
 ### 예
 -
-<!--SR:!2025-01-28,1,142-->
+<!--SR:!2025-02-03,1,142-->
 
 ## 초식 #card
 ?
@@ -1393,7 +1393,7 @@ go in and out frequently
 	- People jokingly said the two chose different food at a cafeteria on purpose.
 - 일부러 정보를 주지 않는 것이 관객들이 몰입하게 합니다.
 	- You know, doing that intentionally is much more engaging.
-<!--SR:!2025-01-28,5,152-->
+<!--SR:!2025-02-10,8,152-->
 
 ## 당직 #card
 ?
