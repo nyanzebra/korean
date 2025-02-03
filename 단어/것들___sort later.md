@@ -942,7 +942,7 @@ go in and out frequently
 	- throw in something extra.
 - 덤으로 귤 2개를 드리겠습니다
 	- I'll throw these two oranges in extra./I'll give you two oranges into the bargain.
-<!--SR:!2025-02-02,9,154-->
+<!--SR:!2025-02-17,14,154-->
 
 ## 악물다 #card
 ?
@@ -1257,7 +1257,7 @@ go in and out frequently
 	- consult one's aides.
 - 변호사와 의논하다
 	- consult a lawyer.
-<!--SR:!2025-01-31,1,130-->
+<!--SR:!2025-02-04,1,130-->
 
 ## 꿇리다 #card
 ?
@@ -1309,7 +1309,7 @@ go in and out frequently
 - narrowly
 ### 예
 -
-<!--SR:!2025-02-03,1,130-->
+<!--SR:!2025-02-04,1,130-->
 
 ## 겁먹다 #card
 ?
