@@ -855,7 +855,7 @@ go in and out frequently
 - come/go by walking/foot
 ### 예
 -
-<!--SR:!2025-02-02,14,242-->
+<!--SR:!2025-03-08,34,242-->
 
 ## 도감 #card
 ?
