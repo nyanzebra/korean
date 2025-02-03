@@ -584,7 +584,7 @@
 	- organism
 - 조직도
 	- organization chart
-<!--SR:!2025-01-31,1,130-->
+<!--SR:!2025-02-03,1,130-->
 
 ## 간만 #card
 ?
@@ -786,7 +786,7 @@ go in and out frequently
 	- Not a breeze stirred the lake
 - 잔잔한 수면에는 잔물결 하나 없었다
 	- Not a ripple disturbed the glassy surface of the water.
-<!--SR:!2025-01-31,1,134-->
+<!--SR:!2025-02-03,1,134-->
 
 ## 흔들리다 #card
 ?
@@ -874,7 +874,7 @@ go in and out frequently
 	- I have put down the course of events in detail[in full/minutely].
 - 이 팀은 과거 2년간 무패를 기록했다
 	- The team has not suffered a single defeat for the last two years.
-<!--SR:!2025-01-29,1,130-->
+<!--SR:!2025-02-03,1,130-->
 
 ## 틀니 #card
 ?
@@ -1200,7 +1200,7 @@ go in and out frequently
 	- a man of dubious morality[character]/a degenerate.
 - 경찰관은 평소에도 소행을 조심하지 않으면 안 된다
 	- Police officers should always be careful of[watch] their own conduct.
-<!--SR:!2025-01-28,1,130-->
+<!--SR:!2025-02-03,1,130-->
 
 ## 따지다 #card
 ?
