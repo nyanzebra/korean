@@ -847,7 +847,7 @@ go in and out frequently
 	- Korea coach Cho plans to use a quick offense to determine the game.
 - 플레이오프 기간 동안 4팀이 승부를 겨룬다.
 	- Four teams are competing in the playoffs.
-<!--SR:!2025-02-03,4,174-->
+<!--SR:!2025-02-05,2,154-->
 
 ## 걸어오다/걸어가다 #card
 ?
@@ -1110,7 +1110,7 @@ go in and out frequently
 	- Though he eventually recovered from the infection, the toll on his body led to him being unable to recover from sepsis, which ultimately took his life.
 - 하지만, 결국 관계는 자존심보다 더 중요하게 여겨져야 합니다.
 	- But, in the end, the relationship should be more important than one’s own pride
-<!--SR:!2025-01-28,1,130-->
+<!--SR:!2025-02-04,1,130-->
 
 ## 둔하다 #card
 ?
@@ -1300,7 +1300,7 @@ go in and out frequently
 - change clothes
 ### 예
 -
-<!--SR:!2025-02-01,5,162-->
+<!--SR:!2025-02-12,9,162-->
 
 ## 간신히 #card
 ?
