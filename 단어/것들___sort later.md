@@ -1055,7 +1055,7 @@ go in and out frequently
 	- root out a secret.
 - 나무 등걸을 캐내다
 	- dig up the stump of a tree.
-<!--SR:!2025-01-31,1,130-->
+<!--SR:!2025-02-04,1,130-->
 
 ## 나머지 #card
 ?
