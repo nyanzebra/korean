@@ -491,7 +491,7 @@
 	- His good conduct set an example for the world.
 - 사람들은 소년의 선행을 극구 칭찬했다
 	- People praised[문어 lauded] the boy to the skies for his good deed.
-<!--SR:!2025-01-29,1,130-->
+<!--SR:!2025-02-03,1,130-->
 
 ## 기대하다 #card
 ?
@@ -606,7 +606,7 @@
 	- accustom oneself to early rising
 - 규칙적인 생활을 해 버릇하다
 	- accustom oneself to a regular life.
-<!--SR:!2025-01-31,3,142-->
+<!--SR:!2025-02-04,2,130-->
 
 ## 쥐어짜다 #card
 ?
