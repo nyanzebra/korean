@@ -346,7 +346,7 @@
 	- The administration should show determination in maintaining the discipline of government officials.
 - 그들은 아침 일찍 일어나는 것이 학생들로 하여금 기강을 발전시키는 것을 돕는다고 말했다.
 	- They said that getting up early helps students develop discipline.
-<!--SR:!2025-01-31,1,130-->
+<!--SR:!2025-02-04,1,130-->
 
 ## 해이하다 #card
 ?
