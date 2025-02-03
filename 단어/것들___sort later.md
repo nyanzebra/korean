@@ -379,7 +379,7 @@
 	- My father's condition remains the same.
 - 한 달이 지난 지금도 북한의 군사적 위협은 여전하다.
 	- A month has passed, and the North Korean military threat remains.
-<!--SR:!2025-02-02,3,155-->
+<!--SR:!2025-02-08,5,155-->
 
 ## 상장 #card
 ?
@@ -491,7 +491,7 @@
 	- His good conduct set an example for the world.
 - 사람들은 소년의 선행을 극구 칭찬했다
 	- People praised[문어 lauded] the boy to the skies for his good deed.
-<!--SR:!2025-02-03,1,130-->
+<!--SR:!2025-02-04,1,130-->
 
 ## 기대하다 #card
 ?
@@ -992,7 +992,7 @@ go in and out frequently
 ### 예
 - 플라스틱 가방은 흔히 식료 잡화류와 다른 상품들을 담기 위해 사용된다.
 	- Plastic bags are commonly used to carry groceries and other products.
-<!--SR:!2025-02-03,1,142-->
+<!--SR:!2025-02-04,1,142-->
 
 ## 들키다 #card
 ?
@@ -1382,7 +1382,7 @@ go in and out frequently
 - 이것은 정직한 사람이 손해를 보는 좋은 예다
 	- This is a good example of a case in which honesty doesn't pay.
 -
-<!--SR:!2025-02-01,1,130-->
+<!--SR:!2025-02-04,1,130-->
 
 ## 일부러 #card
 ?
