@@ -503,7 +503,7 @@
 	- I am hoping against hope that he will come back.
 - 내게 너무 기대하지 말게
 	- Don't expect too much of me.
-<!--SR:!2025-01-29,1,134-->
+<!--SR:!2025-02-03,1,134-->
 
 ## 부자간 #card
 ?
