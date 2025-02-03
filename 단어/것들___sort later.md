@@ -358,7 +358,7 @@
 	- result from slackened discipline among public officials.
 - 요즘 관기가 눈에 띄게 해이해 졌다
 	- These days official discipline has been remarkably slack[lax].
-<!--SR:!2025-01-23,1,134-->
+<!--SR:!2025-02-04,1,134-->
 
 ## 편안하다 #card
 ?
@@ -503,7 +503,7 @@
 	- I am hoping against hope that he will come back.
 - 내게 너무 기대하지 말게
 	- Don't expect too much of me.
-<!--SR:!2025-02-03,1,134-->
+<!--SR:!2025-02-04,1,134-->
 
 ## 부자간 #card
 ?
