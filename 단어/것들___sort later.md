@@ -654,7 +654,7 @@
 	- Some supernatural power seems to be at work
 - 연이 올라갈 때는 바람이 양력으로 작용한다
 	- When a kite flies, the wind provides lift.
-<!--SR:!2025-02-01,1,130-->
+<!--SR:!2025-02-04,1,130-->
 
 ## 그닥 #card
 ?
@@ -918,7 +918,7 @@ go in and out frequently
 - masticate
 ### 예
 -
-<!--SR:!2025-02-03,7,182-->
+<!--SR:!2025-02-17,14,182-->
 
 ## 부끄럽다 #card
 ?
@@ -983,7 +983,7 @@ go in and out frequently
 	- grocery store
 - 맥신이 식료품 구매 대행으로 일하는 동안 조나는 불안과 싸우고 있다.
 	- Maxine works as a personal grocery shopper, while Jonah struggles with anxiety.
-<!--SR:!2025-01-23,1,142-->
+<!--SR:!2025-02-04,1,142-->
 
 ## 잡화류 #card
 ?
@@ -1033,7 +1033,7 @@ go in and out frequently
 	- a bright[clever] boy
 - 그는 너무 똘똘해서 당할 수가 없다.
 	- He's too sharp for me.
-<!--SR:!2025-02-03,4,162-->
+<!--SR:!2025-02-09,6,162-->
 
 ## 잠입하다 #card
 ?
@@ -1044,7 +1044,7 @@ go in and out frequently
 	- Some armed agents infiltrated Seoul.
 - 그는 결사의 각오로 적지에 잠입하였다
 	- He smuggled himself into enemy territory, ready to die if necessary.
-<!--SR:!2025-02-02,3,150-->
+<!--SR:!2025-02-08,5,150-->
 
 ## 캐내다 #card
 ?
@@ -1200,7 +1200,7 @@ go in and out frequently
 	- a man of dubious morality[character]/a degenerate.
 - 경찰관은 평소에도 소행을 조심하지 않으면 안 된다
 	- Police officers should always be careful of[watch] their own conduct.
-<!--SR:!2025-02-03,1,130-->
+<!--SR:!2025-02-04,1,130-->
 
 ## 따지다 #card
 ?
