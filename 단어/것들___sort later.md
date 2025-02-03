@@ -155,7 +155,7 @@
 	- They are venting out their bottled-up antipathy to a fellow lawmaker
 - 불편한 감정을 억누르거나 그런 감정을 가지고 있다고 자신을 판단하지 말라.
 	- Don’t repress uncomfortable emotions or judge yourself for having them
-<!--SR:!2025-02-02,5,130-->
+<!--SR:!2025-02-09,7,130-->
 
 ## 불길하다 #card
 ?
@@ -863,7 +863,7 @@ go in and out frequently
 - picture book?
 ### 예
 -
-<!--SR:!2025-01-31,1,130-->
+<!--SR:!2025-02-03,1,130-->
 
 ## 기록하다 #card
 ?
@@ -909,7 +909,7 @@ go in and out frequently
 - I hastily put on my dentures
 ### 예
 -
-<!--SR:!2025-01-24,5,174-->
+<!--SR:!2025-02-12,10,174-->
 
 ## 씹히다 #card
 ?
