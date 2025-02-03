@@ -366,7 +366,7 @@
 - physically or emotionally comfortable
 ### 예
 -
-<!--SR:!2025-01-31,4,182-->
+<!--SR:!2025-02-10,7,182-->
 
 ## 여전하다 #card
 ?
