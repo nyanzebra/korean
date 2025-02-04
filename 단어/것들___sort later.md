@@ -421,7 +421,7 @@
 ### 예
 - 그의 정열적인 포옹으로 그녀는 숨도 쉴 수 없었다
 	- His passionate embrace took her breath away./He took her breath away with a passionate embrace.
-<!--SR:!2025-01-31,9,174-->
+<!--SR:!2025-02-19,15,174-->
 
 ## 잘못 크는줄 알았다 #card
 ?
@@ -512,7 +512,7 @@
 ### 예
 - 부자간의 멋진 대화를 나눠야죠
 	- We'll have a nice father-son chat.
-<!--SR:!2025-01-29,2,154-->
+<!--SR:!2025-02-07,3,154-->
 
 
 ## 투기장 #card
@@ -1097,7 +1097,7 @@ go in and out frequently
 ### 예
 - 소지품 전부에 자기 이름을 붙이다
 	- put one's name on all one's belongings.
-<!--SR:!2025-01-28,1,130-->
+<!--SR:!2025-02-05,1,130-->
 
 ## 결국 #card
 ?
