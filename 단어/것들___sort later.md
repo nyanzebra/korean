@@ -225,7 +225,7 @@
 	- have a narrow escape from death/escape narrowly[barely] with one's life.
 - 위기의 국면
 	- a critical phase.
-<!--SR:!2025-02-04,31,235-->
+<!--SR:!2025-02-22,17,215-->
 
 ## 기회 #card
 ?
@@ -702,7 +702,7 @@
 	- Recently we have had a run of bad luck in our family.
 - 그녀는 그런 불행한 일을 겪고도 태연하다
 	- Even after such an unhappy experience, she looks quite unconcerned.
-<!--SR:!2025-02-04,1,130-->
+<!--SR:!2025-02-06,1,130-->
 
 ## 수상하다 #card
 ?
@@ -1185,7 +1185,7 @@ go in and out frequently
 	- The skin's a whole another thing, probably the hardest part.
 - 그리고 그와는 별개로, 저는 작곡과 단편을 썼습니다.
 	- And aside from that, I wrote music and short stories.
-<!--SR:!2025-02-05,1,130-->
+<!--SR:!2025-02-06,1,130-->
 
 ## 소행 #card
 ?
@@ -1200,7 +1200,7 @@ go in and out frequently
 	- a man of dubious morality[character]/a degenerate.
 - 경찰관은 평소에도 소행을 조심하지 않으면 안 된다
 	- Police officers should always be careful of[watch] their own conduct.
-<!--SR:!2025-02-04,1,130-->
+<!--SR:!2025-02-06,1,130-->
 
 ## 따지다 #card
 ?
