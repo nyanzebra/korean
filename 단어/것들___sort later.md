@@ -687,7 +687,7 @@
 - ?
 ### 예
 -
-<!--SR:!2025-01-31,1,130-->
+<!--SR:!2025-02-06,1,130-->
 
 ## 불행하다 #card
 ?
@@ -740,7 +740,7 @@ go in and out frequently
 ### 예
 - 울타리 틈새로 고양이가 들락날락하고 있다
 	- Cats go in and out through the opening in the fence.
-<!--SR:!2025-01-30,3,154-->
+<!--SR:!2025-02-10,5,154-->
 
 ## 꺼내다 #card
 ?
@@ -1055,7 +1055,7 @@ go in and out frequently
 	- root out a secret.
 - 나무 등걸을 캐내다
 	- dig up the stump of a tree.
-<!--SR:!2025-02-04,1,130-->
+<!--SR:!2025-02-07,2,150-->
 
 ## 나머지 #card
 ?
