@@ -639,7 +639,7 @@
 	- To dispel any doubts, she filmed herself slathering on a generous amount of shampoo, which failed to soften her rock-hard hair.
 - 천국은 넉넉하고, 흐르는 강으로 풍족한 정원입니다.
 	- It's plenty. It's gardens watered by running streams.
-<!--SR:!2025-02-01,1,130-->
+<!--SR:!2025-02-06,2,150-->
 
 ## 작용하다 #card
 ?
@@ -1131,7 +1131,7 @@ go in and out frequently
 - blind date
 ### 예
 -
-<!--SR:!2025-01-29,7,182-->
+<!--SR:!2025-02-16,12,182-->
 
 ## 코디 #card
 ?
@@ -1350,7 +1350,7 @@ go in and out frequently
 - herbivore
 ### 예
 -
-<!--SR:!2025-01-31,1,130-->
+<!--SR:!2025-02-05,1,130-->
 
 ## 연못 #card
 ?
