@@ -395,7 +395,7 @@
 	- drape a flag in mourning[black].
 - 증권 거래소 2부에 우리 회사 주식이 상장되었다
 	- Our company is listed on the Second Market.
-<!--SR:!2025-02-04,1,130-->
+<!--SR:!2025-02-06,1,130-->
 
 ## 태우다 #card
 ?
@@ -623,7 +623,7 @@
 	- rack one's brains all day long.
 - 목소리를 쥐어짜다
 	- strain one's voice.
-<!--SR:!2025-02-04,8,155-->
+<!--SR:!2025-02-18,13,155-->
 
 ## 넉넉하다 #card
 ?
@@ -773,7 +773,7 @@ go in and out frequently
 	- sleep regular hours
 - 이들은 수면에서 생활한다.
 	- They live at the surface of the water.
-<!--SR:!2025-02-04,8,155-->
+<!--SR:!2025-02-17,12,155-->
 
 ## 잔잔하다 #card
 ?
@@ -786,7 +786,7 @@ go in and out frequently
 	- Not a breeze stirred the lake
 - 잔잔한 수면에는 잔물결 하나 없었다
 	- Not a ripple disturbed the glassy surface of the water.
-<!--SR:!2025-02-04,1,134-->
+<!--SR:!2025-02-06,1,134-->
 
 ## 흔들리다 #card
 ?
@@ -807,7 +807,7 @@ go in and out frequently
 - secret technique
 ### 예
 -
-<!--SR:!2025-01-31,1,134-->
+<!--SR:!2025-02-07,2,154-->
 
 ## 물결 #card
 ?
