@@ -606,7 +606,7 @@
 	- accustom oneself to early rising
 - 규칙적인 생활을 해 버릇하다
 	- accustom oneself to a regular life.
-<!--SR:!2025-02-04,2,130-->
+<!--SR:!2025-02-09,4,150-->
 
 ## 쥐어짜다 #card
 ?
@@ -929,7 +929,7 @@ go in and out frequently
 ### 예
 - 그녀는 질책을 받아도 부끄럽지도 않은 것 같고 사과하려고 하지도 않습니다.
 	- She never seems embarrassed about the reprimand, nor is she apologetic.
-<!--SR:!2025-02-03,1,135-->
+<!--SR:!2025-02-07,2,155-->
 
 ## 덤 #card
 ?
@@ -1350,7 +1350,7 @@ go in and out frequently
 - herbivore
 ### 예
 -
-<!--SR:!2025-02-05,1,130-->
+<!--SR:!2025-02-07,2,150-->
 
 ## 연못 #card
 ?
