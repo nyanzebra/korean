@@ -358,7 +358,7 @@
 	- result from slackened discipline among public officials.
 - 요즘 관기가 눈에 띄게 해이해 졌다
 	- These days official discipline has been remarkably slack[lax].
-<!--SR:!2025-02-04,1,134-->
+<!--SR:!2025-02-07,2,154-->
 
 ## 편안하다 #card
 ?
@@ -503,7 +503,7 @@
 	- I am hoping against hope that he will come back.
 - 내게 너무 기대하지 말게
 	- Don't expect too much of me.
-<!--SR:!2025-02-04,1,134-->
+<!--SR:!2025-02-06,1,134-->
 
 ## 부자간 #card
 ?
@@ -584,7 +584,7 @@
 	- organism
 - 조직도
 	- organization chart
-<!--SR:!2025-02-03,1,130-->
+<!--SR:!2025-02-07,2,150-->
 
 ## 간만 #card
 ?
@@ -654,7 +654,7 @@
 	- Some supernatural power seems to be at work
 - 연이 올라갈 때는 바람이 양력으로 작용한다
 	- When a kite flies, the wind provides lift.
-<!--SR:!2025-02-04,1,130-->
+<!--SR:!2025-02-06,1,130-->
 
 ## 그닥 #card
 ?
@@ -815,7 +815,7 @@ go in and out frequently
 - wave (ocean/water)
 ### 예
 -
-<!--SR:!2025-02-05,8,155-->
+<!--SR:!2025-02-17,12,155-->
 
 ## 헤엄하다 #card
 ?
@@ -863,7 +863,7 @@ go in and out frequently
 - picture book?
 ### 예
 -
-<!--SR:!2025-02-03,1,130-->
+<!--SR:!2025-02-06,1,130-->
 
 ## 기록하다 #card
 ?
@@ -983,7 +983,7 @@ go in and out frequently
 	- grocery store
 - 맥신이 식료품 구매 대행으로 일하는 동안 조나는 불안과 싸우고 있다.
 	- Maxine works as a personal grocery shopper, while Jonah struggles with anxiety.
-<!--SR:!2025-02-04,1,142-->
+<!--SR:!2025-02-07,2,162-->
 
 ## 잡화류 #card
 ?
@@ -1148,7 +1148,7 @@ go in and out frequently
 - slap in the cheek
 ### 예
 -
-<!--SR:!2025-02-05,9,162-->
+<!--SR:!2025-02-27,22,182-->
 
 ## 흉터 #card
 ?
