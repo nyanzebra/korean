@@ -44,7 +44,7 @@
 	- decide on priority ranked things
 - 날짜를 매기다
 	- decide on a date
-<!--SR:!2025-02-03,7,168-->
+<!--SR:!2025-02-19,12,168-->
 
 ## 그럭저럭 #card
 ?
@@ -346,7 +346,7 @@
 	- The administration should show determination in maintaining the discipline of government officials.
 - 그들은 아침 일찍 일어나는 것이 학생들로 하여금 기강을 발전시키는 것을 돕는다고 말했다.
 	- They said that getting up early helps students develop discipline.
-<!--SR:!2025-02-04,1,130-->
+<!--SR:!2025-02-08,1,130-->
 
 ## 해이하다 #card
 ?
@@ -491,7 +491,7 @@
 	- His good conduct set an example for the world.
 - 사람들은 소년의 선행을 극구 칭찬했다
 	- People praised[문어 lauded] the boy to the skies for his good deed.
-<!--SR:!2025-02-04,1,130-->
+<!--SR:!2025-02-08,1,130-->
 
 ## 기대하다 #card
 ?
@@ -992,7 +992,7 @@ go in and out frequently
 ### 예
 - 플라스틱 가방은 흔히 식료 잡화류와 다른 상품들을 담기 위해 사용된다.
 	- Plastic bags are commonly used to carry groceries and other products.
-<!--SR:!2025-02-04,1,142-->
+<!--SR:!2025-02-08,1,142-->
 
 ## 들키다 #card
 ?
