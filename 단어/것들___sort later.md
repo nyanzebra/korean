@@ -1496,5 +1496,12 @@ go in and out frequently
 - 조금이라도 존경심을 보일 순 없어?
 	- Could you show some respect?
 
+## 단어 #card
+?
+### 뜻
+-
+### 예
+-
+
 
 불다 blow 부르다 call 버리다 toss/completely 벌다 earn
