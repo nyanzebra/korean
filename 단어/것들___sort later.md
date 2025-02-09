@@ -395,7 +395,7 @@
 	- drape a flag in mourning[black].
 - 증권 거래소 2부에 우리 회사 주식이 상장되었다
 	- Our company is listed on the Second Market.
-<!--SR:!2025-02-06,1,130-->
+<!--SR:!2025-02-09,1,130-->
 
 ## 태우다 #card
 ?
@@ -679,7 +679,7 @@
 	- I can't help being doubtful[skeptical] of his ability.
 - 형님께서는 지금... 시원이 식구를 의심하시는 것 같다...
 	- To the boss now, it seems he is skeptical of sl won's family
-<!--SR:!2025-02-04,1,130-->
+<!--SR:!2025-02-09,1,130-->
 
 ## 명실상부 #card
 ?
