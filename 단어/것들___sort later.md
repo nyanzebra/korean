@@ -824,7 +824,7 @@ go in and out frequently
 ### 예
 - 어린이를 풀에서 헤엄치게 하다
 	- let the children swim in the pool.
-<!--SR:!2025-02-08,9,162-->
+<!--SR:!2025-02-24,16,162-->
 
 ## 햇빛에 타다 #card
 ?
@@ -863,7 +863,7 @@ go in and out frequently
 - picture book?
 ### 예
 -
-<!--SR:!2025-02-06,1,130-->
+<!--SR:!2025-02-09,1,130-->
 
 ## 기록하다 #card
 ?
@@ -1200,7 +1200,7 @@ go in and out frequently
 	- a man of dubious morality[character]/a degenerate.
 - 경찰관은 평소에도 소행을 조심하지 않으면 안 된다
 	- Police officers should always be careful of[watch] their own conduct.
-<!--SR:!2025-02-06,1,130-->
+<!--SR:!2025-02-09,1,130-->
 
 ## 따지다 #card
 ?
