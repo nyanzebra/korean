@@ -503,7 +503,7 @@
 	- I am hoping against hope that he will come back.
 - 내게 너무 기대하지 말게
 	- Don't expect too much of me.
-<!--SR:!2025-02-06,1,134-->
+<!--SR:!2025-02-09,1,134-->
 
 ## 부자간 #card
 ?
@@ -529,7 +529,7 @@
 - Why don't you swipe the family register and put a few tails on him?
 ### 예
 -
-<!--SR:!2025-02-08,12,175-->
+<!--SR:!2025-03-01,21,175-->
 
 ## 군말하다 #card
 ?
@@ -687,7 +687,7 @@
 - ?
 ### 예
 -
-<!--SR:!2025-02-06,1,130-->
+<!--SR:!2025-02-09,1,130-->
 
 ## 불행하다 #card
 ?
@@ -730,7 +730,7 @@
 	- There were no signs of their having discussed the matter.
 - 나는 낌새를 알고 있었다
 	- I had an inkling of it.
-<!--SR:!2025-02-08,9,155-->
+<!--SR:!2025-02-22,14,155-->
 
 ## 들락날락 #card
 ?
@@ -951,7 +951,7 @@ go in and out frequently
 - take a firm bite
 ### 예
 -
-<!--SR:!2025-01-30,1,135-->
+<!--SR:!2025-02-09,1,135-->
 
 ## 단번에 #card
 ?
@@ -1097,7 +1097,7 @@ go in and out frequently
 ### 예
 - 소지품 전부에 자기 이름을 붙이다
 	- put one's name on all one's belongings.
-<!--SR:!2025-02-05,1,130-->
+<!--SR:!2025-02-09,1,130-->
 
 ## 결국 #card
 ?
