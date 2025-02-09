@@ -512,7 +512,7 @@
 ### 예
 - 부자간의 멋진 대화를 나눠야죠
 	- We'll have a nice father-son chat.
-<!--SR:!2025-02-07,3,154-->
+<!--SR:!2025-02-13,5,154-->
 
 
 ## 투기장 #card
@@ -929,7 +929,7 @@ go in and out frequently
 ### 예
 - 그녀는 질책을 받아도 부끄럽지도 않은 것 같고 사과하려고 하지도 않습니다.
 	- She never seems embarrassed about the reprimand, nor is she apologetic.
-<!--SR:!2025-02-07,2,155-->
+<!--SR:!2025-02-11,3,155-->
 
 ## 덤 #card
 ?
@@ -1324,7 +1324,7 @@ go in and out frequently
   - Is that why you are afraid of me?
 - 사실, 완전히 겁먹었죠. 저는 저체온증에 걸린 것 같았고 제 친구들은 결국 저를 물밖으로 꺼내야만 했습니다.
   - Actually, I was totally freaking out and I was borderline hypothermic, and my friends eventually had to help me out of the water.
-<!--SR:!2025-02-07,1,142-->
+<!--SR:!2025-02-09,1,142-->
 
 ## 박히다 #card
 ?
@@ -1382,7 +1382,7 @@ go in and out frequently
 - 이것은 정직한 사람이 손해를 보는 좋은 예다
 	- This is a good example of a case in which honesty doesn't pay.
 -
-<!--SR:!2025-02-08,2,150-->
+<!--SR:!2025-02-11,3,150-->
 
 ## 일부러 #card
 ?
