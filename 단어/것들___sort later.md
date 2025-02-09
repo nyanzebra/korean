@@ -1257,7 +1257,7 @@ go in and out frequently
 	- consult one's aides.
 - 변호사와 의논하다
 	- consult a lawyer.
-<!--SR:!2025-02-04,1,130-->
+<!--SR:!2025-02-09,1,130-->
 
 ## 꿇리다 #card
 ?
@@ -1358,7 +1358,7 @@ go in and out frequently
 - pond
 ### 예
 -
-<!--SR:!2025-02-04,8,152-->
+<!--SR:!2025-02-20,12,152-->
 
 ## 용서하다 #card
 ?
