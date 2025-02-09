@@ -379,7 +379,7 @@
 	- My father's condition remains the same.
 - 한 달이 지난 지금도 북한의 군사적 위협은 여전하다.
 	- A month has passed, and the North Korean military threat remains.
-<!--SR:!2025-02-08,5,155-->
+<!--SR:!2025-02-15,7,155-->
 
 ## 상장 #card
 ?
