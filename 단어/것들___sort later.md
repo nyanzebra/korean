@@ -1504,5 +1504,14 @@ go in and out frequently
 - 그녀는 격렬하게 몸을 떨기 시작했다. 그녀의 시선은 방 안을 이리저리 두리번거렸다.
 	- The woman began to tremble violently, and her eyes roamed distractedly about the room.
 
+## 돌려주다 #card
+?
+### 뜻
+- return
+- hand back
+- give back
+### 예
+-
+
 
 불다 blow 부르다 call 버리다 toss/completely 벌다 earn
