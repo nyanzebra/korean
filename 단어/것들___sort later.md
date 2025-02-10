@@ -395,7 +395,7 @@
 	- drape a flag in mourning[black].
 - 증권 거래소 2부에 우리 회사 주식이 상장되었다
 	- Our company is listed on the Second Market.
-<!--SR:!2025-02-09,1,130-->
+<!--SR:!2025-02-11,1,130-->
 
 ## 태우다 #card
 ?
@@ -1292,7 +1292,7 @@ go in and out frequently
 	- The racket made by the mob could be heard intermittently
 - 웅성거리는 대화 소리.
 	- a buzz of conversation
-<!--SR:!2025-01-28,1,130-->
+<!--SR:!2025-02-11,1,130-->
 
 ## 갈아입다 #card
 ?
