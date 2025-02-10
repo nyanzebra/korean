@@ -1516,7 +1516,17 @@ go in and out frequently
 - 종종 그들은 동물을 찾아서 주인에게 돌려주기도 합니다.
 	- Many times, they have found the animal to return to its owner.
 - 우리는 받은 것을 돌려주어야 한다.
+	- We should give back what we have received.
+
+## 거절하다 #card
+?
+### 뜻
+- refuse
+- reject
+### 예
+- 나는 복잡한 사정이 있어 그 제의를 거절하지 않을 수 없었다
 	- 
+
 
 
 불다 blow 부르다 call 버리다 toss/completely 벌다 earn
