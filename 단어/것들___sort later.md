@@ -155,7 +155,7 @@
 	- They are venting out their bottled-up antipathy to a fellow lawmaker
 - 불편한 감정을 억누르거나 그런 감정을 가지고 있다고 자신을 판단하지 말라.
 	- Don’t repress uncomfortable emotions or judge yourself for having them
-<!--SR:!2025-02-09,7,130-->
+<!--SR:!2025-02-18,8,130-->
 
 ## 불길하다 #card
 ?
@@ -1110,7 +1110,7 @@ go in and out frequently
 	- Though he eventually recovered from the infection, the toll on his body led to him being unable to recover from sepsis, which ultimately took his life.
 - 하지만, 결국 관계는 자존심보다 더 중요하게 여겨져야 합니다.
 	- But, in the end, the relationship should be more important than one’s own pride
-<!--SR:!2025-02-04,1,130-->
+<!--SR:!2025-02-11,1,130-->
 
 ## 둔하다 #card
 ?
@@ -1139,7 +1139,7 @@ go in and out frequently
 - coordinating outfit
 ### 예
 -
-<!--SR:!2025-02-10,13,182-->
+<!--SR:!2025-03-07,25,182-->
 
 ## 뺨 #card
 ?
@@ -1156,7 +1156,7 @@ go in and out frequently
 - scar
 ### 예
 -
-<!--SR:!2025-02-09,9,162-->
+<!--SR:!2025-02-26,16,162-->
 
 ## 습격하다 #card
 ?
@@ -1185,7 +1185,7 @@ go in and out frequently
 	- The skin's a whole another thing, probably the hardest part.
 - 그리고 그와는 별개로, 저는 작곡과 단편을 썼습니다.
 	- And aside from that, I wrote music and short stories.
-<!--SR:!2025-02-09,1,130-->
+<!--SR:!2025-02-11,1,130-->
 
 ## 소행 #card
 ?
@@ -1309,7 +1309,7 @@ go in and out frequently
 - narrowly
 ### 예
 -
-<!--SR:!2025-02-08,2,150-->
+<!--SR:!2025-02-13,3,150-->
 
 ## 겁먹다 #card
 ?
