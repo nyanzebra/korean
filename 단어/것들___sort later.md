@@ -679,7 +679,7 @@
 	- I can't help being doubtful[skeptical] of his ability.
 - 형님께서는 지금... 시원이 식구를 의심하시는 것 같다...
 	- To the boss now, it seems he is skeptical of sl won's family
-<!--SR:!2025-02-09,1,130-->
+<!--SR:!2025-02-11,1,130-->
 
 ## 명실상부 #card
 ?
@@ -1097,7 +1097,7 @@ go in and out frequently
 ### 예
 - 소지품 전부에 자기 이름을 붙이다
 	- put one's name on all one's belongings.
-<!--SR:!2025-02-09,1,130-->
+<!--SR:!2025-02-11,1,130-->
 
 ## 결국 #card
 ?
