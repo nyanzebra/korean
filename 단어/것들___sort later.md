@@ -1525,7 +1525,11 @@ go in and out frequently
 - reject
 ### 예
 - 나는 복잡한 사정이 있어 그 제의를 거절하지 않을 수 없었다
-	- 
+	- I had to decline the offer on account of complicated circumstances.
+- 상대방이 나의 제안을 거절하면 나는 일전을 불사하겠다
+	- If the other party rejects my proposal, I shall not hesitate to fight.
+- 차제에 깨끗이 거절하지 않으면 안 된다
+	- You must give a flat refusal right now.
 
 
 
