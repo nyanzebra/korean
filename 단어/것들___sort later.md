@@ -1531,20 +1531,27 @@ go in and out frequently
 - 차제에 깨끗이 거절하지 않으면 안 된다
 	- You must give a flat refusal right now.
 
-## 단어 #card
+## 탐정 #card
+?
+### 뜻
+- detective (형사?)
+- sleuth
+### 예
+-
+
+## 독서 #card
+?
+### 뜻
+- reading?
+### 예
+-
+
+## 사나이 #card
 ?
 ### 뜻
 -
 ### 예
 -
-
-## 단어 #card
-?
-### 뜻
--
-### 예
--
-
 
 
 불다 blow 부르다 call 버리다 toss/completely 벌다 earn
