@@ -503,7 +503,7 @@
 	- I am hoping against hope that he will come back.
 - 내게 너무 기대하지 말게
 	- Don't expect too much of me.
-<!--SR:!2025-02-09,1,134-->
+<!--SR:!2025-02-11,1,134-->
 
 ## 부자간 #card
 ?
@@ -606,7 +606,7 @@
 	- accustom oneself to early rising
 - 규칙적인 생활을 해 버릇하다
 	- accustom oneself to a regular life.
-<!--SR:!2025-02-09,4,150-->
+<!--SR:!2025-02-16,6,150-->
 
 ## 쥐어짜다 #card
 ?
