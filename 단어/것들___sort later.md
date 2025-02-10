@@ -358,7 +358,7 @@
 	- result from slackened discipline among public officials.
 - 요즘 관기가 눈에 띄게 해이해 졌다
 	- These days official discipline has been remarkably slack[lax].
-<!--SR:!2025-02-10,3,154-->
+<!--SR:!2025-02-15,5,154-->
 
 ## 편안하다 #card
 ?
@@ -882,7 +882,7 @@ go in and out frequently
 - dentures
 ### 예
 -
-<!--SR:!2025-02-09,13,182-->
+<!--SR:!2025-03-05,23,182-->
 
 ## 건네다 #card
 ?
@@ -1004,7 +1004,7 @@ go in and out frequently
 	- be caught in mischief
 - 들키면 나는 큰일이다
 	- If I am discovered, I am done for
-<!--SR:!2025-02-06,1,130-->
+<!--SR:!2025-02-11,1,130-->
 
 ## 입장 #card
 ?
@@ -1168,7 +1168,7 @@ go in and out frequently
 	- The townspeople turned into rioters and attacked the town hall.
 - 적진을 습격하여 탈취했다
 	- The enemy camp was taken in a surprise attack.
-<!--SR:!2025-02-10,14,182-->
+<!--SR:!2025-03-08,26,182-->
 
 ## 별개 #card
 ?
