@@ -715,7 +715,7 @@
 	- She seems to be going about[around] with a questionable man.
 - 탐정은 수상한 그 사나이를 놓쳤다
 	- The detective lost track of the suspicious man.
-<!--SR:!2025-02-04,8,154-->
+<!--SR:!2025-02-22,12,154-->
 
 ## 낌새 #card
 ?
@@ -1530,6 +1530,20 @@ go in and out frequently
 	- If the other party rejects my proposal, I shall not hesitate to fight.
 - 차제에 깨끗이 거절하지 않으면 안 된다
 	- You must give a flat refusal right now.
+
+## 단어 #card
+?
+### 뜻
+-
+### 예
+-
+
+## 단어 #card
+?
+### 뜻
+-
+### 예
+-
 
 
 
