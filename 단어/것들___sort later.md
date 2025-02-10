@@ -1549,7 +1549,7 @@ go in and out frequently
 ## 사나이 #card
 ?
 ### 뜻
--
+- male
 ### 예
 -
 
