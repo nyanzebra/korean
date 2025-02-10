@@ -1511,7 +1511,12 @@ go in and out frequently
 - hand back
 - give back
 ### 예
--
+- 9월 29일, 퀸즐랜드 주 정부와 역사적인 협정을 통해 세계문화유산으로 등재된 데인트리 습지는 원래 토착민들한테 돌려주게 되었는데, 그 토착민들은 동부 쿠쿠 얄란지 사람들이다.
+	- The world heritage-listed Daintree Rainforest was returned to its original Indigenous owners, the Eastern Kuku Yalanji people, in a historic deal signed with Queensland’s state government on Sept. 29.
+- 종종 그들은 동물을 찾아서 주인에게 돌려주기도 합니다.
+	- Many times, they have found the animal to return to its owner.
+- 우리는 받은 것을 돌려주어야 한다.
+	- 
 
 
 불다 blow 부르다 call 버리다 toss/completely 벌다 earn
