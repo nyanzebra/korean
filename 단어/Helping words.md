@@ -109,9 +109,10 @@
 	- She is as beautiful as ever.
 <!--SR:!2025-02-13,16,164-->
 
-## 단어 #card
+## 자꾸 #card
 ?
 ### 뜻
--
+- keep
+- repeatedly
 ### 예
 -
