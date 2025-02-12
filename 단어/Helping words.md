@@ -120,6 +120,17 @@
 ## 충분하다 #card
 ?
 ### 뜻
+- sufficient
+- enough
+### 예
 -
+
+
+## 엄청나다 #card
+?
+### 뜻
+- enormous
+- huge
+- great
 ### 예
 -
