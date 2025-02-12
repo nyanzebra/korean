@@ -972,7 +972,7 @@ go in and out frequently
 ### 예
 - 여러모로, 우리의 이런 대담한 생각들은 가능성의 경계선을 밀어붙이는걸 돕습니다.
 	- In many ways, our audacity to imagine helps push the boundaries of possibility.
-<!--SR:!2025-02-12,16,195-->
+<!--SR:!2025-02-20,8,175-->
 
 ## 식료품 #card
 ?
