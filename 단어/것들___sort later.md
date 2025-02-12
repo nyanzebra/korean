@@ -1556,16 +1556,18 @@ go in and out frequently
 ## 적어도 #card
 ?
 ### 뜻
-- 
+- at least
 ### 예
--적어도 하루 두 번
+- 적어도 하루 두 번
+	- at least twice a day
 
-## 단어 #card
+## 기껏해야 #card
 ?
 ### 뜻
--
+- at most?
 ### 예
--
+- 기껏해야 하루에 한 번
+	- at most once a day
 
 
 불다 blow 부르다 call 버리다 toss/completely 벌다 earn
