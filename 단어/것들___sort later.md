@@ -410,7 +410,7 @@
 	- give 《a person》 a lift[ride] 《in one's car》/give 《a person》 a passage 《on one's boat》/(도와서) help 《a person》 into 《a car》/put[place] 《a child》 on 《a train》.
 - 그의 어머니를 부산행 열차에 태워 주도록 나는 그에게 부탁을 받았다
 	- I was asked to put his mother on the train bound for Busan.
-<!--SR:!2025-02-11,11,175-->
+<!--SR:!2025-03-03,19,175-->
 
 ## 포옹 #card
 ?
@@ -446,7 +446,7 @@
 - filial piety
 ### 예
 -
-<!--SR:!2025-02-11,3,135-->
+<!--SR:!2025-02-16,4,135-->
 
 
 ## 불효 #card
