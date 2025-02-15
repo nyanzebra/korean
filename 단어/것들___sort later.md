@@ -503,7 +503,7 @@
 	- I am hoping against hope that he will come back.
 - 내게 너무 기대하지 말게
 	- Don't expect too much of me.
-<!--SR:!2025-02-11,1,134-->
+<!--SR:!2025-02-16,1,134-->
 
 ## 부자간 #card
 ?
@@ -687,7 +687,7 @@
 - ?
 ### 예
 -
-<!--SR:!2025-02-09,1,130-->
+<!--SR:!2025-02-16,1,130-->
 
 ## 불행하다 #card
 ?
@@ -992,7 +992,7 @@ go in and out frequently
 ### 예
 - 플라스틱 가방은 흔히 식료 잡화류와 다른 상품들을 담기 위해 사용된다.
 	- Plastic bags are commonly used to carry groceries and other products.
-<!--SR:!2025-02-11,1,142-->
+<!--SR:!2025-02-16,1,142-->
 
 ## 들키다 #card
 ?
