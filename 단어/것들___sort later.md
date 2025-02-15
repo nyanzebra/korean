@@ -332,7 +332,7 @@
 	- My daughter looks like her, too.
 - "당신은 우리 아버지와 쏙 빼닮았습니다."라고 수치 여사가 안재욱에게 말했다.
 	- "You look just like my father," Suu Kyi told Ahn.
-<!--SR:!2025-02-07,10,174-->
+<!--SR:!2025-03-04,17,174-->
 
 
 ## 기강 #card
@@ -358,7 +358,7 @@
 	- result from slackened discipline among public officials.
 - 요즘 관기가 눈에 띄게 해이해 졌다
 	- These days official discipline has been remarkably slack[lax].
-<!--SR:!2025-02-15,5,154-->
+<!--SR:!2025-02-23,8,154-->
 
 ## 편안하다 #card
 ?
@@ -662,7 +662,7 @@
 - 별로 그렇게까지 (not so much)?
 ### 예
 -
-<!--SR:!2025-02-13,1,130-->
+<!--SR:!2025-02-16,1,130-->
 
 ## 의심하다 #card
 ?
@@ -702,7 +702,7 @@
 	- Recently we have had a run of bad luck in our family.
 - 그녀는 그런 불행한 일을 겪고도 태연하다
 	- Even after such an unhappy experience, she looks quite unconcerned.
-<!--SR:!2025-02-11,1,130-->
+<!--SR:!2025-02-16,1,130-->
 
 ## 수상하다 #card
 ?
@@ -1300,7 +1300,7 @@ go in and out frequently
 - change clothes
 ### 예
 -
-<!--SR:!2025-02-12,9,162-->
+<!--SR:!2025-03-02,15,162-->
 
 ## 간신히 #card
 ?
