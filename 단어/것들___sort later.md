@@ -569,7 +569,7 @@
 ### 예
 - 정상적으로 자랄 수 있게 잘 보살펴준 것
 	- Take good care of them so they can grow up normally.
-<!--SR:!2025-02-13,3,150-->
+<!--SR:!2025-02-20,5,150-->
 
 ## 조직 #card
 ?
