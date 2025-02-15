@@ -1123,7 +1123,7 @@ go in and out frequently
 	- The warmer weather makes them feel slower and more tired.
 - 너 참 둔하구나
 	- You are so oblivious.
-<!--SR:!2025-02-06,1,130-->
+<!--SR:!2025-02-16,1,130-->
 
 ## 소개팅 #card
 ?
