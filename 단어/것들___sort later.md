@@ -479,8 +479,8 @@
 ## 선행 #card
 ?
 ### 뜻
-- precede
-- advance
+- precede (하다)
+- advance (하다)
 - doing good
 ### 예
 - 그의 사상은 시대에 선행하고 있었다
@@ -491,7 +491,7 @@
 	- His good conduct set an example for the world.
 - 사람들은 소년의 선행을 극구 칭찬했다
 	- People praised[문어 lauded] the boy to the skies for his good deed.
-<!--SR:!2025-02-08,1,130-->
+<!--SR:!2025-02-16,1,130-->
 
 ## 기대하다 #card
 ?
@@ -874,7 +874,7 @@ go in and out frequently
 	- I have put down the course of events in detail[in full/minutely].
 - 이 팀은 과거 2년간 무패를 기록했다
 	- The team has not suffered a single defeat for the last two years.
-<!--SR:!2025-02-15,3,150-->
+<!--SR:!2025-02-20,5,150-->
 
 ## 틀니 #card
 ?
