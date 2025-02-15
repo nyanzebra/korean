@@ -24,3 +24,4 @@ V-아다 주다/어다 주다/해다 주다
 - Whereas, ‘아/어/해 주다’ is used when there is no change of places. And the action takes place in one place.
 
 나나: 미소 씨, 커피 좀 사 주세요.
+This is different from 사다 주다 in that this sentence indicates both parties are in same place
