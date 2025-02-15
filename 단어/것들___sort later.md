@@ -458,7 +458,7 @@
 ### 예
 - 부모님보다 먼저 이 세상을 하직하는 불효의 죄를 용서하십시오
 	- Dear parents, please pardon me for preceding you in death.
-<!--SR:!2025-02-13,17,194-->
+<!--SR:!2025-03-20,33,194-->
 
 
 ## 반항 #card
@@ -1393,7 +1393,7 @@ go in and out frequently
 	- People jokingly said the two chose different food at a cafeteria on purpose.
 - 일부러 정보를 주지 않는 것이 관객들이 몰입하게 합니다.
 	- You know, doing that intentionally is much more engaging.
-<!--SR:!2025-02-10,8,152-->
+<!--SR:!2025-02-28,13,152-->
 
 ## 당직 #card
 ?
