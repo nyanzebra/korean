@@ -1033,7 +1033,7 @@ go in and out frequently
 	- a bright[clever] boy
 - 그는 너무 똘똘해서 당할 수가 없다.
 	- He's too sharp for me.
-<!--SR:!2025-02-09,6,162-->
+<!--SR:!2025-02-26,11,162-->
 
 ## 잠입하다 #card
 ?
@@ -1216,7 +1216,7 @@ go in and out frequently
 	- This was surprising because other studies only counted prey that cats brought home.
 - 책임 소재를 따지지 않더라도, 여전히 국가 차원의 문제이며 한쪽은 다른 쪽보다 이 문제를 더 심각하게 생각하고 있습니다.
 	- But even if you blame nobody, it still is a national problem, and one side has been more concerned about it than the other.
-<!--SR:!2025-02-11,1,130-->
+<!--SR:!2025-02-16,1,130-->
 
 ## 전국 #card
 ?
