@@ -951,7 +951,7 @@ go in and out frequently
 - take a firm bite
 ### 예
 -
-<!--SR:!2025-02-13,1,135-->
+<!--SR:!2025-02-16,1,135-->
 
 ## 단번에 #card
 ?
