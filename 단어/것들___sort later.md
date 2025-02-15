@@ -474,7 +474,7 @@
 	- For the rebellious Sartre, then, turning down a world-famous award was completely in character.
 - 그녀는 아빠에게 반항하고 늘 모험을 떠날 준비가 되어있다.
 	- She rebels against her father and is always ready for adventure
-<!--SR:!2025-02-09,1,130-->
+<!--SR:!2025-02-16,1,130-->
 
 ## 선행 #card
 ?
@@ -786,7 +786,7 @@ go in and out frequently
 	- Not a breeze stirred the lake
 - 잔잔한 수면에는 잔물결 하나 없었다
 	- Not a ripple disturbed the glassy surface of the water.
-<!--SR:!2025-02-06,1,134-->
+<!--SR:!2025-02-16,1,134-->
 
 ## 흔들리다 #card
 ?
@@ -901,7 +901,7 @@ go in and out frequently
 	- Some of these brokers may have helped terrorists transfer money after the September 11 attacks.
 - 검찰에 따르면 모두 120명의 구직자들이 기아차에 입사하기 위해 뇌물을 건넨 것으로 밝혀졌다.
 	- A total of 120 employees were found to have paid bribes to gain work at the automaker's factory in Gwangju, 330 kilometers south of Seoul, according to the prosecution.
-<!--SR:!2025-02-06,4,142-->
+<!--SR:!2025-02-21,6,142-->
 
 ## 받은 틀니를 서둘러 꼈다 #card
 ?
@@ -1097,7 +1097,7 @@ go in and out frequently
 ### 예
 - 소지품 전부에 자기 이름을 붙이다
 	- put one's name on all one's belongings.
-<!--SR:!2025-02-11,1,130-->
+<!--SR:!2025-02-16,1,130-->
 
 ## 결국 #card
 ?
