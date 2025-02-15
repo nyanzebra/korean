@@ -429,7 +429,7 @@
 - I thought you were growing up wrong
 ### 예
 -
-<!--SR:!2025-02-06,10,174-->
+<!--SR:!2025-03-05,18,174-->
 
 ## 효자 #card
 ?
@@ -1004,7 +1004,7 @@ go in and out frequently
 	- be caught in mischief
 - 들키면 나는 큰일이다
 	- If I am discovered, I am done for
-<!--SR:!2025-02-11,1,130-->
+<!--SR:!2025-02-16,1,130-->
 
 ## 입장 #card
 ?
@@ -1369,7 +1369,7 @@ go in and out frequently
 	- Please forgive me, for I did not mean what I said.
 - 결코 나는 그를 용서할 수 없다
 	- I cannot forgive him on any account.
-<!--SR:!2025-02-09,10,172-->
+<!--SR:!2025-03-04,17,172-->
 
 ## 정직하다 #card
 ?
