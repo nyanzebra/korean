@@ -7,17 +7,17 @@ V-아다 주다/어다 주다/해다 주다
 - When the subject of the action is 'a superior' in '아다/어다/해다 주다', use '드리다' instead of '주다.'
 ### Restrictions
 ### Examples
-- 나나: 미소 씨, 편의점에서 커피 좀 사다 주세요.
+- 나나: 미소 씨, 편의점에서 커피 좀 사다 주세요. **()**
 	- Miso, please buy some coffee at the convenience store and give it to me.
-- 
+-  미소: 나나 씨에게 도서관에서 책을 빌려다 줬어요. **(빌리다 + 어다 주다)**
+	- I lent a book from the library and then gave it to Nana.
 ### Notes
-### V-아다 주다/어다 주다/해다 주다 vs V-아 주다/어 주다/해 주다
+#### V-아다 주다/어다 주다/해다 주다 vs V-아 주다/어 주다/해 주다
 
-**1) Similarity**
-
+##### Similarity
 - Both expressions are used to indicate doing something for the sake of others or to ask for something.
 
-**2) Difference**
+##### Difference
 
 - ‘아다/어다/해다 주다’ indicates that the action takes place in different places. That is, there is a change of places.
 
