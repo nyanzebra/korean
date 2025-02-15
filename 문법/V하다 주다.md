@@ -13,6 +13,8 @@ V-아다 주다/어다 주다/해다 주다
 	- I lent a book from the library and then gave it to Nana.
 - 미소: 할머니께 도서관에서 책을 빌려다 드렸어요.
 	- I borrowed a book from the library and then gave it to my grandma.
+- 할머니, 제가 반찬 좀 만들어다 드릴까요? (만들다 + 어다 드리다 + ㄹ 까요?)  
+    * Grandma, may I make some side dishes and give them to you?
 ### Notes
 #### V-아다 주다/어다 주다/해다 주다 vs V-아 주다/어 주다/해 주다
 
