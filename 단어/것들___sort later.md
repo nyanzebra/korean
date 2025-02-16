@@ -1569,17 +1569,19 @@ go in and out frequently
 - 기껏해야 하루에 한 번
 	- at most once a day
 
-## 단어 #card
+## 시도하다 #card
 ?
 ### 뜻
 -
 ### 예
 -
 
-## 단어 #card
+## 기도하다 #card
 ?
 ### 뜻
--
+- attempt
+- try
+- pray
 ### 예
 -
 
