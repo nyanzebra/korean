@@ -155,3 +155,17 @@
 - 10분 미만에
 	- in less than ten minutes.
 
+## 최소 #card
+?
+### 뜻
+- least
+### 예
+-
+
+## 최대 #card
+?
+### 뜻
+-
+### 예
+-
+
