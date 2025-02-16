@@ -159,13 +159,17 @@
 ?
 ### 뜻
 - least
+* minimum
 ### 예
--
+- 그는 최소의 비용으로 그것을 그럭저럭 해냈다
+	- He managed to do it at the minimum of cost.
 
 ## 최대 #card
 ?
 ### 뜻
 - most
+- maximum
 ### 예
--
+- 이번 합의는 지금까지 매치 그룹에 있어 최대 인수 합병이었다.
+	- The deal was the largest merger and acquisition of Match Group to date.
 
