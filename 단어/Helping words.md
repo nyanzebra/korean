@@ -140,7 +140,9 @@
 ### 뜻
 - more than
 ### 예
--
+- 무엇보다도, 자연 자원은 한 세기이상 동안 인간의 가장 친한 친구였다.
+	- First of all, natural resources have been man's best friend for more than a century now.
+- 
 
 ## 미만 #card
 ?
