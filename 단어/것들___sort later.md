@@ -1572,9 +1572,12 @@ go in and out frequently
 ## 시도하다 #card
 ?
 ### 뜻
--
+- implement
+- make plans
+- attempt
 ### 예
--
+- 그는 셰익스피어의 전역을 시도했다
+	- He attempted to translate all the works of Shakespeare.
 
 ## 기도하다 #card
 ?
