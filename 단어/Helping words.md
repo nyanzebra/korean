@@ -138,7 +138,7 @@
 ## 이상 #card
 ?
 ### 뜻
-- more th
+- more than
 ### 예
 -
 
