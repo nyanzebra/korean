@@ -1583,7 +1583,11 @@ go in and out frequently
 - try
 - pray
 ### 예
--
+- 자살을 기도하다
+	- attempt suicide
+- 무릎을 꿇고 기도하다
+	- kneel in prayer
+- 
 
 
 불다 blow 부르다 call 버리다 toss/completely 벌다 earn
