@@ -1578,6 +1578,8 @@ go in and out frequently
 ### 예
 - 그는 셰익스피어의 전역을 시도했다
 	- He attempted to translate all the works of Shakespeare.
+- 처음에 실패해도 또 다시 시도해보아라
+	- If at first you don't succeed, (try,) try again.
 
 ## 기도하다 #card
 ?
