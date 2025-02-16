@@ -1587,7 +1587,8 @@ go in and out frequently
 	- attempt suicide
 - 무릎을 꿇고 기도하다
 	- kneel in prayer
-- 
+- 젊은 장교들이 쿠데타를 기도했다
+	- Young officers tried to carry out a coup d'état.
 
 
 불다 blow 부르다 call 버리다 toss/completely 벌다 earn
