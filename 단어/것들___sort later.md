@@ -662,7 +662,7 @@
 - 별로 그렇게까지 (not so much)?
 ### 예
 -
-<!--SR:!2025-02-16,1,130-->
+<!--SR:!2025-02-19,2,150-->
 
 ## 의심하다 #card
 ?
@@ -951,7 +951,7 @@ go in and out frequently
 - take a firm bite
 ### 예
 -
-<!--SR:!2025-02-16,1,135-->
+<!--SR:!2025-02-18,1,135-->
 
 ## 단번에 #card
 ?
@@ -992,7 +992,7 @@ go in and out frequently
 ### 예
 - 플라스틱 가방은 흔히 식료 잡화류와 다른 상품들을 담기 위해 사용된다.
 	- Plastic bags are commonly used to carry groceries and other products.
-<!--SR:!2025-02-16,1,142-->
+<!--SR:!2025-02-18,1,142-->
 
 ## 들키다 #card
 ?
@@ -1044,7 +1044,7 @@ go in and out frequently
 	- Some armed agents infiltrated Seoul.
 - 그는 결사의 각오로 적지에 잠입하였다
 	- He smuggled himself into enemy territory, ready to die if necessary.
-<!--SR:!2025-02-16,8,150-->
+<!--SR:!2025-03-01,12,150-->
 
 ## 캐내다 #card
 ?
@@ -1382,7 +1382,7 @@ go in and out frequently
 - 이것은 정직한 사람이 손해를 보는 좋은 예다
 	- This is a good example of a case in which honesty doesn't pay.
 -
-<!--SR:!2025-02-11,3,150-->
+<!--SR:!2025-02-22,5,150-->
 
 ## 일부러 #card
 ?
