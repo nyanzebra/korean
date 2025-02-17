@@ -773,7 +773,7 @@ go in and out frequently
 	- sleep regular hours
 - 이들은 수면에서 생활한다.
 	- They live at the surface of the water.
-<!--SR:!2025-02-17,12,155-->
+<!--SR:!2025-03-09,20,155-->
 
 ## 잔잔하다 #card
 ?
