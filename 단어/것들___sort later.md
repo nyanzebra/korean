@@ -474,7 +474,7 @@
 	- For the rebellious Sartre, then, turning down a world-famous award was completely in character.
 - 그녀는 아빠에게 반항하고 늘 모험을 떠날 준비가 되어있다.
 	- She rebels against her father and is always ready for adventure
-<!--SR:!2025-02-16,1,130-->
+<!--SR:!2025-02-18,1,130-->
 
 ## 선행 #card
 ?
@@ -639,7 +639,7 @@
 	- To dispel any doubts, she filmed herself slathering on a generous amount of shampoo, which failed to soften her rock-hard hair.
 - 천국은 넉넉하고, 흐르는 강으로 풍족한 정원입니다.
 	- It's plenty. It's gardens watered by running streams.
-<!--SR:!2025-02-16,3,150-->
+<!--SR:!2025-02-22,5,150-->
 
 ## 작용하다 #card
 ?
@@ -1055,7 +1055,7 @@ go in and out frequently
 	- root out a secret.
 - 나무 등걸을 캐내다
 	- dig up the stump of a tree.
-<!--SR:!2025-02-10,3,150-->
+<!--SR:!2025-02-22,5,150-->
 
 ## 나머지 #card
 ?
@@ -1266,7 +1266,7 @@ go in and out frequently
 - force to yield
 ### 예
 -
-<!--SR:!2025-02-16,1,130-->
+<!--SR:!2025-02-18,1,130-->
 
 ## 단체 #card
 ?
