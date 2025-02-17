@@ -366,7 +366,7 @@
 - physically or emotionally comfortable
 ### 예
 -
-<!--SR:!2025-02-10,7,182-->
+<!--SR:!2025-02-21,4,162-->
 
 ## 여전하다 #card
 ?
@@ -491,7 +491,7 @@
 	- His good conduct set an example for the world.
 - 사람들은 소년의 선행을 극구 칭찬했다
 	- People praised[문어 lauded] the boy to the skies for his good deed.
-<!--SR:!2025-02-16,1,130-->
+<!--SR:!2025-02-18,1,130-->
 
 ## 기대하다 #card
 ?
@@ -1110,7 +1110,7 @@ go in and out frequently
 	- Though he eventually recovered from the infection, the toll on his body led to him being unable to recover from sepsis, which ultimately took his life.
 - 하지만, 결국 관계는 자존심보다 더 중요하게 여겨져야 합니다.
 	- But, in the end, the relationship should be more important than one’s own pride
-<!--SR:!2025-02-11,1,130-->
+<!--SR:!2025-02-18,1,130-->
 
 ## 둔하다 #card
 ?
