@@ -1416,6 +1416,7 @@ go in and out frequently
 - plead for
 ### 예
 -
+<!--SR:!2025-02-18,1,144-->
 
 ## 물리다 #card
 ?
@@ -1468,6 +1469,7 @@ go in and out frequently
 - it has been a long time since we last met in person
 ### 예
 -
+<!--SR:!2025-02-19,2,164-->
 
 ## 제가 책임지겠습니다 #card
 ?
