@@ -815,7 +815,7 @@ go in and out frequently
 - wave (ocean/water)
 ### 예
 -
-<!--SR:!2025-02-17,12,155-->
+<!--SR:!2025-03-16,27,175-->
 
 ## 헤엄하다 #card
 ?
@@ -1097,7 +1097,7 @@ go in and out frequently
 ### 예
 - 소지품 전부에 자기 이름을 붙이다
 	- put one's name on all one's belongings.
-<!--SR:!2025-02-16,1,130-->
+<!--SR:!2025-02-19,2,150-->
 
 ## 결국 #card
 ?
@@ -1309,7 +1309,7 @@ go in and out frequently
 - narrowly
 ### 예
 -
-<!--SR:!2025-02-13,3,150-->
+<!--SR:!2025-02-24,7,170-->
 
 ## 겁먹다 #card
 ?
