@@ -446,7 +446,7 @@
 - filial piety
 ### 예
 -
-<!--SR:!2025-02-16,4,135-->
+<!--SR:!2025-02-22,5,135-->
 
 
 ## 불효 #card
@@ -1020,7 +1020,7 @@ go in and out frequently
 	- He delivered a staunch defense of the government.
 - 괴로운 입장
 	- an awkward situation.
-<!--SR:!2025-02-12,13,182-->
+<!--SR:!2025-03-14,25,182-->
 
 ## 똘똘하다 #card
 ?
