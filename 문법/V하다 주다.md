@@ -13,12 +13,13 @@ V-아다 주다/어다 주다/해다 주다
 	- I lent a book from the library and then gave it to Nana.
 - 미소: 할머니께 도서관에서 책을 빌려다 드렸어요.
 	- I borrowed a book from the library and then gave it to my grandma.
-- 할머니, 제가 반찬 좀 만들어다 드릴까요? (만들다 + 어다 드리다 + ㄹ 까요?)  
+- 할머니, 제가 반찬 좀 만들어다 드릴까요? (만들다 + 어다 드리다 + ㄹ 까요?)
     * Grandma, may I make some side dishes and give them to you?
 #### Extra
 - 나나: 여보세요? 미소 씨, 지금 어디예요?
 - 미소: 지금 회사에 가는 길인데, 왜요?
 - 나나: 그럼 부탁이 있는데요. 오는 길에 빵 좀 사다 줄 수 있어요?
+<!--SR:!2025-02-20,3,250-->
 
 * Nana: Hello? Miso, where are you now?
 * Miso: I'm on my way to work now, why?

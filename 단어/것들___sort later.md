@@ -1407,6 +1407,7 @@ go in and out frequently
 	- The watches are alternated[changed] every four hours.
 - 어젯밤에 당직했다
 	- I was on duty[watch] last night.
+<!--SR:!2025-02-18,1,144-->
 
 ## 변호하다 #card
 ?
