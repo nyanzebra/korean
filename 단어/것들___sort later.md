@@ -584,7 +584,7 @@
 	- organism
 - 조직도
 	- organization chart
-<!--SR:!2025-02-07,2,150-->
+<!--SR:!2025-02-20,3,150-->
 
 ## 간만 #card
 ?
@@ -863,7 +863,7 @@ go in and out frequently
 - picture book?
 ### 예
 -
-<!--SR:!2025-02-09,1,130-->
+<!--SR:!2025-02-19,2,150-->
 
 ## 기록하다 #card
 ?
@@ -918,7 +918,7 @@ go in and out frequently
 - masticate
 ### 예
 -
-<!--SR:!2025-02-17,14,182-->
+<!--SR:!2025-03-15,26,182-->
 
 ## 부끄럽다 #card
 ?
