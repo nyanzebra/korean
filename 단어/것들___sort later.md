@@ -750,7 +750,7 @@ go in and out frequently
 - draw out
 ### 예
 -
-<!--SR:!2025-02-07,10,174-->
+<!--SR:!2025-02-22,5,154-->
 
 ## 적임자 #card
 ?
@@ -1200,7 +1200,7 @@ go in and out frequently
 	- a man of dubious morality[character]/a degenerate.
 - 경찰관은 평소에도 소행을 조심하지 않으면 안 된다
 	- Police officers should always be careful of[watch] their own conduct.
-<!--SR:!2025-02-11,1,130-->
+<!--SR:!2025-02-18,1,130-->
 
 ## 따지다 #card
 ?
