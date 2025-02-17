@@ -679,7 +679,7 @@
 	- I can't help being doubtful[skeptical] of his ability.
 - 형님께서는 지금... 시원이 식구를 의심하시는 것 같다...
 	- To the boss now, it seems he is skeptical of sl won's family
-<!--SR:!2025-02-11,1,130-->
+<!--SR:!2025-02-18,1,130-->
 
 ## 명실상부 #card
 ?
@@ -807,7 +807,7 @@ go in and out frequently
 - secret technique
 ### 예
 -
-<!--SR:!2025-02-07,2,154-->
+<!--SR:!2025-02-20,3,154-->
 
 ## 물결 #card
 ?
