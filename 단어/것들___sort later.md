@@ -1224,7 +1224,7 @@ go in and out frequently
 - nationwide
 ### 예
 -
-<!--SR:!2025-02-15,12,182-->
+<!--SR:!2025-03-11,22,182-->
 
 ## 뒤지다 #card
 ?
