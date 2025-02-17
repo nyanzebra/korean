@@ -27,7 +27,7 @@
 	- It was a proud moment for me.
 - 뿌듯하게 맞다
 	- fit tightly/suit to a T.
-<!--SR:!2025-02-04,2,130-->
+<!--SR:!2025-02-18,1,130-->
 
 ## 매기다 #card
 ?
@@ -512,7 +512,7 @@
 ### 예
 - 부자간의 멋진 대화를 나눠야죠
 	- We'll have a nice father-son chat.
-<!--SR:!2025-02-13,5,154-->
+<!--SR:!2025-02-24,7,154-->
 
 
 ## 투기장 #card
@@ -942,7 +942,7 @@ go in and out frequently
 	- throw in something extra.
 - 덤으로 귤 2개를 드리겠습니다
 	- I'll throw these two oranges in extra./I'll give you two oranges into the bargain.
-<!--SR:!2025-02-17,14,154-->
+<!--SR:!2025-03-11,22,154-->
 
 ## 악물다 #card
 ?
@@ -1004,7 +1004,7 @@ go in and out frequently
 	- be caught in mischief
 - 들키면 나는 큰일이다
 	- If I am discovered, I am done for
-<!--SR:!2025-02-16,1,130-->
+<!--SR:!2025-02-18,1,130-->
 
 ## 입장 #card
 ?
@@ -1216,7 +1216,7 @@ go in and out frequently
 	- This was surprising because other studies only counted prey that cats brought home.
 - 책임 소재를 따지지 않더라도, 여전히 국가 차원의 문제이며 한쪽은 다른 쪽보다 이 문제를 더 심각하게 생각하고 있습니다.
 	- But even if you blame nobody, it still is a national problem, and one side has been more concerned about it than the other.
-<!--SR:!2025-02-16,1,130-->
+<!--SR:!2025-02-18,1,130-->
 
 ## 전국 #card
 ?
