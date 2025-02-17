@@ -1489,6 +1489,7 @@ go in and out frequently
 - admiration
 ### 예
 -
+<!--SR:!2025-02-18,1,144-->
 
 ## 존경심 #card
 ?
@@ -1558,6 +1559,7 @@ go in and out frequently
 - male
 ### 예
 -
+<!--SR:!2025-02-19,2,164-->
 
 ## 적어도 #card
 ?
@@ -1601,6 +1603,7 @@ go in and out frequently
 	- kneel in prayer
 - 젊은 장교들이 쿠데타를 기도했다
 	- Young officers tried to carry out a coup d'état.
+<!--SR:!2025-02-19,2,164-->
 
 
 불다 blow 부르다 call 버리다 toss/completely 벌다 earn
