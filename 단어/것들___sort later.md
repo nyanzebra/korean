@@ -606,7 +606,7 @@
 	- accustom oneself to early rising
 - 규칙적인 생활을 해 버릇하다
 	- accustom oneself to a regular life.
-<!--SR:!2025-02-16,6,150-->
+<!--SR:!2025-02-20,3,130-->
 
 ## 쥐어짜다 #card
 ?
@@ -1185,7 +1185,7 @@ go in and out frequently
 	- The skin's a whole another thing, probably the hardest part.
 - 그리고 그와는 별개로, 저는 작곡과 단편을 썼습니다.
 	- And aside from that, I wrote music and short stories.
-<!--SR:!2025-02-11,1,130-->
+<!--SR:!2025-02-18,1,130-->
 
 ## 소행 #card
 ?
