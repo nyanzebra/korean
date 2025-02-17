@@ -1439,6 +1439,7 @@ go in and out frequently
 	- exorcise evil spirits
 - 하루하루 물리다
 	- put off from day to day.
+<!--SR:!2025-02-18,1,144-->
 
 ## 미치다 #card
 ?
@@ -1520,6 +1521,7 @@ go in and out frequently
 	- Many times, they have found the animal to return to its owner.
 - 우리는 받은 것을 돌려주어야 한다.
 	- We should give back what we have received.
+<!--SR:!2025-02-19,2,164-->
 
 ## 거절하다 #card
 ?
