@@ -1123,7 +1123,7 @@ go in and out frequently
 	- The warmer weather makes them feel slower and more tired.
 - 너 참 둔하구나
 	- You are so oblivious.
-<!--SR:!2025-02-16,1,130-->
+<!--SR:!2025-02-18,1,130-->
 
 ## 소개팅 #card
 ?
@@ -1131,7 +1131,7 @@ go in and out frequently
 - blind date
 ### 예
 -
-<!--SR:!2025-02-16,12,182-->
+<!--SR:!2025-03-12,23,182-->
 
 ## 코디 #card
 ?
@@ -1333,7 +1333,7 @@ go in and out frequently
 - stuck
 ### 예
 -
-<!--SR:!2025-02-11,1,130-->
+<!--SR:!2025-02-18,1,130-->
 
 ## 굳은살 #card
 ?
