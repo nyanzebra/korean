@@ -1450,6 +1450,7 @@ go in and out frequently
 - reach
 ### 예
 -
+<!--SR:!2025-02-19,2,184-->
 
 ## 별명 #card
 ?
@@ -1532,6 +1533,7 @@ go in and out frequently
 	- If the other party rejects my proposal, I shall not hesitate to fight.
 - 차제에 깨끗이 거절하지 않으면 안 된다
 	- You must give a flat refusal right now.
+<!--SR:!2025-02-19,2,164-->
 
 ## 탐정 #card
 ?
@@ -1570,6 +1572,7 @@ go in and out frequently
 ### 예
 - 기껏해야 하루에 한 번
 	- at most once a day
+<!--SR:!2025-02-18,1,144-->
 
 ## 시도하다 #card
 ?
