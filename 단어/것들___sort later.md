@@ -503,7 +503,7 @@
 	- I am hoping against hope that he will come back.
 - 내게 너무 기대하지 말게
 	- Don't expect too much of me.
-<!--SR:!2025-02-16,1,134-->
+<!--SR:!2025-02-19,2,154-->
 
 ## 부자간 #card
 ?
@@ -548,7 +548,7 @@
 ### 예
 - 애초부터 우리는 불공평하게 대우받았다
 	- Right from the beginning[From the very beginning] we've been unfairly treated
-<!--SR:!2025-02-16,19,195-->
+<!--SR:!2025-03-26,37,195-->
 
 ## 보살피다 #card
 ?
@@ -702,7 +702,7 @@
 	- Recently we have had a run of bad luck in our family.
 - 그녀는 그런 불행한 일을 겪고도 태연하다
 	- Even after such an unhappy experience, she looks quite unconcerned.
-<!--SR:!2025-02-16,1,130-->
+<!--SR:!2025-02-19,2,150-->
 
 ## 수상하다 #card
 ?
@@ -1292,7 +1292,7 @@ go in and out frequently
 	- The racket made by the mob could be heard intermittently
 - 웅성거리는 대화 소리.
 	- a buzz of conversation
-<!--SR:!2025-02-11,1,130-->
+<!--SR:!2025-02-19,2,150-->
 
 ## 갈아입다 #card
 ?
