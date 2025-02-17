@@ -654,7 +654,7 @@
 	- Some supernatural power seems to be at work
 - 연이 올라갈 때는 바람이 양력으로 작용한다
 	- When a kite flies, the wind provides lift.
-<!--SR:!2025-02-09,1,130-->
+<!--SR:!2025-02-18,1,130-->
 
 ## 그닥 #card
 ?
@@ -1257,7 +1257,7 @@ go in and out frequently
 	- consult one's aides.
 - 변호사와 의논하다
 	- consult a lawyer.
-<!--SR:!2025-02-09,1,130-->
+<!--SR:!2025-02-18,1,130-->
 
 ## 꿇리다 #card
 ?
