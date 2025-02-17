@@ -1459,6 +1459,7 @@ go in and out frequently
 - nickname
 ### 예
 -
+<!--SR:!2025-02-18,1,144-->
 
 ## 우리가 마지막으로 직접 만난 지 오래되었다 #card
 ?
