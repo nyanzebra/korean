@@ -594,7 +594,7 @@
 ### 예
 - 간만에 바람 좀 쐬면서 걸을까 한다
 	- It's been a while since I've had some fresh air
-<!--SR:!2025-01-31,1,130-->
+<!--SR:!2025-02-18,1,130-->
 
 ## 버릇하다 #card
 ?
@@ -929,7 +929,7 @@ go in and out frequently
 ### 예
 - 그녀는 질책을 받아도 부끄럽지도 않은 것 같고 사과하려고 하지도 않습니다.
 	- She never seems embarrassed about the reprimand, nor is she apologetic.
-<!--SR:!2025-02-11,3,155-->
+<!--SR:!2025-02-22,5,155-->
 
 ## 덤 #card
 ?
@@ -1342,7 +1342,7 @@ go in and out frequently
 - callus
 ### 예
 -
-<!--SR:!2025-02-16,1,142-->
+<!--SR:!2025-02-18,1,142-->
 
 ## 초식 #card
 ?
