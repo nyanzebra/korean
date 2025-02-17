@@ -395,7 +395,7 @@
 	- drape a flag in mourning[black].
 - 증권 거래소 2부에 우리 회사 주식이 상장되었다
 	- Our company is listed on the Second Market.
-<!--SR:!2025-02-16,1,130-->
+<!--SR:!2025-02-18,1,130-->
 
 ## 태우다 #card
 ?
@@ -559,7 +559,7 @@
 ### 예
 - 정상적으로 자랄 수 있게 잘 보살펴준 것
 	- Take good care of them so they can grow up normally.
-<!--SR:!2025-02-11,1,135-->
+<!--SR:!2025-02-18,1,135-->
 
 ## 정상 #card
 ?
