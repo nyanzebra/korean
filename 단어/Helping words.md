@@ -136,6 +136,7 @@
 - great
 ### 예
 -
+<!--SR:!2025-02-19,2,239-->
 
 ## 이상 #card
 ?
@@ -156,6 +157,7 @@
 	- Those who get[score] under 50 will not pass.
 - 10분 미만에
 	- in less than ten minutes.
+<!--SR:!2025-02-18,1,219-->
 
 ## 최소 #card
 ?
@@ -175,4 +177,5 @@
 ### 예
 - 이번 합의는 지금까지 매치 그룹에 있어 최대 인수 합병이었다.
 	- The deal was the largest merger and acquisition of Match Group to date.
+<!--SR:!2025-02-18,1,219-->
 

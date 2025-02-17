@@ -1474,6 +1474,7 @@ go in and out frequently
 - I will take responsibility
 ### 예
 -
+<!--SR:!2025-02-19,2,164-->
 
 ## 정중하다 #card
 ?
@@ -1482,6 +1483,7 @@ go in and out frequently
 - courteous
 ### 예
 - 그니까 좀 정중해져 보세요
+<!--SR:!2025-02-18,1,144-->
 
 ## 존경 #card
 ?
@@ -1546,6 +1548,7 @@ go in and out frequently
 - sleuth
 ### 예
 -
+<!--SR:!2025-02-18,1,144-->
 
 ## 독서 #card
 ?
