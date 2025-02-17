@@ -438,7 +438,7 @@
 ### 예
 - 효자가 충신이 된다
 	- A good son will make a good subject.
-<!--SR:!2025-02-13,11,195-->
+<!--SR:!2025-03-10,21,195-->
 
 ## 효도하다 #card
 ?
@@ -786,7 +786,7 @@ go in and out frequently
 	- Not a breeze stirred the lake
 - 잔잔한 수면에는 잔물결 하나 없었다
 	- Not a ripple disturbed the glassy surface of the water.
-<!--SR:!2025-02-16,1,134-->
+<!--SR:!2025-02-18,1,134-->
 
 ## 흔들리다 #card
 ?
@@ -909,7 +909,7 @@ go in and out frequently
 - I hastily put on my dentures
 ### 예
 -
-<!--SR:!2025-02-12,10,174-->
+<!--SR:!2025-03-06,17,174-->
 
 ## 씹히다 #card
 ?
