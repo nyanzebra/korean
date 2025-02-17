@@ -1552,6 +1552,7 @@ go in and out frequently
 - reading?
 ### 예
 -
+<!--SR:!2025-02-19,2,164-->
 
 ## 사나이 #card
 ?
@@ -1568,6 +1569,7 @@ go in and out frequently
 ### 예
 - 적어도 하루 두 번
 	- at least twice a day
+<!--SR:!2025-02-18,1,144-->
 
 ## 기껏해야 #card
 ?
@@ -1589,6 +1591,7 @@ go in and out frequently
 	- He attempted to translate all the works of Shakespeare.
 - 처음에 실패해도 또 다시 시도해보아라
 	- If at first you don't succeed, (try,) try again.
+<!--SR:!2025-02-19,2,164-->
 
 ## 기도하다 #card
 ?
