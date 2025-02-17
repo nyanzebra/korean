@@ -346,7 +346,7 @@
 	- The administration should show determination in maintaining the discipline of government officials.
 - 그들은 아침 일찍 일어나는 것이 학생들로 하여금 기강을 발전시키는 것을 돕는다고 말했다.
 	- They said that getting up early helps students develop discipline.
-<!--SR:!2025-02-08,1,130-->
+<!--SR:!2025-02-19,2,150-->
 
 ## 해이하다 #card
 ?
@@ -379,7 +379,7 @@
 	- My father's condition remains the same.
 - 한 달이 지난 지금도 북한의 군사적 위협은 여전하다.
 	- A month has passed, and the North Korean military threat remains.
-<!--SR:!2025-02-15,7,155-->
+<!--SR:!2025-03-05,16,175-->
 
 ## 상장 #card
 ?
@@ -538,7 +538,7 @@
 ### 예
 - 항상 군말없이 따라주는 네 수고는 내가 다 기억한다
 	- I remember all the trouble you've gone to to keep me company!
-<!--SR:!2025-02-07,1,130-->
+<!--SR:!2025-02-19,2,150-->
 
 ## 애초 #card
 ?
@@ -1324,7 +1324,7 @@ go in and out frequently
   - Is that why you are afraid of me?
 - 사실, 완전히 겁먹었죠. 저는 저체온증에 걸린 것 같았고 제 친구들은 결국 저를 물밖으로 꺼내야만 했습니다.
   - Actually, I was totally freaking out and I was borderline hypothermic, and my friends eventually had to help me out of the water.
-<!--SR:!2025-02-09,1,142-->
+<!--SR:!2025-02-19,2,162-->
 
 ## 박히다 #card
 ?
@@ -1350,7 +1350,7 @@ go in and out frequently
 - herbivore
 ### 예
 -
-<!--SR:!2025-02-17,5,150-->
+<!--SR:!2025-02-28,11,170-->
 
 ## 연못 #card
 ?
