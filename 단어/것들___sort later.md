@@ -594,7 +594,7 @@
 ### 예
 - 간만에 바람 좀 쐬면서 걸을까 한다
 	- It's been a while since I've had some fresh air
-<!--SR:!2025-02-18,1,130-->
+<!--SR:!2025-02-19,1,130-->
 
 ## 버릇하다 #card
 ?
@@ -654,7 +654,7 @@
 	- Some supernatural power seems to be at work
 - 연이 올라갈 때는 바람이 양력으로 작용한다
 	- When a kite flies, the wind provides lift.
-<!--SR:!2025-02-18,1,130-->
+<!--SR:!2025-02-19,1,130-->
 
 ## 그닥 #card
 ?
@@ -799,7 +799,7 @@ go in and out frequently
 	- reeds swaying in the wind.
 - 성균관대 교수들에 따르면 기계적 공명 때문이라고 건물이 흔들렸다고 한다.
 	- According to the professors, the building shook because of mechanical resonance.
-<!--SR:!2025-02-18,15,162-->
+<!--SR:!2025-03-25,35,182-->
 
 ## 비술 #card
 ?
@@ -1004,7 +1004,7 @@ go in and out frequently
 	- be caught in mischief
 - 들키면 나는 큰일이다
 	- If I am discovered, I am done for
-<!--SR:!2025-02-18,1,130-->
+<!--SR:!2025-02-19,1,130-->
 
 ## 입장 #card
 ?
@@ -1123,7 +1123,7 @@ go in and out frequently
 	- The warmer weather makes them feel slower and more tired.
 - 너 참 둔하구나
 	- You are so oblivious.
-<!--SR:!2025-02-18,1,130-->
+<!--SR:!2025-02-20,2,150-->
 
 ## 소개팅 #card
 ?
@@ -1216,7 +1216,7 @@ go in and out frequently
 	- This was surprising because other studies only counted prey that cats brought home.
 - 책임 소재를 따지지 않더라도, 여전히 국가 차원의 문제이며 한쪽은 다른 쪽보다 이 문제를 더 심각하게 생각하고 있습니다.
 	- But even if you blame nobody, it still is a national problem, and one side has been more concerned about it than the other.
-<!--SR:!2025-02-18,1,130-->
+<!--SR:!2025-02-19,1,130-->
 
 ## 전국 #card
 ?
@@ -1342,7 +1342,7 @@ go in and out frequently
 - callus
 ### 예
 -
-<!--SR:!2025-02-18,1,142-->
+<!--SR:!2025-02-20,2,162-->
 
 ## 초식 #card
 ?
@@ -1504,7 +1504,7 @@ go in and out frequently
 ### 예
 - 조금이라도 존경심을 보일 순 없어?
 	- Could you show some respect?
-<!--SR:!2025-02-18,1,144-->
+<!--SR:!2025-02-19,1,144-->
 
 ## 두리번거리다 #card
 ?
