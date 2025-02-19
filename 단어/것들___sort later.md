@@ -155,7 +155,7 @@
 	- They are venting out their bottled-up antipathy to a fellow lawmaker
 - 불편한 감정을 억누르거나 그런 감정을 가지고 있다고 자신을 판단하지 말라.
 	- Don’t repress uncomfortable emotions or judge yourself for having them
-<!--SR:!2025-02-18,8,130-->
+<!--SR:!2025-02-27,9,130-->
 
 ## 불길하다 #card
 ?
@@ -491,7 +491,7 @@
 	- His good conduct set an example for the world.
 - 사람들은 소년의 선행을 극구 칭찬했다
 	- People praised[문어 lauded] the boy to the skies for his good deed.
-<!--SR:!2025-02-18,1,130-->
+<!--SR:!2025-02-19,1,130-->
 
 ## 기대하다 #card
 ?
@@ -1185,7 +1185,7 @@ go in and out frequently
 	- The skin's a whole another thing, probably the hardest part.
 - 그리고 그와는 별개로, 저는 작곡과 단편을 썼습니다.
 	- And aside from that, I wrote music and short stories.
-<!--SR:!2025-02-18,1,130-->
+<!--SR:!2025-02-19,1,130-->
 
 ## 소행 #card
 ?
@@ -1333,7 +1333,7 @@ go in and out frequently
 - stuck
 ### 예
 -
-<!--SR:!2025-02-18,1,130-->
+<!--SR:!2025-02-19,1,130-->
 
 ## 굳은살 #card
 ?
@@ -1407,7 +1407,7 @@ go in and out frequently
 	- The watches are alternated[changed] every four hours.
 - 어젯밤에 당직했다
 	- I was on duty[watch] last night.
-<!--SR:!2025-02-18,1,144-->
+<!--SR:!2025-02-19,1,130-->
 
 ## 변호하다 #card
 ?
@@ -1495,7 +1495,7 @@ go in and out frequently
 - admiration
 ### 예
 -
-<!--SR:!2025-02-18,1,144-->
+<!--SR:!2025-02-19,1,130-->
 
 ## 존경심 #card
 ?
