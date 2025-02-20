@@ -474,7 +474,7 @@
 	- For the rebellious Sartre, then, turning down a world-famous award was completely in character.
 - 그녀는 아빠에게 반항하고 늘 모험을 떠날 준비가 되어있다.
 	- She rebels against her father and is always ready for adventure
-<!--SR:!2025-02-18,1,130-->
+<!--SR:!2025-02-21,2,150-->
 
 ## 선행 #card
 ?
@@ -654,7 +654,7 @@
 	- Some supernatural power seems to be at work
 - 연이 올라갈 때는 바람이 양력으로 작용한다
 	- When a kite flies, the wind provides lift.
-<!--SR:!2025-02-19,1,130-->
+<!--SR:!2025-02-21,2,150-->
 
 ## 그닥 #card
 ?
@@ -1469,7 +1469,7 @@ go in and out frequently
 - it has been a long time since we last met in person
 ### 예
 -
-<!--SR:!2025-02-19,2,164-->
+<!--SR:!2025-02-22,3,164-->
 
 ## 제가 책임지겠습니다 #card
 ?
@@ -1542,7 +1542,7 @@ go in and out frequently
 	- If the other party rejects my proposal, I shall not hesitate to fight.
 - 차제에 깨끗이 거절하지 않으면 안 된다
 	- You must give a flat refusal right now.
-<!--SR:!2025-02-19,2,164-->
+<!--SR:!2025-02-22,3,164-->
 
 ## 탐정 #card
 ?
