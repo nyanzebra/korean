@@ -951,7 +951,7 @@ go in and out frequently
 - take a firm bite
 ### 예
 -
-<!--SR:!2025-02-18,1,135-->
+<!--SR:!2025-02-21,2,155-->
 
 ## 단번에 #card
 ?
@@ -1266,7 +1266,7 @@ go in and out frequently
 - force to yield
 ### 예
 -
-<!--SR:!2025-02-18,1,130-->
+<!--SR:!2025-02-21,2,150-->
 
 ## 단체 #card
 ?
@@ -1598,7 +1598,7 @@ go in and out frequently
 	- He attempted to translate all the works of Shakespeare.
 - 처음에 실패해도 또 다시 시도해보아라
 	- If at first you don't succeed, (try,) try again.
-<!--SR:!2025-02-19,2,164-->
+<!--SR:!2025-02-22,3,164-->
 
 ## 기도하다 #card
 ?
