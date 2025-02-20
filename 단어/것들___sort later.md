@@ -1477,7 +1477,7 @@ go in and out frequently
 - I will take responsibility
 ### 예
 -
-<!--SR:!2025-02-19,2,164-->
+<!--SR:!2025-02-22,3,164-->
 
 ## 정중하다 #card
 ?
