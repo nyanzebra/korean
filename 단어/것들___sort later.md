@@ -559,7 +559,7 @@
 ### 예
 - 정상적으로 자랄 수 있게 잘 보살펴준 것
 	- Take good care of them so they can grow up normally.
-<!--SR:!2025-02-18,1,135-->
+<!--SR:!2025-02-21,2,155-->
 
 ## 정상 #card
 ?
@@ -740,7 +740,7 @@ go in and out frequently
 ### 예
 - 울타리 틈새로 고양이가 들락날락하고 있다
 	- Cats go in and out through the opening in the fence.
-<!--SR:!2025-02-18,8,154-->
+<!--SR:!2025-03-09,18,174-->
 
 ## 꺼내다 #card
 ?
@@ -1495,7 +1495,7 @@ go in and out frequently
 - admiration
 ### 예
 -
-<!--SR:!2025-02-19,1,130-->
+<!--SR:!2025-02-20,1,130-->
 
 ## 존경심 #card
 ?
@@ -1585,7 +1585,7 @@ go in and out frequently
 ### 예
 - 기껏해야 하루에 한 번
 	- at most once a day
-<!--SR:!2025-02-18,1,144-->
+<!--SR:!2025-02-20,1,130-->
 
 ## 시도하다 #card
 ?
