@@ -1200,7 +1200,7 @@ go in and out frequently
 	- a man of dubious morality[character]/a degenerate.
 - 경찰관은 평소에도 소행을 조심하지 않으면 안 된다
 	- Police officers should always be careful of[watch] their own conduct.
-<!--SR:!2025-02-18,1,130-->
+<!--SR:!2025-02-21,2,150-->
 
 ## 따지다 #card
 ?
@@ -1407,7 +1407,7 @@ go in and out frequently
 	- The watches are alternated[changed] every four hours.
 - 어젯밤에 당직했다
 	- I was on duty[watch] last night.
-<!--SR:!2025-02-19,1,130-->
+<!--SR:!2025-02-20,1,130-->
 
 ## 변호하다 #card
 ?
@@ -1461,7 +1461,7 @@ go in and out frequently
 - nickname
 ### 예
 -
-<!--SR:!2025-02-18,1,144-->
+<!--SR:!2025-02-20,1,130-->
 
 ## 우리가 마지막으로 직접 만난 지 오래되었다 #card
 ?
@@ -1504,7 +1504,7 @@ go in and out frequently
 ### 예
 - 조금이라도 존경심을 보일 순 없어?
 	- Could you show some respect?
-<!--SR:!2025-02-19,1,144-->
+<!--SR:!2025-02-20,1,144-->
 
 ## 두리번거리다 #card
 ?
