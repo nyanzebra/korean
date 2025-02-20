@@ -320,7 +320,7 @@
 	- Van Gogh suffered a lot.
 - 한국은 지난 몇 주 동안 극심한 더위를 겪고 있습니다.
 	- Korea has been experiencing extreme heat for the past few weeks.
-<!--SR:!2025-02-18,19,215-->
+<!--SR:!2025-04-02,42,215-->
 
 ## 쏙/꼭 빼닮다 #card
 ?
@@ -760,7 +760,7 @@ go in and out frequently
 - right man
 ### 예
 -
-<!--SR:!2025-02-19,13,154-->
+<!--SR:!2025-03-10,19,154-->
 
 ## 수면 #card
 ?
@@ -1257,7 +1257,7 @@ go in and out frequently
 	- consult one's aides.
 - 변호사와 의논하다
 	- consult a lawyer.
-<!--SR:!2025-02-18,1,130-->
+<!--SR:!2025-02-21,2,150-->
 
 ## 꿇리다 #card
 ?
@@ -1324,7 +1324,7 @@ go in and out frequently
   - Is that why you are afraid of me?
 - 사실, 완전히 겁먹었죠. 저는 저체온증에 걸린 것 같았고 제 친구들은 결국 저를 물밖으로 꺼내야만 했습니다.
   - Actually, I was totally freaking out and I was borderline hypothermic, and my friends eventually had to help me out of the water.
-<!--SR:!2025-02-19,2,162-->
+<!--SR:!2025-02-22,3,162-->
 
 ## 박히다 #card
 ?
