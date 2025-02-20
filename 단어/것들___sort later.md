@@ -538,7 +538,7 @@
 ### 예
 - 항상 군말없이 따라주는 네 수고는 내가 다 기억한다
 	- I remember all the trouble you've gone to to keep me company!
-<!--SR:!2025-02-19,2,150-->
+<!--SR:!2025-02-22,3,150-->
 
 ## 애초 #card
 ?
@@ -786,7 +786,7 @@ go in and out frequently
 	- Not a breeze stirred the lake
 - 잔잔한 수면에는 잔물결 하나 없었다
 	- Not a ripple disturbed the glassy surface of the water.
-<!--SR:!2025-02-19,1,134-->
+<!--SR:!2025-02-21,2,154-->
 
 ## 흔들리다 #card
 ?
@@ -1453,7 +1453,7 @@ go in and out frequently
 - reach
 ### 예
 -
-<!--SR:!2025-02-19,2,184-->
+<!--SR:!2025-02-24,5,204-->
 
 ## 별명 #card
 ?
