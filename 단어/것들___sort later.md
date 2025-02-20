@@ -346,7 +346,7 @@
 	- The administration should show determination in maintaining the discipline of government officials.
 - 그들은 아침 일찍 일어나는 것이 학생들로 하여금 기강을 발전시키는 것을 돕는다고 말했다.
 	- They said that getting up early helps students develop discipline.
-<!--SR:!2025-02-19,2,150-->
+<!--SR:!2025-02-22,3,150-->
 
 ## 해이하다 #card
 ?
@@ -702,7 +702,7 @@
 	- Recently we have had a run of bad luck in our family.
 - 그녀는 그런 불행한 일을 겪고도 태연하다
 	- Even after such an unhappy experience, she looks quite unconcerned.
-<!--SR:!2025-02-19,2,150-->
+<!--SR:!2025-02-22,3,150-->
 
 ## 수상하다 #card
 ?
@@ -1004,7 +1004,7 @@ go in and out frequently
 	- be caught in mischief
 - 들키면 나는 큰일이다
 	- If I am discovered, I am done for
-<!--SR:!2025-02-19,1,130-->
+<!--SR:!2025-02-21,2,150-->
 
 ## 입장 #card
 ?
@@ -1559,7 +1559,7 @@ go in and out frequently
 - reading?
 ### 예
 -
-<!--SR:!2025-02-19,2,164-->
+<!--SR:!2025-02-22,3,164-->
 
 ## 사나이 #card
 ?
@@ -1613,7 +1613,7 @@ go in and out frequently
 	- kneel in prayer
 - 젊은 장교들이 쿠데타를 기도했다
 	- Young officers tried to carry out a coup d'état.
-<!--SR:!2025-02-19,2,164-->
+<!--SR:!2025-02-22,3,164-->
 
 
 불다 blow 부르다 call 버리다 toss/completely 벌다 earn
