@@ -503,7 +503,7 @@
 	- I am hoping against hope that he will come back.
 - 내게 너무 기대하지 말게
 	- Don't expect too much of me.
-<!--SR:!2025-02-19,2,154-->
+<!--SR:!2025-02-24,5,174-->
 
 ## 부자간 #card
 ?
@@ -623,7 +623,7 @@
 	- rack one's brains all day long.
 - 목소리를 쥐어짜다
 	- strain one's voice.
-<!--SR:!2025-02-18,13,155-->
+<!--SR:!2025-03-20,29,175-->
 
 ## 넉넉하다 #card
 ?
@@ -863,7 +863,7 @@ go in and out frequently
 - picture book?
 ### 예
 -
-<!--SR:!2025-02-19,2,150-->
+<!--SR:!2025-02-23,4,170-->
 
 ## 기록하다 #card
 ?
@@ -1216,7 +1216,7 @@ go in and out frequently
 	- This was surprising because other studies only counted prey that cats brought home.
 - 책임 소재를 따지지 않더라도, 여전히 국가 차원의 문제이며 한쪽은 다른 쪽보다 이 문제를 더 심각하게 생각하고 있습니다.
 	- But even if you blame nobody, it still is a national problem, and one side has been more concerned about it than the other.
-<!--SR:!2025-02-19,1,130-->
+<!--SR:!2025-02-21,2,150-->
 
 ## 전국 #card
 ?
@@ -1333,7 +1333,7 @@ go in and out frequently
 - stuck
 ### 예
 -
-<!--SR:!2025-02-19,1,130-->
+<!--SR:!2025-02-21,2,150-->
 
 ## 굳은살 #card
 ?
@@ -1528,7 +1528,7 @@ go in and out frequently
 	- Many times, they have found the animal to return to its owner.
 - 우리는 받은 것을 돌려주어야 한다.
 	- We should give back what we have received.
-<!--SR:!2025-02-19,2,164-->
+<!--SR:!2025-02-22,3,164-->
 
 ## 거절하다 #card
 ?
@@ -1551,7 +1551,7 @@ go in and out frequently
 - sleuth
 ### 예
 -
-<!--SR:!2025-02-18,1,144-->
+<!--SR:!2025-02-20,1,130-->
 
 ## 독서 #card
 ?
