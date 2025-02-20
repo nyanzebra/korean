@@ -491,7 +491,7 @@
 	- His good conduct set an example for the world.
 - 사람들은 소년의 선행을 극구 칭찬했다
 	- People praised[문어 lauded] the boy to the skies for his good deed.
-<!--SR:!2025-02-19,1,130-->
+<!--SR:!2025-02-21,2,150-->
 
 ## 기대하다 #card
 ?
@@ -1292,7 +1292,7 @@ go in and out frequently
 	- The racket made by the mob could be heard intermittently
 - 웅성거리는 대화 소리.
 	- a buzz of conversation
-<!--SR:!2025-02-19,2,150-->
+<!--SR:!2025-02-20,1,130-->
 
 ## 갈아입다 #card
 ?
@@ -1576,7 +1576,7 @@ go in and out frequently
 ### 예
 - 적어도 하루 두 번
 	- at least twice a day
-<!--SR:!2025-02-18,1,144-->
+<!--SR:!2025-02-20,1,144-->
 
 ## 기껏해야 #card
 ?
