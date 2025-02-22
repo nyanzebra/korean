@@ -491,7 +491,7 @@
 	- His good conduct set an example for the world.
 - 사람들은 소년의 선행을 극구 칭찬했다
 	- People praised[문어 lauded] the boy to the skies for his good deed.
-<!--SR:!2025-02-21,2,150-->
+<!--SR:!2025-02-25,3,150-->
 
 ## 기대하다 #card
 ?
@@ -569,7 +569,7 @@
 ### 예
 - 정상적으로 자랄 수 있게 잘 보살펴준 것
 	- Take good care of them so they can grow up normally.
-<!--SR:!2025-02-20,5,150-->
+<!--SR:!2025-02-25,3,130-->
 
 ## 조직 #card
 ?
@@ -750,7 +750,7 @@ go in and out frequently
 - draw out
 ### 예
 -
-<!--SR:!2025-02-22,5,154-->
+<!--SR:!2025-03-01,7,154-->
 
 ## 적임자 #card
 ?
