@@ -929,7 +929,7 @@ go in and out frequently
 ### 예
 - 그녀는 질책을 받아도 부끄럽지도 않은 것 같고 사과하려고 하지도 않습니다.
 	- She never seems embarrassed about the reprimand, nor is she apologetic.
-<!--SR:!2025-02-22,5,155-->
+<!--SR:!2025-03-03,9,155-->
 
 ## 덤 #card
 ?
@@ -972,7 +972,7 @@ go in and out frequently
 ### 예
 - 여러모로, 우리의 이런 대담한 생각들은 가능성의 경계선을 밀어붙이는걸 돕습니다.
 	- In many ways, our audacity to imagine helps push the boundaries of possibility.
-<!--SR:!2025-02-20,8,175-->
+<!--SR:!2025-03-08,14,175-->
 
 ## 식료품 #card
 ?
