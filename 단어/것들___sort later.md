@@ -1055,7 +1055,7 @@ go in and out frequently
 	- root out a secret.
 - 나무 등걸을 캐내다
 	- dig up the stump of a tree.
-<!--SR:!2025-02-22,5,150-->
+<!--SR:!2025-03-01,7,150-->
 
 ## 나머지 #card
 ?
@@ -1257,7 +1257,7 @@ go in and out frequently
 	- consult one's aides.
 - 변호사와 의논하다
 	- consult a lawyer.
-<!--SR:!2025-02-21,2,150-->
+<!--SR:!2025-02-25,3,150-->
 
 ## 꿇리다 #card
 ?
@@ -1551,7 +1551,7 @@ go in and out frequently
 - sleuth
 ### 예
 -
-<!--SR:!2025-02-20,1,130-->
+<!--SR:!2025-02-23,1,130-->
 
 ## 독서 #card
 ?
