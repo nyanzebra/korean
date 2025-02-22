@@ -167,7 +167,7 @@
   - ominous dream
 - 그가 곧 죽는 것이나 아닐까 하는 불길한 예감이 든다
   - I have a premonition[an uneasy feeling] that he will die before long.
-<!--SR:!2025-02-22,19,150-->
+<!--SR:!2025-03-23,29,150-->
 
 ## 후계하다 #card
 ?
@@ -807,7 +807,7 @@ go in and out frequently
 - secret technique
 ### 예
 -
-<!--SR:!2025-02-20,3,154-->
+<!--SR:!2025-03-01,7,174-->
 
 ## 물결 #card
 ?
@@ -1123,7 +1123,7 @@ go in and out frequently
 	- The warmer weather makes them feel slower and more tired.
 - 너 참 둔하구나
 	- You are so oblivious.
-<!--SR:!2025-02-20,2,150-->
+<!--SR:!2025-02-25,3,150-->
 
 ## 소개팅 #card
 ?
@@ -1358,7 +1358,7 @@ go in and out frequently
 - pond
 ### 예
 -
-<!--SR:!2025-02-20,12,152-->
+<!--SR:!2025-03-13,19,152-->
 
 ## 용서하다 #card
 ?
