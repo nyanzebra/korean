@@ -538,7 +538,7 @@
 ### 예
 - 항상 군말없이 따라주는 네 수고는 내가 다 기억한다
 	- I remember all the trouble you've gone to to keep me company!
-<!--SR:!2025-02-22,3,150-->
+<!--SR:!2025-02-27,5,150-->
 
 ## 애초 #card
 ?
