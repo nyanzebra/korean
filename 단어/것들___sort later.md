@@ -12,7 +12,7 @@
 - objective
 ### 예
 -
-<!--SR:!2025-02-21,11,177-->
+<!--SR:!2025-03-14,20,177-->
 
 ## 뿌듯하다 #card
 ?
@@ -1324,7 +1324,7 @@ go in and out frequently
   - Is that why you are afraid of me?
 - 사실, 완전히 겁먹었죠. 저는 저체온증에 걸린 것 같았고 제 친구들은 결국 저를 물밖으로 꺼내야만 했습니다.
   - Actually, I was totally freaking out and I was borderline hypothermic, and my friends eventually had to help me out of the water.
-<!--SR:!2025-02-22,3,162-->
+<!--SR:!2025-02-27,5,162-->
 
 ## 박히다 #card
 ?
@@ -1469,7 +1469,7 @@ go in and out frequently
 - it has been a long time since we last met in person
 ### 예
 -
-<!--SR:!2025-02-22,3,164-->
+<!--SR:!2025-02-27,5,164-->
 
 ## 제가 책임지겠습니다 #card
 ?
@@ -1567,7 +1567,7 @@ go in and out frequently
 - male
 ### 예
 -
-<!--SR:!2025-02-22,3,164-->
+<!--SR:!2025-02-27,5,164-->
 
 ## 적어도 #card
 ?
