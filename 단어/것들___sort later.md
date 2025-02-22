@@ -594,7 +594,7 @@
 ### 예
 - 간만에 바람 좀 쐬면서 걸을까 한다
 	- It's been a while since I've had some fresh air
-<!--SR:!2025-02-21,2,150-->
+<!--SR:!2025-02-25,3,150-->
 
 ## 버릇하다 #card
 ?
