@@ -27,7 +27,7 @@
 	- It was a proud moment for me.
 - 뿌듯하게 맞다
 	- fit tightly/suit to a T.
-<!--SR:!2025-02-20,1,130-->
+<!--SR:!2025-02-24,2,150-->
 
 ## 매기다 #card
 ?
@@ -1185,7 +1185,7 @@ go in and out frequently
 	- The skin's a whole another thing, probably the hardest part.
 - 그리고 그와는 별개로, 저는 작곡과 단편을 썼습니다.
 	- And aside from that, I wrote music and short stories.
-<!--SR:!2025-02-20,1,130-->
+<!--SR:!2025-02-23,1,130-->
 
 ## 소행 #card
 ?
