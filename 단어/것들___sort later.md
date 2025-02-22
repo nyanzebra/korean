@@ -366,7 +366,7 @@
 - physically or emotionally comfortable
 ### 예
 -
-<!--SR:!2025-02-21,4,162-->
+<!--SR:!2025-02-24,2,142-->
 
 ## 여전하다 #card
 ?
@@ -1342,7 +1342,7 @@ go in and out frequently
 - callus
 ### 예
 -
-<!--SR:!2025-02-20,2,162-->
+<!--SR:!2025-02-27,5,182-->
 
 ## 초식 #card
 ?
@@ -1528,7 +1528,7 @@ go in and out frequently
 	- Many times, they have found the animal to return to its owner.
 - 우리는 받은 것을 돌려주어야 한다.
 	- We should give back what we have received.
-<!--SR:!2025-02-22,3,164-->
+<!--SR:!2025-02-27,5,164-->
 
 ## 거절하다 #card
 ?
@@ -1613,7 +1613,7 @@ go in and out frequently
 	- kneel in prayer
 - 젊은 장교들이 쿠데타를 기도했다
 	- Young officers tried to carry out a coup d'état.
-<!--SR:!2025-02-22,3,164-->
+<!--SR:!2025-02-27,5,164-->
 
 
 불다 blow 부르다 call 버리다 toss/completely 벌다 earn
