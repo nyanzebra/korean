@@ -158,7 +158,7 @@
 	- Those who get[score] under 50 will not pass.
 - 10분 미만에
 	- in less than ten minutes.
-<!--SR:!2025-02-20,2,219-->
+<!--SR:!2025-02-26,4,219-->
 
 ## 최소 #card
 ?
@@ -168,7 +168,7 @@
 ### 예
 - 그는 최소의 비용으로 그것을 그럭저럭 해냈다
 	- He managed to do it at the minimum of cost.
-<!--SR:!2025-02-21,2,219-->
+<!--SR:!2025-02-26,4,219-->
 
 ## 최대 #card
 ?
