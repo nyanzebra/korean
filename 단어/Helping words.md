@@ -183,6 +183,11 @@
 ## 따위 #card
 ?
 ### 뜻
-- and the lik
+- and the like
+- 기타 (etc)
+- and such
 ### 예
--
+- 폭력 행위 따위 처벌에 관한 법률
+	- the law pertaining to punishment for acts of violence and other (similar) crimes.
+- 그 따위 것
+	- such a thing/that sort of thing.
