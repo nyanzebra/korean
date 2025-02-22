@@ -446,7 +446,7 @@
 - filial piety
 ### 예
 -
-<!--SR:!2025-02-22,5,135-->
+<!--SR:!2025-03-01,7,135-->
 
 
 ## 불효 #card
@@ -639,7 +639,7 @@
 	- To dispel any doubts, she filmed herself slathering on a generous amount of shampoo, which failed to soften her rock-hard hair.
 - 천국은 넉넉하고, 흐르는 강으로 풍족한 정원입니다.
 	- It's plenty. It's gardens watered by running streams.
-<!--SR:!2025-02-22,5,150-->
+<!--SR:!2025-03-03,9,150-->
 
 ## 작용하다 #card
 ?
@@ -1486,7 +1486,7 @@ go in and out frequently
 - courteous
 ### 예
 - 그니까 좀 정중해져 보세요
-<!--SR:!2025-02-20,1,130-->
+<!--SR:!2025-02-23,1,130-->
 
 ## 존경 #card
 ?
@@ -1495,7 +1495,7 @@ go in and out frequently
 - admiration
 ### 예
 -
-<!--SR:!2025-02-20,1,130-->
+<!--SR:!2025-02-23,1,130-->
 
 ## 존경심 #card
 ?
