@@ -225,7 +225,7 @@
 	- have a narrow escape from death/escape narrowly[barely] with one's life.
 - 위기의 국면
 	- a critical phase.
-<!--SR:!2025-02-22,17,215-->
+<!--SR:!2025-03-31,37,215-->
 
 ## 기회 #card
 ?
@@ -584,7 +584,7 @@
 	- organism
 - 조직도
 	- organization chart
-<!--SR:!2025-02-20,3,150-->
+<!--SR:!2025-02-27,5,150-->
 
 ## 간만 #card
 ?
@@ -1477,7 +1477,7 @@ go in and out frequently
 - I will take responsibility
 ### 예
 -
-<!--SR:!2025-02-22,3,164-->
+<!--SR:!2025-02-27,5,164-->
 
 ## 정중하다 #card
 ?
