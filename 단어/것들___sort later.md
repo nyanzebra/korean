@@ -715,7 +715,7 @@
 	- She seems to be going about[around] with a questionable man.
 - 탐정은 수상한 그 사나이를 놓쳤다
 	- The detective lost track of the suspicious man.
-<!--SR:!2025-02-22,12,154-->
+<!--SR:!2025-03-13,19,154-->
 
 ## 낌새 #card
 ?
@@ -1266,7 +1266,7 @@ go in and out frequently
 - force to yield
 ### 예
 -
-<!--SR:!2025-02-21,2,150-->
+<!--SR:!2025-02-23,1,130-->
 
 ## 단체 #card
 ?
@@ -1441,7 +1441,7 @@ go in and out frequently
 	- exorcise evil spirits
 - 하루하루 물리다
 	- put off from day to day.
-<!--SR:!2025-02-20,1,130-->
+<!--SR:!2025-02-23,1,130-->
 
 ## 미치다 #card
 ?
