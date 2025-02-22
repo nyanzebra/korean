@@ -654,7 +654,7 @@
 	- Some supernatural power seems to be at work
 - 연이 올라갈 때는 바람이 양력으로 작용한다
 	- When a kite flies, the wind provides lift.
-<!--SR:!2025-02-21,2,150-->
+<!--SR:!2025-02-25,3,150-->
 
 ## 그닥 #card
 ?
@@ -983,7 +983,7 @@ go in and out frequently
 	- grocery store
 - 맥신이 식료품 구매 대행으로 일하는 동안 조나는 불안과 싸우고 있다.
 	- Maxine works as a personal grocery shopper, while Jonah struggles with anxiety.
-<!--SR:!2025-02-20,5,162-->
+<!--SR:!2025-03-02,8,162-->
 
 ## 잡화류 #card
 ?
