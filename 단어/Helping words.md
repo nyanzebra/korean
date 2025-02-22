@@ -180,3 +180,9 @@
 	- The deal was the largest merger and acquisition of Match Group to date.
 <!--SR:!2025-02-26,4,219-->
 
+## 따위 #card
+?
+### 뜻
+- and the lik
+### 예
+-
