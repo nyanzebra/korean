@@ -1750,10 +1750,11 @@ go in and out frequently
 ### 예
 -
 
-## 단어 #card
+## 아지트 #card
 ?
 ### 뜻
--
+- safe house
+- hideout
 ### 예
 -
 
