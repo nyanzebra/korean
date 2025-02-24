@@ -208,9 +208,9 @@
 - 마치 내가 혼자서 모든 것을 한 것처럼 나를 비난하고 있다.
 	- They are criticizing me as if I did everything on my own.
 
-## 딱 봐도 #card
+## 딱봐도 / 딱보더라도 #card
 ?
 ### 뜻
-- to be obvious
+- tell just by looking () 
 ### 예
 -
