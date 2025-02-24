@@ -1839,7 +1839,7 @@ go in and out frequently
 ## 모쏘 #card
 ?
 ### 뜻
--
+- forever alone (from birth solo)
 ### 예
 -
 
