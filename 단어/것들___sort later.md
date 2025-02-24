@@ -1608,6 +1608,10 @@ go in and out frequently
 ### 예
 - "박 대표는 제 1 야당의 지도자로서 '비방전'을 주도하고 있는 걸 부끄러워해야 한다.
 	- Park should be ashamed to lead the 'mudslinging politics' as the leader of the No.1 opposition party, he declared.
+- 여기에 자기주도의 근본적인 관념에 대해서 설명을 해 보도록 하겠습니다.
+	- Some examples of some kind of radical notions of self-direction.
+- 맞는 말이다. 그런데 지금 문제를 주도적으로 푸는 사람이 누가 있는가?
+	- He is right. But who is stepping forward and initiate resolution?
 
 
 불다 blow 부르다 call 버리다 toss/completely 벌다 earn
