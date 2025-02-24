@@ -244,7 +244,7 @@
 	- Urban redevelopment is great for the city and gives opportunities for city governments to utilize older neighborhoods in a better way.
 - "이번 기회에 정계는 농업부문 활성화 조치를 마련해야 한다.
 	- On this occasion, the political circle should prepare for measures to revitalize the farming sector.
-<!--SR:!2025-02-20,45,255-->
+<!--SR:!2025-06-18,115,255-->
 
 ## 전부 #card
 ?
@@ -346,7 +346,7 @@
 	- The administration should show determination in maintaining the discipline of government officials.
 - 그들은 아침 일찍 일어나는 것이 학생들로 하여금 기강을 발전시키는 것을 돕는다고 말했다.
 	- They said that getting up early helps students develop discipline.
-<!--SR:!2025-02-22,3,150-->
+<!--SR:!2025-02-28,5,150-->
 
 ## 해이하다 #card
 ?
@@ -874,7 +874,7 @@ go in and out frequently
 	- I have put down the course of events in detail[in full/minutely].
 - 이 팀은 과거 2년간 무패를 기록했다
 	- The team has not suffered a single defeat for the last two years.
-<!--SR:!2025-02-20,5,150-->
+<!--SR:!2025-03-04,9,150-->
 
 ## 틀니 #card
 ?
@@ -1097,7 +1097,7 @@ go in and out frequently
 ### 예
 - 소지품 전부에 자기 이름을 붙이다
 	- put one's name on all one's belongings.
-<!--SR:!2025-02-23,4,170-->
+<!--SR:!2025-03-02,7,170-->
 
 ## 결국 #card
 ?
@@ -1185,7 +1185,7 @@ go in and out frequently
 	- The skin's a whole another thing, probably the hardest part.
 - 그리고 그와는 별개로, 저는 작곡과 단편을 썼습니다.
 	- And aside from that, I wrote music and short stories.
-<!--SR:!2025-02-23,1,130-->
+<!--SR:!2025-02-24,1,130-->
 
 ## 소행 #card
 ?
@@ -1513,7 +1513,7 @@ go in and out frequently
 ### 예
 - 그녀는 격렬하게 몸을 떨기 시작했다. 그녀의 시선은 방 안을 이리저리 두리번거렸다.
 	- The woman began to tremble violently, and her eyes roamed distractedly about the room.
-<!--SR:!2025-02-23,1,130-->
+<!--SR:!2025-02-24,1,130-->
 
 ## 돌려주다 #card
 ?
