@@ -1811,5 +1811,15 @@ go in and out frequently
 ### 예
 -
 
+## 인연 #card
+?
+### 뜻
+- connection
+- tie
+- bond
+- relationship
+### 예
+-
+
 
 불다 blow 부르다 call 버리다 toss/completely 벌다 earn
