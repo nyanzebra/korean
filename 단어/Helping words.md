@@ -192,3 +192,4 @@
 - 그 따위 것
 	- such a thing/that sort of thing.
 <!--SR:!2025-02-25,2,238-->
+
