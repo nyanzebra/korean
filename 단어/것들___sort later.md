@@ -1866,6 +1866,12 @@ go in and out frequently
 ### 예
 -
 
+## 정신이 확 드네 #card
+?
+### 뜻
+- i'm so awake (mind suddenly raised?)
+### 예
+-
 
 
 불다 blow 부르다 call 버리다 toss/completely 벌다 earn
