@@ -65,7 +65,7 @@
 	- regardless of quantity
 - 학력을 불문하고
 	- regardless of education
-<!--SR:!2025-02-23,56,197-->
+<!--SR:!2025-03-23,28,177-->
 
 
 ## 그나저나 #card
@@ -358,7 +358,7 @@
 	- result from slackened discipline among public officials.
 - 요즘 관기가 눈에 띄게 해이해 졌다
 	- These days official discipline has been remarkably slack[lax].
-<!--SR:!2025-02-23,8,154-->
+<!--SR:!2025-03-07,12,154-->
 
 ## 편안하다 #card
 ?
