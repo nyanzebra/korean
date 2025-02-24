@@ -863,7 +863,7 @@ go in and out frequently
 - picture book?
 ### 예
 -
-<!--SR:!2025-02-23,4,170-->
+<!--SR:!2025-03-02,7,170-->
 
 ## 기록하다 #card
 ?
@@ -1441,7 +1441,7 @@ go in and out frequently
 	- exorcise evil spirits
 - 하루하루 물리다
 	- put off from day to day.
-<!--SR:!2025-02-23,1,130-->
+<!--SR:!2025-02-24,1,130-->
 
 ## 미치다 #card
 ?
@@ -1585,7 +1585,7 @@ go in and out frequently
 ### 예
 - 기껏해야 하루에 한 번
 	- at most once a day
-<!--SR:!2025-02-20,1,130-->
+<!--SR:!2025-02-24,1,130-->
 
 ## 시도하다 #card
 ?
