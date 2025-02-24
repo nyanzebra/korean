@@ -1504,7 +1504,7 @@ go in and out frequently
 ### 예
 - 조금이라도 존경심을 보일 순 없어?
 	- Could you show some respect?
-<!--SR:!2025-02-23,1,130-->
+<!--SR:!2025-02-24,1,130-->
 
 ## 두리번거리다 #card
 ?
@@ -1551,7 +1551,7 @@ go in and out frequently
 - sleuth
 ### 예
 -
-<!--SR:!2025-02-23,1,130-->
+<!--SR:!2025-02-24,1,130-->
 
 ## 독서 #card
 ?
