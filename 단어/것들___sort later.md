@@ -1620,7 +1620,9 @@ go in and out frequently
 - highlight
 - look better
 ### 예
--
+- 우리가 녹화 한 댄스를 다시 볼 때, 제가 나쁜 모습으로 돋보이기 때문에 정말 쑥스러워요.
+	- When we watch back our dance recordings, I get really embarrassed because I stand out in a bad way.
+- 
 
 
 불다 blow 부르다 call 버리다 toss/completely 벌다 earn
