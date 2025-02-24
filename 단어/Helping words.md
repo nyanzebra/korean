@@ -207,3 +207,10 @@
 	- With the help of augmented reality (AR), you can feel like you are in the middle of a court banquet during the Joseon Dynasty
 - 마치 내가 혼자서 모든 것을 한 것처럼 나를 비난하고 있다.
 	- They are criticizing me as if I did everything on my own.
+
+## 딱 봐도 #card
+?
+### 뜻
+- to be obvious
+### 예
+-
