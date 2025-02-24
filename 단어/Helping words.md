@@ -211,6 +211,6 @@
 ## 딱봐도 / 딱보더라도 #card
 ?
 ### 뜻
-- tell just by looking () 
+- tell just by looking?
 ### 예
 -
