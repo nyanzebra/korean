@@ -1638,7 +1638,7 @@ go in and out frequently
 ## 장단은 맞춰야지 #card
 ?
 ### 뜻
--
+- play along?
 ### 예
 - 장단을 맞추다
 	- beat a rhythm
