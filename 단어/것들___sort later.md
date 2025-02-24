@@ -1713,5 +1713,13 @@ go in and out frequently
 ### 예
 -
 
+## 챙기다 #card
+?
+### 뜻
+- take
+- take c
+### 예
+-
+
 
 불다 blow 부르다 call 버리다 toss/completely 벌다 earn
