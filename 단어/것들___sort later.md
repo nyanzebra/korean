@@ -1717,9 +1717,16 @@ go in and out frequently
 ?
 ### 뜻
 - take
-- take c
+- take care of
+- bring
+- pack
 ### 예
--
+- 자신의 고등학교 학위증을 챙겼다고요. 나중에 그는 이유를 말했습니다.
+	- He took his high school diploma, and later he told me why.
+- 엄마는 먹을 것과 잠, 관심에 대한 우리의 필요를 챙겨 주셨다.
+	- She took care of our needs for food, sleep and attention.
+- 내 가방을 챙겨올게
+	- 
 
 
 불다 blow 부르다 call 버리다 toss/completely 벌다 earn
