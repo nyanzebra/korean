@@ -951,7 +951,7 @@ go in and out frequently
 - take a firm bite
 ### 예
 -
-<!--SR:!2025-02-21,2,155-->
+<!--SR:!2025-02-26,3,155-->
 
 ## 단번에 #card
 ?
@@ -1407,7 +1407,7 @@ go in and out frequently
 	- The watches are alternated[changed] every four hours.
 - 어젯밤에 당직했다
 	- I was on duty[watch] last night.
-<!--SR:!2025-02-23,1,130-->
+<!--SR:!2025-02-24,1,130-->
 
 ## 변호하다 #card
 ?
