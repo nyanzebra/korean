@@ -1635,5 +1635,13 @@ go in and out frequently
 - 일요일, 옛 교복을 입고 뛰는 주부가 학창시절로 돌아간 듯 해맑은 표정을 짓고 있다.
 	- Housewives look innocent and happy Sunday as they run clad in school uniforms from the past, as if returning to their school days.
 
+## 장단은 맞춰야지 #card
+?
+### 뜻
+-
+### 예
+- 장단을 맞추다
+	- beat a rhythm
+
 
 불다 blow 부르다 call 버리다 toss/completely 벌다 earn
