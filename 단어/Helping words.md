@@ -230,3 +230,20 @@
 - by nature
 ### 예
 -
+
+## 어쩌다 #card
+?
+### 뜻
+- accidentally
+- occasionally
+- once in a while
+### 예
+-
+
+## 단어 #card
+?
+### 뜻
+-
+### 예
+-
+
