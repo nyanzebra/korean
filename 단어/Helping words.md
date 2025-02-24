@@ -222,3 +222,11 @@
 - apparently
 ### 예
 -
+
+## 워낙 #card
+?
+### 뜻
+- originally
+- by nature
+### 예
+-
