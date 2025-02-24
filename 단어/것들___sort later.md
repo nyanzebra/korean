@@ -1702,7 +1702,7 @@ go in and out frequently
 ## 방망 #card
 ?
 ### 뜻
-- bat
+- bat (baseball)
 ### 예
 -
 
