@@ -1734,5 +1734,14 @@ go in and out frequently
 - 제가 아빠 물건들을 챙길께요
 	- I'll pack up your stuff.
 
+## 긴장 #card
+?
+### 뜻
+- nervous
+- strain
+- tension
+### 예
+-
+
 
 불다 blow 부르다 call 버리다 toss/completely 벌다 earn
