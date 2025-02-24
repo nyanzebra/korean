@@ -205,3 +205,5 @@
 	- as if to say "get out".
 - 증강현실(AR)의 도움으로, 여러분은 마치 조선시대 궁중 연회의 중간에 있는 것처럼 느낄 수 있습니다.
 	- With the help of augmented reality (AR), you can feel like you are in the middle of a court banquet during the Joseon Dynasty
+- 마치 내가 혼자서 모든 것을 한 것처럼 나를 비난하고 있다.
+	- They are criticizing me as if I did everything on my own.
