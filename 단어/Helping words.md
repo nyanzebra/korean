@@ -240,10 +240,13 @@
 ### 예
 -
 
-## 단어 #card
+## 사이 #card
 ?
 ### 뜻
--
+- distance
+- between
+- an interval
+- a relationship
 ### 예
 -
 
