@@ -1576,7 +1576,7 @@ go in and out frequently
 ### 예
 - 적어도 하루 두 번
 	- at least twice a day
-<!--SR:!2025-02-23,1,144-->
+<!--SR:!2025-02-24,1,144-->
 
 ## 기껏해야 #card
 ?
