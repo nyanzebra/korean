@@ -1726,7 +1726,10 @@ go in and out frequently
 - 엄마는 먹을 것과 잠, 관심에 대한 우리의 필요를 챙겨 주셨다.
 	- She took care of our needs for food, sleep and attention.
 - 내 가방을 챙겨올게
-	- 
+	- Let me just go get my bag.
+- 이 과정에서 법원과 전관예우로 연결된 로펌과 변호사들이 사건을 맡아 막대한 수임료를 챙겼다.
+	- Such collusion allowed the rich to get early release.
+- 
 
 
 불다 blow 부르다 call 버리다 toss/completely 벌다 earn
