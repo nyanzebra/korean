@@ -1598,5 +1598,16 @@ go in and out frequently
 	- Young officers tried to carry out a coup d'état.
 <!--SR:!2025-02-27,5,164-->
 
+## 주도 #card
+?
+### 뜻
+- lead
+- direct
+- initiate
+- drive
+### 예
+- "박 대표는 제 1 야당의 지도자로서 '비방전'을 주도하고 있는 걸 부끄러워해야 한다.
+	- Park should be ashamed to lead the 'mudslinging politics' as the leader of the No.1 opposition party, he declared.
+
 
 불다 blow 부르다 call 버리다 toss/completely 벌다 earn
