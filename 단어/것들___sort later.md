@@ -1613,5 +1613,14 @@ go in and out frequently
 - 맞는 말이다. 그런데 지금 문제를 주도적으로 푸는 사람이 누가 있는가?
 	- He is right. But who is stepping forward and initiate resolution?
 
+## 돋보이다 #card
+?
+### 뜻
+- stand out
+- highlight
+- look better
+### 예
+-
+
 
 불다 blow 부르다 call 버리다 toss/completely 벌다 earn
