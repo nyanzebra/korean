@@ -1802,10 +1802,12 @@ go in and out frequently
 ### 예
 -
 
-## 대단 #card
+## 대단하다 #card
 ?
 ### 뜻
--
+- great
+- incredible
+- amazing
 ### 예
 -
 
