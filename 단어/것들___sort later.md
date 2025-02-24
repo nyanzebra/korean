@@ -1764,6 +1764,16 @@ go in and out frequently
 - dense
 - thick
 ### 예
+- 안개가 자욱한 산들
+	- misty mountains
+- 방에는 연기가 자욱했다
+	- The room was filled with smoke.
+
+## 단어 #card
+?
+### 뜻
+-
+### 예
 -
 
 
