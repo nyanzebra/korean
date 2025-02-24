@@ -1342,7 +1342,7 @@ go in and out frequently
 - callus
 ### 예
 -
-<!--SR:!2025-02-27,5,182-->
+
 ## 용서하다 #card
 ?
 ### 뜻
@@ -1352,7 +1352,7 @@ go in and out frequently
 	- Please forgive me, for I did not mean what I said.
 - 결코 나는 그를 용서할 수 없다
 	- I cannot forgive him on any account.
-<!--SR:!2025-03-04,17,172-->
+<!--SR:!2025-02-27,5,182-->
 
 ## 정직하다 #card
 ?
