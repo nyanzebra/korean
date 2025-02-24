@@ -662,7 +662,7 @@
 - 별로 그렇게까지 (not so much)?
 ### 예
 -
-<!--SR:!2025-02-23,4,170-->
+<!--SR:!2025-03-02,7,170-->
 
 ## 의심하다 #card
 ?
@@ -1292,7 +1292,7 @@ go in and out frequently
 	- The racket made by the mob could be heard intermittently
 - 웅성거리는 대화 소리.
 	- a buzz of conversation
-<!--SR:!2025-02-23,1,130-->
+<!--SR:!2025-02-25,2,150-->
 
 ## 갈아입다 #card
 ?
