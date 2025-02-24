@@ -1758,5 +1758,13 @@ go in and out frequently
 ### 예
 -
 
+## 자욱하다 #card
+?
+### 뜻
+- dense
+- thick
+### 예
+-
+
 
 불다 blow 부르다 call 버리다 toss/completely 벌다 earn

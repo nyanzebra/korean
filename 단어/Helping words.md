@@ -214,3 +214,11 @@
 - tell just by looking?
 ### 예
 -
+
+## 겉보기 #card
+?
+### 뜻
+- seemingly
+- apparently
+### 예
+-
