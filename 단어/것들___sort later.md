@@ -1848,7 +1848,8 @@ go in and out frequently
 ### 뜻
 - main discourse?
 ### 예
-- 본론으로 들어가
+- 본론으로 들어가볼까?
+	- shall we cut to the chase
 
 
 불다 blow 부르다 call 버리다 toss/completely 벌다 earn
