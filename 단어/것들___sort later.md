@@ -1729,7 +1729,10 @@ go in and out frequently
 	- Let me just go get my bag.
 - 이 과정에서 법원과 전관예우로 연결된 로펌과 변호사들이 사건을 맡아 막대한 수임료를 챙겼다.
 	- Such collusion allowed the rich to get early release.
-- 
+- 걸칠 거리라도 좀 챙겨올 걸 그랬네.
+	- I should have brought a shmata.
+- 제가 아빠 물건들을 챙길께요
+	- I'll pack up your stuff.
 
 
 불다 blow 부르다 call 버리다 toss/completely 벌다 earn
