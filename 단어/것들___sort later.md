@@ -1622,7 +1622,11 @@ go in and out frequently
 ### 예
 - 우리가 녹화 한 댄스를 다시 볼 때, 제가 나쁜 모습으로 돋보이기 때문에 정말 쑥스러워요.
 	- When we watch back our dance recordings, I get really embarrassed because I stand out in a bad way.
-- 
+- 장영실의 발명품들은 조선 왕조의 기술적 진보 발전을 돋보이게 하는 데 도움이 되었다.
+	- Jang's inventions helped highlight the technological advancements of the Joseon Dynasty.
+- 주인공은 조연 배우들을 돋보이게 만든다.
+	- Main characters make the supporting actors look better.
+
 
 
 불다 blow 부르다 call 버리다 toss/completely 벌다 earn
