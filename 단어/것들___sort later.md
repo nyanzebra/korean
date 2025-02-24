@@ -1769,10 +1769,20 @@ go in and out frequently
 - 방에는 연기가 자욱했다
 	- The room was filled with smoke.
 
-## 단어 #card
+## 산더미 #card
 ?
 ### 뜻
+- heap
+- pile
+- great mess
+### 예
 -
+
+## 소굴 #card
+?
+### 뜻
+- den
+- nest
 ### 예
 -
 
