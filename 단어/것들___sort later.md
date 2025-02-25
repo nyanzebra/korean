@@ -27,7 +27,7 @@
 	- It was a proud moment for me.
 - 뿌듯하게 맞다
 	- fit tightly/suit to a T.
-<!--SR:!2025-02-24,2,150-->
+<!--SR:!2025-02-27,3,150-->
 
 ## 매기다 #card
 ?
@@ -503,7 +503,7 @@
 	- I am hoping against hope that he will come back.
 - 내게 너무 기대하지 말게
 	- Don't expect too much of me.
-<!--SR:!2025-02-24,5,174-->
+<!--SR:!2025-03-06,10,174-->
 
 ## 부자간 #card
 ?
@@ -1487,7 +1487,7 @@ go in and out frequently
 ### 예
 - 조금이라도 존경심을 보일 순 없어?
 	- Could you show some respect?
-<!--SR:!2025-02-24,1,130-->
+<!--SR:!2025-02-25,1,130-->
 
 ## 두리번거리다 #card
 ?
