@@ -1309,7 +1309,7 @@ go in and out frequently
 - narrowly
 ### 예
 -
-<!--SR:!2025-02-24,7,170-->
+<!--SR:!2025-03-09,13,170-->
 
 ## 겁먹다 #card
 ?
@@ -1865,6 +1865,7 @@ go in and out frequently
 - unite
 ### 예
 -
+<!--SR:!2025-02-26,2,167-->
 
 ## 정신이 확 드네 #card
 ?
@@ -1872,6 +1873,7 @@ go in and out frequently
 - i'm so awake (mind suddenly raised?)
 ### 예
 -
+<!--SR:!2025-02-25,1,147-->
 
 ## 목적 #card
 ?
