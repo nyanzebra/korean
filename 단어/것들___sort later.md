@@ -395,7 +395,7 @@
 	- drape a flag in mourning[black].
 - 증권 거래소 2부에 우리 회사 주식이 상장되었다
 	- Our company is listed on the Second Market.
-<!--SR:!2025-02-24,1,130-->
+<!--SR:!2025-02-25,1,130-->
 
 ## 태우다 #card
 ?
@@ -512,7 +512,7 @@
 ### 예
 - 부자간의 멋진 대화를 나눠야죠
 	- We'll have a nice father-son chat.
-<!--SR:!2025-02-24,7,154-->
+<!--SR:!2025-03-08,12,154-->
 
 
 ## 투기장 #card
@@ -1185,7 +1185,7 @@ go in and out frequently
 	- The skin's a whole another thing, probably the hardest part.
 - 그리고 그와는 별개로, 저는 작곡과 단편을 썼습니다.
 	- And aside from that, I wrote music and short stories.
-<!--SR:!2025-02-24,1,130-->
+<!--SR:!2025-02-25,1,130-->
 
 ## 소행 #card
 ?
@@ -1469,7 +1469,7 @@ go in and out frequently
 - courteous
 ### 예
 - 그니까 좀 정중해져 보세요
-<!--SR:!2025-02-24,1,130-->
+<!--SR:!2025-02-25,1,130-->
 
 ## 존경 #card
 ?
@@ -1559,7 +1559,7 @@ go in and out frequently
 ### 예
 - 적어도 하루 두 번
 	- at least twice a day
-<!--SR:!2025-02-24,1,144-->
+<!--SR:!2025-02-25,1,144-->
 
 ## 기껏해야 #card
 ?
