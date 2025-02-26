@@ -1185,7 +1185,7 @@ go in and out frequently
 	- The skin's a whole another thing, probably the hardest part.
 - 그리고 그와는 별개로, 저는 작곡과 단편을 썼습니다.
 	- And aside from that, I wrote music and short stories.
-<!--SR:!2025-02-25,1,130-->
+<!--SR:!2025-02-26,1,130-->
 
 ## 소행 #card
 ?
@@ -1399,7 +1399,7 @@ go in and out frequently
 - plead for
 ### 예
 -
-<!--SR:!2025-02-25,1,130-->
+<!--SR:!2025-02-26,1,130-->
 
 ## 물리다 #card
 ?
@@ -1534,7 +1534,7 @@ go in and out frequently
 - sleuth
 ### 예
 -
-<!--SR:!2025-02-25,1,130-->
+<!--SR:!2025-02-26,1,130-->
 
 ## 독서 #card
 ?
@@ -1873,7 +1873,7 @@ go in and out frequently
 - i'm so awake (mind suddenly raised?)
 ### 예
 -
-<!--SR:!2025-02-25,1,147-->
+<!--SR:!2025-02-26,1,130-->
 
 ## 목적 #card
 ?
