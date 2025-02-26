@@ -1004,7 +1004,7 @@ go in and out frequently
 	- be caught in mischief
 - 들키면 나는 큰일이다
 	- If I am discovered, I am done for
-<!--SR:!2025-02-25,3,150-->
+<!--SR:!2025-03-02,5,150-->
 
 ## 입장 #card
 ?
@@ -1110,7 +1110,7 @@ go in and out frequently
 	- Though he eventually recovered from the infection, the toll on his body led to him being unable to recover from sepsis, which ultimately took his life.
 - 하지만, 결국 관계는 자존심보다 더 중요하게 여겨져야 합니다.
 	- But, in the end, the relationship should be more important than one’s own pride
-<!--SR:!2025-02-25,3,150-->
+<!--SR:!2025-03-02,5,150-->
 
 ## 둔하다 #card
 ?
@@ -1390,7 +1390,7 @@ go in and out frequently
 	- The watches are alternated[changed] every four hours.
 - 어젯밤에 당직했다
 	- I was on duty[watch] last night.
-<!--SR:!2025-02-25,1,130-->
+<!--SR:!2025-02-26,1,130-->
 
 ## 변호하다 #card
 ?
@@ -1478,7 +1478,7 @@ go in and out frequently
 - admiration
 ### 예
 -
-<!--SR:!2025-02-25,1,130-->
+<!--SR:!2025-02-26,1,130-->
 
 ## 존경심 #card
 ?
