@@ -474,7 +474,7 @@
 	- For the rebellious Sartre, then, turning down a world-famous award was completely in character.
 - 그녀는 아빠에게 반항하고 늘 모험을 떠날 준비가 되어있다.
 	- She rebels against her father and is always ready for adventure
-<!--SR:!2025-02-25,3,150-->
+<!--SR:!2025-03-02,5,150-->
 
 ## 선행 #card
 ?
@@ -1216,7 +1216,7 @@ go in and out frequently
 	- This was surprising because other studies only counted prey that cats brought home.
 - 책임 소재를 따지지 않더라도, 여전히 국가 차원의 문제이며 한쪽은 다른 쪽보다 이 문제를 더 심각하게 생각하고 있습니다.
 	- But even if you blame nobody, it still is a national problem, and one side has been more concerned about it than the other.
-<!--SR:!2025-02-25,3,150-->
+<!--SR:!2025-03-02,5,150-->
 
 ## 전국 #card
 ?
@@ -1487,7 +1487,7 @@ go in and out frequently
 ### 예
 - 조금이라도 존경심을 보일 순 없어?
 	- Could you show some respect?
-<!--SR:!2025-02-25,1,130-->
+<!--SR:!2025-02-26,1,130-->
 
 ## 두리번거리다 #card
 ?
