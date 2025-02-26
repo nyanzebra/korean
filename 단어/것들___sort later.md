@@ -786,7 +786,7 @@ go in and out frequently
 	- Not a breeze stirred the lake
 - 잔잔한 수면에는 잔물결 하나 없었다
 	- Not a ripple disturbed the glassy surface of the water.
-<!--SR:!2025-02-25,3,154-->
+<!--SR:!2025-03-02,5,154-->
 
 ## 흔들리다 #card
 ?
@@ -1123,7 +1123,7 @@ go in and out frequently
 	- The warmer weather makes them feel slower and more tired.
 - 너 참 둔하구나
 	- You are so oblivious.
-<!--SR:!2025-02-25,3,150-->
+<!--SR:!2025-03-02,5,150-->
 
 ## 소개팅 #card
 ?
@@ -1257,7 +1257,7 @@ go in and out frequently
 	- consult one's aides.
 - 변호사와 의논하다
 	- consult a lawyer.
-<!--SR:!2025-02-25,3,150-->
+<!--SR:!2025-03-02,5,150-->
 
 ## 꿇리다 #card
 ?
@@ -1496,7 +1496,7 @@ go in and out frequently
 ### 예
 - 그녀는 격렬하게 몸을 떨기 시작했다. 그녀의 시선은 방 안을 이리저리 두리번거렸다.
 	- The woman began to tremble violently, and her eyes roamed distractedly about the room.
-<!--SR:!2025-02-25,1,130-->
+<!--SR:!2025-02-26,1,130-->
 
 ## 돌려주다 #card
 ?
