@@ -1670,6 +1670,7 @@ go in and out frequently
 - pulsate
 ### 예
 -
+<!--SR:!2025-02-27,1,147-->
 
 ## 뺏어가다 #card
 ?
@@ -1839,6 +1840,7 @@ go in and out frequently
 - trick
 ### 예
 -
+<!--SR:!2025-02-27,1,147-->
 
 ## 모쏘 #card
 ?
@@ -1854,6 +1856,7 @@ go in and out frequently
 ### 예
 - 본론으로 들어가볼까?
 	- shall we cut to the chase
+<!--SR:!2025-02-27,1,147-->
 
 ## 부수다 #card
 ?
@@ -1888,6 +1891,7 @@ go in and out frequently
 - purpose
 ### 예
 -
+<!--SR:!2025-02-27,1,147-->
 
 
 불다 blow 부르다 call 버리다 toss/completely 벌다 earn
