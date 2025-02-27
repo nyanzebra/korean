@@ -687,7 +687,7 @@
 - ?
 ### 예
 -
-<!--SR:!2025-02-26,1,130-->
+<!--SR:!2025-02-27,1,130-->
 
 ## 불행하다 #card
 ?
@@ -1445,7 +1445,7 @@ go in and out frequently
 - nickname
 ### 예
 -
-<!--SR:!2025-02-26,1,130-->
+<!--SR:!2025-02-27,1,130-->
 
 ## 우리가 마지막으로 직접 만난 지 오래되었다 #card
 ?
@@ -1497,7 +1497,7 @@ go in and out frequently
 ### 예
 - 그녀는 격렬하게 몸을 떨기 시작했다. 그녀의 시선은 방 안을 이리저리 두리번거렸다.
 	- The woman began to tremble violently, and her eyes roamed distractedly about the room.
-<!--SR:!2025-02-26,1,130-->
+<!--SR:!2025-02-27,1,130-->
 
 ## 돌려주다 #card
 ?
@@ -1535,7 +1535,7 @@ go in and out frequently
 - sleuth
 ### 예
 -
-<!--SR:!2025-02-26,1,130-->
+<!--SR:!2025-02-27,1,130-->
 
 ## 독서 #card
 ?
@@ -1884,7 +1884,7 @@ go in and out frequently
 - unite
 ### 예
 -
-<!--SR:!2025-02-26,2,167-->
+<!--SR:!2025-03-01,3,167-->
 
 ## 정신이 확 드네 #card
 ?
