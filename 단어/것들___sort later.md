@@ -559,7 +559,7 @@
 ### 예
 - 정상적으로 자랄 수 있게 잘 보살펴준 것
 	- Take good care of them so they can grow up normally.
-<!--SR:!2025-02-25,3,155-->
+<!--SR:!2025-03-03,5,155-->
 
 ## 정상 #card
 ?
@@ -1266,7 +1266,7 @@ go in and out frequently
 - force to yield
 ### 예
 -
-<!--SR:!2025-02-25,2,150-->
+<!--SR:!2025-03-01,3,150-->
 
 ## 단체 #card
 ?
@@ -1559,7 +1559,7 @@ go in and out frequently
 ### 예
 - 적어도 하루 두 번
 	- at least twice a day
-<!--SR:!2025-02-25,1,144-->
+<!--SR:!2025-02-28,2,164-->
 
 ## 기껏해야 #card
 ?
