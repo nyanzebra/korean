@@ -951,7 +951,7 @@ go in and out frequently
 - take a firm bite
 ### 예
 -
-<!--SR:!2025-02-26,3,155-->
+<!--SR:!2025-03-03,5,155-->
 
 ## 단번에 #card
 ?
@@ -1279,7 +1279,7 @@ go in and out frequently
 	- a nonreligious organization.
 - 정치적 색채를 띤 단체
 	- a politically-colored group.
-<!--SR:!2025-02-26,9,150-->
+<!--SR:!2025-03-11,13,150-->
 
 ## 웅성거리다 #card
 ?
@@ -1333,7 +1333,7 @@ go in and out frequently
 - stuck
 ### 예
 -
-<!--SR:!2025-02-26,3,150-->
+<!--SR:!2025-03-03,5,150-->
 
 ## 굳은살 #card
 ?
@@ -1776,6 +1776,7 @@ go in and out frequently
 	- misty mountains
 - 방에는 연기가 자욱했다
 	- The room was filled with smoke.
+<!--SR:!2025-02-27,1,147-->
 
 ## 산더미 #card
 ?
