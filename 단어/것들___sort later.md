@@ -1678,6 +1678,7 @@ go in and out frequently
 - take away from someone
 ### 예
 -
+<!--SR:!2025-02-27,1,147-->
 
 ## 과외 #card
 ?
@@ -1685,6 +1686,7 @@ go in and out frequently
 - private tutoring
 ### 예
 -
+<!--SR:!2025-02-27,1,147-->
 
 ## 왠지 실감 안나는데 #card
 ?
@@ -1707,6 +1709,7 @@ go in and out frequently
 - bat (baseball)
 ### 예
 -
+<!--SR:!2025-02-27,1,147-->
 
 ## 오바하다 #card
 ?
@@ -1745,6 +1748,7 @@ go in and out frequently
 - tension
 ### 예
 -
+<!--SR:!2025-02-28,2,167-->
 
 ## 함정 #card
 ?
@@ -1781,6 +1785,7 @@ go in and out frequently
 - great mess
 ### 예
 -
+<!--SR:!2025-02-27,1,147-->
 
 ## 소굴 #card
 ?
@@ -1789,6 +1794,7 @@ go in and out frequently
 - nest
 ### 예
 -
+<!--SR:!2025-02-27,1,147-->
 
 ## 옥상 #card
 ?
@@ -1805,6 +1811,7 @@ go in and out frequently
 - frank
 ### 예
 -
+<!--SR:!2025-02-27,1,147-->
 
 ## 대단하다 #card
 ?
@@ -1833,6 +1840,7 @@ go in and out frequently
 - peers
 ### 예
 -
+<!--SR:!2025-02-27,1,147-->
 
 ## 속이다 #card
 ?
@@ -1849,6 +1857,7 @@ go in and out frequently
 - forever alone (from birth solo)
 ### 예
 -
+<!--SR:!2025-02-27,1,147-->
 
 ## 본론 #card
 ?
