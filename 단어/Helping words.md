@@ -215,6 +215,7 @@
 - tell just by looking?
 ### 예
 -
+<!--SR:!2025-02-28,2,238-->
 
 ## 겉보기 #card
 ?
@@ -222,7 +223,11 @@
 - seemingly
 - apparently
 ### 예
--
+- 그러나 겉보기로는 보잘 것 없던 시작이 자신의 어릴 적 꿈을 실현하게 만들었다.
+  - But the seemingly humble beginning led to realization of his childhood dream.
+- 겉보기보단 더 먹었어요
+  - I'm older than I look.
+<!--SR:!2025-02-27,1,218-->
 
 ## 워낙 #card
 ?
