@@ -654,7 +654,7 @@
 	- Some supernatural power seems to be at work
 - 연이 올라갈 때는 바람이 양력으로 작용한다
 	- When a kite flies, the wind provides lift.
-<!--SR:!2025-02-25,3,150-->
+<!--SR:!2025-03-03,5,150-->
 
 ## 그닥 #card
 ?
@@ -1342,6 +1342,7 @@ go in and out frequently
 - callus
 ### 예
 -
+<!--SR:!2025-02-28,2,167-->
 
 ## 용서하다 #card
 ?
@@ -1757,6 +1758,7 @@ go in and out frequently
 - hideout
 ### 예
 -
+<!--SR:!2025-02-27,1,147-->
 
 ## 자욱하다 #card
 ?
@@ -1810,6 +1812,7 @@ go in and out frequently
 - amazing
 ### 예
 -
+<!--SR:!2025-02-27,1,147-->
 
 ## 인연 #card
 ?
