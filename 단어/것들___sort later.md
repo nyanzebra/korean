@@ -1185,7 +1185,7 @@ go in and out frequently
 	- The skin's a whole another thing, probably the hardest part.
 - 그리고 그와는 별개로, 저는 작곡과 단편을 썼습니다.
 	- And aside from that, I wrote music and short stories.
-<!--SR:!2025-02-26,1,130-->
+<!--SR:!2025-03-02,1,130-->
 
 ## 소행 #card
 ?
@@ -1569,7 +1569,7 @@ go in and out frequently
 ### 예
 - 기껏해야 하루에 한 번
 	- at most once a day
-<!--SR:!2025-02-27,2,150-->
+<!--SR:!2025-03-04,3,150-->
 
 ## 시도하다 #card
 ?
