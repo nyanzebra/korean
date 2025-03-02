@@ -1148,7 +1148,7 @@ go in and out frequently
 - slap in the cheek
 ### 예
 -
-<!--SR:!2025-02-27,22,182-->
+<!--SR:!2025-04-08,38,182-->
 
 ## 흉터 #card
 ?
