@@ -1479,7 +1479,7 @@ go in and out frequently
 - admiration
 ### 예
 -
-<!--SR:!2025-03-02,1,130-->
+<!--SR:!2025-03-03,1,130-->
 
 ## 존경심 #card
 ?
@@ -1678,7 +1678,7 @@ go in and out frequently
 - take away from someone
 ### 예
 -
-<!--SR:!2025-03-02,1,130-->
+<!--SR:!2025-03-03,1,130-->
 
 ## 과외 #card
 ?
