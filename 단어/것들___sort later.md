@@ -1738,6 +1738,8 @@ go in and out frequently
 	- I should have brought a shmata.
 - 제가 아빠 물건들을 챙길께요
 	- I'll pack up your stuff.
+### Notes
+- differs from 가지다 in that this has more emphasis on bring/taking something well/securely
 <!--SR:!2025-02-28,2,167-->
 
 ## 긴장 #card
