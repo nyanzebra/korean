@@ -750,7 +750,7 @@ go in and out frequently
 - draw out
 ### 예
 -
-<!--SR:!2025-03-01,7,154-->
+<!--SR:!2025-03-12,11,154-->
 
 ## 적임자 #card
 ?
@@ -1377,7 +1377,7 @@ go in and out frequently
 	- People jokingly said the two chose different food at a cafeteria on purpose.
 - 일부러 정보를 주지 않는 것이 관객들이 몰입하게 합니다.
 	- You know, doing that intentionally is much more engaging.
-<!--SR:!2025-02-28,13,152-->
+<!--SR:!2025-03-20,19,152-->
 
 ## 당직 #card
 ?
