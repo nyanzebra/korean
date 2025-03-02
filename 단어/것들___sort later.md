@@ -366,7 +366,7 @@
 - physically or emotionally comfortable
 ### 예
 -
-<!--SR:!2025-02-27,3,142-->
+<!--SR:!2025-03-05,4,142-->
 
 ## 여전하다 #card
 ?
@@ -606,7 +606,7 @@
 	- accustom oneself to early rising
 - 규칙적인 생활을 해 버릇하다
 	- accustom oneself to a regular life.
-<!--SR:!2025-02-26,4,130-->
+<!--SR:!2025-03-06,5,130-->
 
 ## 쥐어짜다 #card
 ?
@@ -1156,7 +1156,7 @@ go in and out frequently
 - scar
 ### 예
 -
-<!--SR:!2025-02-26,16,162-->
+<!--SR:!2025-03-28,27,162-->
 
 ## 습격하다 #card
 ?
@@ -1479,7 +1479,7 @@ go in and out frequently
 - admiration
 ### 예
 -
-<!--SR:!2025-02-26,1,130-->
+<!--SR:!2025-03-02,1,130-->
 
 ## 존경심 #card
 ?
