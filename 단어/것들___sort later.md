@@ -1445,7 +1445,7 @@ go in and out frequently
 - nickname
 ### 예
 -
-<!--SR:!2025-02-27,1,130-->
+<!--SR:!2025-03-02,1,130-->
 
 ## 우리가 마지막으로 직접 만난 지 오래되었다 #card
 ?
@@ -1526,7 +1526,7 @@ go in and out frequently
 	- If the other party rejects my proposal, I shall not hesitate to fight.
 - 차제에 깨끗이 거절하지 않으면 안 된다
 	- You must give a flat refusal right now.
-<!--SR:!2025-02-27,5,164-->
+<!--SR:!2025-03-10,9,164-->
 
 ## 탐정 #card
 ?
