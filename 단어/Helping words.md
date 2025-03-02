@@ -158,7 +158,7 @@
 	- Those who get[score] under 50 will not pass.
 - 10분 미만에
 	- in less than ten minutes.
-<!--SR:!2025-02-26,4,219-->
+<!--SR:!2025-03-12,10,219-->
 
 ## 최소 #card
 ?
