@@ -178,7 +178,7 @@
 ### 예
 - 이번 합의는 지금까지 매치 그룹에 있어 최대 인수 합병이었다.
 	- The deal was the largest merger and acquisition of Match Group to date.
-<!--SR:!2025-02-26,4,219-->
+<!--SR:!2025-03-11,10,219-->
 
 ## 따위 #card
 ?
@@ -227,7 +227,7 @@
   - But the seemingly humble beginning led to realization of his childhood dream.
 - 겉보기보단 더 먹었어요
   - I'm older than I look.
-<!--SR:!2025-02-27,1,218-->
+<!--SR:!2025-03-02,1,198-->
 
 ## 워낙 #card
 ?
