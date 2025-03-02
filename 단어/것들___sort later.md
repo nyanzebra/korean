@@ -569,7 +569,7 @@
 ### 예
 - 정상적으로 자랄 수 있게 잘 보살펴준 것
 	- Take good care of them so they can grow up normally.
-<!--SR:!2025-03-01,4,130-->
+<!--SR:!2025-03-03,2,130-->
 
 ## 조직 #card
 ?
@@ -1776,7 +1776,7 @@ go in and out frequently
 	- misty mountains
 - 방에는 연기가 자욱했다
 	- The room was filled with smoke.
-<!--SR:!2025-02-27,1,147-->
+<!--SR:!2025-03-02,1,130-->
 
 ## 산더미 #card
 ?
