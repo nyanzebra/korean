@@ -1686,7 +1686,7 @@ go in and out frequently
 - private tutoring
 ### 예
 -
-<!--SR:!2025-02-27,1,147-->
+<!--SR:!2025-03-02,1,130-->
 
 ## 왠지 실감 안나는데 #card
 ?
@@ -1833,7 +1833,7 @@ go in and out frequently
 - relationship
 ### 예
 -
-<!--SR:!2025-02-27,1,147-->
+<!--SR:!2025-03-02,1,130-->
 
 ## 또래들 #card
 ?
