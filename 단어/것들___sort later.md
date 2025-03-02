@@ -1266,7 +1266,7 @@ go in and out frequently
 - force to yield
 ### 예
 -
-<!--SR:!2025-03-01,3,150-->
+<!--SR:!2025-03-06,5,150-->
 
 ## 단체 #card
 ?
@@ -1740,7 +1740,7 @@ go in and out frequently
 	- I'll pack up your stuff.
 ### Notes
 - differs from 가지다 in that this has more emphasis on bring/taking something well/securely
-<!--SR:!2025-02-28,2,167-->
+<!--SR:!2025-03-02,1,147-->
 
 ## 긴장 #card
 ?
@@ -1852,7 +1852,7 @@ go in and out frequently
 - trick
 ### 예
 -
-<!--SR:!2025-02-27,1,147-->
+<!--SR:!2025-03-02,1,130-->
 
 ## 모쏘 #card
 ?
