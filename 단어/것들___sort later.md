@@ -1453,7 +1453,7 @@ go in and out frequently
 - it has been a long time since we last met in person
 ### 예
 -
-<!--SR:!2025-02-27,5,164-->
+<!--SR:!2025-03-10,9,164-->
 
 ## 제가 책임지겠습니다 #card
 ?
@@ -1535,7 +1535,7 @@ go in and out frequently
 - sleuth
 ### 예
 -
-<!--SR:!2025-02-27,1,130-->
+<!--SR:!2025-03-02,1,130-->
 
 ## 독서 #card
 ?
@@ -1543,7 +1543,7 @@ go in and out frequently
 - reading?
 ### 예
 -
-<!--SR:!2025-02-28,5,164-->
+<!--SR:!2025-03-09,8,164-->
 
 ## 사나이 #card
 ?
@@ -1886,7 +1886,7 @@ go in and out frequently
 - unite
 ### 예
 -
-<!--SR:!2025-03-01,3,167-->
+<!--SR:!2025-03-06,5,167-->
 
 ## 정신이 확 드네 #card
 ?
