@@ -395,7 +395,7 @@
 	- drape a flag in mourning[black].
 - 증권 거래소 2부에 우리 회사 주식이 상장되었다
 	- Our company is listed on the Second Market.
-<!--SR:!2025-03-02,1,130-->
+<!--SR:!2025-03-03,1,130-->
 
 ## 태우다 #card
 ?
@@ -1123,7 +1123,7 @@ go in and out frequently
 	- The warmer weather makes them feel slower and more tired.
 - 너 참 둔하구나
 	- You are so oblivious.
-<!--SR:!2025-03-02,5,150-->
+<!--SR:!2025-03-11,9,150-->
 
 ## 소개팅 #card
 ?
@@ -1400,7 +1400,7 @@ go in and out frequently
 - plead for
 ### 예
 -
-<!--SR:!2025-03-02,1,130-->
+<!--SR:!2025-03-03,1,130-->
 
 ## 물리다 #card
 ?
