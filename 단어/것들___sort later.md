@@ -191,7 +191,7 @@
   - They call us partners, but they’re treating us like slaves.
 - 애완동물은 훌륭한 동반자가 되며 모든 가족에게 환영 받는 부가물이 될 수 있습니다.
   - Pets make excellent companions and can be a welcome addition to any family.
-<!--SR:!2025-02-28,76,208-->
+<!--SR:!2025-08-07,159,208-->
 
 ## 마찬가지 #card
 ?
@@ -446,7 +446,7 @@
 - filial piety
 ### 예
 -
-<!--SR:!2025-03-01,7,135-->
+<!--SR:!2025-03-10,9,135-->
 
 
 ## 불효 #card
@@ -1560,7 +1560,7 @@ go in and out frequently
 ### 예
 - 적어도 하루 두 번
 	- at least twice a day
-<!--SR:!2025-02-28,2,164-->
+<!--SR:!2025-03-04,3,164-->
 
 ## 기껏해야 #card
 ?
@@ -1876,7 +1876,7 @@ go in and out frequently
 - smash
 ### 예
 -
-<!--SR:!2025-02-27,1,147-->
+<!--SR:!2025-03-02,1,130-->
 
 ## 연합하다 #card
 ?
