@@ -1911,6 +1911,18 @@ go in and out frequently
   - The basic goal is to make financial institutions approachable, convenient and trustworthy.
 <!--SR:!2025-03-02,1,130-->
 
+## 고백하다 #card
+?
+### 뜻
+- confess
+- confes
+### 예
+- 일이 여기에 이르고 보니 나는 모든 것을 고백할 수밖에 없다
+	- Since things have come to this, there is nothing I can do but confess everything.
+- 나는 그녀에게 사랑을 고백했다
+	- I confessed[declared] my love to her.
+
+
 전립선 문제
 
 불다 blow 부르다 call 버리다 toss/completely 벌다 earn
