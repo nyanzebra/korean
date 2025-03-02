@@ -702,7 +702,7 @@
 	- Recently we have had a run of bad luck in our family.
 - 그녀는 그런 불행한 일을 겪고도 태연하다
 	- Even after such an unhappy experience, she looks quite unconcerned.
-<!--SR:!2025-02-27,5,150-->
+<!--SR:!2025-03-09,8,150-->
 
 ## 수상하다 #card
 ?
@@ -1400,7 +1400,7 @@ go in and out frequently
 - plead for
 ### 예
 -
-<!--SR:!2025-02-26,1,130-->
+<!--SR:!2025-03-02,1,130-->
 
 ## 물리다 #card
 ?
