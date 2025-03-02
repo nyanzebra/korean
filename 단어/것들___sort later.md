@@ -687,7 +687,7 @@
 - ?
 ### 예
 -
-<!--SR:!2025-02-27,1,130-->
+<!--SR:!2025-03-02,1,130-->
 
 ## 불행하다 #card
 ?
@@ -807,7 +807,7 @@ go in and out frequently
 - secret technique
 ### 예
 -
-<!--SR:!2025-03-01,7,174-->
+<!--SR:!2025-03-12,11,174-->
 
 ## 물결 #card
 ?
@@ -1044,7 +1044,7 @@ go in and out frequently
 	- Some armed agents infiltrated Seoul.
 - 그는 결사의 각오로 적지에 잠입하였다
 	- He smuggled himself into enemy territory, ready to die if necessary.
-<!--SR:!2025-03-01,12,150-->
+<!--SR:!2025-03-20,19,150-->
 
 ## 캐내다 #card
 ?
@@ -1915,7 +1915,7 @@ go in and out frequently
 ?
 ### 뜻
 - confess
-- confes
+- confession
 ### 예
 - 일이 여기에 이르고 보니 나는 모든 것을 고백할 수밖에 없다
 	- Since things have come to this, there is nothing I can do but confess everything.
