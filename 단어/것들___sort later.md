@@ -529,7 +529,7 @@
 - Why don't you swipe the family register and put a few tails on him?
 ### 예
 -
-<!--SR:!2025-03-01,21,175-->
+<!--SR:!2025-04-07,37,175-->
 
 ## 군말하다 #card
 ?
@@ -1324,7 +1324,7 @@ go in and out frequently
   - Is that why you are afraid of me?
 - 사실, 완전히 겁먹었죠. 저는 저체온증에 걸린 것 같았고 제 친구들은 결국 저를 물밖으로 꺼내야만 했습니다.
   - Actually, I was totally freaking out and I was borderline hypothermic, and my friends eventually had to help me out of the water.
-<!--SR:!2025-02-27,5,162-->
+<!--SR:!2025-03-10,9,162-->
 
 ## 박히다 #card
 ?
@@ -1353,7 +1353,7 @@ go in and out frequently
 	- Please forgive me, for I did not mean what I said.
 - 결코 나는 그를 용서할 수 없다
 	- I cannot forgive him on any account.
-<!--SR:!2025-02-27,5,182-->
+<!--SR:!2025-03-11,10,182-->
 
 ## 정직하다 #card
 ?
@@ -1391,7 +1391,7 @@ go in and out frequently
 	- The watches are alternated[changed] every four hours.
 - 어젯밤에 당직했다
 	- I was on duty[watch] last night.
-<!--SR:!2025-02-26,1,130-->
+<!--SR:!2025-03-02,1,130-->
 
 ## 변호하다 #card
 ?
@@ -1512,7 +1512,7 @@ go in and out frequently
 	- Many times, they have found the animal to return to its owner.
 - 우리는 받은 것을 돌려주어야 한다.
 	- We should give back what we have received.
-<!--SR:!2025-02-27,5,164-->
+<!--SR:!2025-03-09,8,164-->
 
 ## 거절하다 #card
 ?
