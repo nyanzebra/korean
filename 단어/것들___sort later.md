@@ -1903,7 +1903,12 @@ go in and out frequently
 - objective
 - purpose
 ### 예
--
+- 스포츠 단체를 비롯한 다른 단체들도 비슷한 목적으로 몇 가지 조치들을 제정했다.
+  - Other organizations, including sports organizations, have also instituted some measures with a similar purpose.
+- 사실상 이 협약은 문화적 다양성을 확대하자는 것이 아니라 그것을 조지 오웰식으로 제약하려는 데 목적을 두고 있다.
+  - Actually, in Orwellian fashion, this treaty is aimed at limiting cultural diversity, not expanding it.
+- 기본적인 목적은 금융기관을 이해하기 쉽고, 편리하고, 믿을 수 있는 곳으로 만들자는 것이다.
+  - The basic goal is to make financial institutions approachable, convenient and trustworthy.
 <!--SR:!2025-02-27,1,147-->
 
 전립선 문제
