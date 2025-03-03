@@ -474,7 +474,7 @@
 	- For the rebellious Sartre, then, turning down a world-famous award was completely in character.
 - 그녀는 아빠에게 반항하고 늘 모험을 떠날 준비가 되어있다.
 	- She rebels against her father and is always ready for adventure
-<!--SR:!2025-03-02,5,150-->
+<!--SR:!2025-03-11,8,150-->
 
 ## 선행 #card
 ?
@@ -1778,7 +1778,7 @@ go in and out frequently
 	- misty mountains
 - 방에는 연기가 자욱했다
 	- The room was filled with smoke.
-<!--SR:!2025-03-02,1,130-->
+<!--SR:!2025-03-04,1,130-->
 
 ## 산더미 #card
 ?
