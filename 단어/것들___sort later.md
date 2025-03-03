@@ -639,7 +639,7 @@
 	- To dispel any doubts, she filmed herself slathering on a generous amount of shampoo, which failed to soften her rock-hard hair.
 - 천국은 넉넉하고, 흐르는 강으로 풍족한 정원입니다.
 	- It's plenty. It's gardens watered by running streams.
-<!--SR:!2025-03-03,9,150-->
+<!--SR:!2025-03-17,14,150-->
 
 ## 작용하다 #card
 ?
@@ -1216,7 +1216,7 @@ go in and out frequently
 	- This was surprising because other studies only counted prey that cats brought home.
 - 책임 소재를 따지지 않더라도, 여전히 국가 차원의 문제이며 한쪽은 다른 쪽보다 이 문제를 더 심각하게 생각하고 있습니다.
 	- But even if you blame nobody, it still is a national problem, and one side has been more concerned about it than the other.
-<!--SR:!2025-03-02,5,150-->
+<!--SR:!2025-03-11,8,150-->
 
 ## 전국 #card
 ?
@@ -1400,7 +1400,7 @@ go in and out frequently
 - plead for
 ### 예
 -
-<!--SR:!2025-03-03,1,130-->
+<!--SR:!2025-03-04,1,130-->
 
 ## 물리다 #card
 ?
@@ -1797,7 +1797,7 @@ go in and out frequently
 - nest
 ### 예
 -
-<!--SR:!2025-03-02,1,130-->
+<!--SR:!2025-03-04,1,130-->
 
 ## 옥상 #card
 ?
@@ -1834,8 +1834,11 @@ go in and out frequently
 - bond
 - relationship
 ### 예
--
-<!--SR:!2025-03-02,1,130-->
+- 라이샤워는 1939년 한국어의 로마자 표기법인 매쿤-라이샤워 표기법을 제안한 학자로서 한국과도 인연이 있다.
+  - He also has a relationship with Korea because he proposed McCune-Reischauer Romanization for Korean in 1939.
+- 하지만, 두 사람은 예상치 못한 인연을 맺게 된다.
+  - But, the two develop an unexpected connection with each other.
+<!--SR:!2025-03-04,1,130-->
 
 ## 또래들 #card
 ?
