@@ -1300,7 +1300,7 @@ go in and out frequently
 - change clothes
 ### 예
 -
-<!--SR:!2025-03-02,15,162-->
+<!--SR:!2025-03-27,24,162-->
 
 ## 간신히 #card
 ?
@@ -1766,7 +1766,7 @@ go in and out frequently
 - hideout
 ### 예
 -
-<!--SR:!2025-03-02,1,147-->
+<!--SR:!2025-03-04,1,147-->
 
 ## 자욱하다 #card
 ?
