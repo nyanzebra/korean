@@ -410,7 +410,7 @@
 	- give 《a person》 a lift[ride] 《in one's car》/give 《a person》 a passage 《on one's boat》/(도와서) help 《a person》 into 《a car》/put[place] 《a child》 on 《a train》.
 - 그의 어머니를 부산행 열차에 태워 주도록 나는 그에게 부탁을 받았다
 	- I was asked to put his mother on the train bound for Busan.
-<!--SR:!2025-03-03,19,175-->
+<!--SR:!2025-04-06,34,175-->
 
 ## 포옹 #card
 ?
@@ -1185,7 +1185,7 @@ go in and out frequently
 	- The skin's a whole another thing, probably the hardest part.
 - 그리고 그와는 별개로, 저는 작곡과 단편을 썼습니다.
 	- And aside from that, I wrote music and short stories.
-<!--SR:!2025-03-02,1,130-->
+<!--SR:!2025-03-04,1,130-->
 
 ## 소행 #card
 ?
