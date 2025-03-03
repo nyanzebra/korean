@@ -491,7 +491,7 @@
 	- His good conduct set an example for the world.
 - 사람들은 소년의 선행을 극구 칭찬했다
 	- People praised[문어 lauded] the boy to the skies for his good deed.
-<!--SR:!2025-03-02,5,150-->
+<!--SR:!2025-03-10,8,150-->
 
 ## 기대하다 #card
 ?
@@ -1391,7 +1391,7 @@ go in and out frequently
 	- The watches are alternated[changed] every four hours.
 - 어젯밤에 당직했다
 	- I was on duty[watch] last night.
-<!--SR:!2025-03-02,1,130-->
+<!--SR:!2025-03-03,1,130-->
 
 ## 변호하다 #card
 ?
