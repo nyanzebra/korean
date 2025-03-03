@@ -863,7 +863,7 @@ go in and out frequently
 - picture book?
 ### 예
 -
-<!--SR:!2025-03-02,7,170-->
+<!--SR:!2025-03-15,12,170-->
 
 ## 기록하다 #card
 ?
@@ -951,7 +951,7 @@ go in and out frequently
 - take a firm bite
 ### 예
 -
-<!--SR:!2025-03-03,5,155-->
+<!--SR:!2025-03-12,9,155-->
 
 ## 단번에 #card
 ?
@@ -1110,7 +1110,7 @@ go in and out frequently
 	- Though he eventually recovered from the infection, the toll on his body led to him being unable to recover from sepsis, which ultimately took his life.
 - 하지만, 결국 관계는 자존심보다 더 중요하게 여겨져야 합니다.
 	- But, in the end, the relationship should be more important than one’s own pride
-<!--SR:!2025-03-02,5,150-->
+<!--SR:!2025-03-12,9,150-->
 
 ## 둔하다 #card
 ?
