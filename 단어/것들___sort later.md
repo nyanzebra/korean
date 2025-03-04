@@ -395,7 +395,7 @@
 	- drape a flag in mourning[black].
 - 증권 거래소 2부에 우리 회사 주식이 상장되었다
 	- Our company is listed on the Second Market.
-<!--SR:!2025-03-03,1,130-->
+<!--SR:!2025-03-05,1,130-->
 
 ## 태우다 #card
 ?
@@ -569,7 +569,7 @@
 ### 예
 - 정상적으로 자랄 수 있게 잘 보살펴준 것
 	- Take good care of them so they can grow up normally.
-<!--SR:!2025-03-03,2,130-->
+<!--SR:!2025-03-07,3,130-->
 
 ## 조직 #card
 ?
@@ -1366,7 +1366,7 @@ go in and out frequently
 - 이것은 정직한 사람이 손해를 보는 좋은 예다
 	- This is a good example of a case in which honesty doesn't pay.
 -
-<!--SR:!2025-03-03,9,150-->
+<!--SR:!2025-03-18,14,150-->
 
 ## 일부러 #card
 ?
@@ -1445,7 +1445,7 @@ go in and out frequently
 - nickname
 ### 예
 -
-<!--SR:!2025-03-02,1,130-->
+<!--SR:!2025-03-05,1,130-->
 
 ## 우리가 마지막으로 직접 만난 지 오래되었다 #card
 ?
@@ -1672,13 +1672,13 @@ go in and out frequently
 -
 <!--SR:!2025-02-27,1,147-->
 
-## 뺏어가다 #card
+## 뺏어가다 #card
 ?
 ### 뜻
 - take away from someone
 ### 예
 -
-<!--SR:!2025-03-03,1,130-->
+<!--SR:!2025-03-05,1,130-->
 
 ## 과외 #card
 ?
@@ -1846,7 +1846,7 @@ go in and out frequently
 - peers
 ### 예
 -
-<!--SR:!2025-03-03,1,130-->
+<!--SR:!2025-03-05,1,130-->
 
 ## 속이다 #card
 ?
@@ -1900,7 +1900,7 @@ go in and out frequently
 - i'm so awake (mind suddenly raised?)
 ### 예
 -
-<!--SR:!2025-03-02,1,130-->
+<!--SR:!2025-03-05,1,130-->
 
 ## 목적 #card
 ?
