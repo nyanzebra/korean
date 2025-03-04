@@ -241,7 +241,7 @@
   - This book is too difficult for me to read.
 - 그 일은 워낙 명백해서 증거를 댈 필요도 없다
   - It is too evident to require proof.
-<!--SR:!2025-03-02,1,198-->
+<!--SR:!2025-03-05,1,178-->
 
 ## 어쩌다 #card
 ?
