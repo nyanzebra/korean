@@ -332,7 +332,7 @@
 	- My daughter looks like her, too.
 - "당신은 우리 아버지와 쏙 빼닮았습니다."라고 수치 여사가 안재욱에게 말했다.
 	- "You look just like my father," Suu Kyi told Ahn.
-<!--SR:!2025-03-04,17,174-->
+<!--SR:!2025-04-03,30,174-->
 
 
 ## 기강 #card
@@ -1686,7 +1686,7 @@ go in and out frequently
 - private tutoring
 ### 예
 -
-<!--SR:!2025-03-02,1,130-->
+<!--SR:!2025-03-05,1,130-->
 
 ## 왠지 실감 안나는데 #card
 ?
@@ -1709,7 +1709,7 @@ go in and out frequently
 - bat (baseball)
 ### 예
 -
-<!--SR:!2025-03-02,1,130-->
+<!--SR:!2025-03-05,1,130-->
 
 ## 오바하다 #card
 ?
@@ -1797,7 +1797,7 @@ go in and out frequently
 - nest
 ### 예
 -
-<!--SR:!2025-03-04,1,130-->
+<!--SR:!2025-03-05,1,130-->
 
 ## 옥상 #card
 ?
