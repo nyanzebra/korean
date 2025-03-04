@@ -99,7 +99,7 @@
 	- Impartiality is absolutely essential to a judge.
 - 무사하지는 못할거야
 	- not gonna make it
-<!--SR:!2025-03-02,110,252-->
+<!--SR:!2025-04-28,55,232-->
 
 ## 엉망 #card
 ?
@@ -1497,7 +1497,7 @@ go in and out frequently
 ### 예
 - 그녀는 격렬하게 몸을 떨기 시작했다. 그녀의 시선은 방 안을 이리저리 두리번거렸다.
 	- The woman began to tremble violently, and her eyes roamed distractedly about the room.
-<!--SR:!2025-03-02,1,130-->
+<!--SR:!2025-03-06,2,150-->
 
 ## 돌려주다 #card
 ?
