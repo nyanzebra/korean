@@ -847,7 +847,7 @@ go in and out frequently
 	- Korea coach Cho plans to use a quick offense to determine the game.
 - 플레이오프 기간 동안 4팀이 승부를 겨룬다.
 	- Four teams are competing in the playoffs.
-<!--SR:!2025-02-27,8,154-->
+<!--SR:!2025-03-08,4,134-->
 
 ## 걸어오다/걸어가다 #card
 ?
