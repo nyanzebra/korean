@@ -27,7 +27,7 @@
 	- It was a proud moment for me.
 - 뿌듯하게 맞다
 	- fit tightly/suit to a T.
-<!--SR:!2025-02-27,3,150-->
+<!--SR:!2025-03-09,5,150-->
 
 ## 매기다 #card
 ?
