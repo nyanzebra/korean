@@ -346,7 +346,7 @@
 	- The administration should show determination in maintaining the discipline of government officials.
 - 그들은 아침 일찍 일어나는 것이 학생들로 하여금 기강을 발전시키는 것을 돕는다고 말했다.
 	- They said that getting up early helps students develop discipline.
-<!--SR:!2025-02-28,5,150-->
+<!--SR:!2025-03-11,7,150-->
 
 ## 해이하다 #card
 ?
@@ -1004,7 +1004,7 @@ go in and out frequently
 	- be caught in mischief
 - 들키면 나는 큰일이다
 	- If I am discovered, I am done for
-<!--SR:!2025-03-02,5,150-->
+<!--SR:!2025-03-12,8,150-->
 
 ## 입장 #card
 ?
@@ -1479,7 +1479,7 @@ go in and out frequently
 - admiration
 ### 예
 -
-<!--SR:!2025-03-03,1,130-->
+<!--SR:!2025-03-05,1,130-->
 
 ## 존경심 #card
 ?
@@ -1670,7 +1670,7 @@ go in and out frequently
 - pulsate
 ### 예
 -
-<!--SR:!2025-02-27,1,147-->
+<!--SR:!2025-03-05,1,130-->
 
 ## 뺏어가다 #card
 ?
@@ -1875,7 +1875,7 @@ go in and out frequently
 ### 예
 - 본론으로 들어가볼까?
 	- shall we cut to the chase
-<!--SR:!2025-03-02,1,130-->
+<!--SR:!2025-03-05,1,130-->
 
 ## 부수다 #card
 ?
