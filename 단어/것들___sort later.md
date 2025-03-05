@@ -1948,6 +1948,13 @@ go in and out frequently
 - 그러한 체험을 가진 사람은 전 인구 중 일부에 국한되어 있다
 	- Only a few in the whole population have had such experiences.
 
+## 쪽수가 한참 모자라 #card
+?
+### 뜻
+- we're outnumbered!
+### 예
+-
+
 
 전립선 문제
 
