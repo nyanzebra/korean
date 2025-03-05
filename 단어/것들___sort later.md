@@ -1955,6 +1955,16 @@ go in and out frequently
 ### 예
 -
 
+## 박살 #card
+?
+### 뜻
+- shattered
+- smash
+- club to death
+### 예
+- 초기에 박살내다
+	- nip in the bud
+
 
 전립선 문제
 
