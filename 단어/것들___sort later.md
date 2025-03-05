@@ -1938,10 +1938,13 @@ go in and out frequently
 ## 중 일부 #card
 ?
 ### 뜻
-- some among
-- few
+- some among X
+- few from X
 ### 예
--
+- 저는 이제 여러분들 중 일부가 무엇을 생각하시는지 압니다.
+	- So I know what some of you must be thinking right now.
+- 이것들은 그 문제들 중 일부입니다. 그럼, 저는 어떻게 했을까요?
+	- These are a few of them. So, what did I do?
 
 
 전립선 문제
