@@ -1935,6 +1935,14 @@ go in and out frequently
 ### 예
 -
 
+## 중 일부 #card
+?
+### 뜻
+- some among
+- few
+### 예
+-
+
 
 전립선 문제
 
