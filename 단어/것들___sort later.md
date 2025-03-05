@@ -1883,7 +1883,10 @@ go in and out frequently
 - crush
 - smash
 ### 예
--
+- 몇몇 코끼리는 창문을 깨고 주변 식당을 부수었고, 도로를 가로막았다.
+	- Some elephants broke windows and damaged nearby restaurants, and blocked traffic on roads.
+- 그리고 만약 그녀가 이러한 속도로 떨어 지고 있었다면 그녀는 산산이 부숴져 죽었을 것입니다
+	- And if she were falling at this speed, she would've been crushed to death
 <!--SR:!2025-03-04,1,130-->
 
 ## 연합하다 #card
