@@ -1980,7 +1980,12 @@ go in and out frequently
 - have a mind
 - inclined to
 ### 예
--
+- 마음 내키는 대로
+	- as one's humor dictates
+- 마음내키지 않는 대답
+	- half-hearted answer
+- 그를 방문할 마음이 내키지 않는다
+	- 
 
 
 전립선 문제
