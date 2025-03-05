@@ -1974,6 +1974,14 @@ go in and out frequently
 - 박살나다
 	- smash to pieces
 
+## 내키다 #card
+?
+### 뜻
+- have a mind
+- inclined to
+### 예
+-
+
 
 전립선 문제
 
