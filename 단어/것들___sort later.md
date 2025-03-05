@@ -1928,6 +1928,13 @@ go in and out frequently
 - 나는 그녀에게 사랑을 고백했다
 	- I confessed[declared] my love to her.
 
+## 패거리 #card
+?
+### 뜻
+- gang?
+### 예
+-
+
 
 전립선 문제
 
