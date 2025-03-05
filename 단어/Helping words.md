@@ -286,6 +286,9 @@
 ## 한참 #card
 ?
 ### 뜻
-- 
+- for a while
 ### 예
--
+- 한참 만일세
+	- It is a long time since we met
+- 바퀴를 한 번만 움직이면 타성으로 한참 동안 돌아간다
+	- Once you set a wheel in motion, it will keep turning for quite a while because of inertia.
