@@ -272,6 +272,11 @@
 ## 모자라다 #card
 ?
 ### 뜻
--
+- lack
+- missing
+- not enough
 ### 예
--
+- 그 성적표에는 "벤은 가치있는 일을 할 수 있는 정신력이 모자란다."라고 써있지요.
+	- It says, "Ben lacks sufficient impetus to achieve anything worthwhile."
+- 그들은 죽어서 모자란 것이 아니라 아직 출생하지 않은 거죠.
+	- They are not missing because they've died; they were never born.
