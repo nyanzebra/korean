@@ -280,3 +280,12 @@
 	- It says, "Ben lacks sufficient impetus to achieve anything worthwhile."
 - 그들은 죽어서 모자란 것이 아니라 아직 출생하지 않은 거죠.
 	- They are not missing because they've died; they were never born.
+- 세상에 대한 더 넓은 시야를 갖고 싶다는 여러분의 개인적인 결심만으로는 모자랍니다.
+	- It's not enough to make the personal decision that you want a wider world.
+
+## 한참 #card
+?
+### 뜻
+- 
+### 예
+-
