@@ -1964,6 +1964,10 @@ go in and out frequently
 ### 예
 - 초기에 박살내다
 	- nip in the bud
+- 기체가 박살났다
+	- The plane broke up (in the crash)
+- 박살나다
+	- smash to pieces
 
 
 전립선 문제
