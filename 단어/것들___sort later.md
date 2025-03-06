@@ -2036,7 +2036,15 @@ go in and out frequently
 	- park a car
 - 이제 와서 계획을 세워 봐야 사또떠난 뒤에 나팔 부는 격이다
 	- It is too late to work out a plan now.
--  
+
+## 본능(적) #card
+?
+### 뜻
+- instinct(ively)
+### 예
+- 창조적 본능
+	- creative instinct
+
 
 
 전립선 문제
