@@ -2001,6 +2001,14 @@ go in and out frequently
 - 자영업자가 망하면 정책적인 보호도 거의 받을 수 없는 게 현실이다.
 	- Small business owners can receive no government protection if they go bankrupt.
 
+## 조지다 #card
+?
+### 뜻
+- fix tightly
+- 
+### 예
+-
+
 
 전립선 문제
 
