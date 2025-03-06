@@ -1995,7 +1995,11 @@ go in and out frequently
 - screwed
 ### 예
 - 망한 실업가
-	- 
+	- a bankrupt businessman
+- 에너지 가격이 내려가자 우리 은행들이 망하기 시작했습니다.
+	- The price of energy dropped. Our banks began to fail.
+- 자영업자가 망하면 정책적인 보호도 거의 받을 수 없는 게 현실이다.
+	- Small business owners can receive no government protection if they go bankrupt.
 
 
 전립선 문제
