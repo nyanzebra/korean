@@ -2044,6 +2044,8 @@ go in and out frequently
 ### 예
 - 창조적 본능
 	- creative instinct
+- 모성 본능
+	- a maternal instinct
 
 
 
