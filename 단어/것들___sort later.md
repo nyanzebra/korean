@@ -1990,9 +1990,12 @@ go in and out frequently
 ## 망하다 #card
 ?
 ### 뜻
--
+- fail
+- go under
+- screwed
 ### 예
--
+- 망한 실업가
+	- 
 
 
 전립선 문제
