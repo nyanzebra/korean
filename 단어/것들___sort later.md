@@ -2005,7 +2005,7 @@ go in and out frequently
 ?
 ### 뜻
 - fix tightly
-- 
+- screw up
 ### 예
 -
 
