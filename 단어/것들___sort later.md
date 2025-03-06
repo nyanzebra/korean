@@ -2009,6 +2009,13 @@ go in and out frequently
 ### 예
 -
 
+## 안면을 트다 #card
+?
+### 뜻
+- To get to know each other's faces.
+### 예
+-
+
 
 전립선 문제
 
