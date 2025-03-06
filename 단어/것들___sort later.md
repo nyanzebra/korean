@@ -1987,6 +1987,13 @@ go in and out frequently
 - 그를 방문할 마음이 내키지 않는다
 	- I am reluctant to go and see him.
 
+## 망하다 #card
+?
+### 뜻
+-
+### 예
+-
+
 
 전립선 문제
 
