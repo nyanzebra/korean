@@ -2009,7 +2009,7 @@ go in and out frequently
 ### 예
 - 사개를 조지다
 	- screw[make/fix] a joint tight
-- 
+- https://dic.daum.net/word/view.do?wordid=kew000065447&supid=keu000429070
 
 ## 안면을 트다 #card
 ?
