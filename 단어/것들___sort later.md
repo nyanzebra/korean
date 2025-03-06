@@ -2007,7 +2007,9 @@ go in and out frequently
 - fix tightly
 - screw up
 ### 예
--
+- 사개를 조지다
+	- screw[make/fix] a joint tight
+- 
 
 ## 안면을 트다 #card
 ?
