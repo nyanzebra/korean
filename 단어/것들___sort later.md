@@ -2034,6 +2034,9 @@ go in and out frequently
 ### 예
 - 차를 세우다
 	- park a car
+- 이제 와서 계획을 세워 봐야 사또떠난 뒤에 나팔 부는 격이다
+	- It is too late to work out a plan now.
+- 
 
 
 전립선 문제
