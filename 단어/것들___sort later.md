@@ -2025,6 +2025,15 @@ go in and out frequently
 ### 예
 -
 
+## 세우다 #card
+?
+### 뜻
+- set up
+- put up
+- erect
+### 예
+- 차를 세우다
+	- park a car
 
 
 전립선 문제
