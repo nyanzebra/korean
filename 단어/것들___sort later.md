@@ -2018,6 +2018,14 @@ go in and out frequently
 ### 예
 -
 
+## 인원 #card
+?
+### 뜻
+- number of persons
+### 예
+-
+
+
 
 전립선 문제
 
