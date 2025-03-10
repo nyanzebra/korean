@@ -740,7 +740,7 @@ go in and out frequently
 ### 예
 - 울타리 틈새로 고양이가 들락날락하고 있다
 	- Cats go in and out through the opening in the fence.
-<!--SR:!2025-03-09,18,174-->
+<!--SR:!2025-04-09,31,174-->
 
 ## 꺼내다 #card
 ?
@@ -1797,7 +1797,7 @@ go in and out frequently
 - nest
 ### 예
 -
-<!--SR:!2025-03-05,1,130-->
+<!--SR:!2025-03-10,1,130-->
 
 ## 옥상 #card
 ?
