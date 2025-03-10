@@ -786,7 +786,7 @@ go in and out frequently
 	- Not a breeze stirred the lake
 - 잔잔한 수면에는 잔물결 하나 없었다
 	- Not a ripple disturbed the glassy surface of the water.
-<!--SR:!2025-03-02,5,154-->
+<!--SR:!2025-03-17,8,154-->
 
 ## 흔들리다 #card
 ?
@@ -1897,7 +1897,7 @@ go in and out frequently
 - unite
 ### 예
 -
-<!--SR:!2025-03-06,5,167-->
+<!--SR:!2025-03-17,8,167-->
 
 ## 정신이 확 드네 #card
 ?
