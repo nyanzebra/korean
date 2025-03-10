@@ -909,7 +909,7 @@ go in and out frequently
 - I hastily put on my dentures
 ### 예
 -
-<!--SR:!2025-03-06,17,174-->
+<!--SR:!2025-04-08,30,174-->
 
 ## 씹히다 #card
 ?
@@ -1139,7 +1139,7 @@ go in and out frequently
 - coordinating outfit
 ### 예
 -
-<!--SR:!2025-03-07,25,182-->
+<!--SR:!2025-04-24,46,182-->
 
 ## 뺨 #card
 ?
