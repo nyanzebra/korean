@@ -27,7 +27,7 @@
 	- It was a proud moment for me.
 - 뿌듯하게 맞다
 	- fit tightly/suit to a T.
-<!--SR:!2025-03-09,5,150-->
+<!--SR:!2025-03-19,9,150-->
 
 ## 매기다 #card
 ?
@@ -1497,7 +1497,7 @@ go in and out frequently
 ### 예
 - 그녀는 격렬하게 몸을 떨기 시작했다. 그녀의 시선은 방 안을 이리저리 두리번거렸다.
 	- The woman began to tremble violently, and her eyes roamed distractedly about the room.
-<!--SR:!2025-03-06,2,150-->
+<!--SR:!2025-03-13,3,150-->
 
 ## 돌려주다 #card
 ?
@@ -1709,7 +1709,7 @@ go in and out frequently
 - bat (baseball)
 ### 예
 -
-<!--SR:!2025-03-05,1,130-->
+<!--SR:!2025-03-11,1,130-->
 
 ## 오바하다 #card
 ?
