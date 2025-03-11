@@ -366,7 +366,7 @@
 - physically or emotionally comfortable
 ### 예
 -
-<!--SR:!2025-03-05,4,142-->
+<!--SR:!2025-03-16,6,142-->
 
 ## 여전하다 #card
 ?
@@ -1342,7 +1342,7 @@ go in and out frequently
 - callus
 ### 예
 -
-<!--SR:!2025-03-07,3,167-->
+<!--SR:!2025-03-15,5,167-->
 
 ## 용서하다 #card
 ?
@@ -1391,7 +1391,7 @@ go in and out frequently
 	- The watches are alternated[changed] every four hours.
 - 어젯밤에 당직했다
 	- I was on duty[watch] last night.
-<!--SR:!2025-03-05,1,130-->
+<!--SR:!2025-03-11,1,130-->
 
 ## 변호하다 #card
 ?
