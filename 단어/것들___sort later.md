@@ -474,7 +474,7 @@
 	- For the rebellious Sartre, then, turning down a world-famous award was completely in character.
 - 그녀는 아빠에게 반항하고 늘 모험을 떠날 준비가 되어있다.
 	- She rebels against her father and is always ready for adventure
-<!--SR:!2025-03-11,8,150-->
+<!--SR:!2025-03-24,13,150-->
 
 ## 선행 #card
 ?
@@ -1279,7 +1279,7 @@ go in and out frequently
 	- a nonreligious organization.
 - 정치적 색채를 띤 단체
 	- a politically-colored group.
-<!--SR:!2025-03-11,13,150-->
+<!--SR:!2025-03-31,20,150-->
 
 ## 웅성거리다 #card
 ?
