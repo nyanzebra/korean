@@ -1686,7 +1686,7 @@ go in and out frequently
 - private tutoring
 ### 예
 -
-<!--SR:!2025-03-05,1,130-->
+<!--SR:!2025-03-12,1,130-->
 
 ## 왠지 실감 안나는데 #card
 ?
@@ -1766,7 +1766,7 @@ go in and out frequently
 - hideout
 ### 예
 -
-<!--SR:!2025-03-04,1,147-->
+<!--SR:!2025-03-12,1,147-->
 
 ## 자욱하다 #card
 ?
