@@ -1266,7 +1266,7 @@ go in and out frequently
 - force to yield
 ### 예
 -
-<!--SR:!2025-03-06,5,150-->
+<!--SR:!2025-03-20,9,150-->
 
 ## 단체 #card
 ?
@@ -1678,7 +1678,7 @@ go in and out frequently
 - take away from someone
 ### 예
 -
-<!--SR:!2025-03-10,1,130-->
+<!--SR:!2025-03-12,1,130-->
 
 ## 과외 #card
 ?
