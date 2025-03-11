@@ -1846,7 +1846,7 @@ go in and out frequently
 - peers
 ### 예
 -
-<!--SR:!2025-03-05,1,130-->
+<!--SR:!2025-03-11,1,130-->
 
 ## 속이다 #card
 ?
@@ -1905,7 +1905,7 @@ go in and out frequently
 - i'm so awake (mind suddenly raised?)
 ### 예
 -
-<!--SR:!2025-03-05,1,130-->
+<!--SR:!2025-03-11,1,130-->
 
 ## 목적 #card
 ?
