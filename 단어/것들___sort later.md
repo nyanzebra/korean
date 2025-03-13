@@ -79,7 +79,7 @@
 	- And by the way, the arts aren't just important because they improve math scores.
 - 그나저나 지금도 별로 바뀐 건 없습니다.
 	- Not much has changed, by the way.
-<!--SR:!2025-03-04,10,152-->
+<!--SR:!2025-03-17,5,132-->
 
 ## 무사하다 #card
 ?
@@ -395,7 +395,7 @@
 	- drape a flag in mourning[black].
 - 증권 거래소 2부에 우리 회사 주식이 상장되었다
 	- Our company is listed on the Second Market.
-<!--SR:!2025-03-12,1,130-->
+<!--SR:!2025-03-13,1,130-->
 
 ## 태우다 #card
 ?
@@ -1123,7 +1123,7 @@ go in and out frequently
 	- The warmer weather makes them feel slower and more tired.
 - 너 참 둔하구나
 	- You are so oblivious.
-<!--SR:!2025-03-11,9,150-->
+<!--SR:!2025-03-27,15,150-->
 
 ## 소개팅 #card
 ?
@@ -1131,7 +1131,7 @@ go in and out frequently
 - blind date
 ### 예
 -
-<!--SR:!2025-03-12,23,182-->
+<!--SR:!2025-04-23,42,182-->
 
 ## 코디 #card
 ?
@@ -1400,7 +1400,7 @@ go in and out frequently
 - plead for
 ### 예
 -
-<!--SR:!2025-03-06,2,150-->
+<!--SR:!2025-03-15,3,150-->
 
 ## 물리다 #card
 ?
@@ -1445,7 +1445,7 @@ go in and out frequently
 - nickname
 ### 예
 -
-<!--SR:!2025-03-05,1,130-->
+<!--SR:!2025-03-14,2,150-->
 
 ## 우리가 마지막으로 직접 만난 지 오래되었다 #card
 ?
@@ -1461,7 +1461,7 @@ go in and out frequently
 - I will take responsibility
 ### 예
 -
-<!--SR:!2025-03-11,9,164-->
+<!--SR:!2025-03-28,16,164-->
 
 ## 정중하다 #card
 ?
@@ -1709,7 +1709,7 @@ go in and out frequently
 - bat (baseball)
 ### 예
 -
-<!--SR:!2025-03-11,1,130-->
+<!--SR:!2025-03-13,1,130-->
 
 ## 오바하다 #card
 ?
@@ -1750,7 +1750,7 @@ go in and out frequently
 - tension
 ### 예
 -
-<!--SR:!2025-03-06,2,167-->
+<!--SR:!2025-03-15,3,167-->
 
 ## 함정 #card
 ?
@@ -1866,7 +1866,7 @@ go in and out frequently
 - forever alone (from birth solo)
 ### 예
 -
-<!--SR:!2025-03-03,1,130-->
+<!--SR:!2025-03-13,1,130-->
 
 ## 본론 #card
 ?
