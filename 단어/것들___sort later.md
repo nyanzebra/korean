@@ -491,7 +491,7 @@
 	- His good conduct set an example for the world.
 - 사람들은 소년의 선행을 극구 칭찬했다
 	- People praised[문어 lauded] the boy to the skies for his good deed.
-<!--SR:!2025-03-10,8,150-->
+<!--SR:!2025-03-24,12,150-->
 
 ## 기대하다 #card
 ?
@@ -702,7 +702,7 @@
 	- Recently we have had a run of bad luck in our family.
 - 그녀는 그런 불행한 일을 겪고도 태연하다
 	- Even after such an unhappy experience, she looks quite unconcerned.
-<!--SR:!2025-03-09,8,150-->
+<!--SR:!2025-03-25,13,150-->
 
 ## 수상하다 #card
 ?
@@ -1216,7 +1216,7 @@ go in and out frequently
 	- This was surprising because other studies only counted prey that cats brought home.
 - 책임 소재를 따지지 않더라도, 여전히 국가 차원의 문제이며 한쪽은 다른 쪽보다 이 문제를 더 심각하게 생각하고 있습니다.
 	- But even if you blame nobody, it still is a national problem, and one side has been more concerned about it than the other.
-<!--SR:!2025-03-11,8,150-->
+<!--SR:!2025-03-24,12,150-->
 
 ## 전국 #card
 ?
