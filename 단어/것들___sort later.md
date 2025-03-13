@@ -1479,7 +1479,7 @@ go in and out frequently
 - admiration
 ### 예
 -
-<!--SR:!2025-03-11,1,130-->
+<!--SR:!2025-03-13,1,130-->
 
 ## 존경심 #card
 ?
