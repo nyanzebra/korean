@@ -654,7 +654,7 @@
 	- Some supernatural power seems to be at work
 - 연이 올라갈 때는 바람이 양력으로 작용한다
 	- When a kite flies, the wind provides lift.
-<!--SR:!2025-03-03,5,150-->
+<!--SR:!2025-03-20,8,150-->
 
 ## 그닥 #card
 ?
@@ -687,7 +687,7 @@
 - ?
 ### 예
 -
-<!--SR:!2025-03-12,1,130-->
+<!--SR:!2025-03-13,1,130-->
 
 ## 불행하다 #card
 ?
@@ -1453,7 +1453,7 @@ go in and out frequently
 - it has been a long time since we last met in person
 ### 예
 -
-<!--SR:!2025-03-10,9,164-->
+<!--SR:!2025-04-02,21,184-->
 
 ## 제가 책임지겠습니다 #card
 ?
@@ -1560,7 +1560,7 @@ go in and out frequently
 ### 예
 - 적어도 하루 두 번
 	- at least twice a day
-<!--SR:!2025-03-04,3,164-->
+<!--SR:!2025-03-19,7,184-->
 
 ## 기껏해야 #card
 ?
@@ -1797,7 +1797,7 @@ go in and out frequently
 - nest
 ### 예
 -
-<!--SR:!2025-03-12,1,130-->
+<!--SR:!2025-03-13,1,130-->
 
 ## 옥상 #card
 ?
