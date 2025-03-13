@@ -760,7 +760,7 @@ go in and out frequently
 - right man
 ### 예
 -
-<!--SR:!2025-03-10,19,154-->
+<!--SR:!2025-04-10,29,154-->
 
 ## 수면 #card
 ?
@@ -1004,7 +1004,7 @@ go in and out frequently
 	- be caught in mischief
 - 들키면 나는 큰일이다
 	- If I am discovered, I am done for
-<!--SR:!2025-03-12,8,150-->
+<!--SR:!2025-03-25,13,150-->
 
 ## 입장 #card
 ?
@@ -1055,7 +1055,7 @@ go in and out frequently
 	- root out a secret.
 - 나무 등걸을 캐내다
 	- dig up the stump of a tree.
-<!--SR:!2025-03-01,7,150-->
+<!--SR:!2025-03-23,11,150-->
 
 ## 나머지 #card
 ?
@@ -1740,7 +1740,7 @@ go in and out frequently
 	- I'll pack up your stuff.
 ### Notes
 - differs from 가지다 in that this has more emphasis on bring/taking something well/securely
-<!--SR:!2025-03-02,1,147-->
+<!--SR:!2025-03-13,1,130-->
 
 ## 긴장 #card
 ?
