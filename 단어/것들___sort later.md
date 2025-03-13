@@ -538,7 +538,7 @@
 ### 예
 - 항상 군말없이 따라주는 네 수고는 내가 다 기억한다
 	- I remember all the trouble you've gone to to keep me company!
-<!--SR:!2025-03-10,9,150-->
+<!--SR:!2025-03-26,14,150-->
 
 ## 애초 #card
 ?
@@ -584,7 +584,7 @@
 	- organism
 - 조직도
 	- organization chart
-<!--SR:!2025-03-09,8,150-->
+<!--SR:!2025-03-24,12,150-->
 
 ## 간만 #card
 ?
@@ -951,7 +951,7 @@ go in and out frequently
 - take a firm bite
 ### 예
 -
-<!--SR:!2025-03-12,9,155-->
+<!--SR:!2025-03-27,15,155-->
 
 ## 단번에 #card
 ?
@@ -1512,7 +1512,7 @@ go in and out frequently
 	- Many times, they have found the animal to return to its owner.
 - 우리는 받은 것을 돌려주어야 한다.
 	- We should give back what we have received.
-<!--SR:!2025-03-09,8,164-->
+<!--SR:!2025-03-25,13,164-->
 
 ## 거절하다 #card
 ?
