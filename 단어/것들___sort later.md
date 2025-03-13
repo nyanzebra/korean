@@ -429,7 +429,7 @@
 - I thought you were growing up wrong
 ### 예
 -
-<!--SR:!2025-03-05,18,174-->
+<!--SR:!2025-04-13,32,174-->
 
 ## 효자 #card
 ?
@@ -594,7 +594,7 @@
 ### 예
 - 간만에 바람 좀 쐬면서 걸을까 한다
 	- It's been a while since I've had some fresh air
-<!--SR:!2025-03-11,9,150-->
+<!--SR:!2025-03-26,14,150-->
 
 ## 버릇하다 #card
 ?
@@ -832,7 +832,7 @@ go in and out frequently
 - get sunburnt
 ### 예
 -
-<!--SR:!2025-03-05,31,235-->
+<!--SR:!2025-05-25,74,235-->
 
 ## 승부 #card
 ?
@@ -855,7 +855,7 @@ go in and out frequently
 - come/go by walking/foot
 ### 예
 -
-<!--SR:!2025-03-08,34,242-->
+<!--SR:!2025-06-04,84,242-->
 
 ## 도감 #card
 ?
