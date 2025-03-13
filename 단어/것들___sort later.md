@@ -807,7 +807,7 @@ go in and out frequently
 - secret technique
 ### 예
 -
-<!--SR:!2025-03-12,11,174-->
+<!--SR:!2025-03-31,19,174-->
 
 ## 물결 #card
 ?
@@ -847,7 +847,7 @@ go in and out frequently
 	- Korea coach Cho plans to use a quick offense to determine the game.
 - 플레이오프 기간 동안 4팀이 승부를 겨룬다.
 	- Four teams are competing in the playoffs.
-<!--SR:!2025-03-08,4,134-->
+<!--SR:!2025-03-17,5,134-->
 
 ## 걸어오다/걸어가다 #card
 ?
@@ -1110,7 +1110,7 @@ go in and out frequently
 	- Though he eventually recovered from the infection, the toll on his body led to him being unable to recover from sepsis, which ultimately took his life.
 - 하지만, 결국 관계는 자존심보다 더 중요하게 여겨져야 합니다.
 	- But, in the end, the relationship should be more important than one’s own pride
-<!--SR:!2025-03-12,9,150-->
+<!--SR:!2025-03-27,15,150-->
 
 ## 둔하다 #card
 ?
@@ -1543,7 +1543,7 @@ go in and out frequently
 - reading?
 ### 예
 -
-<!--SR:!2025-03-09,8,164-->
+<!--SR:!2025-03-16,4,144-->
 
 ## 사나이 #card
 ?
@@ -1920,7 +1920,7 @@ go in and out frequently
   - Actually, in Orwellian fashion, this treaty is aimed at limiting cultural diversity, not expanding it.
 - 기본적인 목적은 금융기관을 이해하기 쉽고, 편리하고, 믿을 수 있는 곳으로 만들자는 것이다.
   - The basic goal is to make financial institutions approachable, convenient and trustworthy.
-<!--SR:!2025-03-05,2,150-->
+<!--SR:!2025-03-13,1,130-->
 
 ## 고백하다 #card
 ?
