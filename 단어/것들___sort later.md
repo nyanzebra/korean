@@ -874,7 +874,7 @@ go in and out frequently
 	- I have put down the course of events in detail[in full/minutely].
 - 이 팀은 과거 2년간 무패를 기록했다
 	- The team has not suffered a single defeat for the last two years.
-<!--SR:!2025-03-04,9,150-->
+<!--SR:!2025-03-30,15,150-->
 
 ## 틀니 #card
 ?
@@ -1292,7 +1292,7 @@ go in and out frequently
 	- The racket made by the mob could be heard intermittently
 - 웅성거리는 대화 소리.
 	- a buzz of conversation
-<!--SR:!2025-03-06,5,150-->
+<!--SR:!2025-03-18,3,130-->
 
 ## 갈아입다 #card
 ?
@@ -1445,7 +1445,7 @@ go in and out frequently
 - nickname
 ### 예
 -
-<!--SR:!2025-03-14,2,150-->
+<!--SR:!2025-03-18,3,150-->
 
 ## 우리가 마지막으로 직접 만난 지 오래되었다 #card
 ?
@@ -1788,7 +1788,7 @@ go in and out frequently
 - great mess
 ### 예
 -
-<!--SR:!2025-03-12,1,147-->
+<!--SR:!2025-03-17,2,167-->
 
 ## 소굴 #card
 ?
@@ -1797,7 +1797,7 @@ go in and out frequently
 - nest
 ### 예
 -
-<!--SR:!2025-03-13,1,130-->
+<!--SR:!2025-03-16,1,130-->
 
 ## 옥상 #card
 ?
