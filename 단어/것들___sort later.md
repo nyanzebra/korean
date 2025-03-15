@@ -395,7 +395,7 @@
 	- drape a flag in mourning[black].
 - 증권 거래소 2부에 우리 회사 주식이 상장되었다
 	- Our company is listed on the Second Market.
-<!--SR:!2025-03-13,1,130-->
+<!--SR:!2025-03-16,1,130-->
 
 ## 태우다 #card
 ?
@@ -918,7 +918,7 @@ go in and out frequently
 - masticate
 ### 예
 -
-<!--SR:!2025-03-15,26,182-->
+<!--SR:!2025-05-01,47,182-->
 
 ## 부끄럽다 #card
 ?
@@ -1309,7 +1309,7 @@ go in and out frequently
 - narrowly
 ### 예
 -
-<!--SR:!2025-03-09,13,170-->
+<!--SR:!2025-03-22,7,150-->
 
 ## 겁먹다 #card
 ?
@@ -1333,7 +1333,7 @@ go in and out frequently
 - stuck
 ### 예
 -
-<!--SR:!2025-03-12,9,150-->
+<!--SR:!2025-03-29,14,150-->
 
 ## 굳은살 #card
 ?
@@ -1342,7 +1342,7 @@ go in and out frequently
 - callus
 ### 예
 -
-<!--SR:!2025-03-15,5,167-->
+<!--SR:!2025-03-23,8,167-->
 
 ## 용서하다 #card
 ?
@@ -1905,7 +1905,7 @@ go in and out frequently
 - i'm so awake (mind suddenly raised?)
 ### 예
 -
-<!--SR:!2025-03-11,1,130-->
+<!--SR:!2025-03-16,1,130-->
 
 ## 목적 #card
 ?
