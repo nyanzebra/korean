@@ -863,7 +863,7 @@ go in and out frequently
 - picture book?
 ### 예
 -
-<!--SR:!2025-03-15,12,170-->
+<!--SR:!2025-04-05,21,170-->
 
 ## 기록하다 #card
 ?
