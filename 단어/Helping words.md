@@ -300,4 +300,5 @@
 ### 예
 - 철저한 변혁
 	- thorough change
-- 
+- 철저한 토론
+	- thorough discussion
