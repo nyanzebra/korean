@@ -1740,7 +1740,7 @@ go in and out frequently
 	- I'll pack up your stuff.
 ### Notes
 - differs from 가지다 in that this has more emphasis on bring/taking something well/securely
-<!--SR:!2025-03-13,1,130-->
+<!--SR:!2025-03-16,1,130-->
 
 ## 긴장 #card
 ?
