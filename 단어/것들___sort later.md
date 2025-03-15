@@ -2053,7 +2053,10 @@ go in and out frequently
 ### 뜻
 - go out and about
 ### 예
--
+- 그는 상용으로 외출하고 없다
+	- He has gone out on business.
+- 그는 폭풍을 무릅쓰고 외출했다
+	- He went out in spite of[braving] the storm.
 
 
 
