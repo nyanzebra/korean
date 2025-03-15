@@ -773,7 +773,7 @@ go in and out frequently
 	- sleep regular hours
 - 이들은 수면에서 생활한다.
 	- They live at the surface of the water.
-<!--SR:!2025-03-09,20,155-->
+<!--SR:!2025-03-26,11,135-->
 
 ## 잔잔하다 #card
 ?
@@ -1814,7 +1814,7 @@ go in and out frequently
 - frank
 ### 예
 -
-<!--SR:!2025-03-13,1,130-->
+<!--SR:!2025-03-16,1,130-->
 
 ## 대단하다 #card
 ?
