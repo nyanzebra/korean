@@ -1678,7 +1678,7 @@ go in and out frequently
 - take away from someone
 ### 예
 -
-<!--SR:!2025-03-12,1,130-->
+<!--SR:!2025-03-16,1,130-->
 
 ## 과외 #card
 ?
