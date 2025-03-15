@@ -2048,6 +2048,14 @@ go in and out frequently
 	- a maternal instinct
 
 
+## 외출하다 #card
+?
+### 뜻
+- go out and about
+### 예
+-
+
+
 
 전립선 문제
 
