@@ -155,7 +155,7 @@
 	- They are venting out their bottled-up antipathy to a fellow lawmaker
 - 불편한 감정을 억누르거나 그런 감정을 가지고 있다고 자신을 판단하지 말라.
 	- Don’t repress uncomfortable emotions or judge yourself for having them
-<!--SR:!2025-03-14,13,130-->
+<!--SR:!2025-04-02,17,130-->
 
 ## 불길하다 #card
 ?
@@ -942,7 +942,7 @@ go in and out frequently
 	- throw in something extra.
 - 덤으로 귤 2개를 드리겠습니다
 	- I'll throw these two oranges in extra./I'll give you two oranges into the bargain.
-<!--SR:!2025-03-11,22,154-->
+<!--SR:!2025-04-18,33,154-->
 
 ## 악물다 #card
 ?
@@ -1846,7 +1846,7 @@ go in and out frequently
 - peers
 ### 예
 -
-<!--SR:!2025-03-11,1,130-->
+<!--SR:!2025-03-17,1,130-->
 
 ## 속이다 #card
 ?
@@ -1889,7 +1889,7 @@ go in and out frequently
 	- And if she were falling at this speed, she would've been crushed to death
 - 김태희의 배역은 부수어야 하고 아무것도 그녀를 막을 수 없는 역할이다.
 	- Kim's character is on a mission to destroy, and nothing can stop her.
-<!--SR:!2025-03-13,1,130-->
+<!--SR:!2025-03-17,1,130-->
 
 ## 연합하다 #card
 ?
