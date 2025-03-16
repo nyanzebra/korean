@@ -1097,7 +1097,7 @@ go in and out frequently
 ### 예
 - 소지품 전부에 자기 이름을 붙이다
 	- put one's name on all one's belongings.
-<!--SR:!2025-03-15,13,170-->
+<!--SR:!2025-04-06,21,170-->
 
 ## 결국 #card
 ?
