@@ -1470,7 +1470,7 @@ go in and out frequently
 - courteous
 ### 예
 - 그니까 좀 정중해져 보세요
-<!--SR:!2025-03-16,1,130-->
+<!--SR:!2025-03-17,1,130-->
 
 ## 존경 #card
 ?
@@ -1479,7 +1479,7 @@ go in and out frequently
 - admiration
 ### 예
 -
-<!--SR:!2025-03-13,1,130-->
+<!--SR:!2025-03-17,1,130-->
 
 ## 존경심 #card
 ?
@@ -1866,7 +1866,7 @@ go in and out frequently
 - forever alone (from birth solo)
 ### 예
 -
-<!--SR:!2025-03-13,1,130-->
+<!--SR:!2025-03-17,1,130-->
 
 ## 본론 #card
 ?
