@@ -901,7 +901,7 @@ go in and out frequently
 	- Some of these brokers may have helped terrorists transfer money after the September 11 attacks.
 - 검찰에 따르면 모두 120명의 구직자들이 기아차에 입사하기 위해 뇌물을 건넨 것으로 밝혀졌다.
 	- A total of 120 employees were found to have paid bribes to gain work at the automaker's factory in Gwangju, 330 kilometers south of Seoul, according to the prosecution.
-<!--SR:!2025-03-04,10,142-->
+<!--SR:!2025-03-31,15,142-->
 
 ## 받은 틀니를 서둘러 꼈다 #card
 ?
@@ -1185,7 +1185,7 @@ go in and out frequently
 	- The skin's a whole another thing, probably the hardest part.
 - 그리고 그와는 별개로, 저는 작곡과 단편을 썼습니다.
 	- And aside from that, I wrote music and short stories.
-<!--SR:!2025-03-04,1,130-->
+<!--SR:!2025-03-17,1,130-->
 
 ## 소행 #card
 ?
@@ -1526,7 +1526,7 @@ go in and out frequently
 	- If the other party rejects my proposal, I shall not hesitate to fight.
 - 차제에 깨끗이 거절하지 않으면 안 된다
 	- You must give a flat refusal right now.
-<!--SR:!2025-03-10,9,164-->
+<!--SR:!2025-03-31,15,164-->
 
 ## 탐정 #card
 ?
@@ -1535,7 +1535,7 @@ go in and out frequently
 - sleuth
 ### 예
 -
-<!--SR:!2025-03-04,1,130-->
+<!--SR:!2025-03-17,1,130-->
 
 ## 독서 #card
 ?
@@ -1838,7 +1838,7 @@ go in and out frequently
   - He also has a relationship with Korea because he proposed McCune-Reischauer Romanization for Korean in 1939.
 - 하지만, 두 사람은 예상치 못한 인연을 맺게 된다.
   - But, the two develop an unexpected connection with each other.
-<!--SR:!2025-03-16,1,130-->
+<!--SR:!2025-03-17,1,130-->
 
 ## 또래들 #card
 ?
