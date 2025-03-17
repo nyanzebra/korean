@@ -715,7 +715,7 @@
 	- She seems to be going about[around] with a questionable man.
 - 탐정은 수상한 그 사나이를 놓쳤다
 	- The detective lost track of the suspicious man.
-<!--SR:!2025-03-13,19,154-->
+<!--SR:!2025-04-15,30,154-->
 
 ## 낌새 #card
 ?
