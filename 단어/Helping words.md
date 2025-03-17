@@ -227,7 +227,7 @@
   - But the seemingly humble beginning led to realization of his childhood dream.
 - 겉보기보단 더 먹었어요
   - I'm older than I look.
-<!--SR:!2025-03-02,1,198-->
+<!--SR:!2025-03-18,2,198-->
 
 ## 워낙 #card
 ?
