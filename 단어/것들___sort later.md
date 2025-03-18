@@ -1245,7 +1245,7 @@ go in and out frequently
 	- I searched all over the house for the missing watch.
 - 한국은 첨단 기술 분야에서 외국에 뒤져 있지 않다
 	- In the field of modern technology, Korea is not behind other countries.
-<!--SR:!2025-03-16,21,162-->
+<!--SR:!2025-04-22,35,162-->
 
 ## 의논하다 #card
 ?
