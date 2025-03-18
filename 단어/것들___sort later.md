@@ -346,7 +346,7 @@
 	- The administration should show determination in maintaining the discipline of government officials.
 - 그들은 아침 일찍 일어나는 것이 학생들로 하여금 기강을 발전시키는 것을 돕는다고 말했다.
 	- They said that getting up early helps students develop discipline.
-<!--SR:!2025-03-11,7,150-->
+<!--SR:!2025-03-22,4,130-->
 
 ## 해이하다 #card
 ?
@@ -639,7 +639,7 @@
 	- To dispel any doubts, she filmed herself slathering on a generous amount of shampoo, which failed to soften her rock-hard hair.
 - 천국은 넉넉하고, 흐르는 강으로 풍족한 정원입니다.
 	- It's plenty. It's gardens watered by running streams.
-<!--SR:!2025-03-17,14,150-->
+<!--SR:!2025-04-08,21,150-->
 
 ## 작용하다 #card
 ?
@@ -687,7 +687,7 @@
 - ?
 ### 예
 -
-<!--SR:!2025-03-17,1,130-->
+<!--SR:!2025-03-19,1,130-->
 
 ## 불행하다 #card
 ?
@@ -730,7 +730,7 @@
 	- There were no signs of their having discussed the matter.
 - 나는 낌새를 알고 있었다
 	- I had an inkling of it.
-<!--SR:!2025-03-17,23,155-->
+<!--SR:!2025-04-23,36,155-->
 
 ## 들락날락 #card
 ?
@@ -1366,7 +1366,7 @@ go in and out frequently
 - 이것은 정직한 사람이 손해를 보는 좋은 예다
 	- This is a good example of a case in which honesty doesn't pay.
 -
-<!--SR:!2025-03-18,14,150-->
+<!--SR:!2025-03-25,7,130-->
 
 ## 일부러 #card
 ?
@@ -1543,7 +1543,7 @@ go in and out frequently
 - reading?
 ### 예
 -
-<!--SR:!2025-03-16,4,144-->
+<!--SR:!2025-03-24,6,144-->
 
 ## 사나이 #card
 ?
@@ -1846,7 +1846,7 @@ go in and out frequently
 - peers
 ### 예
 -
-<!--SR:!2025-03-17,1,130-->
+<!--SR:!2025-03-19,1,130-->
 
 ## 속이다 #card
 ?
