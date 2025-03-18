@@ -44,7 +44,7 @@
 	- decide on priority ranked things
 - 날짜를 매기다
 	- decide on a date
-<!--SR:!2025-03-11,20,168-->
+<!--SR:!2025-04-21,34,168-->
 
 ## 그럭저럭 #card
 ?
@@ -1838,7 +1838,7 @@ go in and out frequently
   - He also has a relationship with Korea because he proposed McCune-Reischauer Romanization for Korean in 1939.
 - 하지만, 두 사람은 예상치 못한 인연을 맺게 된다.
   - But, the two develop an unexpected connection with each other.
-<!--SR:!2025-03-17,1,130-->
+<!--SR:!2025-03-19,1,130-->
 
 ## 또래들 #card
 ?
