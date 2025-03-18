@@ -1686,7 +1686,7 @@ go in and out frequently
 - private tutoring
 ### 예
 -
-<!--SR:!2025-03-13,1,130-->
+<!--SR:!2025-03-19,1,130-->
 
 ## 왠지 실감 안나는데 #card
 ?
