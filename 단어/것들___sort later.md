@@ -269,7 +269,7 @@
 - gain popularity (attract popularity)
 ### 예
 -
-<!--SR:!2025-03-17,49,215-->
+<!--SR:!2025-07-01,105,215-->
 
 ## 부딪치다 #card
 ?
@@ -569,7 +569,7 @@
 ### 예
 - 정상적으로 자랄 수 있게 잘 보살펴준 것
 	- Take good care of them so they can grow up normally.
-<!--SR:!2025-03-14,4,130-->
+<!--SR:!2025-03-20,2,130-->
 
 ## 조직 #card
 ?
@@ -1740,7 +1740,7 @@ go in and out frequently
 	- I'll pack up your stuff.
 ### Notes
 - differs from 가지다 in that this has more emphasis on bring/taking something well/securely
-<!--SR:!2025-03-17,1,130-->
+<!--SR:!2025-03-19,1,130-->
 
 ## 긴장 #card
 ?
