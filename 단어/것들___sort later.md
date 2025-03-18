@@ -606,7 +606,7 @@
 	- accustom oneself to early rising
 - 규칙적인 생활을 해 버릇하다
 	- accustom oneself to a regular life.
-<!--SR:!2025-03-18,7,130-->
+<!--SR:!2025-03-28,10,130-->
 
 ## 쥐어짜다 #card
 ?
