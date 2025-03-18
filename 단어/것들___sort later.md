@@ -1569,7 +1569,7 @@ go in and out frequently
 ### 예
 - 기껏해야 하루에 한 번
 	- at most once a day
-<!--SR:!2025-03-17,5,150-->
+<!--SR:!2025-03-27,9,150-->
 
 ## 시도하다 #card
 ?
