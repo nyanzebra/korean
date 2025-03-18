@@ -303,7 +303,7 @@
 	- Two of his ribs were fractured and his sherpa died.
 - 하지만 부러지는 것보다 휘는 것이 낫다고 했다.
 	- But it is better to bend than snap.
-<!--SR:!2025-03-15,55,255-->
+<!--SR:!2025-04-16,29,235-->
 
 ## 겪다 #card
 ?
@@ -379,7 +379,7 @@
 	- My father's condition remains the same.
 - 한 달이 지난 지금도 북한의 군사적 위협은 여전하다.
 	- A month has passed, and the North Korean military threat remains.
-<!--SR:!2025-03-05,16,175-->
+<!--SR:!2025-03-26,8,155-->
 
 ## 상장 #card
 ?
