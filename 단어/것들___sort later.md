@@ -929,7 +929,7 @@ go in and out frequently
 ### 예
 - 그녀는 질책을 받아도 부끄럽지도 않은 것 같고 사과하려고 하지도 않습니다.
 	- She never seems embarrassed about the reprimand, nor is she apologetic.
-<!--SR:!2025-03-18,14,155-->
+<!--SR:!2025-04-09,22,155-->
 
 ## 덤 #card
 ?
@@ -1353,7 +1353,7 @@ go in and out frequently
 	- Please forgive me, for I did not mean what I said.
 - 결코 나는 그를 용서할 수 없다
 	- I cannot forgive him on any account.
-<!--SR:!2025-03-11,10,182-->
+<!--SR:!2025-04-05,18,182-->
 
 ## 정직하다 #card
 ?
@@ -1425,7 +1425,7 @@ go in and out frequently
 	- exorcise evil spirits
 - 하루하루 물리다
 	- put off from day to day.
-<!--SR:!2025-03-17,1,130-->
+<!--SR:!2025-03-19,1,130-->
 
 ## 미치다 #card
 ?
@@ -1470,7 +1470,7 @@ go in and out frequently
 - courteous
 ### 예
 - 그니까 좀 정중해져 보세요
-<!--SR:!2025-03-17,1,130-->
+<!--SR:!2025-03-19,1,130-->
 
 ## 존경 #card
 ?
@@ -1497,7 +1497,7 @@ go in and out frequently
 ### 예
 - 그녀는 격렬하게 몸을 떨기 시작했다. 그녀의 시선은 방 안을 이리저리 두리번거렸다.
 	- The woman began to tremble violently, and her eyes roamed distractedly about the room.
-<!--SR:!2025-03-13,3,150-->
+<!--SR:!2025-03-23,5,150-->
 
 ## 돌려주다 #card
 ?
@@ -1678,7 +1678,7 @@ go in and out frequently
 - take away from someone
 ### 예
 -
-<!--SR:!2025-03-16,1,130-->
+<!--SR:!2025-03-19,1,130-->
 
 ## 과외 #card
 ?
@@ -1778,7 +1778,7 @@ go in and out frequently
 	- misty mountains
 - 방에는 연기가 자욱했다
 	- The room was filled with smoke.
-<!--SR:!2025-03-12,1,130-->
+<!--SR:!2025-03-19,1,130-->
 
 ## 산더미 #card
 ?
