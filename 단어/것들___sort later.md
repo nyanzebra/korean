@@ -786,7 +786,7 @@ go in and out frequently
 	- Not a breeze stirred the lake
 - 잔잔한 수면에는 잔물결 하나 없었다
 	- Not a ripple disturbed the glassy surface of the water.
-<!--SR:!2025-03-17,8,154-->
+<!--SR:!2025-03-31,13,154-->
 
 ## 흔들리다 #card
 ?
