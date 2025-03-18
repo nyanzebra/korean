@@ -1709,7 +1709,7 @@ go in and out frequently
 - bat (baseball)
 ### 예
 -
-<!--SR:!2025-03-17,1,130-->
+<!--SR:!2025-03-19,1,130-->
 
 ## 오바하다 #card
 ?
@@ -1866,7 +1866,7 @@ go in and out frequently
 - forever alone (from birth solo)
 ### 예
 -
-<!--SR:!2025-03-17,1,130-->
+<!--SR:!2025-03-19,1,130-->
 
 ## 본론 #card
 ?
