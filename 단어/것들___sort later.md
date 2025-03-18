@@ -395,7 +395,7 @@
 	- drape a flag in mourning[black].
 - 증권 거래소 2부에 우리 회사 주식이 상장되었다
 	- Our company is listed on the Second Market.
-<!--SR:!2025-03-16,1,130-->
+<!--SR:!2025-03-19,1,130-->
 
 ## 태우다 #card
 ?
@@ -1788,7 +1788,7 @@ go in and out frequently
 - great mess
 ### 예
 -
-<!--SR:!2025-03-17,2,167-->
+<!--SR:!2025-03-21,3,167-->
 
 ## 소굴 #card
 ?
@@ -1814,7 +1814,7 @@ go in and out frequently
 - frank
 ### 예
 -
-<!--SR:!2025-03-16,1,130-->
+<!--SR:!2025-03-19,1,130-->
 
 ## 대단하다 #card
 ?
@@ -1889,7 +1889,7 @@ go in and out frequently
 	- And if she were falling at this speed, she would've been crushed to death
 - 김태희의 배역은 부수어야 하고 아무것도 그녀를 막을 수 없는 역할이다.
 	- Kim's character is on a mission to destroy, and nothing can stop her.
-<!--SR:!2025-03-17,1,130-->
+<!--SR:!2025-03-19,1,130-->
 
 ## 연합하다 #card
 ?
