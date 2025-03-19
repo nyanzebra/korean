@@ -79,7 +79,7 @@
 	- And by the way, the arts aren't just important because they improve math scores.
 - 그나저나 지금도 별로 바뀐 건 없습니다.
 	- Not much has changed, by the way.
-<!--SR:!2025-03-17,5,132-->
+<!--SR:!2025-03-25,7,132-->
 
 ## 무사하다 #card
 ?
@@ -205,7 +205,7 @@
 	- every day was the same
 - 그것은 있거나 없거나 마찬가지다
 	- whether I have it or not, it is the same
-<!--SR:!2025-03-17,70,238-->
+<!--SR:!2025-04-22,35,218-->
 
 ## 위기 #card
 ?
@@ -366,7 +366,7 @@
 - physically or emotionally comfortable
 ### 예
 -
-<!--SR:!2025-03-16,6,142-->
+<!--SR:!2025-03-21,3,130-->
 
 ## 여전하다 #card
 ?
@@ -815,7 +815,7 @@ go in and out frequently
 - wave (ocean/water)
 ### 예
 -
-<!--SR:!2025-03-16,27,175-->
+<!--SR:!2025-04-02,15,155-->
 
 ## 헤엄하다 #card
 ?
@@ -1033,7 +1033,7 @@ go in and out frequently
 	- a bright[clever] boy
 - 그는 너무 똘똘해서 당할 수가 없다.
 	- He's too sharp for me.
-<!--SR:!2025-03-18,17,162-->
+<!--SR:!2025-04-15,28,162-->
 
 ## 잠입하다 #card
 ?
@@ -1391,7 +1391,7 @@ go in and out frequently
 	- The watches are alternated[changed] every four hours.
 - 어젯밤에 당직했다
 	- I was on duty[watch] last night.
-<!--SR:!2025-03-17,1,130-->
+<!--SR:!2025-03-19,1,130-->
 
 ## 변호하다 #card
 ?
@@ -1488,7 +1488,7 @@ go in and out frequently
 ### 예
 - 조금이라도 존경심을 보일 순 없어?
 	- Could you show some respect?
-<!--SR:!2025-03-17,5,150-->
+<!--SR:!2025-03-26,8,150-->
 
 ## 두리번거리다 #card
 ?
@@ -1920,7 +1920,7 @@ go in and out frequently
   - Actually, in Orwellian fashion, this treaty is aimed at limiting cultural diversity, not expanding it.
 - 기본적인 목적은 금융기관을 이해하기 쉽고, 편리하고, 믿을 수 있는 곳으로 만들자는 것이다.
   - The basic goal is to make financial institutions approachable, convenient and trustworthy.
-<!--SR:!2025-03-17,1,130-->
+<!--SR:!2025-03-19,1,130-->
 
 ## 고백하다 #card
 ?
