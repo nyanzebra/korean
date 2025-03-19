@@ -1702,6 +1702,7 @@ go in and out frequently
 - some time ago?
 ### 예
 -
+<!--SR:!2025-03-19,1,142-->
 
 ## 방망 #card
 ?
