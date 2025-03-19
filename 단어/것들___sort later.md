@@ -395,7 +395,7 @@
 	- drape a flag in mourning[black].
 - 증권 거래소 2부에 우리 회사 주식이 상장되었다
 	- Our company is listed on the Second Market.
-<!--SR:!2025-03-19,1,130-->
+<!--SR:!2025-03-20,1,130-->
 
 ## 태우다 #card
 ?
@@ -687,7 +687,7 @@
 - ?
 ### 예
 -
-<!--SR:!2025-03-19,1,130-->
+<!--SR:!2025-03-20,1,130-->
 
 ## 불행하다 #card
 ?
@@ -1678,7 +1678,7 @@ go in and out frequently
 - take away from someone
 ### 예
 -
-<!--SR:!2025-03-19,1,130-->
+<!--SR:!2025-03-21,2,150-->
 
 ## 과외 #card
 ?
@@ -1767,7 +1767,7 @@ go in and out frequently
 - hideout
 ### 예
 -
-<!--SR:!2025-03-19,1,147-->
+<!--SR:!2025-03-20,1,147-->
 
 ## 자욱하다 #card
 ?
@@ -1825,7 +1825,7 @@ go in and out frequently
 - amazing
 ### 예
 -
-<!--SR:!2025-03-19,1,130-->
+<!--SR:!2025-03-20,1,130-->
 
 ## 인연 #card
 ?
@@ -1839,7 +1839,7 @@ go in and out frequently
   - He also has a relationship with Korea because he proposed McCune-Reischauer Romanization for Korean in 1939.
 - 하지만, 두 사람은 예상치 못한 인연을 맺게 된다.
   - But, the two develop an unexpected connection with each other.
-<!--SR:!2025-03-19,1,130-->
+<!--SR:!2025-03-20,1,130-->
 
 ## 또래들 #card
 ?
