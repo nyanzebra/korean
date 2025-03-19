@@ -1982,7 +1982,10 @@ go in and out frequently
 ### 뜻
 - have a mind
 - inclined to
+- feel like it
 ### 예
+- 마음이 내키면 가겠다
+        - I will go if I feel like it.
 - 마음 내키는 대로
 	- as one's humor dictates
 - 마음내키지 않는 대답
