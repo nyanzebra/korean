@@ -1992,7 +1992,7 @@ go in and out frequently
 	- half-hearted answer
 - 그를 방문할 마음이 내키지 않는다
 	- I am reluctant to go and see him.
-<!--SR:!2025-03-19,1,142-->
+<!--SR:!2025-03-20,1,250-->
 
 ## 망하다 #card
 ?
