@@ -1959,6 +1959,7 @@ go in and out frequently
 - we're outnumbered!
 ### 예
 -
+<!--SR:!2025-03-19,1,142-->
 
 ## 박살 #card
 ?
@@ -2058,6 +2059,7 @@ go in and out frequently
 	- He has gone out on business.
 - 그는 폭풍을 무릅쓰고 외출했다
 	- He went out in spite of[braving] the storm.
+<!--SR:!2025-03-19,1,142-->
 
 
 
