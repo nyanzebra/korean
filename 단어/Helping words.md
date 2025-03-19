@@ -191,7 +191,7 @@
 	- the law pertaining to punishment for acts of violence and other (similar) crimes.
 - 그 따위 것
 	- such a thing/that sort of thing.
-<!--SR:!2025-03-17,13,238-->
+<!--SR:!2025-04-18,31,238-->
 
 ## 마치 #card
 ?
