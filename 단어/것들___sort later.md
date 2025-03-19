@@ -1710,7 +1710,7 @@ go in and out frequently
 - bat (baseball)
 ### 예
 -
-<!--SR:!2025-03-19,1,130-->
+<!--SR:!2025-03-21,2,150-->
 
 ## 오바하다 #card
 ?
