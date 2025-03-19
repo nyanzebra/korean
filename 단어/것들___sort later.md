@@ -1960,7 +1960,7 @@ go in and out frequently
 - we're outnumbered!
 ### 예
 -
-<!--SR:!2025-03-19,1,142-->
+<!--SR:!2025-03-20,1,130-->
 
 ## 박살 #card
 ?
