@@ -1425,7 +1425,7 @@ go in and out frequently
 	- exorcise evil spirits
 - 하루하루 물리다
 	- put off from day to day.
-<!--SR:!2025-03-19,1,130-->
+<!--SR:!2025-03-21,1,130-->
 
 ## 미치다 #card
 ?
@@ -1535,7 +1535,7 @@ go in and out frequently
 - sleuth
 ### 예
 -
-<!--SR:!2025-03-19,1,130-->
+<!--SR:!2025-03-21,1,130-->
 
 ## 독서 #card
 ?
