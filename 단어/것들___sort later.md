@@ -1767,7 +1767,7 @@ go in and out frequently
 - hideout
 ### 예
 -
-<!--SR:!2025-03-20,1,147-->
+<!--SR:!2025-03-21,1,147-->
 
 ## 자욱하다 #card
 ?
@@ -1798,7 +1798,7 @@ go in and out frequently
 - nest
 ### 예
 -
-<!--SR:!2025-03-19,1,130-->
+<!--SR:!2025-03-21,1,130-->
 
 ## 옥상 #card
 ?
@@ -1960,7 +1960,7 @@ go in and out frequently
 - we're outnumbered!
 ### 예
 -
-<!--SR:!2025-03-20,1,130-->
+<!--SR:!2025-03-21,1,130-->
 
 ## 박살 #card
 ?
@@ -1992,7 +1992,7 @@ go in and out frequently
 	- half-hearted answer
 - 그를 방문할 마음이 내키지 않는다
 	- I am reluctant to go and see him.
-<!--SR:!2025-03-20,1,250-->
+<!--SR:!2025-03-23,3,250-->
 
 ## 망하다 #card
 ?
