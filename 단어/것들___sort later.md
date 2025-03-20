@@ -1044,7 +1044,7 @@ go in and out frequently
 	- Some armed agents infiltrated Seoul.
 - 그는 결사의 각오로 적지에 잠입하였다
 	- He smuggled himself into enemy territory, ready to die if necessary.
-<!--SR:!2025-03-20,19,150-->
+<!--SR:!2025-04-17,28,150-->
 
 ## 캐내다 #card
 ?
@@ -1377,7 +1377,7 @@ go in and out frequently
 	- People jokingly said the two chose different food at a cafeteria on purpose.
 - 일부러 정보를 주지 않는 것이 관객들이 몰입하게 합니다.
 	- You know, doing that intentionally is much more engaging.
-<!--SR:!2025-03-20,19,152-->
+<!--SR:!2025-03-31,11,132-->
 
 ## 당직 #card
 ?
@@ -1560,7 +1560,7 @@ go in and out frequently
 ### 예
 - 적어도 하루 두 번
 	- at least twice a day
-<!--SR:!2025-03-19,7,184-->
+<!--SR:!2025-04-03,14,184-->
 
 ## 기껏해야 #card
 ?
