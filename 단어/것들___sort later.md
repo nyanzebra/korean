@@ -569,7 +569,7 @@
 ### 예
 - 정상적으로 자랄 수 있게 잘 보살펴준 것
 	- Take good care of them so they can grow up normally.
-<!--SR:!2025-03-20,2,130-->
+<!--SR:!2025-03-24,4,150-->
 
 ## 조직 #card
 ?
@@ -623,7 +623,7 @@
 	- rack one's brains all day long.
 - 목소리를 쥐어짜다
 	- strain one's voice.
-<!--SR:!2025-03-20,29,175-->
+<!--SR:!2025-05-10,51,175-->
 
 ## 넉넉하다 #card
 ?
@@ -654,7 +654,7 @@
 	- Some supernatural power seems to be at work
 - 연이 올라갈 때는 바람이 양력으로 작용한다
 	- When a kite flies, the wind provides lift.
-<!--SR:!2025-03-20,8,150-->
+<!--SR:!2025-04-01,12,150-->
 
 ## 그닥 #card
 ?
@@ -1686,7 +1686,7 @@ go in and out frequently
 - private tutoring
 ### 예
 -
-<!--SR:!2025-03-20,1,130-->
+<!--SR:!2025-03-22,2,150-->
 
 ## 왠지 실감 안나는데 #card
 ?
@@ -1702,7 +1702,7 @@ go in and out frequently
 - some time ago?
 ### 예
 -
-<!--SR:!2025-03-19,1,142-->
+<!--SR:!2025-03-21,1,142-->
 
 ## 방망 #card
 ?
@@ -1741,7 +1741,7 @@ go in and out frequently
 	- I'll pack up your stuff.
 ### Notes
 - differs from 가지다 in that this has more emphasis on bring/taking something well/securely
-<!--SR:!2025-03-19,1,130-->
+<!--SR:!2025-03-22,2,150-->
 
 ## 긴장 #card
 ?
@@ -1779,7 +1779,7 @@ go in and out frequently
 	- misty mountains
 - 방에는 연기가 자욱했다
 	- The room was filled with smoke.
-<!--SR:!2025-03-19,1,130-->
+<!--SR:!2025-03-21,1,130-->
 
 ## 산더미 #card
 ?
@@ -1847,7 +1847,7 @@ go in and out frequently
 - peers
 ### 예
 -
-<!--SR:!2025-03-19,1,130-->
+<!--SR:!2025-03-21,1,130-->
 
 ## 속이다 #card
 ?
@@ -1890,7 +1890,7 @@ go in and out frequently
 	- And if she were falling at this speed, she would've been crushed to death
 - 김태희의 배역은 부수어야 하고 아무것도 그녀를 막을 수 없는 역할이다.
 	- Kim's character is on a mission to destroy, and nothing can stop her.
-<!--SR:!2025-03-19,1,130-->
+<!--SR:!2025-03-22,2,150-->
 
 ## 연합하다 #card
 ?
