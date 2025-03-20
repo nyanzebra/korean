@@ -1691,9 +1691,10 @@ go in and out frequently
 ## 왠지 실감 안나는데 #card
 ?
 ### 뜻
--
+- It doesn't feel real somehow?
 ### 예
 -
+<!--SR:!2025-03-21,1,142-->
 
 ## 저번 #card
 ?
@@ -2045,6 +2046,7 @@ go in and out frequently
 	- park a car
 - 이제 와서 계획을 세워 봐야 사또떠난 뒤에 나팔 부는 격이다
 	- It is too late to work out a plan now.
+<!--SR:!2025-03-22,2,162-->
 
 ## 본능(적) #card
 ?
