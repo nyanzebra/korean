@@ -2024,6 +2024,7 @@ go in and out frequently
 - To get to know each other's faces.
 ### 예
 -
+<!--SR:!2025-03-21,1,142-->
 
 ## 인원 #card
 ?
