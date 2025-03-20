@@ -395,7 +395,7 @@
 	- drape a flag in mourning[black].
 - 증권 거래소 2부에 우리 회사 주식이 상장되었다
 	- Our company is listed on the Second Market.
-<!--SR:!2025-03-20,1,130-->
+<!--SR:!2025-03-21,1,130-->
 
 ## 태우다 #card
 ?
@@ -1815,7 +1815,7 @@ go in and out frequently
 - frank
 ### 예
 -
-<!--SR:!2025-03-19,1,130-->
+<!--SR:!2025-03-21,1,130-->
 
 ## 대단하다 #card
 ?
@@ -2031,7 +2031,7 @@ go in and out frequently
 - number of persons
 ### 예
 -
-<!--SR:!2025-03-19,1,142-->
+<!--SR:!2025-03-21,1,130-->
 
 ## 세우다 #card
 ?
@@ -2065,7 +2065,7 @@ go in and out frequently
 	- He has gone out on business.
 - 그는 폭풍을 무릅쓰고 외출했다
 	- He went out in spite of[braving] the storm.
-<!--SR:!2025-03-19,1,142-->
+<!--SR:!2025-03-21,1,142-->
 
 
 
