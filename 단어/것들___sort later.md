@@ -2057,6 +2057,7 @@ go in and out frequently
 	- creative instinct
 - 모성 본능
 	- a maternal instinct
+<!--SR:!2025-03-21,1,142-->
 
 
 ## 외출하다 #card
