@@ -1859,7 +1859,7 @@ go in and out frequently
   - They are more likely to steal, lie, and cheat when they grow up.
 - 사람들은 밤늦게까지 휴대전화를 사용할 뿐만 아니라 휴대전화의 불빛이 우리의 뇌를 속여 아직 낮이라고 착각하게 만듭니다.
   - Not only do people use their cell phones late into the night, but the light from your phone tricks your brain into thinking it’s still daytime.
-<!--SR:!2025-03-19,1,130-->
+<!--SR:!2025-03-21,1,130-->
 
 ## 모쏘 #card
 ?
@@ -1906,7 +1906,7 @@ go in and out frequently
 - i'm so awake (mind suddenly raised?)
 ### 예
 -
-<!--SR:!2025-03-19,1,130-->
+<!--SR:!2025-03-21,1,130-->
 
 ## 목적 #card
 ?
