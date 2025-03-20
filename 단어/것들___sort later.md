@@ -458,7 +458,7 @@
 ### 예
 - 부모님보다 먼저 이 세상을 하직하는 불효의 죄를 용서하십시오
 	- Dear parents, please pardon me for preceding you in death.
-<!--SR:!2025-03-20,33,194-->
+<!--SR:!2025-05-23,64,194-->
 
 
 ## 반항 #card
@@ -1266,7 +1266,7 @@ go in and out frequently
 - force to yield
 ### 예
 -
-<!--SR:!2025-03-20,9,150-->
+<!--SR:!2025-04-04,15,150-->
 
 ## 단체 #card
 ?
@@ -1391,7 +1391,7 @@ go in and out frequently
 	- The watches are alternated[changed] every four hours.
 - 어젯밤에 당직했다
 	- I was on duty[watch] last night.
-<!--SR:!2025-03-19,1,130-->
+<!--SR:!2025-03-22,2,150-->
 
 ## 변호하다 #card
 ?
@@ -1400,7 +1400,7 @@ go in and out frequently
 - plead for
 ### 예
 -
-<!--SR:!2025-03-20,5,150-->
+<!--SR:!2025-03-28,8,150-->
 
 ## 물리다 #card
 ?
@@ -1751,7 +1751,7 @@ go in and out frequently
 - tension
 ### 예
 -
-<!--SR:!2025-03-20,5,167-->
+<!--SR:!2025-03-29,9,167-->
 
 ## 함정 #card
 ?
@@ -1825,7 +1825,7 @@ go in and out frequently
 - amazing
 ### 예
 -
-<!--SR:!2025-03-20,1,130-->
+<!--SR:!2025-03-21,1,130-->
 
 ## 인연 #card
 ?
@@ -1975,7 +1975,7 @@ go in and out frequently
 	- The plane broke up (in the crash)
 - 박살나다
 	- smash to pieces
-<!--SR:!2025-03-20,1,130-->
+<!--SR:!2025-03-21,1,130-->
 
 ## 내키다 #card
 ?
