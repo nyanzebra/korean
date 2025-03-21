@@ -1292,7 +1292,7 @@ go in and out frequently
 	- The racket made by the mob could be heard intermittently
 - 웅성거리는 대화 소리.
 	- a buzz of conversation
-<!--SR:!2025-03-21,1,130-->
+<!--SR:!2025-03-22,1,130-->
 
 ## 갈아입다 #card
 ?
