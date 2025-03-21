@@ -1877,7 +1877,7 @@ go in and out frequently
 ### 예
 - 본론으로 들어가볼까?
 	- shall we cut to the chase
-<!--SR:!2025-03-21,1,130-->
+<!--SR:!2025-03-22,1,130-->
 
 ## 부수다 #card
 ?
@@ -2025,7 +2025,7 @@ go in and out frequently
 - To get to know each other's faces.
 ### 예
 -
-<!--SR:!2025-03-21,1,142-->
+<!--SR:!2025-03-22,1,142-->
 
 ## 인원 #card
 ?
