@@ -307,4 +307,4 @@
 	- thorough change
 - 철저한 토론
 	- thorough discussion
-<!--SR:!2025-03-21,2,213-->
+<!--SR:!2025-03-25,4,213-->

@@ -2033,7 +2033,7 @@ go in and out frequently
 - number of persons
 ### 예
 -
-<!--SR:!2025-03-21,1,130-->
+<!--SR:!2025-03-22,1,130-->
 
 ## 세우다 #card
 ?
