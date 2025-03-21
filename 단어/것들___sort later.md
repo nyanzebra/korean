@@ -1694,7 +1694,7 @@ go in and out frequently
 - It doesn't feel real somehow?
 ### 예
 -
-<!--SR:!2025-03-21,1,142-->
+<!--SR:!2025-03-22,1,130-->
 
 ## 저번 #card
 ?
