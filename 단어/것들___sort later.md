@@ -1790,7 +1790,7 @@ go in and out frequently
 - great mess
 ### 예
 -
-<!--SR:!2025-03-21,3,167-->
+<!--SR:!2025-03-26,5,167-->
 
 ## 소굴 #card
 ?
