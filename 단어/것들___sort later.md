@@ -512,7 +512,7 @@
 ### 예
 - 부자간의 멋진 대화를 나눠야죠
 	- We'll have a nice father-son chat.
-<!--SR:!2025-03-21,6,134-->
+<!--SR:!2025-03-30,9,134-->
 
 
 ## 투기장 #card
@@ -1848,7 +1848,7 @@ go in and out frequently
 - peers
 ### 예
 -
-<!--SR:!2025-03-21,1,130-->
+<!--SR:!2025-03-22,1,130-->
 
 ## 속이다 #card
 ?
@@ -1922,7 +1922,7 @@ go in and out frequently
   - Actually, in Orwellian fashion, this treaty is aimed at limiting cultural diversity, not expanding it.
 - 기본적인 목적은 금융기관을 이해하기 쉽고, 편리하고, 믿을 수 있는 곳으로 만들자는 것이다.
   - The basic goal is to make financial institutions approachable, convenient and trustworthy.
-<!--SR:!2025-03-21,1,130-->
+<!--SR:!2025-03-22,1,130-->
 
 ## 고백하다 #card
 ?
