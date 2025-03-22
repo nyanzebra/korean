@@ -2071,12 +2071,16 @@ go in and out frequently
 	- He went out in spite of[braving] the storm.
 <!--SR:!2025-03-22,1,142-->
 
-## 단어 #card
+## 이끌다 #card
 ?
 ### 뜻
--
+- lead
+- drive to
+- draw
 ### 예
--
+- 우리는 일치단결하여, 격려하고, 때로는 이끌거나 따르고, 보상하며 일을 할 것입니다.
+	- We will work hand in hand, encouraging, sometimes leading, sometimes being led, rewarding
+- 
 
 
 전립선 문제
