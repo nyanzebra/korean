@@ -54,4 +54,8 @@
 - stop
 - cease
 ### 예
--
+- 칭찬 그만하세요. 너무 거만해지겠어요.
+	- Stop with all the compliments. My head's getting way too big.
+- 인터넷에 주의를 빼앗기는 일을 그만할 수 있다면 좋겠어.
+	- I wish I could stop being distracted by the Internet.
+- 
