@@ -2071,6 +2071,12 @@ go in and out frequently
 	- He went out in spite of[braving] the storm.
 <!--SR:!2025-03-22,1,142-->
 
+## 단어 #card
+?
+### 뜻
+-
+### 예
+-
 
 
 전립선 문제
