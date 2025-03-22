@@ -47,3 +47,11 @@
 - 그리고 뭐, 고통 또한 사랑스럽죠. 왜냐면 고통이 잠시동안 멈추면 그렇게 좋을 수가 없거든요.
 	- We like our suffering because it's so good when it ceases for a while
 <!--SR:!2025-04-14,76,248-->
+
+## 그만하다 #card
+?
+### 뜻
+- stop
+- cease
+### 예
+-
