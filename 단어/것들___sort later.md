@@ -2080,7 +2080,10 @@ go in and out frequently
 ### 예
 - 우리는 일치단결하여, 격려하고, 때로는 이끌거나 따르고, 보상하며 일을 할 것입니다.
 	- We will work hand in hand, encouraging, sometimes leading, sometimes being led, rewarding
-- 
+- 이씨는 노 대통령이 2002년 대선에 출마했을 때 개인적인 지지단체를 이끌었다.
+	- Lee headed a private support group when Roh was a presidential candidate in 2002.
+- 그것이 이 모든 일을 이끌어낸 원동력으로 보입니다.
+	- It seems to me that's the fuel that's driven a lot of this.
 
 
 전립선 문제
