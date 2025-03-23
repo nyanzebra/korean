@@ -380,7 +380,7 @@
 	- drape a flag in mourning[black].
 - 증권 거래소 2부에 우리 회사 주식이 상장되었다
 	- Our company is listed on the Second Market.
-<!--SR:!2025-03-21,1,130-->
+<!--SR:!2025-03-24,2,150-->
 
 ## 태우다 #card
 ?
@@ -1294,7 +1294,7 @@ go in and out frequently
 - narrowly
 ### 예
 -
-<!--SR:!2025-03-22,7,150-->
+<!--SR:!2025-04-03,12,150-->
 
 ## 겁먹다 #card
 ?
@@ -1671,7 +1671,7 @@ go in and out frequently
 - private tutoring
 ### 예
 -
-<!--SR:!2025-03-22,2,150-->
+<!--SR:!2025-03-26,4,170-->
 
 ## 왠지 실감 안나는데 #card
 ?
@@ -1753,7 +1753,7 @@ go in and out frequently
 - hideout
 ### 예
 -
-<!--SR:!2025-03-21,1,147-->
+<!--SR:!2025-03-24,2,167-->
 
 ## 자욱하다 #card
 ?
@@ -1801,7 +1801,7 @@ go in and out frequently
 - frank
 ### 예
 -
-<!--SR:!2025-03-21,1,130-->
+<!--SR:!2025-03-24,2,150-->
 
 ## 대단하다 #card
 ?
@@ -1884,7 +1884,7 @@ go in and out frequently
 - unite
 ### 예
 -
-<!--SR:!2025-03-22,4,147-->
+<!--SR:!2025-03-28,6,147-->
 
 ## 정신이 확 드네 #card
 ?
@@ -1892,7 +1892,7 @@ go in and out frequently
 - i'm so awake (mind suddenly raised?)
 ### 예
 -
-<!--SR:!2025-03-21,1,130-->
+<!--SR:!2025-03-24,2,150-->
 
 ## 목적 #card
 ?
@@ -2031,7 +2031,7 @@ go in and out frequently
 	- park a car
 - 이제 와서 계획을 세워 봐야 사또떠난 뒤에 나팔 부는 격이다
 	- It is too late to work out a plan now.
-<!--SR:!2025-03-22,2,162-->
+<!--SR:!2025-03-27,5,182-->
 
 ## 본능(적) #card
 ?
@@ -2054,7 +2054,7 @@ go in and out frequently
 	- He has gone out on business.
 - 그는 폭풍을 무릅쓰고 외출했다
 	- He went out in spite of[braving] the storm.
-<!--SR:!2025-03-22,1,142-->
+<!--SR:!2025-03-23,1,142-->
 
 ## 이끌다 #card
 ?
