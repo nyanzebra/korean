@@ -331,7 +331,7 @@
 	- The administration should show determination in maintaining the discipline of government officials.
 - 그들은 아침 일찍 일어나는 것이 학생들로 하여금 기강을 발전시키는 것을 돕는다고 말했다.
 	- They said that getting up early helps students develop discipline.
-<!--SR:!2025-03-22,4,130-->
+<!--SR:!2025-03-31,9,150-->
 
 ## 해이하다 #card
 ?
@@ -1277,7 +1277,7 @@ go in and out frequently
 	- The racket made by the mob could be heard intermittently
 - 웅성거리는 대화 소리.
 	- a buzz of conversation
-<!--SR:!2025-03-22,1,130-->
+<!--SR:!2025-03-24,2,150-->
 
 ## 갈아입다 #card
 ?
@@ -1376,7 +1376,7 @@ go in and out frequently
 	- The watches are alternated[changed] every four hours.
 - 어젯밤에 당직했다
 	- I was on duty[watch] last night.
-<!--SR:!2025-03-22,2,150-->
+<!--SR:!2025-03-26,4,170-->
 
 ## 변호하다 #card
 ?
@@ -1455,7 +1455,7 @@ go in and out frequently
 - courteous
 ### 예
 - 그니까 좀 정중해져 보세요
-<!--SR:!2025-03-21,1,130-->
+<!--SR:!2025-03-24,2,150-->
 
 ## 존경 #card
 ?
@@ -1679,7 +1679,7 @@ go in and out frequently
 - It doesn't feel real somehow?
 ### 예
 -
-<!--SR:!2025-03-22,1,130-->
+<!--SR:!2025-03-23,1,130-->
 
 ## 저번 #card
 ?
@@ -1833,7 +1833,7 @@ go in and out frequently
 - peers
 ### 예
 -
-<!--SR:!2025-03-22,1,130-->
+<!--SR:!2025-03-24,2,150-->
 
 ## 속이다 #card
 ?
@@ -2018,7 +2018,7 @@ go in and out frequently
 - number of persons
 ### 예
 -
-<!--SR:!2025-03-22,1,130-->
+<!--SR:!2025-03-24,2,150-->
 
 ## 세우다 #card
 ?
