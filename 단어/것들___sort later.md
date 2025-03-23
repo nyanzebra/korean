@@ -1464,7 +1464,7 @@ go in and out frequently
 - admiration
 ### 예
 -
-<!--SR:!2025-03-21,1,130-->
+<!--SR:!2025-03-24,2,150-->
 
 ## 존경심 #card
 ?
@@ -1655,7 +1655,7 @@ go in and out frequently
 - pulsate
 ### 예
 -
-<!--SR:!2025-03-21,1,130-->
+<!--SR:!2025-03-24,2,150-->
 
 ## 뺏어가다 #card
 ?
@@ -1663,7 +1663,7 @@ go in and out frequently
 - take away from someone
 ### 예
 -
-<!--SR:!2025-03-21,2,150-->
+<!--SR:!2025-03-25,3,150-->
 
 ## 과외 #card
 ?
@@ -1862,7 +1862,7 @@ go in and out frequently
 ### 예
 - 본론으로 들어가볼까?
 	- shall we cut to the chase
-<!--SR:!2025-03-22,1,130-->
+<!--SR:!2025-03-24,2,150-->
 
 ## 부수다 #card
 ?
