@@ -351,7 +351,7 @@
 - physically or emotionally comfortable
 ### 예
 -
-<!--SR:!2025-03-21,3,130-->
+<!--SR:!2025-03-26,4,130-->
 
 ## 여전하다 #card
 ?
@@ -1153,7 +1153,7 @@ go in and out frequently
 	- The townspeople turned into rioters and attacked the town hall.
 - 적진을 습격하여 탈취했다
 	- The enemy camp was taken in a surprise attack.
-<!--SR:!2025-03-22,12,162-->
+<!--SR:!2025-03-28,6,142-->
 
 ## 별개 #card
 ?
@@ -1696,7 +1696,7 @@ go in and out frequently
 - bat (baseball)
 ### 예
 -
-<!--SR:!2025-03-21,2,150-->
+<!--SR:!2025-03-25,3,150-->
 
 ## 오바하다 #card
 ?
@@ -2010,7 +2010,7 @@ go in and out frequently
 - To get to know each other's faces.
 ### 예
 -
-<!--SR:!2025-03-22,1,142-->
+<!--SR:!2025-03-23,1,142-->
 
 ## 인원 #card
 ?
@@ -2042,7 +2042,7 @@ go in and out frequently
 	- creative instinct
 - 모성 본능
 	- a maternal instinct
-<!--SR:!2025-03-21,1,142-->
+<!--SR:!2025-03-23,1,130-->
 
 
 ## 외출하다 #card
