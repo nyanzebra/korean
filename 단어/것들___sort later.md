@@ -65,7 +65,7 @@
 	- regardless of quantity
 - 학력을 불문하고
 	- regardless of education
-<!--SR:!2025-03-23,28,177-->
+<!--SR:!2025-04-07,14,157-->
 
 
 ## 그나저나 #card
@@ -1679,7 +1679,7 @@ go in and out frequently
 - It doesn't feel real somehow?
 ### 예
 -
-<!--SR:!2025-03-24,1,130-->
+<!--SR:!2025-03-25,1,130-->
 
 ## 저번 #card
 ?
@@ -1688,7 +1688,7 @@ go in and out frequently
 - some time ago?
 ### 예
 -
-<!--SR:!2025-03-24,1,142-->
+<!--SR:!2025-03-25,1,142-->
 
 ## 방망 #card
 ?
@@ -1825,7 +1825,7 @@ go in and out frequently
   - He also has a relationship with Korea because he proposed McCune-Reischauer Romanization for Korean in 1939.
 - 하지만, 두 사람은 예상치 못한 인연을 맺게 된다.
   - But, the two develop an unexpected connection with each other.
-<!--SR:!2025-03-24,1,130-->
+<!--SR:!2025-03-25,1,130-->
 
 ## 또래들 #card
 ?
@@ -1853,7 +1853,7 @@ go in and out frequently
 - forever alone (from birth solo)
 ### 예
 -
-<!--SR:!2025-03-24,1,130-->
+<!--SR:!2025-03-25,1,130-->
 
 ## 본론 #card
 ?
@@ -2018,7 +2018,7 @@ go in and out frequently
 - number of persons
 ### 예
 -
-<!--SR:!2025-03-24,2,150-->
+<!--SR:!2025-03-27,3,150-->
 
 ## 세우다 #card
 ?
