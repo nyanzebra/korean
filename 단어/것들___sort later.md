@@ -672,7 +672,7 @@
 - ?
 ### 예
 -
-<!--SR:!2025-03-21,1,130-->
+<!--SR:!2025-03-24,1,130-->
 
 ## 불행하다 #card
 ?
@@ -1567,7 +1567,7 @@ go in and out frequently
 	- He attempted to translate all the works of Shakespeare.
 - 처음에 실패해도 또 다시 시도해보아라
 	- If at first you don't succeed, (try,) try again.
-<!--SR:!2025-03-23,12,164-->
+<!--SR:!2025-04-12,20,164-->
 
 ## 기도하다 #card
 ?
@@ -1765,7 +1765,7 @@ go in and out frequently
 	- misty mountains
 - 방에는 연기가 자욱했다
 	- The room was filled with smoke.
-<!--SR:!2025-03-21,1,130-->
+<!--SR:!2025-03-24,1,130-->
 
 ## 산더미 #card
 ?
@@ -1825,7 +1825,7 @@ go in and out frequently
   - He also has a relationship with Korea because he proposed McCune-Reischauer Romanization for Korean in 1939.
 - 하지만, 두 사람은 예상치 못한 인연을 맺게 된다.
   - But, the two develop an unexpected connection with each other.
-<!--SR:!2025-03-21,1,130-->
+<!--SR:!2025-03-24,1,130-->
 
 ## 또래들 #card
 ?
@@ -1978,7 +1978,7 @@ go in and out frequently
 	- half-hearted answer
 - 그를 방문할 마음이 내키지 않는다
 	- I am reluctant to go and see him.
-<!--SR:!2025-03-23,3,250-->
+<!--SR:!2025-04-01,9,250-->
 
 ## 망하다 #card
 ?
@@ -2054,7 +2054,7 @@ go in and out frequently
 	- He has gone out on business.
 - 그는 폭풍을 무릅쓰고 외출했다
 	- He went out in spite of[braving] the storm.
-<!--SR:!2025-03-23,1,142-->
+<!--SR:!2025-03-24,1,130-->
 
 ## 이끌다 #card
 ?
