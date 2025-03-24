@@ -431,7 +431,7 @@
 - filial piety
 ### 예
 -
-<!--SR:!2025-03-23,12,135-->
+<!--SR:!2025-04-07,15,135-->
 
 
 ## 불효 #card
@@ -1520,7 +1520,7 @@ go in and out frequently
 - sleuth
 ### 예
 -
-<!--SR:!2025-03-21,1,130-->
+<!--SR:!2025-03-24,1,130-->
 
 ## 독서 #card
 ?
@@ -1727,7 +1727,7 @@ go in and out frequently
 	- I'll pack up your stuff.
 ### Notes
 - differs from 가지다 in that this has more emphasis on bring/taking something well/securely
-<!--SR:!2025-03-22,2,150-->
+<!--SR:!2025-03-26,3,150-->
 
 ## 긴장 #card
 ?
@@ -2042,7 +2042,7 @@ go in and out frequently
 	- creative instinct
 - 모성 본능
 	- a maternal instinct
-<!--SR:!2025-03-23,1,130-->
+<!--SR:!2025-03-24,1,130-->
 
 
 ## 외출하다 #card
