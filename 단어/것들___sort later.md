@@ -167,7 +167,7 @@
   - ominous dream
 - 그가 곧 죽는 것이나 아닐까 하는 불길한 예감이 든다
   - I have a premonition[an uneasy feeling] that he will die before long.
-<!--SR:!2025-03-23,29,150-->
+<!--SR:!2025-05-07,44,150-->
 
 ## 후계하다 #card
 ?
@@ -1170,7 +1170,7 @@ go in and out frequently
 	- The skin's a whole another thing, probably the hardest part.
 - 그리고 그와는 별개로, 저는 작곡과 단편을 썼습니다.
 	- And aside from that, I wrote music and short stories.
-<!--SR:!2025-03-23,3,150-->
+<!--SR:!2025-03-29,5,150-->
 
 ## 소행 #card
 ?
@@ -1201,7 +1201,7 @@ go in and out frequently
 	- This was surprising because other studies only counted prey that cats brought home.
 - 책임 소재를 따지지 않더라도, 여전히 국가 차원의 문제이며 한쪽은 다른 쪽보다 이 문제를 더 심각하게 생각하고 있습니다.
 	- But even if you blame nobody, it still is a national problem, and one side has been more concerned about it than the other.
-<!--SR:!2025-03-24,12,150-->
+<!--SR:!2025-04-12,19,150-->
 
 ## 전국 #card
 ?
