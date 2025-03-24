@@ -1455,7 +1455,7 @@ go in and out frequently
 - courteous
 ### 예
 - 그니까 좀 정중해져 보세요
-<!--SR:!2025-03-24,2,150-->
+<!--SR:!2025-03-27,3,150-->
 
 ## 존경 #card
 ?
@@ -1464,7 +1464,7 @@ go in and out frequently
 - admiration
 ### 예
 -
-<!--SR:!2025-03-24,2,150-->
+<!--SR:!2025-03-27,3,150-->
 
 ## 존경심 #card
 ?
@@ -1833,7 +1833,7 @@ go in and out frequently
 - peers
 ### 예
 -
-<!--SR:!2025-03-24,2,150-->
+<!--SR:!2025-03-27,3,150-->
 
 ## 속이다 #card
 ?
@@ -1961,7 +1961,7 @@ go in and out frequently
 	- The plane broke up (in the crash)
 - 박살나다
 	- smash to pieces
-<!--SR:!2025-03-21,1,130-->
+<!--SR:!2025-03-25,1,130-->
 
 ## 내키다 #card
 ?
