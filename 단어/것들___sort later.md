@@ -380,7 +380,7 @@
 	- drape a flag in mourning[black].
 - 증권 거래소 2부에 우리 회사 주식이 상장되었다
 	- Our company is listed on the Second Market.
-<!--SR:!2025-03-24,2,150-->
+<!--SR:!2025-03-27,3,150-->
 
 ## 태우다 #card
 ?
@@ -459,7 +459,7 @@
 	- For the rebellious Sartre, then, turning down a world-famous award was completely in character.
 - 그녀는 아빠에게 반항하고 늘 모험을 떠날 준비가 되어있다.
 	- She rebels against her father and is always ready for adventure
-<!--SR:!2025-03-24,13,150-->
+<!--SR:!2025-04-14,21,150-->
 
 ## 선행 #card
 ?
@@ -1528,7 +1528,7 @@ go in and out frequently
 - reading?
 ### 예
 -
-<!--SR:!2025-03-24,6,144-->
+<!--SR:!2025-04-03,10,144-->
 
 ## 사나이 #card
 ?
@@ -1753,7 +1753,7 @@ go in and out frequently
 - hideout
 ### 예
 -
-<!--SR:!2025-03-24,2,167-->
+<!--SR:!2025-03-27,3,167-->
 
 ## 자욱하다 #card
 ?
@@ -1784,7 +1784,7 @@ go in and out frequently
 - nest
 ### 예
 -
-<!--SR:!2025-03-24,1,130-->
+<!--SR:!2025-03-25,1,130-->
 
 ## 옥상 #card
 ?
@@ -2042,7 +2042,7 @@ go in and out frequently
 	- creative instinct
 - 모성 본능
 	- a maternal instinct
-<!--SR:!2025-03-24,1,130-->
+<!--SR:!2025-03-25,1,130-->
 
 
 ## 외출하다 #card
