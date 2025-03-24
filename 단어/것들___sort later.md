@@ -1688,7 +1688,7 @@ go in and out frequently
 - some time ago?
 ### 예
 -
-<!--SR:!2025-03-21,1,142-->
+<!--SR:!2025-03-24,1,142-->
 
 ## 방망 #card
 ?
@@ -1876,7 +1876,7 @@ go in and out frequently
 	- And if she were falling at this speed, she would've been crushed to death
 - 김태희의 배역은 부수어야 하고 아무것도 그녀를 막을 수 없는 역할이다.
 	- Kim's character is on a mission to destroy, and nothing can stop her.
-<!--SR:!2025-03-22,2,150-->
+<!--SR:!2025-03-26,3,150-->
 
 ## 연합하다 #card
 ?
@@ -2010,7 +2010,7 @@ go in and out frequently
 - To get to know each other's faces.
 ### 예
 -
-<!--SR:!2025-03-23,1,142-->
+<!--SR:!2025-03-24,1,142-->
 
 ## 인원 #card
 ?
