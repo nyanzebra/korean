@@ -476,7 +476,7 @@
 	- His good conduct set an example for the world.
 - 사람들은 소년의 선행을 극구 칭찬했다
 	- People praised[문어 lauded] the boy to the skies for his good deed.
-<!--SR:!2025-03-24,12,150-->
+<!--SR:!2025-03-30,6,130-->
 
 ## 기대하다 #card
 ?
