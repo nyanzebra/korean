@@ -809,7 +809,7 @@ go in and out frequently
 ### 예
 - 어린이를 풀에서 헤엄치게 하다
 	- let the children swim in the pool.
-<!--SR:!2025-03-22,26,162-->
+<!--SR:!2025-05-03,41,162-->
 
 ## 햇빛에 타다 #card
 ?
@@ -1040,7 +1040,7 @@ go in and out frequently
 	- root out a secret.
 - 나무 등걸을 캐내다
 	- dig up the stump of a tree.
-<!--SR:!2025-03-23,11,150-->
+<!--SR:!2025-04-09,17,150-->
 
 ## 나머지 #card
 ?
@@ -1410,7 +1410,7 @@ go in and out frequently
 	- exorcise evil spirits
 - 하루하루 물리다
 	- put off from day to day.
-<!--SR:!2025-03-21,1,130-->
+<!--SR:!2025-03-24,1,130-->
 
 ## 미치다 #card
 ?
@@ -1536,7 +1536,7 @@ go in and out frequently
 - male
 ### 예
 -
-<!--SR:!2025-03-22,11,164-->
+<!--SR:!2025-04-10,18,164-->
 
 ## 적어도 #card
 ?
@@ -1679,7 +1679,7 @@ go in and out frequently
 - It doesn't feel real somehow?
 ### 예
 -
-<!--SR:!2025-03-23,1,130-->
+<!--SR:!2025-03-24,1,130-->
 
 ## 저번 #card
 ?
@@ -1811,7 +1811,7 @@ go in and out frequently
 - amazing
 ### 예
 -
-<!--SR:!2025-03-22,1,130-->
+<!--SR:!2025-03-24,1,130-->
 
 ## 인연 #card
 ?
