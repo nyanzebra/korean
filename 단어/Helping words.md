@@ -215,7 +215,7 @@
 - tell just by looking?
 ### 예
 -
-<!--SR:!2025-03-22,12,238-->
+<!--SR:!2025-04-21,28,238-->
 
 ## 겉보기 #card
 ?
@@ -272,7 +272,7 @@
   - Let's be artists, right now. Right away. How?
 - 정부가 가격 개입에서 손을 떼면 소비자도 당장은 부담이 커질 수 있다.
   - When the government takes its hands off the price, consumers may immediately feel burdened.
-<!--SR:!2025-03-22,3,250-->
+<!--SR:!2025-04-02,9,250-->
 
 ## 모자라다 #card
 ?

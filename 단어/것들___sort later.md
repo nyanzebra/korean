@@ -554,7 +554,7 @@
 ### 예
 - 정상적으로 자랄 수 있게 잘 보살펴준 것
 	- Take good care of them so they can grow up normally.
-<!--SR:!2025-03-24,4,150-->
+<!--SR:!2025-03-30,6,150-->
 
 ## 조직 #card
 ?
@@ -1520,7 +1520,7 @@ go in and out frequently
 - sleuth
 ### 예
 -
-<!--SR:!2025-03-24,1,130-->
+<!--SR:!2025-03-26,2,150-->
 
 ## 독서 #card
 ?
@@ -1892,7 +1892,7 @@ go in and out frequently
 - i'm so awake (mind suddenly raised?)
 ### 예
 -
-<!--SR:!2025-03-24,2,150-->
+<!--SR:!2025-03-27,3,150-->
 
 ## 목적 #card
 ?
