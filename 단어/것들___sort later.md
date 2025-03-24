@@ -1784,7 +1784,7 @@ go in and out frequently
 - nest
 ### 예
 -
-<!--SR:!2025-03-21,1,130-->
+<!--SR:!2025-03-24,1,130-->
 
 ## 옥상 #card
 ?
@@ -1853,7 +1853,7 @@ go in and out frequently
 - forever alone (from birth solo)
 ### 예
 -
-<!--SR:!2025-03-22,1,130-->
+<!--SR:!2025-03-24,1,130-->
 
 ## 본론 #card
 ?
@@ -1907,7 +1907,7 @@ go in and out frequently
   - Actually, in Orwellian fashion, this treaty is aimed at limiting cultural diversity, not expanding it.
 - 기본적인 목적은 금융기관을 이해하기 쉽고, 편리하고, 믿을 수 있는 곳으로 만들자는 것이다.
   - The basic goal is to make financial institutions approachable, convenient and trustworthy.
-<!--SR:!2025-03-22,1,130-->
+<!--SR:!2025-03-24,1,130-->
 
 ## 고백하다 #card
 ?
