@@ -506,7 +506,7 @@
 - arena
 ### 예
 -
-<!--SR:!2025-03-24,23,155-->
+<!--SR:!2025-04-05,12,135-->
 
 ## 호적까지 싹 다 긁어오고 미행도 몇 붙여봐라 #card
 ?
@@ -569,7 +569,7 @@
 	- organism
 - 조직도
 	- organization chart
-<!--SR:!2025-03-24,12,150-->
+<!--SR:!2025-04-11,18,150-->
 
 ## 간만 #card
 ?
@@ -1277,7 +1277,7 @@ go in and out frequently
 	- The racket made by the mob could be heard intermittently
 - 웅성거리는 대화 소리.
 	- a buzz of conversation
-<!--SR:!2025-03-24,2,150-->
+<!--SR:!2025-03-27,3,150-->
 
 ## 갈아입다 #card
 ?
@@ -1410,7 +1410,7 @@ go in and out frequently
 	- exorcise evil spirits
 - 하루하루 물리다
 	- put off from day to day.
-<!--SR:!2025-03-24,1,130-->
+<!--SR:!2025-03-25,1,130-->
 
 ## 미치다 #card
 ?
@@ -1765,7 +1765,7 @@ go in and out frequently
 	- misty mountains
 - 방에는 연기가 자욱했다
 	- The room was filled with smoke.
-<!--SR:!2025-03-24,1,130-->
+<!--SR:!2025-03-25,1,130-->
 
 ## 산더미 #card
 ?
@@ -1811,7 +1811,7 @@ go in and out frequently
 - amazing
 ### 예
 -
-<!--SR:!2025-03-24,1,130-->
+<!--SR:!2025-03-25,1,130-->
 
 ## 인연 #card
 ?
@@ -1845,7 +1845,7 @@ go in and out frequently
   - They are more likely to steal, lie, and cheat when they grow up.
 - 사람들은 밤늦게까지 휴대전화를 사용할 뿐만 아니라 휴대전화의 불빛이 우리의 뇌를 속여 아직 낮이라고 착각하게 만듭니다.
   - Not only do people use their cell phones late into the night, but the light from your phone tricks your brain into thinking it’s still daytime.
-<!--SR:!2025-03-24,1,130-->
+<!--SR:!2025-03-25,1,130-->
 
 ## 모쏘 #card
 ?
@@ -1907,7 +1907,7 @@ go in and out frequently
   - Actually, in Orwellian fashion, this treaty is aimed at limiting cultural diversity, not expanding it.
 - 기본적인 목적은 금융기관을 이해하기 쉽고, 편리하고, 믿을 수 있는 곳으로 만들자는 것이다.
   - The basic goal is to make financial institutions approachable, convenient and trustworthy.
-<!--SR:!2025-03-24,1,130-->
+<!--SR:!2025-03-25,1,130-->
 
 ## 고백하다 #card
 ?
@@ -1946,7 +1946,7 @@ go in and out frequently
 - we're outnumbered!
 ### 예
 -
-<!--SR:!2025-03-24,1,130-->
+<!--SR:!2025-03-25,1,130-->
 
 ## 박살 #card
 ?
@@ -2010,7 +2010,7 @@ go in and out frequently
 - To get to know each other's faces.
 ### 예
 -
-<!--SR:!2025-03-24,1,142-->
+<!--SR:!2025-03-25,1,142-->
 
 ## 인원 #card
 ?
