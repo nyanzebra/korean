@@ -1482,7 +1482,7 @@ go in and out frequently
 ### 예
 - 그녀는 격렬하게 몸을 떨기 시작했다. 그녀의 시선은 방 안을 이리저리 두리번거렸다.
 	- The woman began to tremble violently, and her eyes roamed distractedly about the room.
-<!--SR:!2025-03-23,5,150-->
+<!--SR:!2025-04-02,9,150-->
 
 ## 돌려주다 #card
 ?
@@ -2054,7 +2054,7 @@ go in and out frequently
 	- He has gone out on business.
 - 그는 폭풍을 무릅쓰고 외출했다
 	- He went out in spite of[braving] the storm.
-<!--SR:!2025-03-24,1,130-->
+<!--SR:!2025-03-25,1,130-->
 
 ## 이끌다 #card
 ?
