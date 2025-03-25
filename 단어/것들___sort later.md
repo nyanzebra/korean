@@ -2078,6 +2078,7 @@ go in and out frequently
 	- Lee headed a private support group when Roh was a presidential candidate in 2002.
 - 그것이 이 모든 일을 이끌어낸 원동력으로 보입니다.
 	- It seems to me that's the fuel that's driven a lot of this.
+<!--SR:!2025-03-27,2,163-->
 
 
 전립선 문제
