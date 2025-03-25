@@ -1621,6 +1621,7 @@ go in and out frequently
 ### 예
 - 일요일, 옛 교복을 입고 뛰는 주부가 학창시절로 돌아간 듯 해맑은 표정을 짓고 있다.
 	- Housewives look innocent and happy Sunday as they run clad in school uniforms from the past, as if returning to their school days.
+<!--SR:!2025-03-26,1,143-->
 
 ## 장단은 맞춰야지 #card
 ?
@@ -1706,6 +1707,7 @@ go in and out frequently
 - over-reacting
 ### 예
 -
+<!--SR:!2025-03-26,1,143-->
 
 ## 챙기다 #card
 ?
