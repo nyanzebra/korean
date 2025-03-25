@@ -1598,6 +1598,7 @@ go in and out frequently
 	- Some examples of some kind of radical notions of self-direction.
 - 맞는 말이다. 그런데 지금 문제를 주도적으로 푸는 사람이 누가 있는가?
 	- He is right. But who is stepping forward and initiate resolution?
+<!--SR:!2025-03-26,1,143-->
 
 ## 돋보이다 #card
 ?
