@@ -1630,6 +1630,7 @@ go in and out frequently
 ### 예
 - 장단을 맞추다
 	- beat a rhythm
+<!--SR:!2025-03-26,1,143-->
 
 ## 어색하다 #card
 ?
