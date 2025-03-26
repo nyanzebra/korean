@@ -1700,7 +1700,7 @@ go in and out frequently
 - bat (baseball)
 ### 예
 -
-<!--SR:!2025-03-25,3,150-->
+<!--SR:!2025-03-30,5,150-->
 
 ## 오바하다 #card
 ?
@@ -2020,7 +2020,7 @@ go in and out frequently
 - To get to know each other's faces.
 ### 예
 -
-<!--SR:!2025-03-25,1,142-->
+<!--SR:!2025-03-27,2,162-->
 
 ## 인원 #card
 ?
@@ -2064,7 +2064,7 @@ go in and out frequently
 	- He has gone out on business.
 - 그는 폭풍을 무릅쓰고 외출했다
 	- He went out in spite of[braving] the storm.
-<!--SR:!2025-03-25,1,130-->
+<!--SR:!2025-03-26,1,130-->
 
 ## 이끌다 #card
 ?
