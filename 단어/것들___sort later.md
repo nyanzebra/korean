@@ -948,7 +948,7 @@ go in and out frequently
 	- succeed in an examination at one's first attempt
 - 그 아이는 욕심을 부려 단번에 사탕 3개를 한입에 쑤셔 넣었다
 	- The child greedily crammed three candies into his mouth all at once.
-<!--SR:!2025-03-25,36,202-->
+<!--SR:!2025-04-13,19,182-->
 
 ## 밀어붙이다 #card
 ?
@@ -1351,7 +1351,7 @@ go in and out frequently
 - 이것은 정직한 사람이 손해를 보는 좋은 예다
 	- This is a good example of a case in which honesty doesn't pay.
 -
-<!--SR:!2025-03-25,7,130-->
+<!--SR:!2025-04-04,10,130-->
 
 ## 일부러 #card
 ?
@@ -2052,7 +2052,7 @@ go in and out frequently
 	- creative instinct
 - 모성 본능
 	- a maternal instinct
-<!--SR:!2025-03-25,1,130-->
+<!--SR:!2025-03-27,2,150-->
 
 
 ## 외출하다 #card
