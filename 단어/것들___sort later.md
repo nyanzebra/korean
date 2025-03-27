@@ -2102,6 +2102,10 @@ go in and out frequently
 - fit
 ### 예
 - 이 연구원들은 일반적이고 가연성이 높은 에너지원인 수소에 초점을 맞췄습니다.
+	- These researchers focused on hydrogen, a common and highly flammable source of energy.
+- 수업 시간에 맞춰 갈 수 있겠습니까?
+	- Do you think you can make it to class on time?
+- 장점과 단점의 균형을 맞추기 위해 우리는 어떤 지침을 만들수 있나요?
 	- 
 
 
