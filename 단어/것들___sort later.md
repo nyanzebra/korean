@@ -2092,12 +2092,17 @@ go in and out frequently
 - 앰버에게 옷을 사주면 시어머니는 “참 섹시하다”고 말 할 거에요.
 	- When she buys clothing for Amber, she will say, "This is sexy."
 
-## 단어 #card
+## 맞추다 #card
 ?
 ### 뜻
--
+- focus
+- in time
+- balance
+- meet
+- fit
 ### 예
--
+- 이 연구원들은 일반적이고 가연성이 높은 에너지원인 수소에 초점을 맞췄습니다.
+	- 
 
 
 전립선 문제
