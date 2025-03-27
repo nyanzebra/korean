@@ -687,7 +687,7 @@
 	- Recently we have had a run of bad luck in our family.
 - 그녀는 그런 불행한 일을 겪고도 태연하다
 	- Even after such an unhappy experience, she looks quite unconcerned.
-<!--SR:!2025-03-25,13,150-->
+<!--SR:!2025-04-15,20,150-->
 
 ## 수상하다 #card
 ?
@@ -1410,7 +1410,7 @@ go in and out frequently
 	- exorcise evil spirits
 - 하루하루 물리다
 	- put off from day to day.
-<!--SR:!2025-03-25,1,130-->
+<!--SR:!2025-03-27,1,130-->
 
 ## 미치다 #card
 ?
