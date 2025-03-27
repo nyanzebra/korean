@@ -79,7 +79,7 @@
 	- And by the way, the arts aren't just important because they improve math scores.
 - 그나저나 지금도 별로 바뀐 건 없습니다.
 	- Not much has changed, by the way.
-<!--SR:!2025-03-25,7,132-->
+<!--SR:!2025-04-05,10,132-->
 
 ## 무사하다 #card
 ?
@@ -1732,7 +1732,7 @@ go in and out frequently
 	- I'll pack up your stuff.
 ### Notes
 - differs from 가지다 in that this has more emphasis on bring/taking something well/securely
-<!--SR:!2025-03-26,3,150-->
+<!--SR:!2025-03-31,5,150-->
 
 ## 긴장 #card
 ?
