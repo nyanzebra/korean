@@ -2099,14 +2099,17 @@ go in and out frequently
 - in time
 - balance
 - meet
-- fit
+- fit / match
 ### 예
 - 이 연구원들은 일반적이고 가연성이 높은 에너지원인 수소에 초점을 맞췄습니다.
 	- These researchers focused on hydrogen, a common and highly flammable source of energy.
 - 수업 시간에 맞춰 갈 수 있겠습니까?
 	- Do you think you can make it to class on time?
 - 장점과 단점의 균형을 맞추기 위해 우리는 어떤 지침을 만들수 있나요?
-	- 
+	- Are there any guidelines that we can make to balance the pros and cons?
+- 그러나 최선의 환경 속에서도 석유공급은 수요에 간신히 맞출 따름이다.
+	- But even under the best of circumstances, oil supplies can barely meet demand.
+- 그는 자신의 노래를 청중들에게 맞추는 법을 배워야 한다.
 
 
 전립선 문제
