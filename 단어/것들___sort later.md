@@ -1683,7 +1683,7 @@ go in and out frequently
 - It doesn't feel real somehow?
 ### 예
 -
-<!--SR:!2025-03-25,1,130-->
+<!--SR:!2025-03-28,1,130-->
 
 ## 저번 #card
 ?
