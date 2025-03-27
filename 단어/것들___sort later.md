@@ -2001,7 +2001,7 @@ go in and out frequently
 	- The price of energy dropped. Our banks began to fail.
 - 자영업자가 망하면 정책적인 보호도 거의 받을 수 없는 게 현실이다.
 	- Small business owners can receive no government protection if they go bankrupt.
-<!--SR:!2025-03-26,1,143-->
+<!--SR:!2025-03-27,1,130-->
 
 ## 조지다 #card
 ?
