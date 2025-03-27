@@ -758,7 +758,7 @@ go in and out frequently
 	- sleep regular hours
 - 이들은 수면에서 생활한다.
 	- They live at the surface of the water.
-<!--SR:!2025-03-26,11,135-->
+<!--SR:!2025-04-12,16,135-->
 
 ## 잔잔하다 #card
 ?
@@ -1464,7 +1464,7 @@ go in and out frequently
 - admiration
 ### 예
 -
-<!--SR:!2025-03-27,3,150-->
+<!--SR:!2025-04-01,5,150-->
 
 ## 존경심 #card
 ?
@@ -1835,7 +1835,7 @@ go in and out frequently
   - He also has a relationship with Korea because he proposed McCune-Reischauer Romanization for Korean in 1939.
 - 하지만, 두 사람은 예상치 못한 인연을 맺게 된다.
   - But, the two develop an unexpected connection with each other.
-<!--SR:!2025-03-25,1,130-->
+<!--SR:!2025-03-28,1,130-->
 
 ## 또래들 #card
 ?
