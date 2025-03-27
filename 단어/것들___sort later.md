@@ -579,7 +579,7 @@
 ### 예
 - 간만에 바람 좀 쐬면서 걸을까 한다
 	- It's been a while since I've had some fresh air
-<!--SR:!2025-03-26,14,150-->
+<!--SR:!2025-04-16,21,150-->
 
 ## 버릇하다 #card
 ?
@@ -1497,7 +1497,7 @@ go in and out frequently
 	- Many times, they have found the animal to return to its owner.
 - 우리는 받은 것을 돌려주어야 한다.
 	- We should give back what we have received.
-<!--SR:!2025-03-25,13,164-->
+<!--SR:!2025-04-15,20,164-->
 
 ## 거절하다 #card
 ?
@@ -1598,7 +1598,7 @@ go in and out frequently
 	- Some examples of some kind of radical notions of self-direction.
 - 맞는 말이다. 그런데 지금 문제를 주도적으로 푸는 사람이 누가 있는가?
 	- He is right. But who is stepping forward and initiate resolution?
-<!--SR:!2025-03-26,1,143-->
+<!--SR:!2025-03-27,1,130-->
 
 ## 돋보이다 #card
 ?
@@ -1771,7 +1771,7 @@ go in and out frequently
 	- misty mountains
 - 방에는 연기가 자욱했다
 	- The room was filled with smoke.
-<!--SR:!2025-03-25,1,130-->
+<!--SR:!2025-03-27,1,130-->
 
 ## 산더미 #card
 ?
@@ -1933,7 +1933,7 @@ go in and out frequently
 - gang?
 ### 예
 -
-<!--SR:!2025-03-26,1,143-->
+<!--SR:!2025-03-27,1,130-->
 
 ## 중 일부 #card
 ?
