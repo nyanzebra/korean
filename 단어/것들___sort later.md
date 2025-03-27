@@ -2081,6 +2081,15 @@ go in and out frequently
 	- It seems to me that's the fuel that's driven a lot of this.
 <!--SR:!2025-03-27,2,163-->
 
+## 사주다 #card
+?
+### 뜻
+- buy for (someone)
+### 예
+- 어떤 사람에게 술을 사주다
+	- buy someone a drink
+- 앰버에게 옷을 사주면 시어머니는 “참 섹시하다”고 말 할 거에요.
+	- When she buys clothing for Amber, she will say, "This is sexy."
 
 
 전립선 문제
