@@ -1108,7 +1108,7 @@ go in and out frequently
 	- The warmer weather makes them feel slower and more tired.
 - 너 참 둔하구나
 	- You are so oblivious.
-<!--SR:!2025-03-27,15,150-->
+<!--SR:!2025-04-19,23,150-->
 
 ## 소개팅 #card
 ?
@@ -1285,7 +1285,7 @@ go in and out frequently
 - change clothes
 ### 예
 -
-<!--SR:!2025-03-27,24,162-->
+<!--SR:!2025-05-05,39,162-->
 
 ## 간신히 #card
 ?
