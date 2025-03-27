@@ -2110,6 +2110,7 @@ go in and out frequently
 - 그러나 최선의 환경 속에서도 석유공급은 수요에 간신히 맞출 따름이다.
 	- But even under the best of circumstances, oil supplies can barely meet demand.
 - 그는 자신의 노래를 청중들에게 맞추는 법을 배워야 한다.
+	- He must learn to fit his song to his audience.
 
 
 전립선 문제
