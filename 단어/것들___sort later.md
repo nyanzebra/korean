@@ -1277,7 +1277,7 @@ go in and out frequently
 	- The racket made by the mob could be heard intermittently
 - 웅성거리는 대화 소리.
 	- a buzz of conversation
-<!--SR:!2025-03-27,3,150-->
+<!--SR:!2025-04-01,5,150-->
 
 ## 갈아입다 #card
 ?
@@ -1771,7 +1771,7 @@ go in and out frequently
 	- misty mountains
 - 방에는 연기가 자욱했다
 	- The room was filled with smoke.
-<!--SR:!2025-03-27,1,130-->
+<!--SR:!2025-03-29,2,150-->
 
 ## 산더미 #card
 ?
@@ -1808,7 +1808,7 @@ go in and out frequently
 - frank
 ### 예
 -
-<!--SR:!2025-03-27,3,150-->
+<!--SR:!2025-04-01,5,150-->
 
 ## 대단하다 #card
 ?
