@@ -533,7 +533,7 @@
 ### 예
 - 애초부터 우리는 불공평하게 대우받았다
 	- Right from the beginning[From the very beginning] we've been unfairly treated
-<!--SR:!2025-03-26,37,195-->
+<!--SR:!2025-06-06,72,195-->
 
 ## 보살피다 #card
 ?
@@ -1952,9 +1952,10 @@ go in and out frequently
 ?
 ### 뜻
 - we're outnumbered!
+- our side is lacking for a bit
 ### 예
 -
-<!--SR:!2025-03-25,1,130-->
+<!--SR:!2025-03-27,1,130-->
 
 ## 박살 #card
 ?
