@@ -1376,7 +1376,7 @@ go in and out frequently
 	- The watches are alternated[changed] every four hours.
 - 어젯밤에 당직했다
 	- I was on duty[watch] last night.
-<!--SR:!2025-03-26,4,170-->
+<!--SR:!2025-04-02,7,170-->
 
 ## 변호하다 #card
 ?
@@ -2091,6 +2091,13 @@ go in and out frequently
 	- buy someone a drink
 - 앰버에게 옷을 사주면 시어머니는 “참 섹시하다”고 말 할 거에요.
 	- When she buys clothing for Amber, she will say, "This is sexy."
+
+## 단어 #card
+?
+### 뜻
+-
+### 예
+-
 
 
 전립선 문제
