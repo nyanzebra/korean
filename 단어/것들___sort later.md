@@ -523,7 +523,7 @@
 ### 예
 - 항상 군말없이 따라주는 네 수고는 내가 다 기억한다
 	- I remember all the trouble you've gone to to keep me company!
-<!--SR:!2025-03-26,14,150-->
+<!--SR:!2025-04-03,7,130-->
 
 ## 애초 #card
 ?
@@ -936,7 +936,7 @@ go in and out frequently
 - take a firm bite
 ### 예
 -
-<!--SR:!2025-03-27,15,155-->
+<!--SR:!2025-04-18,22,155-->
 
 ## 단번에 #card
 ?
@@ -1410,7 +1410,7 @@ go in and out frequently
 	- exorcise evil spirits
 - 하루하루 물리다
 	- put off from day to day.
-<!--SR:!2025-03-27,1,130-->
+<!--SR:!2025-03-28,1,130-->
 
 ## 미치다 #card
 ?
@@ -1455,7 +1455,7 @@ go in and out frequently
 - courteous
 ### 예
 - 그니까 좀 정중해져 보세요
-<!--SR:!2025-03-27,3,150-->
+<!--SR:!2025-04-01,5,150-->
 
 ## 존경 #card
 ?
@@ -1621,7 +1621,7 @@ go in and out frequently
 ### 예
 - 일요일, 옛 교복을 입고 뛰는 주부가 학창시절로 돌아간 듯 해맑은 표정을 짓고 있다.
 	- Housewives look innocent and happy Sunday as they run clad in school uniforms from the past, as if returning to their school days.
-<!--SR:!2025-03-27,1,130-->
+<!--SR:!2025-03-28,1,130-->
 
 ## 장단은 맞춰야지 #card
 ?
@@ -1840,7 +1840,7 @@ go in and out frequently
 - peers
 ### 예
 -
-<!--SR:!2025-03-27,3,150-->
+<!--SR:!2025-04-01,5,150-->
 
 ## 속이다 #card
 ?
@@ -1869,7 +1869,7 @@ go in and out frequently
 ### 예
 - 본론으로 들어가볼까?
 	- shall we cut to the chase
-<!--SR:!2025-03-24,2,150-->
+<!--SR:!2025-03-30,3,150-->
 
 ## 부수다 #card
 ?
