@@ -39,3 +39,4 @@ boot camp
 Kyunghee Min (Mar 27, 2025, 17:29)
 
 공학도가 되다
+-에 입사하다
