@@ -51,4 +51,4 @@ Kyunghee Min (Mar 27, 2025, 17:29)
 
 Kyunghee Min (Mar 27, 2025, 17:53)
 
-주전
+주전자
