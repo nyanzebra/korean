@@ -1446,7 +1446,7 @@ go in and out frequently
 - I will take responsibility
 ### 예
 -
-<!--SR:!2025-03-28,16,164-->
+<!--SR:!2025-04-24,26,164-->
 
 ## 정중하다 #card
 ?
@@ -2045,7 +2045,7 @@ go in and out frequently
 	- park a car
 - 이제 와서 계획을 세워 봐야 사또떠난 뒤에 나팔 부는 격이다
 	- It is too late to work out a plan now.
-<!--SR:!2025-03-27,5,182-->
+<!--SR:!2025-04-08,10,182-->
 
 ## 본능(적) #card
 ?
