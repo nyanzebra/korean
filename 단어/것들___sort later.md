@@ -977,7 +977,7 @@ go in and out frequently
 ### 예
 - 플라스틱 가방은 흔히 식료 잡화류와 다른 상품들을 담기 위해 사용된다.
 	- Plastic bags are commonly used to carry groceries and other products.
-<!--SR:!2025-03-28,16,162-->
+<!--SR:!2025-04-25,27,162-->
 
 ## 들키다 #card
 ?
@@ -1141,7 +1141,7 @@ go in and out frequently
 - scar
 ### 예
 -
-<!--SR:!2025-03-28,27,162-->
+<!--SR:!2025-04-13,15,142-->
 
 ## 습격하다 #card
 ?
@@ -1642,7 +1642,7 @@ go in and out frequently
 	- keep an awkward silence
 - 사람들간의 상호작용 없이는 사람들은 사회성을 개발할 수 없으며 이는 현실에서 사회적 어색함을 느끼게 할 수 있습니다.
 	- Without human interaction, people are unable to develop social skills, which can result in social awkwardness in real life situations
-<!--SR:!2025-03-26,1,143-->
+<!--SR:!2025-03-30,1,130-->
 
 ## 위협 #card
 ?
