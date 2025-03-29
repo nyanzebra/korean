@@ -1774,7 +1774,7 @@ go in and out frequently
 	- misty mountains
 - 방에는 연기가 자욱했다
 	- The room was filled with smoke.
-<!--SR:!2025-03-29,2,150-->
+<!--SR:!2025-04-01,3,150-->
 
 ## 산더미 #card
 ?
