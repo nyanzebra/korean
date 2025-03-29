@@ -1863,7 +1863,7 @@ go in and out frequently
 - forever alone (from birth solo)
 ### 예
 -
-<!--SR:!2025-03-25,1,130-->
+<!--SR:!2025-03-30,1,130-->
 
 ## 본론 #card
 ?
