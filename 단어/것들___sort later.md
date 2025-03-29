@@ -1153,7 +1153,7 @@ go in and out frequently
 	- The townspeople turned into rioters and attacked the town hall.
 - 적진을 습격하여 탈취했다
 	- The enemy camp was taken in a surprise attack.
-<!--SR:!2025-03-28,6,142-->
+<!--SR:!2025-04-01,3,130-->
 
 ## 별개 #card
 ?
@@ -1958,7 +1958,7 @@ go in and out frequently
 - our side is lacking for a bit
 ### 예
 -
-<!--SR:!2025-03-27,1,130-->
+<!--SR:!2025-03-30,1,130-->
 
 ## 박살 #card
 ?
@@ -2032,7 +2032,7 @@ go in and out frequently
 - number of persons
 ### 예
 -
-<!--SR:!2025-03-27,3,150-->
+<!--SR:!2025-03-31,2,130-->
 
 ## 세우다 #card
 ?
