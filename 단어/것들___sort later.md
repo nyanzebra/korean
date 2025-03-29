@@ -591,7 +591,7 @@
 	- accustom oneself to early rising
 - 규칙적인 생활을 해 버릇하다
 	- accustom oneself to a regular life.
-<!--SR:!2025-03-28,10,130-->
+<!--SR:!2025-04-03,5,130-->
 
 ## 쥐어짜다 #card
 ?
@@ -1318,7 +1318,7 @@ go in and out frequently
 - stuck
 ### 예
 -
-<!--SR:!2025-03-29,14,150-->
+<!--SR:!2025-04-20,22,150-->
 
 ## 굳은살 #card
 ?
@@ -1598,7 +1598,7 @@ go in and out frequently
 	- Some examples of some kind of radical notions of self-direction.
 - 맞는 말이다. 그런데 지금 문제를 주도적으로 푸는 사람이 누가 있는가?
 	- He is right. But who is stepping forward and initiate resolution?
-<!--SR:!2025-03-27,1,130-->
+<!--SR:!2025-03-30,1,130-->
 
 ## 돋보이다 #card
 ?
