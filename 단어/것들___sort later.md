@@ -1784,7 +1784,7 @@ go in and out frequently
 - great mess
 ### 예
 -
-<!--SR:!2025-03-26,5,167-->
+<!--SR:!2025-04-06,8,167-->
 
 ## 소굴 #card
 ?
