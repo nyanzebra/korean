@@ -1385,7 +1385,7 @@ go in and out frequently
 - plead for
 ### 예
 -
-<!--SR:!2025-03-28,8,150-->
+<!--SR:!2025-04-10,12,150-->
 
 ## 물리다 #card
 ?
@@ -1621,7 +1621,7 @@ go in and out frequently
 ### 예
 - 일요일, 옛 교복을 입고 뛰는 주부가 학창시절로 돌아간 듯 해맑은 표정을 짓고 있다.
 	- Housewives look innocent and happy Sunday as they run clad in school uniforms from the past, as if returning to their school days.
-<!--SR:!2025-03-28,1,130-->
+<!--SR:!2025-03-30,1,130-->
 
 ## 장단은 맞춰야지 #card
 ?
