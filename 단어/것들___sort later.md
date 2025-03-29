@@ -1973,7 +1973,7 @@ go in and out frequently
 	- The plane broke up (in the crash)
 - 박살나다
 	- smash to pieces
-<!--SR:!2025-03-25,1,130-->
+<!--SR:!2025-03-30,1,130-->
 
 ## 내키다 #card
 ?
