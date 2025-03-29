@@ -832,7 +832,7 @@ go in and out frequently
 	- Korea coach Cho plans to use a quick offense to determine the game.
 - 플레이오프 기간 동안 4팀이 승부를 겨룬다.
 	- Four teams are competing in the playoffs.
-<!--SR:!2025-03-25,7,134-->
+<!--SR:!2025-04-08,10,134-->
 
 ## 걸어오다/걸어가다 #card
 ?
@@ -1686,7 +1686,7 @@ go in and out frequently
 - It doesn't feel real somehow?
 ### 예
 -
-<!--SR:!2025-03-28,1,130-->
+<!--SR:!2025-03-30,1,130-->
 
 ## 저번 #card
 ?
@@ -2068,7 +2068,7 @@ go in and out frequently
 	- He has gone out on business.
 - 그는 폭풍을 무릅쓰고 외출했다
 	- He went out in spite of[braving] the storm.
-<!--SR:!2025-03-26,1,130-->
+<!--SR:!2025-03-30,1,130-->
 
 ## 이끌다 #card
 ?
