@@ -1872,7 +1872,7 @@ go in and out frequently
 ### 예
 - 본론으로 들어가볼까?
 	- shall we cut to the chase
-<!--SR:!2025-03-30,3,150-->
+<!--SR:!2025-04-04,5,150-->
 
 ## 부수다 #card
 ?
@@ -1936,7 +1936,7 @@ go in and out frequently
 - gang?
 ### 예
 -
-<!--SR:!2025-03-31,1,250-->
+<!--SR:!2025-04-02,3,250-->
 
 ## 중 일부 #card
 ?
