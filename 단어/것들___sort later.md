@@ -497,7 +497,7 @@
 ### 예
 - 부자간의 멋진 대화를 나눠야죠
 	- We'll have a nice father-son chat.
-<!--SR:!2025-03-30,9,134-->
+<!--SR:!2025-04-10,11,134-->
 
 
 ## 투기장 #card
@@ -1309,7 +1309,7 @@ go in and out frequently
   - Is that why you are afraid of me?
 - 사실, 완전히 겁먹었죠. 저는 저체온증에 걸린 것 같았고 제 친구들은 결국 저를 물밖으로 꺼내야만 했습니다.
   - Actually, I was totally freaking out and I was borderline hypothermic, and my friends eventually had to help me out of the water.
-<!--SR:!2025-03-26,16,162-->
+<!--SR:!2025-04-24,25,162-->
 
 ## 박히다 #card
 ?
@@ -1554,7 +1554,7 @@ go in and out frequently
 ### 예
 - 기껏해야 하루에 한 번
 	- at most once a day
-<!--SR:!2025-03-27,9,150-->
+<!--SR:!2025-04-14,15,150-->
 
 ## 시도하다 #card
 ?
@@ -1598,7 +1598,7 @@ go in and out frequently
 	- Some examples of some kind of radical notions of self-direction.
 - 맞는 말이다. 그런데 지금 문제를 주도적으로 푸는 사람이 누가 있는가?
 	- He is right. But who is stepping forward and initiate resolution?
-<!--SR:!2025-03-30,1,130-->
+<!--SR:!2025-03-31,1,130-->
 
 ## 돋보이다 #card
 ?
@@ -1621,7 +1621,7 @@ go in and out frequently
 ### 예
 - 일요일, 옛 교복을 입고 뛰는 주부가 학창시절로 돌아간 듯 해맑은 표정을 짓고 있다.
 	- Housewives look innocent and happy Sunday as they run clad in school uniforms from the past, as if returning to their school days.
-<!--SR:!2025-03-30,1,130-->
+<!--SR:!2025-03-31,1,130-->
 
 ## 장단은 맞춰야지 #card
 ?
