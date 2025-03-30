@@ -554,7 +554,7 @@
 ### 예
 - 정상적으로 자랄 수 있게 잘 보살펴준 것
 	- Take good care of them so they can grow up normally.
-<!--SR:!2025-03-30,6,150-->
+<!--SR:!2025-04-09,10,150-->
 
 ## 조직 #card
 ?
@@ -672,7 +672,7 @@
 - ?
 ### 예
 -
-<!--SR:!2025-03-30,1,130-->
+<!--SR:!2025-03-31,1,130-->
 
 ## 불행하다 #card
 ?
@@ -735,7 +735,7 @@ go in and out frequently
 - draw out
 ### 예
 -
-<!--SR:!2025-03-29,17,154-->
+<!--SR:!2025-03-31,1,250-->
 
 ## 적임자 #card
 ?
@@ -1410,7 +1410,7 @@ go in and out frequently
 	- exorcise evil spirits
 - 하루하루 물리다
 	- put off from day to day.
-<!--SR:!2025-03-28,1,130-->
+<!--SR:!2025-04-01,2,150-->
 
 ## 미치다 #card
 ?
@@ -1703,7 +1703,7 @@ go in and out frequently
 - bat (baseball)
 ### 예
 -
-<!--SR:!2025-03-30,5,150-->
+<!--SR:!2025-04-09,10,170-->
 
 ## 오바하다 #card
 ?
@@ -2016,7 +2016,7 @@ go in and out frequently
 - 사개를 조지다
 	- screw[make/fix] a joint tight
 - https://dic.daum.net/word/view.do?wordid=kew000065447&supid=keu000429070
-<!--SR:!2025-03-30,1,130-->
+<!--SR:!2025-04-02,3,250-->
 
 ## 안면을 트다 #card
 ?
@@ -2068,7 +2068,7 @@ go in and out frequently
 	- He has gone out on business.
 - 그는 폭풍을 무릅쓰고 외출했다
 	- He went out in spite of[braving] the storm.
-<!--SR:!2025-03-30,1,130-->
+<!--SR:!2025-04-01,2,150-->
 
 ## 이끌다 #card
 ?
