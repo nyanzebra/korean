@@ -343,7 +343,7 @@
 	- result from slackened discipline among public officials.
 - 요즘 관기가 눈에 띄게 해이해 졌다
 	- These days official discipline has been remarkably slack[lax].
-<!--SR:!2025-03-30,19,154-->
+<!--SR:!2025-04-29,30,154-->
 
 ## 편안하다 #card
 ?
@@ -1821,7 +1821,7 @@ go in and out frequently
 - amazing
 ### 예
 -
-<!--SR:!2025-03-30,1,130-->
+<!--SR:!2025-03-31,1,130-->
 
 ## 인연 #card
 ?
