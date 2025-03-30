@@ -735,7 +735,7 @@ go in and out frequently
 - draw out
 ### 예
 -
-<!--SR:!2025-03-31,1,250-->
+<!--SR:!2025-04-02,3,250-->
 
 ## 적임자 #card
 ?
@@ -1185,7 +1185,7 @@ go in and out frequently
 	- a man of dubious morality[character]/a degenerate.
 - 경찰관은 평소에도 소행을 조심하지 않으면 안 된다
 	- Police officers should always be careful of[watch] their own conduct.
-<!--SR:!2025-03-30,15,150-->
+<!--SR:!2025-03-31,1,230-->
 
 ## 따지다 #card
 ?
@@ -1642,7 +1642,7 @@ go in and out frequently
 	- keep an awkward silence
 - 사람들간의 상호작용 없이는 사람들은 사회성을 개발할 수 없으며 이는 현실에서 사회적 어색함을 느끼게 할 수 있습니다.
 	- Without human interaction, people are unable to develop social skills, which can result in social awkwardness in real life situations
-<!--SR:!2025-03-31,1,250-->
+<!--SR:!2025-04-02,3,250-->
 
 ## 위협 #card
 ?
@@ -1801,7 +1801,7 @@ go in and out frequently
 - roof
 ### 예
 -
-<!--SR:!2025-03-31,1,250-->
+<!--SR:!2025-04-02,3,250-->
 
 ## 선선하다 #card
 ?
