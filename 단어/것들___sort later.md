@@ -488,7 +488,7 @@
 	- I am hoping against hope that he will come back.
 - 내게 너무 기대하지 말게
 	- Don't expect too much of me.
-<!--SR:!2025-03-29,18,174-->
+<!--SR:!2025-04-30,31,174-->
 
 ## 부자간 #card
 ?
@@ -1686,7 +1686,7 @@ go in and out frequently
 - It doesn't feel real somehow?
 ### 예
 -
-<!--SR:!2025-03-30,1,130-->
+<!--SR:!2025-03-31,1,130-->
 
 ## 저번 #card
 ?
@@ -1753,7 +1753,7 @@ go in and out frequently
 - trap
 ### 예
 -
-<!--SR:!2025-03-31,1,250-->
+<!--SR:!2025-04-02,3,250-->
 
 ## 아지트 #card
 ?
@@ -2083,7 +2083,7 @@ go in and out frequently
 	- Lee headed a private support group when Roh was a presidential candidate in 2002.
 - 그것이 이 모든 일을 이끌어낸 원동력으로 보입니다.
 	- It seems to me that's the fuel that's driven a lot of this.
-<!--SR:!2025-03-30,3,163-->
+<!--SR:!2025-04-04,5,163-->
 
 ## 사주다 #card
 ?
