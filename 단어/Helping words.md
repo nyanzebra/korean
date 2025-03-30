@@ -241,7 +241,7 @@
   - This book is too difficult for me to read.
 - 그 일은 워낙 명백해서 증거를 댈 필요도 없다
   - It is too evident to require proof.
-<!--SR:!2025-03-29,7,178-->
+<!--SR:!2025-04-12,13,178-->
 
 ## 어쩌다 #card
 ?
@@ -309,4 +309,4 @@
 	- thorough change
 - 철저한 토론
 	- thorough discussion
-<!--SR:!2025-03-25,4,213-->
+<!--SR:!2025-03-31,1,250-->
