@@ -1242,7 +1242,7 @@ go in and out frequently
 	- consult one's aides.
 - 변호사와 의논하다
 	- consult a lawyer.
-<!--SR:!2025-03-30,12,150-->
+<!--SR:!2025-04-18,19,150-->
 
 ## 꿇리다 #card
 ?
@@ -1520,7 +1520,7 @@ go in and out frequently
 - sleuth
 ### 예
 -
-<!--SR:!2025-03-29,3,150-->
+<!--SR:!2025-04-04,5,150-->
 
 ## 독서 #card
 ?
@@ -1793,7 +1793,7 @@ go in and out frequently
 - nest
 ### 예
 -
-<!--SR:!2025-03-30,1,130-->
+<!--SR:!2025-03-31,1,130-->
 
 ## 옥상 #card
 ?
@@ -1863,7 +1863,7 @@ go in and out frequently
 - forever alone (from birth solo)
 ### 예
 -
-<!--SR:!2025-03-30,1,130-->
+<!--SR:!2025-03-31,1,130-->
 
 ## 본론 #card
 ?
