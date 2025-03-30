@@ -380,7 +380,7 @@
 	- drape a flag in mourning[black].
 - 증권 거래소 2부에 우리 회사 주식이 상장되었다
 	- Our company is listed on the Second Market.
-<!--SR:!2025-03-27,3,150-->
+<!--SR:!2025-04-04,5,150-->
 
 ## 태우다 #card
 ?
@@ -476,7 +476,7 @@
 	- His good conduct set an example for the world.
 - 사람들은 소년의 선행을 극구 칭찬했다
 	- People praised[문어 lauded] the boy to the skies for his good deed.
-<!--SR:!2025-03-30,6,130-->
+<!--SR:!2025-04-07,8,130-->
 
 ## 기대하다 #card
 ?
@@ -1630,7 +1630,7 @@ go in and out frequently
 ### 예
 - 장단을 맞추다
 	- beat a rhythm
-<!--SR:!2025-03-30,1,130-->
+<!--SR:!2025-03-31,1,130-->
 
 ## 어색하다 #card
 ?
@@ -1917,7 +1917,7 @@ go in and out frequently
   - Actually, in Orwellian fashion, this treaty is aimed at limiting cultural diversity, not expanding it.
 - 기본적인 목적은 금융기관을 이해하기 쉽고, 편리하고, 믿을 수 있는 곳으로 만들자는 것이다.
   - The basic goal is to make financial institutions approachable, convenient and trustworthy.
-<!--SR:!2025-03-30,1,130-->
+<!--SR:!2025-03-31,1,130-->
 
 ## 고백하다 #card
 ?
