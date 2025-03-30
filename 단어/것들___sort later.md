@@ -859,7 +859,7 @@ go in and out frequently
 	- I have put down the course of events in detail[in full/minutely].
 - 이 팀은 과거 2년간 무패를 기록했다
 	- The team has not suffered a single defeat for the last two years.
-<!--SR:!2025-03-30,15,150-->
+<!--SR:!2025-04-22,23,150-->
 
 ## 틀니 #card
 ?
@@ -1762,7 +1762,7 @@ go in and out frequently
 - hideout
 ### 예
 -
-<!--SR:!2025-03-27,3,167-->
+<!--SR:!2025-04-04,5,167-->
 
 ## 자욱하다 #card
 ?
@@ -1801,7 +1801,7 @@ go in and out frequently
 - roof
 ### 예
 -
-<!--SR:!2025-03-30,1,130-->
+<!--SR:!2025-03-31,1,250-->
 
 ## 선선하다 #card
 ?
@@ -2005,7 +2005,7 @@ go in and out frequently
 	- The price of energy dropped. Our banks began to fail.
 - 자영업자가 망하면 정책적인 보호도 거의 받을 수 없는 게 현실이다.
 	- Small business owners can receive no government protection if they go bankrupt.
-<!--SR:!2025-03-27,1,130-->
+<!--SR:!2025-03-31,1,130-->
 
 ## 조지다 #card
 ?
