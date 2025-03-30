@@ -227,7 +227,7 @@
   - But the seemingly humble beginning led to realization of his childhood dream.
 - 겉보기보단 더 먹었어요
   - I'm older than I look.
-<!--SR:!2025-03-30,7,198-->
+<!--SR:!2025-04-14,15,198-->
 
 ## 워낙 #card
 ?
@@ -287,7 +287,7 @@
 	- They are not missing because they've died; they were never born.
 - 세상에 대한 더 넓은 시야를 갖고 싶다는 여러분의 개인적인 결심만으로는 모자랍니다.
 	- It's not enough to make the personal decision that you want a wider world.
-<!--SR:!2025-03-29,2,193-->
+<!--SR:!2025-04-03,4,193-->
 
 ## 한참 #card
 ?

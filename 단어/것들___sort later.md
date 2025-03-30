@@ -989,7 +989,7 @@ go in and out frequently
 	- be caught in mischief
 - 들키면 나는 큰일이다
 	- If I am discovered, I am done for
-<!--SR:!2025-03-25,13,150-->
+<!--SR:!2025-04-19,20,150-->
 
 ## 입장 #card
 ?
@@ -1582,7 +1582,7 @@ go in and out frequently
 	- kneel in prayer
 - 젊은 장교들이 쿠데타를 기도했다
 	- Young officers tried to carry out a coup d'état.
-<!--SR:!2025-03-27,16,164-->
+<!--SR:!2025-04-26,27,164-->
 
 ## 주도 #card
 ?
