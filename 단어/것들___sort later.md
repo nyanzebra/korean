@@ -1753,7 +1753,7 @@ go in and out frequently
 - trap
 ### 예
 -
-<!--SR:!2025-03-25,1,143-->
+<!--SR:!2025-03-31,1,250-->
 
 ## 아지트 #card
 ?
@@ -1886,7 +1886,7 @@ go in and out frequently
 	- And if she were falling at this speed, she would've been crushed to death
 - 김태희의 배역은 부수어야 하고 아무것도 그녀를 막을 수 없는 역할이다.
 	- Kim's character is on a mission to destroy, and nothing can stop her.
-<!--SR:!2025-03-26,3,150-->
+<!--SR:!2025-04-04,5,150-->
 
 ## 연합하다 #card
 ?
