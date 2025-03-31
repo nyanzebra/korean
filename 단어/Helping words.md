@@ -14,6 +14,7 @@
 	- We will stay here for the time being.
 - 그래서 그 목록을 천천히 보고 우선 순위를 매겼습니다.
 	- So what I did was, I went through and I prioritized that list.
+?end
 <!--SR:!2025-08-18,203,270-->
 
 ## 각각 #card
@@ -30,6 +31,7 @@
 	- Each one of us has a room to himself/We each have our own room.
 - 이 두 문제는 각각 별도로 생각해야 한다
 	- The two problems have to be considered separately.
+?end
 <!--SR:!2025-07-22,132,225-->
 
 ## 꾸준하다 #card
@@ -45,6 +47,7 @@
 	- steady demand.
 - 그러나 올 한 해 대부분은 성장이 느리지만 꾸준하게 유지될 것이다.
 	- However, the growth should remain slow but steady for much of the year.
+?end
 <!--SR:!2025-06-21,90,209-->
 
 ## 각자 #card
@@ -59,6 +62,7 @@
 	- We agreed to differ.
 - 홍수 경보가 내렸으므로 마을 사람들은 각자의 집을 비우고 피난했다
 	- A (general) flood warning was issued, and so the villagers evacuated their houses.
+?end
 <!--SR:!2025-04-23,80,243-->
 
 ## 따로 #card
@@ -73,6 +77,7 @@
 	- put money apart for educational expenses.
 - 물건을 각각 따로 두다
 	- keep things apart.
+?end
 <!--SR:!2025-08-02,137,229-->
 
 ## 서로 #card
@@ -87,6 +92,7 @@
 	- We have to respect each other's differences.
 - 그 두 극장은 아주 비슷한 영화로 서로 더 많은 관중을 끌어들이려고 한다
 	- The two theaters are trying to out draw each other with very similar films.
+?end
 <!--SR:!2025-09-06,170,249-->
 
 ## 역시 #card
@@ -107,6 +113,7 @@
 	- Granting that it is so, you are still (in the) wrong.
 - 그녀는 지금도 역시 아름답다
 	- She is as beautiful as ever.
+?end
 <!--SR:!2025-04-29,42,164-->
 
 ## 자꾸 #card
@@ -116,6 +123,7 @@
 - repeatedly
 ### 예
 -
+?end
 <!--SR:!2025-05-06,47,259-->
 
 ## 충분하다 #card
@@ -125,6 +133,7 @@
 - enough
 ### 예
 -
+?end
 <!--SR:!2025-05-25,60,259-->
 
 
@@ -136,6 +145,7 @@
 - great
 ### 예
 -
+?end
 <!--SR:!2025-04-12,31,239-->
 
 ## 이상 #card
@@ -147,6 +157,7 @@
 	- First of all, natural resources have been man's best friend for more than a century now.
 - 30년 이상이 흘렀지만, 그것은 여전히 한국에서 가장 잘 팔리는 아이스크림 중의 하나이다.
 	- More than 30 years have passed, but it is still one of the best-selling ice creams in Korea.
+?end
 <!--SR:!2025-04-08,30,239-->
 
 ## 미만 #card
@@ -158,6 +169,7 @@
 	- Those who get[score] under 50 will not pass.
 - 10분 미만에
 	- in less than ten minutes.
+?end
 <!--SR:!2025-04-04,23,219-->
 
 ## 최소 #card
@@ -168,6 +180,7 @@
 ### 예
 - 그는 최소의 비용으로 그것을 그럭저럭 해냈다
 	- He managed to do it at the minimum of cost.
+?end
 <!--SR:!2025-03-31,22,219-->
 
 ## 최대 #card
@@ -178,6 +191,7 @@
 ### 예
 - 이번 합의는 지금까지 매치 그룹에 있어 최대 인수 합병이었다.
 	- The deal was the largest merger and acquisition of Match Group to date.
+?end
 <!--SR:!2025-04-03,22,219-->
 
 ## 따위 #card
@@ -191,6 +205,7 @@
 	- the law pertaining to punishment for acts of violence and other (similar) crimes.
 - 그 따위 것
 	- such a thing/that sort of thing.
+?end
 <!--SR:!2025-04-18,31,238-->
 
 ## 마치 #card
@@ -207,6 +222,7 @@
 	- With the help of augmented reality (AR), you can feel like you are in the middle of a court banquet during the Joseon Dynasty
 - 마치 내가 혼자서 모든 것을 한 것처럼 나를 비난하고 있다.
 	- They are criticizing me as if I did everything on my own.
+?end
 <!--SR:!2025-03-31,9,198-->
 
 ## 딱봐도 / 딱보더라도 #card
@@ -215,6 +231,7 @@
 - tell just by looking?
 ### 예
 -
+?end
 <!--SR:!2025-04-21,28,238-->
 
 ## 겉보기 #card
@@ -227,6 +244,7 @@
   - But the seemingly humble beginning led to realization of his childhood dream.
 - 겉보기보단 더 먹었어요
   - I'm older than I look.
+?end
 <!--SR:!2025-04-14,15,198-->
 
 ## 워낙 #card
@@ -241,6 +259,7 @@
   - This book is too difficult for me to read.
 - 그 일은 워낙 명백해서 증거를 댈 필요도 없다
   - It is too evident to require proof.
+?end
 <!--SR:!2025-04-12,13,178-->
 
 ## 어쩌다 #card
@@ -251,6 +270,7 @@
 - once in a while
 ### 예
 -
+?end
 <!--SR:!2025-03-31,1,211-->
 
 ## 사이 #card
@@ -262,6 +282,7 @@
 - a relationship
 ### 예
 -
+?end
 <!--SR:!2025-04-07,12,233-->
 
 ## 당장 #card
@@ -273,6 +294,7 @@
   - Let's be artists, right now. Right away. How?
 - 정부가 가격 개입에서 손을 떼면 소비자도 당장은 부담이 커질 수 있다.
   - When the government takes its hands off the price, consumers may immediately feel burdened.
+?end
 <!--SR:!2025-04-02,9,250-->
 
 ## 모자라다 #card
@@ -288,6 +310,7 @@
 	- They are not missing because they've died; they were never born.
 - 세상에 대한 더 넓은 시야를 갖고 싶다는 여러분의 개인적인 결심만으로는 모자랍니다.
 	- It's not enough to make the personal decision that you want a wider world.
+?end
 <!--SR:!2025-04-03,4,193-->
 
 ## 한참 #card
@@ -299,6 +322,7 @@
 	- It is a long time since we met
 - 바퀴를 한 번만 움직이면 타성으로 한참 동안 돌아간다
 	- Once you set a wheel in motion, it will keep turning for quite a while because of inertia.
+?end
 <!--SR:!2025-04-01,5,233-->
 
 ## 철저하다 #card
@@ -310,4 +334,5 @@
 	- thorough change
 - 철저한 토론
 	- thorough discussion
+?end
 <!--SR:!2025-04-02,3,250-->
