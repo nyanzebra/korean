@@ -5,7 +5,7 @@
 ### 예
 -
 ?end
-<!--SR:!2025-05-16,65,190-->
+
 
 ## 객관적 #card
 ?begin
@@ -14,7 +14,7 @@
 ### 예
 -
 ?end
-<!--SR:!2025-04-21,36,177-->
+
 
 ## 뿌듯하다 #card
 ?begin
@@ -30,7 +30,7 @@
 - 뿌듯하게 맞다
 	- fit tightly/suit to a T.
 ?end
-<!--SR:!2025-04-04,15,150-->
+
 
 ## 매기다 #card
 ?begin
@@ -48,7 +48,7 @@
 - 날짜를 매기다
 	- decide on a date
 ?end
-<!--SR:!2025-04-21,34,168-->
+
 
 ## 그럭저럭 #card
 ?begin
@@ -58,7 +58,7 @@
 - 그럭저럭 지냈어요
 - 업적 평가 / 사람 평가
 ?end
-<!--SR:!2025-04-27,48,150-->
+
 
 ## 불문하다 #card
 ?begin
@@ -71,7 +71,7 @@
 - 학력을 불문하고
 	- regardless of education
 ?end
-<!--SR:!2025-04-07,14,157-->
+
 
 
 ## 그나저나 #card
@@ -86,7 +86,7 @@
 - 그나저나 지금도 별로 바뀐 건 없습니다.
 	- Not much has changed, by the way.
 ?end
-<!--SR:!2025-04-05,10,132-->
+
 
 ## 무사하다 #card
 ?begin
@@ -107,7 +107,7 @@
 - 무사하지는 못할거야
 	- not gonna make it
 ?end
-<!--SR:!2025-04-28,55,232-->
+
 
 ## 엉망 #card
 ?begin
@@ -124,7 +124,7 @@
 - 그는 말과 하는 짓이 모두 터무니없이 엉망이다
 	- Both his words and his actions are utterly confused.
 ?end
-<!--SR:!2025-04-05,158,292-->
+
 
 ## 차리다 #card
 ?begin
@@ -148,7 +148,7 @@
 - 곱게 차려 입다
 	- dress oneself beautifully/be finely dressed.
 ?end
-<!--SR:!2025-04-04,111,228-->
+
 
 ## 억누르다 #card
 ?begin
@@ -166,7 +166,7 @@
 - 불편한 감정을 억누르거나 그런 감정을 가지고 있다고 자신을 판단하지 말라.
 	- Don’t repress uncomfortable emotions or judge yourself for having them
 ?end
-<!--SR:!2025-04-02,17,130-->
+
 
 ## 불길하다 #card
 ?begin
@@ -179,7 +179,7 @@
 - 그가 곧 죽는 것이나 아닐까 하는 불길한 예감이 든다
   - I have a premonition[an uneasy feeling] that he will die before long.
 ?end
-<!--SR:!2025-05-07,44,150-->
+
 
 ## 후계하다 #card
 ?begin
@@ -191,7 +191,7 @@
 - 정씨의 기아차 사장 승진으로 정몽구 회장이 국내 재계서열 4위의 현대-기아차 그룹의 후계 구도를 강화하고 있다는 추측을 불러 일으켰다.
   - His promotion to the helm of Kia stirred speculation that Chung Mong-koo is preparing to hand over control of the country's fourth-largest business group.
 ?end
-<!--SR:!2025-05-29,108,188-->
+
 
 
 ## 동반자 #card
@@ -205,7 +205,7 @@
 - 애완동물은 훌륭한 동반자가 되며 모든 가족에게 환영 받는 부가물이 될 수 있습니다.
   - Pets make excellent companions and can be a welcome addition to any family.
 ?end
-<!--SR:!2025-08-07,159,208-->
+
 
 ## 마찬가지 #card
 ?begin
@@ -220,7 +220,7 @@
 - 그것은 있거나 없거나 마찬가지다
 	- whether I have it or not, it is the same
 ?end
-<!--SR:!2025-04-22,35,218-->
+
 
 ## 위기 #card
 ?begin
@@ -241,7 +241,7 @@
 - 위기의 국면
 	- a critical phase.
 ?end
-<!--SR:!2025-03-31,37,215-->
+
 
 ## 기회 #card
 ?begin
@@ -261,7 +261,7 @@
 - "이번 기회에 정계는 농업부문 활성화 조치를 마련해야 한다.
 	- On this occasion, the political circle should prepare for measures to revitalize the farming sector.
 ?end
-<!--SR:!2025-06-18,115,255-->
+
 
 ## 전부 #card
 ?begin
@@ -279,7 +279,7 @@
 - 전부 한데 모아 보내는 편이 낫다
 	- You'd better send them all together.
 ?end
-<!--SR:!2025-05-11,46,215-->
+
 
 ## 인기를 끌다 #card
 ?begin
@@ -288,7 +288,7 @@
 ### 예
 -
 ?end
-<!--SR:!2025-07-01,105,215-->
+
 
 ## 부딪치다 #card
 ?begin
@@ -308,7 +308,7 @@
 - 운을 하늘에 맡기고 부딪쳐 보다
 	- risk it / chance it
 ?end
-<!--SR:!2025-04-11,60,215-->
+
 
 ## 부러지다 #card
 ?begin
@@ -324,7 +324,7 @@
 - 하지만 부러지는 것보다 휘는 것이 낫다고 했다.
 	- But it is better to bend than snap.
 ?end
-<!--SR:!2025-04-16,29,235-->
+
 
 
 
@@ -339,7 +339,7 @@
 - "당신은 우리 아버지와 쏙 빼닮았습니다."라고 수치 여사가 안재욱에게 말했다.
 	- "You look just like my father," Suu Kyi told Ahn.
 ?end
-<!--SR:!2025-04-03,30,174-->
+
 
 
 ## 기강 #card
@@ -354,7 +354,7 @@
 - 그들은 아침 일찍 일어나는 것이 학생들로 하여금 기강을 발전시키는 것을 돕는다고 말했다.
 	- They said that getting up early helps students develop discipline.
 ?end
-<!--SR:!2025-03-31,9,150-->
+
 
 ## 해이하다 #card
 ?begin
@@ -367,7 +367,7 @@
 - 요즘 관기가 눈에 띄게 해이해 졌다
 	- These days official discipline has been remarkably slack[lax].
 ?end
-<!--SR:!2025-04-29,30,154-->
+
 
 ## 편안하다 #card
 ?begin
@@ -376,7 +376,7 @@
 ### 예
 -
 ?end
-<!--SR:!2025-03-31,5,130-->
+
 
 ## 여전하다 #card
 ?begin
@@ -390,7 +390,7 @@
 - 한 달이 지난 지금도 북한의 군사적 위협은 여전하다.
 	- A month has passed, and the North Korean military threat remains.
 ?end
-<!--SR:!2025-03-31,4,135-->
+
 
 ## 상장 #card
 ?begin
@@ -407,7 +407,7 @@
 - 증권 거래소 2부에 우리 회사 주식이 상장되었다
 	- Our company is listed on the Second Market.
 ?end
-<!--SR:!2025-04-04,5,150-->
+
 
 ## 태우다 #card
 ?begin
@@ -423,7 +423,7 @@
 - 그의 어머니를 부산행 열차에 태워 주도록 나는 그에게 부탁을 받았다
 	- I was asked to put his mother on the train bound for Busan.
 ?end
-<!--SR:!2025-04-06,34,175-->
+
 
 ## 포옹 #card
 ?begin
@@ -435,7 +435,7 @@
 - 그의 정열적인 포옹으로 그녀는 숨도 쉴 수 없었다
 	- His passionate embrace took her breath away./He took her breath away with a passionate embrace.
 ?end
-<!--SR:!2025-04-30,43,174-->
+
 
 ## 잘못 크는줄 알았다 #card
 ?begin
@@ -444,7 +444,7 @@
 ### 예
 -
 ?end
-<!--SR:!2025-04-13,32,174-->
+
 
 ## 효자 #card
 ?begin
@@ -454,7 +454,7 @@
 - 효자가 충신이 된다
 	- A good son will make a good subject.
 ?end
-<!--SR:!2025-04-28,41,195-->
+
 
 ## 효도하다 #card
 ?begin
@@ -463,7 +463,7 @@
 ### 예
 -
 ?end
-<!--SR:!2025-04-07,15,135-->
+
 
 
 ## 불효 #card
@@ -476,7 +476,7 @@
 - 부모님보다 먼저 이 세상을 하직하는 불효의 죄를 용서하십시오
 	- Dear parents, please pardon me for preceding you in death.
 ?end
-<!--SR:!2025-05-23,64,194-->
+
 
 
 ## 반항 #card
@@ -493,7 +493,7 @@
 - 그녀는 아빠에게 반항하고 늘 모험을 떠날 준비가 되어있다.
 	- She rebels against her father and is always ready for adventure
 ?end
-<!--SR:!2025-04-14,21,150-->
+
 
 ## 선행 #card
 ?begin
@@ -511,7 +511,7 @@
 - 사람들은 소년의 선행을 극구 칭찬했다
 	- People praised[문어 lauded] the boy to the skies for his good deed.
 ?end
-<!--SR:!2025-04-07,8,130-->
+
 
 ## 기대하다 #card
 ?begin
@@ -524,7 +524,7 @@
 - 내게 너무 기대하지 말게
 	- Don't expect too much of me.
 ?end
-<!--SR:!2025-04-30,31,174-->
+
 
 ## 부자간 #card
 ?begin
@@ -534,7 +534,7 @@
 - 부자간의 멋진 대화를 나눠야죠
 	- We'll have a nice father-son chat.
 ?end
-<!--SR:!2025-04-10,11,134-->
+
 
 
 ## 투기장 #card
@@ -544,7 +544,7 @@
 ### 예
 -
 ?end
-<!--SR:!2025-04-05,12,135-->
+
 
 ## 호적까지 싹 다 긁어오고 미행도 몇 붙여봐라 #card
 ?begin
@@ -553,7 +553,7 @@
 ### 예
 -
 ?end
-<!--SR:!2025-04-07,37,175-->
+
 
 ## 군말하다 #card
 ?begin
@@ -563,7 +563,7 @@
 - 항상 군말없이 따라주는 네 수고는 내가 다 기억한다
 	- I remember all the trouble you've gone to to keep me company!
 ?end
-<!--SR:!2025-04-03,7,130-->
+
 
 ## 애초 #card
 ?begin
@@ -574,7 +574,7 @@
 - 애초부터 우리는 불공평하게 대우받았다
 	- Right from the beginning[From the very beginning] we've been unfairly treated
 ?end
-<!--SR:!2025-06-06,72,195-->
+
 
 ## 보살피다 #card
 ?begin
@@ -586,7 +586,7 @@
 - 정상적으로 자랄 수 있게 잘 보살펴준 것
 	- Take good care of them so they can grow up normally.
 ?end
-<!--SR:!2025-04-01,14,155-->
+
 
 ## 정상 #card
 ?begin
@@ -597,7 +597,7 @@
 - 정상적으로 자랄 수 있게 잘 보살펴준 것
 	- Take good care of them so they can grow up normally.
 ?end
-<!--SR:!2025-04-09,10,150-->
+
 
 ## 조직 #card
 ?begin
@@ -613,7 +613,7 @@
 - 조직도
 	- organization chart
 ?end
-<!--SR:!2025-04-11,18,150-->
+
 
 ## 간만 #card
 ?begin
@@ -624,7 +624,7 @@
 - 간만에 바람 좀 쐬면서 걸을까 한다
 	- It's been a while since I've had some fresh air
 ?end
-<!--SR:!2025-04-16,21,150-->
+
 
 ## 버릇하다 #card
 ?begin
@@ -637,7 +637,7 @@
 - 규칙적인 생활을 해 버릇하다
 	- accustom oneself to a regular life.
 ?end
-<!--SR:!2025-04-03,5,130-->
+
 
 ## 쥐어짜다 #card
 ?begin
@@ -655,7 +655,7 @@
 - 목소리를 쥐어짜다
 	- strain one's voice.
 ?end
-<!--SR:!2025-05-10,51,175-->
+
 
 ## 넉넉하다 #card
 ?begin
@@ -672,7 +672,7 @@
 - 천국은 넉넉하고, 흐르는 강으로 풍족한 정원입니다.
 	- It's plenty. It's gardens watered by running streams.
 ?end
-<!--SR:!2025-04-08,21,150-->
+
 
 ## 작용하다 #card
 ?begin
@@ -688,7 +688,7 @@
 - 연이 올라갈 때는 바람이 양력으로 작용한다
 	- When a kite flies, the wind provides lift.
 ?end
-<!--SR:!2025-04-01,12,150-->
+
 
 ## 그닥 #card
 ?begin
@@ -697,7 +697,7 @@
 ### 예
 -
 ?end
-<!--SR:!2025-04-09,22,170-->
+
 
 ## 의심하다 #card
 ?begin
@@ -715,7 +715,7 @@
 - 형님께서는 지금... 시원이 식구를 의심하시는 것 같다...
 	- To the boss now, it seems he is skeptical of sl won's family
 ?end
-<!--SR:!2025-04-01,14,150-->
+
 
 ## 명실상부 #card
 ?begin
@@ -724,7 +724,7 @@
 ### 예
 -
 ?end
-<!--SR:!2025-03-31,1,130-->
+
 
 ## 불행하다 #card
 ?begin
@@ -740,7 +740,7 @@
 - 그녀는 그런 불행한 일을 겪고도 태연하다
 	- Even after such an unhappy experience, she looks quite unconcerned.
 ?end
-<!--SR:!2025-04-15,20,150-->
+
 
 ## 수상하다 #card
 ?begin
@@ -754,7 +754,7 @@
 - 탐정은 수상한 그 사나이를 놓쳤다
 	- The detective lost track of the suspicious man.
 ?end
-<!--SR:!2025-04-15,30,154-->
+
 
 ## 낌새 #card
 ?begin
@@ -770,7 +770,7 @@
 - 나는 낌새를 알고 있었다
 	- I had an inkling of it.
 ?end
-<!--SR:!2025-04-23,36,155-->
+
 
 ## 들락날락 #card
 ?begin
@@ -781,7 +781,7 @@ go in and out frequently
 - 울타리 틈새로 고양이가 들락날락하고 있다
 	- Cats go in and out through the opening in the fence.
 ?end
-<!--SR:!2025-04-09,31,174-->
+
 
 ## 꺼내다 #card
 ?begin
@@ -792,7 +792,7 @@ go in and out frequently
 ### 예
 -
 ?end
-<!--SR:!2025-04-02,3,250-->
+
 
 ## 적임자 #card
 ?begin
@@ -803,7 +803,7 @@ go in and out frequently
 ### 예
 -
 ?end
-<!--SR:!2025-04-10,29,154-->
+
 
 ## 수면 #card
 ?begin
@@ -817,7 +817,7 @@ go in and out frequently
 - 이들은 수면에서 생활한다.
 	- They live at the surface of the water.
 ?end
-<!--SR:!2025-04-12,16,135-->
+
 
 ## 잔잔하다 #card
 ?begin
@@ -831,7 +831,7 @@ go in and out frequently
 - 잔잔한 수면에는 잔물결 하나 없었다
 	- Not a ripple disturbed the glassy surface of the water.
 ?end
-<!--SR:!2025-03-31,13,154-->
+
 
 ## 흔들리다 #card
 ?begin
@@ -845,7 +845,7 @@ go in and out frequently
 - 성균관대 교수들에 따르면 기계적 공명 때문이라고 건물이 흔들렸다고 한다.
 	- According to the professors, the building shook because of mechanical resonance.
 ?end
-<!--SR:!2025-04-14,19,162-->
+
 
 ## 비술 #card
 ?begin
@@ -854,7 +854,7 @@ go in and out frequently
 ### 예
 -
 ?end
-<!--SR:!2025-03-31,19,174-->
+
 
 ## 물결 #card
 ?begin
@@ -863,7 +863,7 @@ go in and out frequently
 ### 예
 -
 ?end
-<!--SR:!2025-04-02,15,155-->
+
 
 ## 헤엄하다 #card
 ?begin
@@ -873,7 +873,7 @@ go in and out frequently
 - 어린이를 풀에서 헤엄치게 하다
 	- let the children swim in the pool.
 ?end
-<!--SR:!2025-05-03,41,162-->
+
 
 ## 햇빛에 타다 #card
 ?begin
@@ -882,7 +882,7 @@ go in and out frequently
 ### 예
 -
 ?end
-<!--SR:!2025-05-25,74,235-->
+
 
 ## 승부 #card
 ?begin
@@ -898,7 +898,7 @@ go in and out frequently
 - 플레이오프 기간 동안 4팀이 승부를 겨룬다.
 	- Four teams are competing in the playoffs.
 ?end
-<!--SR:!2025-04-08,10,134-->
+
 
 ## 걸어오다/걸어가다 #card
 ?begin
@@ -907,7 +907,7 @@ go in and out frequently
 ### 예
 -
 ?end
-<!--SR:!2025-06-04,84,242-->
+
 
 ## 도감 #card
 ?begin
@@ -916,7 +916,7 @@ go in and out frequently
 ### 예
 -
 ?end
-<!--SR:!2025-04-05,21,170-->
+
 
 ## 기록하다 #card
 ?begin
@@ -928,7 +928,7 @@ go in and out frequently
 - 이 팀은 과거 2년간 무패를 기록했다
 	- The team has not suffered a single defeat for the last two years.
 ?end
-<!--SR:!2025-04-22,23,150-->
+
 
 ## 틀니 #card
 ?begin
@@ -937,7 +937,7 @@ go in and out frequently
 ### 예
 -
 ?end
-<!--SR:!2025-04-22,42,182-->
+
 
 ## 건네다 #card
 ?begin
@@ -957,7 +957,7 @@ go in and out frequently
 - 검찰에 따르면 모두 120명의 구직자들이 기아차에 입사하기 위해 뇌물을 건넨 것으로 밝혀졌다.
 	- A total of 120 employees were found to have paid bribes to gain work at the automaker's factory in Gwangju, 330 kilometers south of Seoul, according to the prosecution.
 ?end
-<!--SR:!2025-03-31,15,142-->
+
 
 ## 받은 틀니를 서둘러 꼈다 #card
 ?begin
@@ -966,7 +966,7 @@ go in and out frequently
 ### 예
 -
 ?end
-<!--SR:!2025-04-08,30,174-->
+
 
 ## 씹히다 #card
 ?begin
@@ -976,7 +976,7 @@ go in and out frequently
 ### 예
 -
 ?end
-<!--SR:!2025-05-01,47,182-->
+
 
 ## 부끄럽다 #card
 ?begin
@@ -988,7 +988,7 @@ go in and out frequently
 - 그녀는 질책을 받아도 부끄럽지도 않은 것 같고 사과하려고 하지도 않습니다.
 	- She never seems embarrassed about the reprimand, nor is she apologetic.
 ?end
-<!--SR:!2025-04-09,22,155-->
+
 
 ## 덤 #card
 ?begin
@@ -1002,7 +1002,7 @@ go in and out frequently
 - 덤으로 귤 2개를 드리겠습니다
 	- I'll throw these two oranges in extra./I'll give you two oranges into the bargain.
 ?end
-<!--SR:!2025-04-18,33,154-->
+
 
 ## 악물다 #card
 ?begin
@@ -1012,7 +1012,7 @@ go in and out frequently
 ### 예
 -
 ?end
-<!--SR:!2025-04-18,22,155-->
+
 
 ## 단번에 #card
 ?begin
@@ -1025,7 +1025,7 @@ go in and out frequently
 - 그 아이는 욕심을 부려 단번에 사탕 3개를 한입에 쑤셔 넣었다
 	- The child greedily crammed three candies into his mouth all at once.
 ?end
-<!--SR:!2025-04-13,19,182-->
+
 
 ## 밀어붙이다 #card
 ?begin
@@ -1035,7 +1035,7 @@ go in and out frequently
 - 여러모로, 우리의 이런 대담한 생각들은 가능성의 경계선을 밀어붙이는걸 돕습니다.
 	- In many ways, our audacity to imagine helps push the boundaries of possibility.
 ?end
-<!--SR:!2025-04-04,26,175-->
+
 
 ## 식료품 #card
 ?begin
@@ -1047,7 +1047,7 @@ go in and out frequently
 - 맥신이 식료품 구매 대행으로 일하는 동안 조나는 불안과 싸우고 있다.
 	- Maxine works as a personal grocery shopper, while Jonah struggles with anxiety.
 ?end
-<!--SR:!2025-04-08,23,162-->
+
 
 ## 잡화류 #card
 ?begin
@@ -1057,7 +1057,7 @@ go in and out frequently
 - 플라스틱 가방은 흔히 식료 잡화류와 다른 상품들을 담기 위해 사용된다.
 	- Plastic bags are commonly used to carry groceries and other products.
 ?end
-<!--SR:!2025-04-25,27,162-->
+
 
 ## 들키다 #card
 ?begin
@@ -1069,9 +1069,9 @@ go in and out frequently
 	- be caught in mischief
 - 들키면 나는 큰일이다
 	- If I am discovered, I am done for
-<!--SR:!2025-04-02,2,165-->
+
 ?end
-<!--SR:!2025-04-19,20,150-->
+
 
 ## 입장 #card
 ?begin
@@ -1088,7 +1088,7 @@ go in and out frequently
 - 괴로운 입장
 	- an awkward situation.
 ?end
-<!--SR:!2025-05-03,46,182-->
+
 
 ## 똘똘하다 #card
 ?begin
@@ -1102,7 +1102,7 @@ go in and out frequently
 - 그는 너무 똘똘해서 당할 수가 없다.
 	- He's too sharp for me.
 ?end
-<!--SR:!2025-04-15,28,162-->
+
 
 ## 잠입하다 #card
 ?begin
@@ -1114,7 +1114,7 @@ go in and out frequently
 - 그는 결사의 각오로 적지에 잠입하였다
 	- He smuggled himself into enemy territory, ready to die if necessary.
 ?end
-<!--SR:!2025-04-17,28,150-->
+
 
 ## 캐내다 #card
 ?begin
@@ -1126,7 +1126,7 @@ go in and out frequently
 - 나무 등걸을 캐내다
 	- dig up the stump of a tree.
 ?end
-<!--SR:!2025-04-09,17,150-->
+
 
 ## 나머지 #card
 ?begin
@@ -1144,7 +1144,7 @@ go in and out frequently
 - 그러나 나머지 한국 기업들은 인지도가 낮으며 규모도 매우 작다"고 이 연구원은 말했다.
 	- But the rest are pretty insufficient and very small in scale, said Lee.
 ?end
-<!--SR:!2025-04-24,44,182-->
+
 
 ## 짜내다 #card
 ?begin
@@ -1161,7 +1161,7 @@ go in and out frequently
 - 분명히 비행자제의 기간을 한 달로 제한함으로써 일본 정부가 항의의 효과를 최대화하는 반면 실제 마찰은 최소화 하기 위해 머리를 짜낸 것 같기는 하다. 그렇게 함으로써 한국정부가 정부 조달 협정 위반으로 이 문제를 세계 무역기구에 제소하기 어렵기 만들었는데 관련 액수가 기준치인 20만 달러에 미치지 못할 것 같기 때문이다.
 	- Admittedly, Tokyo seems to have racked its brains to maximize the protest's effect while minimizing actual friction, by limiting the period of flight restraint to one month. This makes it hard for Seoul to bring it to the World Trade Organization for violating of government procurement accord, as the sum involved is unlikely to reach the criterion of $200,000.
 ?end
-<!--SR:!2025-03-31,12,142-->
+
 
 ## 소지품 #card
 ?begin
@@ -1171,7 +1171,7 @@ go in and out frequently
 - 소지품 전부에 자기 이름을 붙이다
 	- put one's name on all one's belongings.
 ?end
-<!--SR:!2025-04-06,21,170-->
+
 
 ## 결국 #card
 ?begin
@@ -1185,7 +1185,7 @@ go in and out frequently
 - 하지만, 결국 관계는 자존심보다 더 중요하게 여겨져야 합니다.
 	- But, in the end, the relationship should be more important than one’s own pride
 ?end
-<!--SR:!2025-04-19,23,150-->
+
 
 ## 둔하다 #card
 ?begin
@@ -1199,7 +1199,7 @@ go in and out frequently
 - 너 참 둔하구나
 	- You are so oblivious.
 ?end
-<!--SR:!2025-04-19,23,150-->
+
 
 ## 소개팅 #card
 ?begin
@@ -1208,7 +1208,7 @@ go in and out frequently
 ### 예
 -
 ?end
-<!--SR:!2025-04-23,42,182-->
+
 
 ## 코디 #card
 ?begin
@@ -1217,7 +1217,7 @@ go in and out frequently
 ### 예
 -
 ?end
-<!--SR:!2025-04-24,46,182-->
+
 
 ## 뺨 #card
 ?begin
@@ -1227,7 +1227,7 @@ go in and out frequently
 ### 예
 -
 ?end
-<!--SR:!2025-04-08,38,182-->
+
 
 ## 흉터 #card
 ?begin
@@ -1236,7 +1236,7 @@ go in and out frequently
 ### 예
 -
 ?end
-<!--SR:!2025-04-13,15,142-->
+
 
 ## 습격하다 #card
 ?begin
@@ -1249,7 +1249,7 @@ go in and out frequently
 - 적진을 습격하여 탈취했다
 	- The enemy camp was taken in a surprise attack.
 ?end
-<!--SR:!2025-04-01,3,130-->
+
 
 ## 별개 #card
 ?begin
@@ -1267,7 +1267,7 @@ go in and out frequently
 - 그리고 그와는 별개로, 저는 작곡과 단편을 썼습니다.
 	- And aside from that, I wrote music and short stories.
 ?end
-<!--SR:!2025-04-06,8,150-->
+
 
 ## 소행 #card
 ?begin
@@ -1283,7 +1283,7 @@ go in and out frequently
 - 경찰관은 평소에도 소행을 조심하지 않으면 안 된다
 	- Police officers should always be careful of[watch] their own conduct.
 ?end
-<!--SR:!2025-03-31,1,230-->
+
 
 ## 따지다 #card
 ?begin
@@ -1300,7 +1300,7 @@ go in and out frequently
 - 책임 소재를 따지지 않더라도, 여전히 국가 차원의 문제이며 한쪽은 다른 쪽보다 이 문제를 더 심각하게 생각하고 있습니다.
 	- But even if you blame nobody, it still is a national problem, and one side has been more concerned about it than the other.
 ?end
-<!--SR:!2025-04-12,19,150-->
+
 
 ## 전국 #card
 ?begin
@@ -1309,7 +1309,7 @@ go in and out frequently
 ### 예
 -
 ?end
-<!--SR:!2025-04-20,40,182-->
+
 
 ## 뒤지다 #card
 ?begin
@@ -1331,7 +1331,7 @@ go in and out frequently
 - 한국은 첨단 기술 분야에서 외국에 뒤져 있지 않다
 	- In the field of modern technology, Korea is not behind other countries.
 ?end
-<!--SR:!2025-04-22,35,162-->
+
 
 ## 의논하다 #card
 ?begin
@@ -1344,7 +1344,7 @@ go in and out frequently
 - 변호사와 의논하다
 	- consult a lawyer.
 ?end
-<!--SR:!2025-04-18,19,150-->
+
 
 ## 꿇리다 #card
 ?begin
@@ -1354,7 +1354,7 @@ go in and out frequently
 ### 예
 -
 ?end
-<!--SR:!2025-04-04,15,150-->
+
 
 ## 단체 #card
 ?begin
@@ -1368,7 +1368,7 @@ go in and out frequently
 - 정치적 색채를 띤 단체
 	- a politically-colored group.
 ?end
-<!--SR:!2025-03-31,20,150-->
+
 
 ## 웅성거리다 #card
 ?begin
@@ -1382,7 +1382,7 @@ go in and out frequently
 - 웅성거리는 대화 소리.
 	- a buzz of conversation
 ?end
-<!--SR:!2025-04-01,5,150-->
+
 
 ## 갈아입다 #card
 ?begin
@@ -1391,7 +1391,7 @@ go in and out frequently
 ### 예
 -
 ?end
-<!--SR:!2025-05-05,39,162-->
+
 
 ## 간신히 #card
 ?begin
@@ -1401,7 +1401,7 @@ go in and out frequently
 ### 예
 -
 ?end
-<!--SR:!2025-04-03,12,150-->
+
 
 ## 겁먹다 #card
 ?begin
@@ -1417,7 +1417,7 @@ go in and out frequently
 - 사실, 완전히 겁먹었죠. 저는 저체온증에 걸린 것 같았고 제 친구들은 결국 저를 물밖으로 꺼내야만 했습니다.
   - Actually, I was totally freaking out and I was borderline hypothermic, and my friends eventually had to help me out of the water.
 ?end
-<!--SR:!2025-04-24,25,162-->
+
 
 ## 박히다 #card
 ?begin
@@ -1427,7 +1427,7 @@ go in and out frequently
 ### 예
 -
 ?end
-<!--SR:!2025-04-20,22,150-->
+
 
 ## 굳은살 #card
 ?begin
@@ -1437,7 +1437,7 @@ go in and out frequently
 ### 예
 -
 ?end
-<!--SR:!2025-04-06,14,167-->
+
 
 ## 용서하다 #card
 ?begin
@@ -1449,7 +1449,7 @@ go in and out frequently
 - 결코 나는 그를 용서할 수 없다
 	- I cannot forgive him on any account.
 ?end
-<!--SR:!2025-04-05,18,182-->
+
 
 ## 정직하다 #card
 ?begin
@@ -1463,7 +1463,7 @@ go in and out frequently
 	- This is a good example of a case in which honesty doesn't pay.
 -
 ?end
-<!--SR:!2025-04-04,10,130-->
+
 
 ## 일부러 #card
 ?begin
@@ -1475,7 +1475,7 @@ go in and out frequently
 - 일부러 정보를 주지 않는 것이 관객들이 몰입하게 합니다.
 	- You know, doing that intentionally is much more engaging.
 ?end
-<!--SR:!2025-03-31,11,132-->
+
 
 ## 당직 #card
 ?begin
@@ -1490,7 +1490,7 @@ go in and out frequently
 - 어젯밤에 당직했다
 	- I was on duty[watch] last night.
 ?end
-<!--SR:!2025-04-02,7,170-->
+
 
 ## 변호하다 #card
 ?begin
@@ -1500,7 +1500,7 @@ go in and out frequently
 ### 예
 -
 ?end
-<!--SR:!2025-04-10,12,150-->
+
 
 ## 물리다 #card
 ?begin
@@ -1526,7 +1526,7 @@ go in and out frequently
 - 하루하루 물리다
 	- put off from day to day.
 ?end
-<!--SR:!2025-04-01,2,150-->
+
 
 ## 미치다 #card
 ?begin
@@ -1539,7 +1539,7 @@ go in and out frequently
 ### 예
 -
 ?end
-<!--SR:!2025-04-03,22,204-->
+
 
 ## 별명 #card
 ?begin
@@ -1548,7 +1548,7 @@ go in and out frequently
 ### 예
 -
 ?end
-<!--SR:!2025-04-01,8,150-->
+
 
 ## 우리가 마지막으로 직접 만난 지 오래되었다 #card
 ?begin
@@ -1557,7 +1557,7 @@ go in and out frequently
 ### 예
 -
 ?end
-<!--SR:!2025-04-02,21,184-->
+
 
 ## 제가 책임지겠습니다 #card
 ?begin
@@ -1566,7 +1566,7 @@ go in and out frequently
 ### 예
 -
 ?end
-<!--SR:!2025-04-24,26,164-->
+
 
 ## 정중하다 #card
 ?begin
@@ -1576,7 +1576,7 @@ go in and out frequently
 ### 예
 - 그니까 좀 정중해져 보세요
 ?end
-<!--SR:!2025-04-01,5,150-->
+
 
 ## 존경 #card
 ?begin
@@ -1586,7 +1586,7 @@ go in and out frequently
 ### 예
 -
 ?end
-<!--SR:!2025-04-01,5,150-->
+
 
 ## 존경심 #card
 ?begin
@@ -1596,7 +1596,7 @@ go in and out frequently
 - 조금이라도 존경심을 보일 순 없어?
 	- Could you show some respect?
 ?end
-<!--SR:!2025-04-07,12,150-->
+
 
 ## 두리번거리다 #card
 ?begin
@@ -1606,7 +1606,7 @@ go in and out frequently
 - 그녀는 격렬하게 몸을 떨기 시작했다. 그녀의 시선은 방 안을 이리저리 두리번거렸다.
 	- The woman began to tremble violently, and her eyes roamed distractedly about the room.
 ?end
-<!--SR:!2025-04-02,9,150-->
+
 
 ## 돌려주다 #card
 ?begin
@@ -1622,7 +1622,7 @@ go in and out frequently
 - 우리는 받은 것을 돌려주어야 한다.
 	- We should give back what we have received.
 ?end
-<!--SR:!2025-04-15,20,164-->
+
 
 ## 거절하다 #card
 ?begin
@@ -1637,7 +1637,7 @@ go in and out frequently
 - 차제에 깨끗이 거절하지 않으면 안 된다
 	- You must give a flat refusal right now.
 ?end
-<!--SR:!2025-03-31,15,164-->
+
 
 ## 탐정 #card
 ?begin
@@ -1647,7 +1647,7 @@ go in and out frequently
 ### 예
 -
 ?end
-<!--SR:!2025-04-04,5,150-->
+
 
 ## 독서 #card
 ?begin
@@ -1656,7 +1656,7 @@ go in and out frequently
 ### 예
 -
 ?end
-<!--SR:!2025-04-03,10,144-->
+
 
 ## 사나이 #card
 ?begin
@@ -1665,7 +1665,7 @@ go in and out frequently
 ### 예
 -
 ?end
-<!--SR:!2025-04-10,18,164-->
+
 
 ## 적어도 #card
 ?begin
@@ -1675,7 +1675,7 @@ go in and out frequently
 - 적어도 하루 두 번
 	- at least twice a day
 ?end
-<!--SR:!2025-04-03,14,184-->
+
 
 ## 기껏해야 #card
 ?begin
@@ -1685,7 +1685,7 @@ go in and out frequently
 - 기껏해야 하루에 한 번
 	- at most once a day
 ?end
-<!--SR:!2025-04-14,15,150-->
+
 
 ## 시도하다 #card
 ?begin
@@ -1699,7 +1699,7 @@ go in and out frequently
 - 처음에 실패해도 또 다시 시도해보아라
 	- If at first you don't succeed, (try,) try again.
 ?end
-<!--SR:!2025-04-12,20,164-->
+
 
 ## 기도하다 #card
 ?begin
@@ -1715,7 +1715,7 @@ go in and out frequently
 - 젊은 장교들이 쿠데타를 기도했다
 	- Young officers tried to carry out a coup d'état.
 ?end
-<!--SR:!2025-04-26,27,164-->
+
 
 ## 주도 #card
 ?begin
@@ -1732,7 +1732,7 @@ go in and out frequently
 - 맞는 말이다. 그런데 지금 문제를 주도적으로 푸는 사람이 누가 있는가?
 	- He is right. But who is stepping forward and initiate resolution?
 ?end
-<!--SR:!2025-03-31,1,130-->
+
 
 ## 돋보이다 #card
 ?begin
@@ -1756,7 +1756,7 @@ go in and out frequently
 - 일요일, 옛 교복을 입고 뛰는 주부가 학창시절로 돌아간 듯 해맑은 표정을 짓고 있다.
 	- Housewives look innocent and happy Sunday as they run clad in school uniforms from the past, as if returning to their school days.
 ?end
-<!--SR:!2025-03-31,1,130-->
+
 
 ## 장단은 맞춰야지 #card
 ?begin
@@ -1766,7 +1766,7 @@ go in and out frequently
 - 장단을 맞추다
 	- beat a rhythm
 ?end
-<!--SR:!2025-03-31,1,130-->
+
 
 ## 어색하다 #card
 ?begin
@@ -1779,7 +1779,7 @@ go in and out frequently
 - 사람들간의 상호작용 없이는 사람들은 사회성을 개발할 수 없으며 이는 현실에서 사회적 어색함을 느끼게 할 수 있습니다.
 	- Without human interaction, people are unable to develop social skills, which can result in social awkwardness in real life situations
 ?end
-<!--SR:!2025-04-02,3,250-->
+
 
 ## 위협 #card
 ?begin
@@ -1797,7 +1797,7 @@ go in and out frequently
 ### 예
 -
 ?end
-<!--SR:!2025-04-01,5,150-->
+
 
 ## 뺏어가다 #card
 ?begin
@@ -1809,7 +1809,7 @@ go in and out frequently
 - 그들은 저의 영혼과 인간성을 뺏어갈 수도 있었을 겁니다.
   - They would have taken my soul and my humanity
 ?end
-<!--SR:!2025-04-01,5,150-->
+
 
 ## 과외 #card
 ?begin
@@ -1818,7 +1818,7 @@ go in and out frequently
 ### 예
 -
 ?end
-<!--SR:!2025-04-02,7,170-->
+
 
 ## 왠지 실감 안나는데 #card
 ?begin
@@ -1827,7 +1827,7 @@ go in and out frequently
 ### 예
 -
 ?end
-<!--SR:!2025-03-31,1,130-->
+
 
 ## 저번 #card
 ?begin
@@ -1837,7 +1837,7 @@ go in and out frequently
 ### 예
 -
 ?end
-<!--SR:!2025-03-31,1,142-->
+
 
 ## 방망 #card
 ?begin
@@ -1846,7 +1846,7 @@ go in and out frequently
 ### 예
 -
 ?end
-<!--SR:!2025-04-09,10,170-->
+
 
 ## 오바하다 #card
 ?begin
@@ -1855,7 +1855,7 @@ go in and out frequently
 ### 예
 -
 ?end
-<!--SR:!2025-03-31,1,143-->
+
 
 ## 챙기다 #card
 ?begin
@@ -1880,7 +1880,7 @@ go in and out frequently
 ### Notes
 - differs from 가지다 in that this has more emphasis on bring/taking something well/securely
 ?end
-<!--SR:!2025-03-31,5,150-->
+
 
 ## 긴장 #card
 ?begin
@@ -1891,7 +1891,7 @@ go in and out frequently
 ### 예
 -
 ?end
-<!--SR:!2025-04-14,16,167-->
+
 
 ## 함정 #card
 ?begin
@@ -1900,7 +1900,7 @@ go in and out frequently
 ### 예
 -
 ?end
-<!--SR:!2025-04-02,3,250-->
+
 
 ## 아지트 #card
 ?begin
@@ -1910,7 +1910,7 @@ go in and out frequently
 ### 예
 -
 ?end
-<!--SR:!2025-04-04,5,167-->
+
 
 ## 자욱하다 #card
 ?begin
@@ -1923,7 +1923,7 @@ go in and out frequently
 - 방에는 연기가 자욱했다
 	- The room was filled with smoke.
 ?end
-<!--SR:!2025-04-01,3,150-->
+
 
 ## 산더미 #card
 ?begin
@@ -1934,7 +1934,7 @@ go in and out frequently
 ### 예
 -
 ?end
-<!--SR:!2025-04-06,8,167-->
+
 
 ## 소굴 #card
 ?begin
@@ -1944,7 +1944,7 @@ go in and out frequently
 ### 예
 -
 ?end
-<!--SR:!2025-03-31,1,130-->
+
 
 ## 옥상 #card
 ?begin
@@ -1953,7 +1953,7 @@ go in and out frequently
 ### 예
 -
 ?end
-<!--SR:!2025-04-02,3,250-->
+
 
 ## 선선하다 #card
 ?begin
@@ -1964,7 +1964,7 @@ go in and out frequently
 ### 예
 -
 ?end
-<!--SR:!2025-04-01,5,150-->
+
 
 ## 대단하다 #card
 ?begin
@@ -1975,7 +1975,7 @@ go in and out frequently
 ### 예
 -
 ?end
-<!--SR:!2025-03-31,1,130-->
+
 
 ## 인연 #card
 ?begin
@@ -1990,7 +1990,7 @@ go in and out frequently
 - 하지만, 두 사람은 예상치 못한 인연을 맺게 된다.
   - But, the two develop an unexpected connection with each other.
 ?end
-<!--SR:!2025-04-01,2,150-->
+
 
 ## 또래들 #card
 ?begin
@@ -1999,7 +1999,7 @@ go in and out frequently
 ### 예
 -
 ?end
-<!--SR:!2025-04-01,5,150-->
+
 
 ## 속이다 #card
 ?begin
@@ -2012,7 +2012,7 @@ go in and out frequently
 - 사람들은 밤늦게까지 휴대전화를 사용할 뿐만 아니라 휴대전화의 불빛이 우리의 뇌를 속여 아직 낮이라고 착각하게 만듭니다.
   - Not only do people use their cell phones late into the night, but the light from your phone tricks your brain into thinking it’s still daytime.
 ?end
-<!--SR:!2025-03-31,2,150-->
+
 
 ## 모쏘 #card
 ?begin
@@ -2021,7 +2021,7 @@ go in and out frequently
 ### 예
 -
 ?end
-<!--SR:!2025-03-31,1,130-->
+
 
 ## 본론 #card
 ?begin
@@ -2031,7 +2031,7 @@ go in and out frequently
 - 본론으로 들어가볼까?
 	- shall we cut to the chase
 ?end
-<!--SR:!2025-04-04,5,150-->
+
 
 ## 부수다 #card
 ?begin
@@ -2046,7 +2046,7 @@ go in and out frequently
 - 김태희의 배역은 부수어야 하고 아무것도 그녀를 막을 수 없는 역할이다.
 	- Kim's character is on a mission to destroy, and nothing can stop her.
 ?end
-<!--SR:!2025-04-04,5,150-->
+
 
 ## 연합하다 #card
 ?begin
@@ -2055,7 +2055,7 @@ go in and out frequently
 ### 예
 -
 ?end
-<!--SR:!2025-04-09,10,147-->
+
 
 ## 정신이 확 드네 #card
 ?begin
@@ -2064,7 +2064,7 @@ go in and out frequently
 ### 예
 -
 ?end
-<!--SR:!2025-04-03,5,150-->
+
 
 ## 목적 #card
 ?begin
@@ -2080,7 +2080,7 @@ go in and out frequently
 - 기본적인 목적은 금융기관을 이해하기 쉽고, 편리하고, 믿을 수 있는 곳으로 만들자는 것이다.
   - The basic goal is to make financial institutions approachable, convenient and trustworthy.
 ?end
-<!--SR:!2025-03-31,1,130-->
+
 
 ## 고백하다 #card
 ?begin
@@ -2100,7 +2100,7 @@ go in and out frequently
 ### 예
 -
 ?end
-<!--SR:!2025-04-02,3,250-->
+
 
 ## 중 일부 #card
 ?begin
@@ -2115,7 +2115,7 @@ go in and out frequently
 - 그러한 체험을 가진 사람은 전 인구 중 일부에 국한되어 있다
 	- Only a few in the whole population have had such experiences.
 ?end
-<!--SR:!2025-03-31,1,141-->
+
 
 ## 쪽수가 한참 모자라 #card
 ?begin
@@ -2125,7 +2125,7 @@ go in and out frequently
 ### 예
 -
 ?end
-<!--SR:!2025-03-31,1,130-->
+
 
 ## 박살 #card
 ?begin
@@ -2141,7 +2141,7 @@ go in and out frequently
 - 박살나다
 	- smash to pieces
 ?end
-<!--SR:!2025-03-31,1,130-->
+
 
 ## 내키다 #card
 ?begin
@@ -2159,7 +2159,7 @@ go in and out frequently
 - 그를 방문할 마음이 내키지 않는다
 	- I am reluctant to go and see him.
 ?end
-<!--SR:!2025-04-01,9,250-->
+
 
 ## 망하다 #card
 ?begin
@@ -2175,7 +2175,7 @@ go in and out frequently
 - 자영업자가 망하면 정책적인 보호도 거의 받을 수 없는 게 현실이다.
 	- Small business owners can receive no government protection if they go bankrupt.
 ?end
-<!--SR:!2025-03-31,1,130-->
+
 
 ## 조지다 #card
 ?begin
@@ -2187,7 +2187,7 @@ go in and out frequently
 	- screw[make/fix] a joint tight
 - https://dic.daum.net/word/view.do?wordid=kew000065447&supid=keu000429070
 ?end
-<!--SR:!2025-04-02,3,250-->
+
 
 ## 안면을 트다 #card
 ?begin
@@ -2196,7 +2196,7 @@ go in and out frequently
 ### 예
 -
 ?end
-<!--SR:!2025-04-01,3,162-->
+
 
 ## 인원 #card
 ?begin
@@ -2205,7 +2205,7 @@ go in and out frequently
 ### 예
 -
 ?end
-<!--SR:!2025-03-31,2,130-->
+
 
 ## 세우다 #card
 ?begin
@@ -2219,7 +2219,7 @@ go in and out frequently
 - 이제 와서 계획을 세워 봐야 사또떠난 뒤에 나팔 부는 격이다
 	- It is too late to work out a plan now.
 ?end
-<!--SR:!2025-04-08,10,182-->
+
 
 ## 본능(적) #card
 ?begin
@@ -2231,7 +2231,7 @@ go in and out frequently
 - 모성 본능
 	- a maternal instinct
 ?end
-<!--SR:!2025-04-02,3,150-->
+
 
 
 ## 외출하다 #card
@@ -2244,7 +2244,7 @@ go in and out frequently
 - 그는 폭풍을 무릅쓰고 외출했다
 	- He went out in spite of[braving] the storm.
 ?end
-<!--SR:!2025-04-01,2,150-->
+
 
 ## 이끌다 #card
 ?begin
@@ -2260,7 +2260,7 @@ go in and out frequently
 - 그것이 이 모든 일을 이끌어낸 원동력으로 보입니다.
 	- It seems to me that's the fuel that's driven a lot of this.
 ?end
-<!--SR:!2025-04-04,5,163-->
+
 
 ## 사주다 #card
 ?begin

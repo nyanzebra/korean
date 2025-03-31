@@ -4,7 +4,7 @@
 birds of a feather
 ### 예
 ?end
-<!--SR:!2025-05-01,209,330-->
+
 
 ## 시작이 반이예요 #card
 ?begin
@@ -15,7 +15,7 @@ birds of a feather
 - 가장 힘든부분이 시작하는거예요
 - 막상 시작하면 그렇게 어럽지 않아요
 ?end
-<!--SR:!2025-09-30,202,280-->
+
 
 ## 남아 선호 사상 #card
 ?begin
@@ -28,7 +28,7 @@ birds of a feather
 - 오늘날, 많은 부모들이 딸을 선호해요
 - 나이든 세대들은 아직까지 손자를 더 선호해요
 ?end
-<!--SR:!2025-07-26,159,278-->
+
 
 
 ## 지피 지기 백전 백승 #card
@@ -39,7 +39,7 @@ birds of a feather
 - 당신의 식습관을 제대로 알면 다이어트는 백건백승이에요
 	- if you know your eating habits then you will master  your diet
 ?end
-<!--SR:!2025-04-21,93,280-->
+
 
 ## 사과가 나무에서 멀리 떨어지지 않아요 / 아들이랑 아버지랑 행동이 똑같아요 #card
 ?begin
@@ -50,5 +50,5 @@ birds of a feather
 - 당신은 아버지와 판박이에요
 - 당신은 어머니와 붕어빵이에요
 ?end
-<!--SR:!2025-08-04,148,260-->
+
 

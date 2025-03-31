@@ -16,7 +16,7 @@
 - 그러나 해외 구직에 성공한 사람은 불과 542명으로 해외 구인 수요의 불과 20%를 약간 상회하는 수준에 그쳤다.
 	- However, only 542 of them turned out to be successful in landing a job, covering barely over 20 percent of the whole job openings.
 ?end
-<!--SR:!2025-07-25,150,230-->
+
 
 ## 마치다 #card
 ?begin
@@ -33,7 +33,7 @@
 - 그는 고등학교를 마치자 바로 대학에 들어갔다
 	- He entered college directly after finishing high school.
 ?end
-<!--SR:!2025-04-01,58,208-->
+
 
 ## 멈추다 #card
 ?begin
@@ -49,7 +49,7 @@
 - 그리고 뭐, 고통 또한 사랑스럽죠. 왜냐면 고통이 잠시동안 멈추면 그렇게 좋을 수가 없거든요.
 	- We like our suffering because it's so good when it ceases for a while
 ?end
-<!--SR:!2025-04-14,76,248-->
+
 
 ## 그만하다 #card
 ?begin
@@ -64,4 +64,3 @@
 - 회사를 그만하다
 	- quit a job
 ?end
-<!--SR:!2025-04-01,5,244-->

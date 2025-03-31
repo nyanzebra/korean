@@ -21,4 +21,3 @@
 	- → If you say ‘한국에 온 지 한 달밖에 됐어요’.(X) This is wrong.
 ### Notes
 ?end
-<!--SR:!2025-06-08,145,230-->

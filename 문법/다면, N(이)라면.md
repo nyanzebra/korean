@@ -25,4 +25,4 @@ For more examples with -다면 and 라면,
 5) 너에게 **갈 수 있다면**… If I could come to you…
 ### Notes
 ?end
-<!--SR:!2025-08-19,170,270-->
+
