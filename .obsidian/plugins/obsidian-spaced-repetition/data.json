@@ -16,9 +16,9 @@
     ],
     "singleLineCardSeparator": ";;",
     "singleLineReversedCardSeparator": ";;;",
-    "multilineCardSeparator": "?",
+    "multilineCardSeparator": "?begin",
     "multilineReversedCardSeparator": "??",
-    "multilineCardEndMarker": "!",
+    "multilineCardEndMarker": "?end",
     "editLaterTag": "#edit-later",
     "enableNoteReviewPaneOnStartup": true,
     "tagsToReview": [
