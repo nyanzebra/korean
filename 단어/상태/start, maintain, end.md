@@ -1,5 +1,5 @@
 ## 그치다 #card
-?
+?begin
 ### 뜻
 - stop or end permanently
 - end up
@@ -18,7 +18,7 @@
 <!--SR:!2025-07-25,150,230-->
 
 ## 마치다 #card
-?
+?begin
 ### 뜻
 - get through
 - finish
@@ -34,7 +34,7 @@
 <!--SR:!2025-04-01,58,208-->
 
 ## 멈추다 #card
-?
+?begin
 ### 뜻
 - stop
 - cease
@@ -49,7 +49,7 @@
 <!--SR:!2025-04-14,76,248-->
 
 ## 그만하다 #card
-?
+?begin
 ### 뜻
 - stop
 - cease

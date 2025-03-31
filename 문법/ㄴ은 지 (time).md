@@ -1,5 +1,5 @@
 ## ㄴ/은 지 #card
-?
+?begin
 ### Usage
 - As one expression it is used to indicate that a certain time has passed since a certain act mentioned in the preceding statement is done.
 ### Form

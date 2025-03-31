@@ -1,12 +1,12 @@
 ## 친구따라 강남간다 #card
-?
+?begin
 ### 뜻
 birds of a feather
 ### 예
 <!--SR:!2025-05-01,209,330-->
 
 ## 시작이 반이예요 #card
-?
+?begin
 ### 뜻
 - starting is half finishing
 ### 예
@@ -16,7 +16,7 @@ birds of a feather
 <!--SR:!2025-09-30,202,280-->
 
 ## 남아 선호 사상 #card
-?
+?begin
 ### 뜻
 - prefer a son
 ### 예
@@ -29,7 +29,7 @@ birds of a feather
 
 
 ## 지피 지기 백전 백승 #card
-?
+?begin
 ### 뜻
 - know other, myself, 100 battle, 100 wins
 ### 예
@@ -38,7 +38,7 @@ birds of a feather
 <!--SR:!2025-04-21,93,280-->
 
 ## 사과가 나무에서 멀리 떨어지지 않아요 / 아들이랑 아버지랑 행동이 똑같아요 #card
-?
+?begin
 ### 뜻
 - apple doesn't fall far from tree
 ### similar

@@ -1,5 +1,5 @@
 ## 주관적 #card
-?
+?begin
 ### 뜻
 - subjective
 ### 예
@@ -7,7 +7,7 @@
 <!--SR:!2025-05-16,65,190-->
 
 ## 객관적 #card
-?
+?begin
 ### 뜻
 - objective
 ### 예
@@ -15,7 +15,7 @@
 <!--SR:!2025-04-21,36,177-->
 
 ## 뿌듯하다 #card
-?
+?begin
 ### 뜻
 - tight
 - close
@@ -30,7 +30,7 @@
 <!--SR:!2025-04-04,15,150-->
 
 ## 매기다 #card
-?
+?begin
 ### 뜻
 - decide, different from (결)정하다 in that it is only for rankings
 - set
@@ -47,7 +47,7 @@
 <!--SR:!2025-04-21,34,168-->
 
 ## 그럭저럭 #card
-?
+?begin
 ### 뜻
 - so so
 ### 예
@@ -56,7 +56,7 @@
 <!--SR:!2025-04-27,48,150-->
 
 ## 불문하다 #card
-?
+?begin
 ### 뜻
 - do not ask
 - take no notice of
@@ -69,7 +69,7 @@
 
 
 ## 그나저나 #card
-?
+?begin
 ### 뜻
 - by the way
 ### 예
@@ -82,7 +82,7 @@
 <!--SR:!2025-04-05,10,132-->
 
 ## 무사하다 #card
-?
+?begin
 ### 뜻
 - safe
 - secure
@@ -102,7 +102,7 @@
 <!--SR:!2025-04-28,55,232-->
 
 ## 엉망 #card
-?
+?begin
 ### 뜻
 - mess
 - wreck
@@ -118,7 +118,7 @@
 <!--SR:!2025-04-05,158,292-->
 
 ## 차리다 #card
-?
+?begin
 ### 뜻
 - set
 - start
@@ -141,7 +141,7 @@
 <!--SR:!2025-04-04,111,228-->
 
 ## 억누르다 #card
-?
+?begin
 ### 뜻
 - suppress
 - stifle
@@ -158,7 +158,7 @@
 <!--SR:!2025-04-02,17,130-->
 
 ## 불길하다 #card
-?
+?begin
 ### 뜻
 - unlucky
 - ominous
@@ -170,7 +170,7 @@
 <!--SR:!2025-05-07,44,150-->
 
 ## 후계하다 #card
-?
+?begin
 ### 뜻
 - succeed (succession)
 ### 예
@@ -182,7 +182,7 @@
 
 
 ## 동반자 #card
-?
+?begin
 ### 뜻
 - partner
 - companion
@@ -194,7 +194,7 @@
 <!--SR:!2025-08-07,159,208-->
 
 ## 마찬가지 #card
-?
+?begin
 ### 뜻
 - same
 - likewise
@@ -208,7 +208,7 @@
 <!--SR:!2025-04-22,35,218-->
 
 ## 위기 #card
-?
+?begin
 ### 뜻
 - crisis
 - danger
@@ -228,7 +228,7 @@
 <!--SR:!2025-03-31,37,215-->
 
 ## 기회 #card
-?
+?begin
 ### 뜻
 - opportunity
 - chance
@@ -247,7 +247,7 @@
 <!--SR:!2025-06-18,115,255-->
 
 ## 전부 #card
-?
+?begin
 ### 뜻
 - everything
 - all
@@ -264,7 +264,7 @@
 <!--SR:!2025-05-11,46,215-->
 
 ## 인기를 끌다 #card
-?
+?begin
 ### 뜻
 - gain popularity (attract popularity)
 ### 예
@@ -272,7 +272,7 @@
 <!--SR:!2025-07-01,105,215-->
 
 ## 부딪치다 #card
-?
+?begin
 ### 뜻
 - hit
 - bump
@@ -291,7 +291,7 @@
 <!--SR:!2025-04-11,60,215-->
 
 ## 부러지다 #card
-?
+?begin
 ### 뜻
 - break
 - fracture
@@ -308,7 +308,7 @@
 
 
 ## 쏙/꼭 빼닮다 #card
-?
+?begin
 ### 뜻
 - completely resembles
 - spitting image
@@ -321,7 +321,7 @@
 
 
 ## 기강 #card
-?
+?begin
 ### 뜻
 - discipline
 ### 예
@@ -334,7 +334,7 @@
 <!--SR:!2025-03-31,9,150-->
 
 ## 해이하다 #card
-?
+?begin
 ### 뜻
 - relax
 - slacken up
@@ -346,7 +346,7 @@
 <!--SR:!2025-04-29,30,154-->
 
 ## 편안하다 #card
-?
+?begin
 ### 뜻
 - physically or emotionally comfortable
 ### 예
@@ -354,7 +354,7 @@
 <!--SR:!2025-03-31,5,130-->
 
 ## 여전하다 #card
-?
+?begin
 ### 뜻
 - remain unchanged
 - be as usual
@@ -367,7 +367,7 @@
 <!--SR:!2025-03-31,4,135-->
 
 ## 상장 #card
-?
+?begin
 ### 뜻
 - list (as a company?)
 - public (as a company?)
@@ -383,7 +383,7 @@
 <!--SR:!2025-04-04,5,150-->
 
 ## 태우다 #card
-?
+?begin
 ### 뜻
 - burn, scorch
 - carry
@@ -398,7 +398,7 @@
 <!--SR:!2025-04-06,34,175-->
 
 ## 포옹 #card
-?
+?begin
 ### 뜻
 - hug
 - embracement
@@ -409,7 +409,7 @@
 <!--SR:!2025-04-30,43,174-->
 
 ## 잘못 크는줄 알았다 #card
-?
+?begin
 ### 뜻
 - I thought you were growing up wrong
 ### 예
@@ -417,7 +417,7 @@
 <!--SR:!2025-04-13,32,174-->
 
 ## 효자 #card
-?
+?begin
 ### 뜻
 - dutiful son
 ### 예
@@ -426,7 +426,7 @@
 <!--SR:!2025-04-28,41,195-->
 
 ## 효도하다 #card
-?
+?begin
 ### 뜻
 - filial piety
 ### 예
@@ -435,7 +435,7 @@
 
 
 ## 불효 #card
-?
+?begin
 ### 뜻
 - want of filial piety
 - unfilial behavior
@@ -447,7 +447,7 @@
 
 
 ## 반항 #card
-?
+?begin
 ### 뜻
 - rebellious
 - rebel
@@ -462,7 +462,7 @@
 <!--SR:!2025-04-14,21,150-->
 
 ## 선행 #card
-?
+?begin
 ### 뜻
 - precede (하다)
 - advance (하다)
@@ -479,7 +479,7 @@
 <!--SR:!2025-04-07,8,130-->
 
 ## 기대하다 #card
-?
+?begin
 ### 뜻
 - expect
 - anticipate
@@ -491,7 +491,7 @@
 <!--SR:!2025-04-30,31,174-->
 
 ## 부자간 #card
-?
+?begin
 ### 뜻
 - father-son chat?
 ### 예
@@ -501,7 +501,7 @@
 
 
 ## 투기장 #card
-?
+?begin
 ### 뜻
 - arena
 ### 예
@@ -509,7 +509,7 @@
 <!--SR:!2025-04-05,12,135-->
 
 ## 호적까지 싹 다 긁어오고 미행도 몇 붙여봐라 #card
-?
+?begin
 ### 뜻
 - Why don't you swipe the family register and put a few tails on him?
 ### 예
@@ -517,7 +517,7 @@
 <!--SR:!2025-04-07,37,175-->
 
 ## 군말하다 #card
-?
+?begin
 ### 뜻
 - say unnecessary things
 ### 예
@@ -526,7 +526,7 @@
 <!--SR:!2025-04-03,7,130-->
 
 ## 애초 #card
-?
+?begin
 ### 뜻
 - from the beginning
 - from the outset
@@ -536,7 +536,7 @@
 <!--SR:!2025-06-06,72,195-->
 
 ## 보살피다 #card
-?
+?begin
 ### 뜻
 - oversee
 - look after
@@ -547,7 +547,7 @@
 <!--SR:!2025-04-01,14,155-->
 
 ## 정상 #card
-?
+?begin
 ### 뜻
 - normalcy
 - normality
@@ -557,7 +557,7 @@
 <!--SR:!2025-04-09,10,150-->
 
 ## 조직 #card
-?
+?begin
 ### 뜻
 - structured
 - organized
@@ -572,7 +572,7 @@
 <!--SR:!2025-04-11,18,150-->
 
 ## 간만 #card
-?
+?begin
 ### 뜻
 - ebb and flow
 - flux
@@ -582,7 +582,7 @@
 <!--SR:!2025-04-16,21,150-->
 
 ## 버릇하다 #card
-?
+?begin
 ### 뜻
 - be accustomed to
 - be in the habit of
@@ -594,7 +594,7 @@
 <!--SR:!2025-04-03,5,130-->
 
 ## 쥐어짜다 #card
-?
+?begin
 ### 뜻
 - press out
 - squeeze
@@ -611,7 +611,7 @@
 <!--SR:!2025-05-10,51,175-->
 
 ## 넉넉하다 #card
-?
+?begin
 ### 뜻
 - enough
 - plenty
@@ -627,7 +627,7 @@
 <!--SR:!2025-04-08,21,150-->
 
 ## 작용하다 #card
-?
+?begin
 ### 뜻
 - act
 - work
@@ -642,7 +642,7 @@
 <!--SR:!2025-04-01,12,150-->
 
 ## 그닥 #card
-?
+?begin
 ### 뜻
 - 별로 그렇게까지 (not so much)?
 ### 예
@@ -650,7 +650,7 @@
 <!--SR:!2025-04-09,22,170-->
 
 ## 의심하다 #card
-?
+?begin
 ### 뜻
 - doubt
 - suspect
@@ -667,7 +667,7 @@
 <!--SR:!2025-04-01,14,150-->
 
 ## 명실상부 #card
-?
+?begin
 ### 뜻
 - ?
 ### 예
@@ -675,7 +675,7 @@
 <!--SR:!2025-03-31,1,130-->
 
 ## 불행하다 #card
-?
+?begin
 ### 뜻
 - unhappy
 - miserable
@@ -690,7 +690,7 @@
 <!--SR:!2025-04-15,20,150-->
 
 ## 수상하다 #card
-?
+?begin
 ### 뜻
 - strange
 - mysterious
@@ -703,7 +703,7 @@
 <!--SR:!2025-04-15,30,154-->
 
 ## 낌새 #card
-?
+?begin
 ### 뜻
 - secrets
 - secret devices
@@ -718,7 +718,7 @@
 <!--SR:!2025-04-23,36,155-->
 
 ## 들락날락 #card
-?
+?begin
 ### 뜻
 -
 go in and out frequently
@@ -728,7 +728,7 @@ go in and out frequently
 <!--SR:!2025-04-09,31,174-->
 
 ## 꺼내다 #card
-?
+?begin
 ### 뜻
 - take out
 - bring out
@@ -738,7 +738,7 @@ go in and out frequently
 <!--SR:!2025-04-02,3,250-->
 
 ## 적임자 #card
-?
+?begin
 ### 뜻
 - person well suited
 - competent person
@@ -748,7 +748,7 @@ go in and out frequently
 <!--SR:!2025-04-10,29,154-->
 
 ## 수면 #card
-?
+?begin
 ### 뜻
 - sleep
 - slumber
@@ -761,7 +761,7 @@ go in and out frequently
 <!--SR:!2025-04-12,16,135-->
 
 ## 잔잔하다 #card
-?
+?begin
 ### 뜻
 - still
 - quiet
@@ -774,7 +774,7 @@ go in and out frequently
 <!--SR:!2025-03-31,13,154-->
 
 ## 흔들리다 #card
-?
+?begin
 ### 뜻
 - shake
 - sway
@@ -787,7 +787,7 @@ go in and out frequently
 <!--SR:!2025-04-14,19,162-->
 
 ## 비술 #card
-?
+?begin
 ### 뜻
 - secret technique
 ### 예
@@ -795,7 +795,7 @@ go in and out frequently
 <!--SR:!2025-03-31,19,174-->
 
 ## 물결 #card
-?
+?begin
 ### 뜻
 - wave (ocean/water)
 ### 예
@@ -803,7 +803,7 @@ go in and out frequently
 <!--SR:!2025-04-02,15,155-->
 
 ## 헤엄하다 #card
-?
+?begin
 ### 뜻
 - have a swim
 ### 예
@@ -812,7 +812,7 @@ go in and out frequently
 <!--SR:!2025-05-03,41,162-->
 
 ## 햇빛에 타다 #card
-?
+?begin
 ### 뜻
 - get sunburnt
 ### 예
@@ -820,7 +820,7 @@ go in and out frequently
 <!--SR:!2025-05-25,74,235-->
 
 ## 승부 #card
-?
+?begin
 ### 뜻
 - match
 - game
@@ -835,7 +835,7 @@ go in and out frequently
 <!--SR:!2025-04-08,10,134-->
 
 ## 걸어오다/걸어가다 #card
-?
+?begin
 ### 뜻
 - come/go by walking/foot
 ### 예
@@ -843,7 +843,7 @@ go in and out frequently
 <!--SR:!2025-06-04,84,242-->
 
 ## 도감 #card
-?
+?begin
 ### 뜻
 - picture book?
 ### 예
@@ -851,7 +851,7 @@ go in and out frequently
 <!--SR:!2025-04-05,21,170-->
 
 ## 기록하다 #card
-?
+?begin
 ### 뜻
 - record (not voice)
 ### 예
@@ -862,7 +862,7 @@ go in and out frequently
 <!--SR:!2025-04-22,23,150-->
 
 ## 틀니 #card
-?
+?begin
 ### 뜻
 - dentures
 ### 예
@@ -870,7 +870,7 @@ go in and out frequently
 <!--SR:!2025-04-22,42,182-->
 
 ## 건네다 #card
-?
+?begin
 ### 뜻
 - give
 - hand
@@ -889,7 +889,7 @@ go in and out frequently
 <!--SR:!2025-03-31,15,142-->
 
 ## 받은 틀니를 서둘러 꼈다 #card
-?
+?begin
 ### 뜻
 - I hastily put on my dentures
 ### 예
@@ -897,7 +897,7 @@ go in and out frequently
 <!--SR:!2025-04-08,30,174-->
 
 ## 씹히다 #card
-?
+?begin
 ### 뜻
 - chew
 - masticate
@@ -906,7 +906,7 @@ go in and out frequently
 <!--SR:!2025-05-01,47,182-->
 
 ## 부끄럽다 #card
-?
+?begin
 ### 뜻
 - embarrassing
 - ashamed
@@ -917,7 +917,7 @@ go in and out frequently
 <!--SR:!2025-04-09,22,155-->
 
 ## 덤 #card
-?
+?begin
 ### 뜻
 - addition
 - premium
@@ -930,7 +930,7 @@ go in and out frequently
 <!--SR:!2025-04-18,33,154-->
 
 ## 악물다 #card
-?
+?begin
 ### 뜻
 - clench
 - take a firm bite
@@ -939,7 +939,7 @@ go in and out frequently
 <!--SR:!2025-04-18,22,155-->
 
 ## 단번에 #card
-?
+?begin
 ### 뜻
 - at a stroke
 - at one try
@@ -951,7 +951,7 @@ go in and out frequently
 <!--SR:!2025-04-13,19,182-->
 
 ## 밀어붙이다 #card
-?
+?begin
 ### 뜻
 - push against
 ### 예
@@ -960,7 +960,7 @@ go in and out frequently
 <!--SR:!2025-04-04,26,175-->
 
 ## 식료품 #card
-?
+?begin
 ### 뜻
 - grocery (specifically food)
 ### 예
@@ -971,7 +971,7 @@ go in and out frequently
 <!--SR:!2025-04-08,23,162-->
 
 ## 잡화류 #card
-?
+?begin
 ### 뜻
 - grocery (misc.)
 ### 예
@@ -980,7 +980,7 @@ go in and out frequently
 <!--SR:!2025-04-25,27,162-->
 
 ## 들키다 #card
-?
+?begin
 ### 뜻
 - found
 - discovered
@@ -992,7 +992,7 @@ go in and out frequently
 <!--SR:!2025-04-19,20,150-->
 
 ## 입장 #card
-?
+?begin
 ### 뜻
 - position
 - stance
@@ -1008,7 +1008,7 @@ go in and out frequently
 <!--SR:!2025-05-03,46,182-->
 
 ## 똘똘하다 #card
-?
+?begin
 ### 뜻
 - bright
 - smart
@@ -1021,7 +1021,7 @@ go in and out frequently
 <!--SR:!2025-04-15,28,162-->
 
 ## 잠입하다 #card
-?
+?begin
 ### 뜻
 - infiltrate
 ### 예
@@ -1032,7 +1032,7 @@ go in and out frequently
 <!--SR:!2025-04-17,28,150-->
 
 ## 캐내다 #card
-?
+?begin
 ### 뜻
 - dig
 ### 예
@@ -1043,7 +1043,7 @@ go in and out frequently
 <!--SR:!2025-04-09,17,150-->
 
 ## 나머지 #card
-?
+?begin
 ### 뜻
 - rest
 - other
@@ -1060,7 +1060,7 @@ go in and out frequently
 <!--SR:!2025-04-24,44,182-->
 
 ## 짜내다 #card
-?
+?begin
 ### 뜻
 - squeeze
 - rack
@@ -1076,7 +1076,7 @@ go in and out frequently
 <!--SR:!2025-03-31,12,142-->
 
 ## 소지품 #card
-?
+?begin
 ### 뜻
 - one's stuff
 ### 예
@@ -1085,7 +1085,7 @@ go in and out frequently
 <!--SR:!2025-04-06,21,170-->
 
 ## 결국 #card
-?
+?begin
 ### 뜻
 - ultimately
 - in the end
@@ -1098,7 +1098,7 @@ go in and out frequently
 <!--SR:!2025-04-19,23,150-->
 
 ## 둔하다 #card
-?
+?begin
 ### 뜻
 - slow
 - dull
@@ -1111,7 +1111,7 @@ go in and out frequently
 <!--SR:!2025-04-19,23,150-->
 
 ## 소개팅 #card
-?
+?begin
 ### 뜻
 - blind date
 ### 예
@@ -1119,7 +1119,7 @@ go in and out frequently
 <!--SR:!2025-04-23,42,182-->
 
 ## 코디 #card
-?
+?begin
 ### 뜻
 - coordinating outfit
 ### 예
@@ -1127,7 +1127,7 @@ go in and out frequently
 <!--SR:!2025-04-24,46,182-->
 
 ## 뺨 #card
-?
+?begin
 ### 뜻
 - cheek
 - slap in the cheek
@@ -1136,7 +1136,7 @@ go in and out frequently
 <!--SR:!2025-04-08,38,182-->
 
 ## 흉터 #card
-?
+?begin
 ### 뜻
 - scar
 ### 예
@@ -1144,7 +1144,7 @@ go in and out frequently
 <!--SR:!2025-04-13,15,142-->
 
 ## 습격하다 #card
-?
+?begin
 ### 뜻
 - surprise attack
 - raid
@@ -1156,7 +1156,7 @@ go in and out frequently
 <!--SR:!2025-04-01,3,130-->
 
 ## 별개 #card
-?
+?begin
 ### 뜻
 - separate
 - different
@@ -1173,7 +1173,7 @@ go in and out frequently
 <!--SR:!2025-04-06,8,150-->
 
 ## 소행 #card
-?
+?begin
 ### 뜻
 - conduct
 - actions
@@ -1188,7 +1188,7 @@ go in and out frequently
 <!--SR:!2025-03-31,1,230-->
 
 ## 따지다 #card
-?
+?begin
 ### 뜻
 - calculate
 - blame
@@ -1204,7 +1204,7 @@ go in and out frequently
 <!--SR:!2025-04-12,19,150-->
 
 ## 전국 #card
-?
+?begin
 ### 뜻
 - nationwide
 ### 예
@@ -1212,7 +1212,7 @@ go in and out frequently
 <!--SR:!2025-04-20,40,182-->
 
 ## 뒤지다 #card
-?
+?begin
 ### 뜻
 - behind
 - search
@@ -1233,7 +1233,7 @@ go in and out frequently
 <!--SR:!2025-04-22,35,162-->
 
 ## 의논하다 #card
-?
+?begin
 ### 뜻
 - talk
 - consult
@@ -1245,7 +1245,7 @@ go in and out frequently
 <!--SR:!2025-04-18,19,150-->
 
 ## 꿇리다 #card
-?
+?begin
 ### 뜻
 - make kneel
 - force to yield
@@ -1254,7 +1254,7 @@ go in and out frequently
 <!--SR:!2025-04-04,15,150-->
 
 ## 단체 #card
-?
+?begin
 ### 뜻
 - group
 - association
@@ -1267,7 +1267,7 @@ go in and out frequently
 <!--SR:!2025-03-31,20,150-->
 
 ## 웅성거리다 #card
-?
+?begin
 ### 뜻
 - noisy
 - hum
@@ -1280,7 +1280,7 @@ go in and out frequently
 <!--SR:!2025-04-01,5,150-->
 
 ## 갈아입다 #card
-?
+?begin
 ### 뜻
 - change clothes
 ### 예
@@ -1288,7 +1288,7 @@ go in and out frequently
 <!--SR:!2025-05-05,39,162-->
 
 ## 간신히 #card
-?
+?begin
 ### 뜻
 - barely
 - narrowly
@@ -1297,7 +1297,7 @@ go in and out frequently
 <!--SR:!2025-04-03,12,150-->
 
 ## 겁먹다 #card
-?
+?begin
 ### 뜻
 - frighten
 - scare off
@@ -1312,7 +1312,7 @@ go in and out frequently
 <!--SR:!2025-04-24,25,162-->
 
 ## 박히다 #card
-?
+?begin
 ### 뜻
 - embedded
 - stuck
@@ -1321,7 +1321,7 @@ go in and out frequently
 <!--SR:!2025-04-20,22,150-->
 
 ## 굳은살 #card
-?
+?begin
 ### 뜻
 - hardened skin
 - callus
@@ -1330,7 +1330,7 @@ go in and out frequently
 <!--SR:!2025-04-06,14,167-->
 
 ## 용서하다 #card
-?
+?begin
 ### 뜻
 - forgive
 ### 예
@@ -1341,7 +1341,7 @@ go in and out frequently
 <!--SR:!2025-04-05,18,182-->
 
 ## 정직하다 #card
-?
+?begin
 ### 뜻
 - be honest
 - suspension from duty?
@@ -1354,7 +1354,7 @@ go in and out frequently
 <!--SR:!2025-04-04,10,130-->
 
 ## 일부러 #card
-?
+?begin
 ### 뜻
 - on purpose
 ### 예
@@ -1365,7 +1365,7 @@ go in and out frequently
 <!--SR:!2025-03-31,11,132-->
 
 ## 당직 #card
-?
+?begin
 ### 뜻
 - oncall
 - be on duty
@@ -1379,7 +1379,7 @@ go in and out frequently
 <!--SR:!2025-04-02,7,170-->
 
 ## 변호하다 #card
-?
+?begin
 ### 뜻
 - defend
 - plead for
@@ -1388,7 +1388,7 @@ go in and out frequently
 <!--SR:!2025-04-10,12,150-->
 
 ## 물리다 #card
-?
+?begin
 ### 뜻
 - bitten
 - fined
@@ -1413,7 +1413,7 @@ go in and out frequently
 <!--SR:!2025-04-01,2,150-->
 
 ## 미치다 #card
-?
+?begin
 ### 뜻
 - affect
 - go crazy
@@ -1425,7 +1425,7 @@ go in and out frequently
 <!--SR:!2025-04-03,22,204-->
 
 ## 별명 #card
-?
+?begin
 ### 뜻
 - nickname
 ### 예
@@ -1433,7 +1433,7 @@ go in and out frequently
 <!--SR:!2025-04-01,8,150-->
 
 ## 우리가 마지막으로 직접 만난 지 오래되었다 #card
-?
+?begin
 ### 뜻
 - it has been a long time since we last met in person
 ### 예
@@ -1441,7 +1441,7 @@ go in and out frequently
 <!--SR:!2025-04-02,21,184-->
 
 ## 제가 책임지겠습니다 #card
-?
+?begin
 ### 뜻
 - I will take responsibility
 ### 예
@@ -1449,7 +1449,7 @@ go in and out frequently
 <!--SR:!2025-04-24,26,164-->
 
 ## 정중하다 #card
-?
+?begin
 ### 뜻
 - polite
 - courteous
@@ -1458,7 +1458,7 @@ go in and out frequently
 <!--SR:!2025-04-01,5,150-->
 
 ## 존경 #card
-?
+?begin
 ### 뜻
 - respect
 - admiration
@@ -1467,7 +1467,7 @@ go in and out frequently
 <!--SR:!2025-04-01,5,150-->
 
 ## 존경심 #card
-?
+?begin
 ### 뜻
 - 존경 + 심(mind/heart)
 ### 예
@@ -1476,7 +1476,7 @@ go in and out frequently
 <!--SR:!2025-04-07,12,150-->
 
 ## 두리번거리다 #card
-?
+?begin
 ### 뜻
 - to look here and there
 ### 예
@@ -1485,7 +1485,7 @@ go in and out frequently
 <!--SR:!2025-04-02,9,150-->
 
 ## 돌려주다 #card
-?
+?begin
 ### 뜻
 - return
 - hand back
@@ -1500,7 +1500,7 @@ go in and out frequently
 <!--SR:!2025-04-15,20,164-->
 
 ## 거절하다 #card
-?
+?begin
 ### 뜻
 - refuse
 - reject
@@ -1514,7 +1514,7 @@ go in and out frequently
 <!--SR:!2025-03-31,15,164-->
 
 ## 탐정 #card
-?
+?begin
 ### 뜻
 - detective (형사?)
 - sleuth
@@ -1523,7 +1523,7 @@ go in and out frequently
 <!--SR:!2025-04-04,5,150-->
 
 ## 독서 #card
-?
+?begin
 ### 뜻
 - reading?
 ### 예
@@ -1531,7 +1531,7 @@ go in and out frequently
 <!--SR:!2025-04-03,10,144-->
 
 ## 사나이 #card
-?
+?begin
 ### 뜻
 - male
 ### 예
@@ -1539,7 +1539,7 @@ go in and out frequently
 <!--SR:!2025-04-10,18,164-->
 
 ## 적어도 #card
-?
+?begin
 ### 뜻
 - at least
 ### 예
@@ -1548,7 +1548,7 @@ go in and out frequently
 <!--SR:!2025-04-03,14,184-->
 
 ## 기껏해야 #card
-?
+?begin
 ### 뜻
 - at most?
 ### 예
@@ -1557,7 +1557,7 @@ go in and out frequently
 <!--SR:!2025-04-14,15,150-->
 
 ## 시도하다 #card
-?
+?begin
 ### 뜻
 - implement
 - make plans
@@ -1570,7 +1570,7 @@ go in and out frequently
 <!--SR:!2025-04-12,20,164-->
 
 ## 기도하다 #card
-?
+?begin
 ### 뜻
 - attempt
 - try
@@ -1585,7 +1585,7 @@ go in and out frequently
 <!--SR:!2025-04-26,27,164-->
 
 ## 주도 #card
-?
+?begin
 ### 뜻
 - lead
 - direct
@@ -1601,7 +1601,7 @@ go in and out frequently
 <!--SR:!2025-03-31,1,130-->
 
 ## 돋보이다 #card
-?
+?begin
 ### 뜻
 - stand out
 - highlight
@@ -1615,7 +1615,7 @@ go in and out frequently
 	- Main characters make the supporting actors look better.
 
 ## 해맑다 #card
-?
+?begin
 ### 뜻
 - white and clean
 ### 예
@@ -1624,7 +1624,7 @@ go in and out frequently
 <!--SR:!2025-03-31,1,130-->
 
 ## 장단은 맞춰야지 #card
-?
+?begin
 ### 뜻
 - play along?
 ### 예
@@ -1633,7 +1633,7 @@ go in and out frequently
 <!--SR:!2025-03-31,1,130-->
 
 ## 어색하다 #card
-?
+?begin
 ### 뜻
 - awkward
 - weird
@@ -1645,14 +1645,14 @@ go in and out frequently
 <!--SR:!2025-04-02,3,250-->
 
 ## 위협 #card
-?
+?begin
 ### 뜻
 - threat
 ### 예
 -
 
 ## 두근거리다 #card
-?
+?begin
 ### 뜻
 - throb
 - palpitate
@@ -1662,7 +1662,7 @@ go in and out frequently
 <!--SR:!2025-04-01,5,150-->
 
 ## 뺏어가다 #card
-?
+?begin
 ### 뜻
 - take away from someone
 ### 예
@@ -1673,7 +1673,7 @@ go in and out frequently
 <!--SR:!2025-04-01,5,150-->
 
 ## 과외 #card
-?
+?begin
 ### 뜻
 - private tutoring
 ### 예
@@ -1681,7 +1681,7 @@ go in and out frequently
 <!--SR:!2025-04-02,7,170-->
 
 ## 왠지 실감 안나는데 #card
-?
+?begin
 ### 뜻
 - It doesn't feel real somehow?
 ### 예
@@ -1689,7 +1689,7 @@ go in and out frequently
 <!--SR:!2025-03-31,1,130-->
 
 ## 저번 #card
-?
+?begin
 ### 뜻
 - the other day
 - some time ago?
@@ -1698,7 +1698,7 @@ go in and out frequently
 <!--SR:!2025-03-31,1,142-->
 
 ## 방망 #card
-?
+?begin
 ### 뜻
 - bat (baseball)
 ### 예
@@ -1706,7 +1706,7 @@ go in and out frequently
 <!--SR:!2025-04-09,10,170-->
 
 ## 오바하다 #card
-?
+?begin
 ### 뜻
 - over-reacting
 ### 예
@@ -1714,7 +1714,7 @@ go in and out frequently
 <!--SR:!2025-03-31,1,143-->
 
 ## 챙기다 #card
-?
+?begin
 ### 뜻
 - take
 - take care of
@@ -1738,7 +1738,7 @@ go in and out frequently
 <!--SR:!2025-03-31,5,150-->
 
 ## 긴장 #card
-?
+?begin
 ### 뜻
 - nervous
 - strain
@@ -1748,7 +1748,7 @@ go in and out frequently
 <!--SR:!2025-04-14,16,167-->
 
 ## 함정 #card
-?
+?begin
 ### 뜻
 - trap
 ### 예
@@ -1756,7 +1756,7 @@ go in and out frequently
 <!--SR:!2025-04-02,3,250-->
 
 ## 아지트 #card
-?
+?begin
 ### 뜻
 - safe house
 - hideout
@@ -1765,7 +1765,7 @@ go in and out frequently
 <!--SR:!2025-04-04,5,167-->
 
 ## 자욱하다 #card
-?
+?begin
 ### 뜻
 - dense
 - thick
@@ -1777,7 +1777,7 @@ go in and out frequently
 <!--SR:!2025-04-01,3,150-->
 
 ## 산더미 #card
-?
+?begin
 ### 뜻
 - heap
 - pile
@@ -1787,7 +1787,7 @@ go in and out frequently
 <!--SR:!2025-04-06,8,167-->
 
 ## 소굴 #card
-?
+?begin
 ### 뜻
 - den
 - nest
@@ -1796,7 +1796,7 @@ go in and out frequently
 <!--SR:!2025-03-31,1,130-->
 
 ## 옥상 #card
-?
+?begin
 ### 뜻
 - roof
 ### 예
@@ -1804,7 +1804,7 @@ go in and out frequently
 <!--SR:!2025-04-02,3,250-->
 
 ## 선선하다 #card
-?
+?begin
 ### 뜻
 - cool
 - refreshing
@@ -1814,7 +1814,7 @@ go in and out frequently
 <!--SR:!2025-04-01,5,150-->
 
 ## 대단하다 #card
-?
+?begin
 ### 뜻
 - great
 - incredible
@@ -1824,7 +1824,7 @@ go in and out frequently
 <!--SR:!2025-03-31,1,130-->
 
 ## 인연 #card
-?
+?begin
 ### 뜻
 - connection
 - tie
@@ -1838,7 +1838,7 @@ go in and out frequently
 <!--SR:!2025-04-01,2,150-->
 
 ## 또래들 #card
-?
+?begin
 ### 뜻
 - peers
 ### 예
@@ -1846,7 +1846,7 @@ go in and out frequently
 <!--SR:!2025-04-01,5,150-->
 
 ## 속이다 #card
-?
+?begin
 ### 뜻
 - deceive
 - trick
@@ -1858,7 +1858,7 @@ go in and out frequently
 <!--SR:!2025-03-31,2,150-->
 
 ## 모쏘 #card
-?
+?begin
 ### 뜻
 - forever alone (from birth solo)
 ### 예
@@ -1866,7 +1866,7 @@ go in and out frequently
 <!--SR:!2025-03-31,1,130-->
 
 ## 본론 #card
-?
+?begin
 ### 뜻
 - main discourse?
 ### 예
@@ -1875,7 +1875,7 @@ go in and out frequently
 <!--SR:!2025-04-04,5,150-->
 
 ## 부수다 #card
-?
+?begin
 ### 뜻
 - crush
 - smash
@@ -1889,7 +1889,7 @@ go in and out frequently
 <!--SR:!2025-04-04,5,150-->
 
 ## 연합하다 #card
-?
+?begin
 ### 뜻
 - unite
 ### 예
@@ -1897,7 +1897,7 @@ go in and out frequently
 <!--SR:!2025-04-09,10,147-->
 
 ## 정신이 확 드네 #card
-?
+?begin
 ### 뜻
 - i'm so awake (mind suddenly raised?)
 ### 예
@@ -1905,7 +1905,7 @@ go in and out frequently
 <!--SR:!2025-04-03,5,150-->
 
 ## 목적 #card
-?
+?begin
 ### 뜻
 - aim
 - objective
@@ -1920,7 +1920,7 @@ go in and out frequently
 <!--SR:!2025-03-31,1,130-->
 
 ## 고백하다 #card
-?
+?begin
 ### 뜻
 - confess
 - confession
@@ -1931,7 +1931,7 @@ go in and out frequently
 	- I confessed[declared] my love to her.
 
 ## 패거리 #card
-?
+?begin
 ### 뜻
 - gang?
 ### 예
@@ -1939,7 +1939,7 @@ go in and out frequently
 <!--SR:!2025-04-02,3,250-->
 
 ## 중 일부 #card
-?
+?begin
 ### 뜻
 - some among X
 - few from X
@@ -1953,7 +1953,7 @@ go in and out frequently
 <!--SR:!2025-03-31,1,141-->
 
 ## 쪽수가 한참 모자라 #card
-?
+?begin
 ### 뜻
 - we're outnumbered!
 - our side is lacking for a bit
@@ -1962,7 +1962,7 @@ go in and out frequently
 <!--SR:!2025-03-31,1,130-->
 
 ## 박살 #card
-?
+?begin
 ### 뜻
 - shattered
 - smash
@@ -1977,7 +1977,7 @@ go in and out frequently
 <!--SR:!2025-03-31,1,130-->
 
 ## 내키다 #card
-?
+?begin
 ### 뜻
 - have a mind
 - inclined to
@@ -1994,7 +1994,7 @@ go in and out frequently
 <!--SR:!2025-04-01,9,250-->
 
 ## 망하다 #card
-?
+?begin
 ### 뜻
 - fail
 - go under
@@ -2009,7 +2009,7 @@ go in and out frequently
 <!--SR:!2025-03-31,1,130-->
 
 ## 조지다 #card
-?
+?begin
 ### 뜻
 - fix tightly
 - screw up
@@ -2020,7 +2020,7 @@ go in and out frequently
 <!--SR:!2025-04-02,3,250-->
 
 ## 안면을 트다 #card
-?
+?begin
 ### 뜻
 - To get to know each other's faces.
 ### 예
@@ -2028,7 +2028,7 @@ go in and out frequently
 <!--SR:!2025-04-01,3,162-->
 
 ## 인원 #card
-?
+?begin
 ### 뜻
 - number of persons
 ### 예
@@ -2036,7 +2036,7 @@ go in and out frequently
 <!--SR:!2025-03-31,2,130-->
 
 ## 세우다 #card
-?
+?begin
 ### 뜻
 - set up
 - put up
@@ -2049,7 +2049,7 @@ go in and out frequently
 <!--SR:!2025-04-08,10,182-->
 
 ## 본능(적) #card
-?
+?begin
 ### 뜻
 - instinct(ively)
 ### 예
@@ -2061,7 +2061,7 @@ go in and out frequently
 
 
 ## 외출하다 #card
-?
+?begin
 ### 뜻
 - go out and about
 ### 예
@@ -2072,7 +2072,7 @@ go in and out frequently
 <!--SR:!2025-04-01,2,150-->
 
 ## 이끌다 #card
-?
+?begin
 ### 뜻
 - lead
 - drive to
@@ -2087,7 +2087,7 @@ go in and out frequently
 <!--SR:!2025-04-04,5,163-->
 
 ## 사주다 #card
-?
+?begin
 ### 뜻
 - buy for (someone)
 ### 예
@@ -2097,7 +2097,7 @@ go in and out frequently
 	- When she buys clothing for Amber, she will say, "This is sexy."
 
 ## 맞추다 #card
-?
+?begin
 ### 뜻
 - focus
 - in time
