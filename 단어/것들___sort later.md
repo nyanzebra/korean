@@ -1069,6 +1069,7 @@ go in and out frequently
 	- be caught in mischief
 - 들키면 나는 큰일이다
 	- If I am discovered, I am done for
+<!--SR:!2025-04-02,2,165-->
 ?end
 <!--SR:!2025-04-19,20,150-->
 
