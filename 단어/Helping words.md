@@ -339,7 +339,14 @@
 ## 평범하다 #card
 ?begin
 ### 뜻
--
+- common
+- ordinary
+- mediocre
 ### 예
--
+- 그는 평범한 일생을 보냈다
+	- He lived an uneventful life.
+- 나의 평범한 머리로는 이 문제를 못 풀 것 같다
+	- With my second-rate mind, I cannot possibly solve this problem.
+- 그는 평범한 사람이 아니다
+	- He is no ordinary person.
 ?end
