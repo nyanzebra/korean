@@ -14,12 +14,6 @@ Kyunghee Min (Mar 27, 2025, 17:03)
 
 You (Mar 27, 2025, 17:12)
 
-wart
-
-Kyunghee Min (Mar 27, 2025, 17:13)
-
-사마귀
-
 1년동안
 
 없애다=제거하다
