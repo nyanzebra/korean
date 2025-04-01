@@ -64,3 +64,12 @@
 - 회사를 그만하다
 	- quit a job
 ?end
+
+
+## 2주에 1번 #card
+?begin
+### 뜻
+- 1 time every 2 weeks
+### 예
+-
+?end
