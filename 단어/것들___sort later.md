@@ -1,19 +1,4 @@
-## 주관적 #card
-?begin
-### 뜻
-- subjective
-### 예
--
-?end
 
-
-## 객관적 #card
-?begin
-### 뜻
-- objective
-### 예
--
-?end
 
 
 ## 뿌듯하다 #card
