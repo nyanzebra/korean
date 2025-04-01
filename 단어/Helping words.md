@@ -336,3 +336,10 @@
 	- thorough discussion
 ?end
 
+## 평범하다 #card
+?begin
+### 뜻
+-
+### 예
+-
+?end
