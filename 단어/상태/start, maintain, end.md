@@ -80,5 +80,5 @@
 - for 1 year
 ### 예
 - 그는 1년 동안 무결석이었다
-	- 
+	- He went to work regularly[without missing a single day] for one year.
 ?end
