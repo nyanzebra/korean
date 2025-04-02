@@ -77,6 +77,7 @@
 	- put money apart for educational expenses.
 - 물건을 각각 따로 두다
 	- keep things apart.
+<!--SR:!2025-04-04,3,250-->
 ?end
 
 
