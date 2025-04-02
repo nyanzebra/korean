@@ -1190,6 +1190,7 @@ go in and out frequently
 - blind date
 ### 예
 -
+<!--SR:!2025-04-04,3,250-->
 ?end
 
 
