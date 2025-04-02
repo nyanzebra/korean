@@ -1548,6 +1548,7 @@ go in and out frequently
 - I will take responsibility
 ### 예
 -
+<!--SR:!2025-04-04,3,250-->
 ?end
 
 
