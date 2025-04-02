@@ -181,6 +181,7 @@
 ### 예
 - 그는 최소의 비용으로 그것을 그럭저럭 해냈다
 	- He managed to do it at the minimum of cost.
+<!--SR:!2025-04-04,3,250-->
 ?end
 
 
