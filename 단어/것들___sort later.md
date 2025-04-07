@@ -1192,7 +1192,7 @@ go in and out frequently
 - blind date
 ### 예
 -
-<!--SR:!2025-04-04,3,250-->
+<!--SR:!2025-04-16,9,250-->
 ?end
 
 
@@ -1562,7 +1562,7 @@ go in and out frequently
 - courteous
 ### 예
 - 그니까 좀 정중해져 보세요
-<!--SR:!2025-04-04,3,250-->
+<!--SR:!2025-04-19,12,270-->
 ?end
 
 
