@@ -2285,6 +2285,18 @@ go in and out frequently
 	- He must learn to fit his song to his audience.
 
 
+## 대비하다 #card
+?begin
+### 뜻
+- contrast
+- compare
+- prepare
+- provide
+### 예
+- 
+?end
+
+
 전립선 문제
 
 불다 blow 부르다 call 버리다 toss/completely 벌다 earn
