@@ -2297,7 +2297,10 @@ go in and out frequently
 	- I took the entrance exam for this university just in case I fail to be admitted elsewhere.
 - 우리는 항상 위급시에 대비해야 한다
 	- We should always be prepared for emergency.
-- 
+- 단수에 대비하여 물을 길어 놓다
+	- set aside some drinking water in case the water is shut off.
+- 양자를 대비하다
+	- compare two things.
 ?end
 
 
