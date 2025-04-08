@@ -1551,7 +1551,7 @@ go in and out frequently
 - I will take responsibility
 ### 예
 -
-<!--SR:!2025-04-04,3,250-->
+<!--SR:!2025-04-18,11,270-->
 ?end
 
 
@@ -1673,7 +1673,7 @@ go in and out frequently
 ### 예
 - 기껏해야 하루에 한 번
 	- at most once a day
-<!--SR:!2025-04-04,3,250-->
+<!--SR:!2025-04-16,9,250-->
 ?end
 
 
