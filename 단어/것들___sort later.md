@@ -359,6 +359,7 @@
 - physically or emotionally comfortable
 ### 예
 -
+<!--SR:!2025-04-10,3,250-->
 ?end
 
 
@@ -1422,6 +1423,7 @@ go in and out frequently
 - callus
 ### 예
 -
+<!--SR:!2025-04-10,3,250-->
 ?end
 
 
