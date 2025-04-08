@@ -2312,7 +2312,12 @@ go in and out frequently
 - many times
 - occasion
 ### 예
-- 
+-  하지만 사람들이 아무리 자기 관리를 잘 한다고 해도 몇몇 경우에서처럼 건강은 우리가 통제할 수 있는 능력 밖에 있기 때문에 누구도 질병으로부터 완전히 자유로울 수는 없다.
+	- However, no matter how hard people take good care of themselves, nobody can be totally free from disease, as in some cases, health is beyond our ability to control.
+- 머치의 경우에는 그가 저지른 짓을 생각하면 그 같은 종말이 훨씬 나은 셈이었지…….
+	- As for Mirche, his end was far better than he deserved...
+- 그의 경우는 선천성 부신 증식이라는 극단적인 형태였습니다.
+	- What he had was an extreme form of a condition called congenital adrenal hyperplasia.
 ?end
 
 
