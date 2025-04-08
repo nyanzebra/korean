@@ -2303,6 +2303,18 @@ go in and out frequently
 	- compare two things.
 ?end
 
+## 경우 #card
+?begin
+### 뜻
+- case
+- as for
+- conditions
+- many times
+- occasion
+### 예
+- 
+?end
+
 
 전립선 문제
 
