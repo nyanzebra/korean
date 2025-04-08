@@ -2293,6 +2293,10 @@ go in and out frequently
 - prepare
 - provide
 ### 예
+- 내가 이 대학의 입학 시험을 치른 것은 딴 데에서 낙방할 경우에 대비하기 위한 것이었다
+	- I took the entrance exam for this university just in case I fail to be admitted elsewhere.
+- 우리는 항상 위급시에 대비해야 한다
+	- We should always be prepared for emergency.
 - 
 ?end
 
