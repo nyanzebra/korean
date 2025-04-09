@@ -361,11 +361,14 @@
 - neglect
 - negligent
 - indifferent
+- careless?
 ### 예
 - 딴 생각을 하느라고 하던 일을 소홀하게 했다
 	- Thinking of something else I forgot what I was doing.
 - 소홀하게 교정하다
 	- read a proof carelessly.
+- 이 연구소에서는 약품 관리가 소홀하다
+	- They are very careless about the way they keep chemicals in this laboratory.
 ?end
 
 ## 꼬박꼬박 #card
