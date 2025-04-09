@@ -369,6 +369,10 @@
 - humbly obey
 - obediently
 ### 예
--
+- 꼬박꼬박 졸다
+	- doze off
+- 어른의 말을 꼬박꼬박 잘 듣다
+	- readily obey one's elders.
+- 
 ?end
 
