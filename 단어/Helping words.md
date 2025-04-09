@@ -358,7 +358,9 @@
 ## 소홀하다 #card
 ?begin
 ### 뜻
--
+- neglect
+- negligent
+- indifferent
 ### 예
 -
 ?end
@@ -373,6 +375,7 @@
 	- doze off
 - 어른의 말을 꼬박꼬박 잘 듣다
 	- readily obey one's elders.
-- 
+- 대출금을 매월 꼬박꼬박 갚아 나가다
+	- make the monthly payment on one's loan regularly[right on time].
 ?end
 
