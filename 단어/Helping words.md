@@ -362,7 +362,10 @@
 - negligent
 - indifferent
 ### 예
--
+- 딴 생각을 하느라고 하던 일을 소홀하게 했다
+	- Thinking of something else I forgot what I was doing.
+- 소홀하게 교정하다
+	- read a proof carelessly.
 ?end
 
 ## 꼬박꼬박 #card
