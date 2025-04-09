@@ -354,3 +354,21 @@
 - 그는 평범한 사람이 아니다
 	- He is no ordinary person.
 ?end
+
+## 소홀하다 #card
+?begin
+### 뜻
+-
+### 예
+-
+?end
+
+## 꼬박꼬박 #card
+?begin
+### 뜻
+- humbly obey
+- obediently
+### 예
+-
+?end
+
