@@ -2014,7 +2014,7 @@ go in and out frequently
 - forever alone (from birth solo)
 ### 예
 -
-<!--SR:!2025-04-12,3,250-->
+<!--SR:!2025-04-20,8,250-->
 ?end
 
 
