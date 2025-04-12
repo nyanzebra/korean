@@ -420,6 +420,7 @@
 ### 예
 - 그의 정열적인 포옹으로 그녀는 숨도 쉴 수 없었다
 	- His passionate embrace took her breath away./He took her breath away with a passionate embrace.
+<!--SR:!2025-04-15,3,250-->
 ?end
 
 
