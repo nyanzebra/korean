@@ -1466,6 +1466,7 @@ go in and out frequently
 	- People jokingly said the two chose different food at a cafeteria on purpose.
 - 일부러 정보를 주지 않는 것이 관객들이 몰입하게 합니다.
 	- You know, doing that intentionally is much more engaging.
+<!--SR:!2025-04-15,3,250-->
 ?end
 
 
