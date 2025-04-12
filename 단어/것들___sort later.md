@@ -1515,6 +1515,7 @@ go in and out frequently
 	- exorcise evil spirits
 - 하루하루 물리다
 	- put off from day to day.
+<!--SR:!2025-04-15,3,250-->
 ?end
 
 
@@ -1831,6 +1832,7 @@ go in and out frequently
 - some time ago?
 ### 예
 -
+<!--SR:!2025-04-15,3,250-->
 ?end
 
 
