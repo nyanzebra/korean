@@ -1159,6 +1159,7 @@ go in and out frequently
 ### 예
 - 소지품 전부에 자기 이름을 붙이다
 	- put one's name on all one's belongings.
+<!--SR:!2025-04-15,3,250-->
 ?end
 
 
@@ -1944,6 +1945,7 @@ go in and out frequently
 - nest
 ### 예
 -
+<!--SR:!2025-04-15,3,250-->
 ?end
 
 
