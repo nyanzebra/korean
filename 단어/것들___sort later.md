@@ -359,7 +359,7 @@
 - physically or emotionally comfortable
 ### 예
 -
-<!--SR:!2025-04-10,3,250-->
+<!--SR:!2025-04-20,8,250-->
 ?end
 
 
