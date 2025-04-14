@@ -1766,7 +1766,7 @@ go in and out frequently
 ### 예
 - 장단을 맞추다
 	- beat a rhythm
-<!--SR:!2025-04-13,1,230-->
+<!--SR:!2025-04-16,2,230-->
 ?end
 
 
@@ -2237,7 +2237,7 @@ go in and out frequently
 	- creative instinct
 - 모성 본능
 	- a maternal instinct
-<!--SR:!2025-04-14,2,231-->
+<!--SR:!2025-04-19,5,231-->
 ?end
 
 
