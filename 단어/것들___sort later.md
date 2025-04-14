@@ -479,7 +479,7 @@
 	- For the rebellious Sartre, then, turning down a world-famous award was completely in character.
 - 그녀는 아빠에게 반항하고 늘 모험을 떠날 준비가 되어있다.
 	- She rebels against her father and is always ready for adventure
-<!--SR:!2025-04-14,5,230-->
+<!--SR:!2025-04-25,11,230-->
 ?end
 
 
@@ -1457,6 +1457,7 @@ go in and out frequently
 - 이것은 정직한 사람이 손해를 보는 좋은 예다
 	- This is a good example of a case in which honesty doesn't pay.
 -
+<!--SR:!2025-04-16,2,249-->
 ?end
 
 
