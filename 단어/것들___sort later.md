@@ -1820,6 +1820,7 @@ go in and out frequently
 - private tutoring
 ### 예
 -
+<!--SR:!2025-04-16,2,249-->
 ?end
 
 
