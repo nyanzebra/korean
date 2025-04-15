@@ -763,6 +763,7 @@
 	- There were no signs of their having discussed the matter.
 - 나는 낌새를 알고 있었다
 	- I had an inkling of it.
+<!--SR:!2025-04-17,2,249-->
 ?end
 
 
@@ -1859,6 +1860,7 @@ go in and out frequently
 - bat (baseball)
 ### 예
 -
+<!--SR:!2025-04-17,2,249-->
 ?end
 
 
