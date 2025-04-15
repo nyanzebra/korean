@@ -1531,7 +1531,7 @@ go in and out frequently
 	- exorcise evil spirits
 - 하루하루 물리다
 	- put off from day to day.
-<!--SR:!2025-04-15,3,250-->
+<!--SR:!2025-04-23,8,250-->
 ?end
 
 
@@ -2065,7 +2065,7 @@ go in and out frequently
 	- And if she were falling at this speed, she would've been crushed to death
 - 김태희의 배역은 부수어야 하고 아무것도 그녀를 막을 수 없는 역할이다.
 	- Kim's character is on a mission to destroy, and nothing can stop her.
-<!--SR:!2025-04-15,3,250-->
+<!--SR:!2025-04-24,9,250-->
 ?end
 
 
