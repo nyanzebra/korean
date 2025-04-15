@@ -512,6 +512,7 @@
 	- I am hoping against hope that he will come back.
 - 내게 너무 기대하지 말게
 	- Don't expect too much of me.
+<!--SR:!2025-04-17,2,249-->
 ?end
 
 
@@ -888,6 +889,7 @@ go in and out frequently
 	- Korea coach Cho plans to use a quick offense to determine the game.
 - 플레이오프 기간 동안 4팀이 승부를 겨룬다.
 	- Four teams are competing in the playoffs.
+<!--SR:!2025-04-17,2,249-->
 ?end
 
 
