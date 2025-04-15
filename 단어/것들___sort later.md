@@ -534,6 +534,7 @@
 - arena
 ### 예
 -
+<!--SR:!2025-04-17,2,249-->
 ?end
 
 
@@ -1788,6 +1789,7 @@ go in and out frequently
 	- keep an awkward silence
 - 사람들간의 상호작용 없이는 사람들은 사회성을 개발할 수 없으며 이는 현실에서 사회적 어색함을 느끼게 할 수 있습니다.
 	- Without human interaction, people are unable to develop social skills, which can result in social awkwardness in real life situations
+<!--SR:!2025-04-16,1,229-->
 ?end
 
 
