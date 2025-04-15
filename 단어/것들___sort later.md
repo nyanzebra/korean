@@ -1168,7 +1168,7 @@ go in and out frequently
 ### 예
 - 소지품 전부에 자기 이름을 붙이다
 	- put one's name on all one's belongings.
-<!--SR:!2025-04-15,3,250-->
+<!--SR:!2025-04-24,9,250-->
 ?end
 
 
