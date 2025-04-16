@@ -1083,7 +1083,7 @@ go in and out frequently
 	- He delivered a staunch defense of the government.
 - 괴로운 입장
 	- an awkward situation.
-<!--SR:!2025-04-16,2,249-->
+<!--SR:!2025-04-23,7,269-->
 ?end
 
 
@@ -1208,7 +1208,7 @@ go in and out frequently
 - blind date
 ### 예
 -
-<!--SR:!2025-04-16,9,250-->
+<!--SR:!2025-05-18,32,270-->
 ?end
 
 
@@ -1776,7 +1776,7 @@ go in and out frequently
 ### 예
 - 장단을 맞추다
 	- beat a rhythm
-<!--SR:!2025-04-16,2,230-->
+<!--SR:!2025-04-23,7,250-->
 ?end
 
 
