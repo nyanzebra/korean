@@ -2213,8 +2213,11 @@ go in and out frequently
 ### 뜻
 - number of persons
 ### 예
--
-<!--SR:!2025-04-17,1,250-->
+- 인원 정리 정리를 하다
+  - reduce the staff
+- 인원이 너무 많다
+  - be overstaffed
+<!--SR:!2025-04-17,1,230-->
 ?end
 
 
