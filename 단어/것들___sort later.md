@@ -1694,7 +1694,7 @@ go in and out frequently
 ### 예
 - 기껏해야 하루에 한 번
 	- at most once a day
-<!--SR:!2025-04-16,9,250-->
+<!--SR:!2025-05-09,23,250-->
 ?end
 
 
