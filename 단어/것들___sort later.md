@@ -324,7 +324,7 @@
 	- My daughter looks like her, too.
 - "당신은 우리 아버지와 쏙 빼닮았습니다."라고 수치 여사가 안재욱에게 말했다.
 	- "You look just like my father," Suu Kyi told Ahn.
-<!--SR:!2025-04-15,8,250-->
+<!--SR:!2025-05-06,20,250-->
 ?end
 
 
@@ -716,7 +716,7 @@
 - ?
 ### 예
 -
-<!--SR:!2025-04-15,1,210-->
+<!--SR:!2025-04-17,1,190-->
 ?end
 
 
@@ -2214,7 +2214,7 @@ go in and out frequently
 - number of persons
 ### 예
 -
-<!--SR:!2025-04-16,2,249-->
+<!--SR:!2025-04-17,1,250-->
 ?end
 
 
