@@ -436,5 +436,9 @@
 - 계약서에 도장을 찍다
 	- stamp a contract
 - 문장이 끝날 때마다 점을 찍어야 돼
-	- ever
+	- every time a sentence ends a period is placed
+- 소스에 찍다
+	- dip in sauce
+- 카드를 거기에 찍어야 돼
+	- you must scan you card there
 ?end
