@@ -1850,7 +1850,7 @@ go in and out frequently
 - bat (baseball)
 ### 예
 -
-<!--SR:!2025-04-17,2,249-->
+<!--SR:!2025-04-22,5,249-->
 ?end
 
 
@@ -1949,7 +1949,7 @@ go in and out frequently
 - nest
 ### 예
 -
-<!--SR:!2025-04-17,2,230-->
+<!--SR:!2025-04-22,5,230-->
 ?end
 
 
