@@ -409,3 +409,11 @@
 	* Even though today is Sunday, the bus is packed/filled with passengers for some reason  
 	* I don’t know why, but even though today is Sunday, the bus is packed/filled with passengers
 ?end
+
+## ~달 #card
+?begin
+### 뜻
+- sometime in a month
+### 예
+-
+?end
