@@ -535,7 +535,7 @@
 - arena
 ### 예
 -
-<!--SR:!2025-04-17,2,249-->
+<!--SR:!2025-04-22,5,249-->
 ?end
 
 
@@ -717,7 +717,7 @@
 - ?
 ### 예
 -
-<!--SR:!2025-04-17,1,190-->
+<!--SR:!2025-04-18,1,170-->
 ?end
 
 
@@ -893,7 +893,7 @@ go in and out frequently
 	- Korea coach Cho plans to use a quick offense to determine the game.
 - 플레이오프 기간 동안 4팀이 승부를 겨룬다.
 	- Four teams are competing in the playoffs.
-<!--SR:!2025-04-17,2,249-->
+<!--SR:!2025-04-22,5,249-->
 ?end
 
 
