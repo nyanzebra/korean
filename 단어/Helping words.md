@@ -421,10 +421,11 @@
 	* I’m going to write an exam sometime in June
 ?end
 
-## 단어 #card
+## 찍다 #card
 ?begin
 ### 뜻
--
+- take a picture
+- 
 ### 예
 -
 ?end
