@@ -415,5 +415,16 @@
 ### 뜻
 - sometime in a month
 ### 예
+- [저는 5월달에 한국에 갈 거예요](https://www.howtostudykorean.com/wp-content/uploads/2016/10/Lesson60s48.mp3) 
+	- I’m going to Korea sometime in May  
+* [저는 6월달에 시험을 볼 거예요](https://www.howtostudykorean.com/wp-content/uploads/2016/10/Lesson60s49.mp3) 
+	* I’m going to write an exam sometime in June
+?end
+
+## 단어 #card
+?begin
+### 뜻
+-
+### 예
 -
 ?end
