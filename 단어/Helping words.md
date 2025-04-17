@@ -431,4 +431,10 @@
 ### 예
 - 시험 찍었어
 	- just picked answers
+- 사진을 찍었어
+	- took a picture
+- 계약서에 도장을 찍다
+	- stamp a contract
+- 문장이 끝날 때마다 점을 찍어야 돼
+	- ever
 ?end
