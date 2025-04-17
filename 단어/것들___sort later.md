@@ -1997,7 +1997,7 @@ go in and out frequently
   - He also has a relationship with Korea because he proposed McCune-Reischauer Romanization for Korean in 1939.
 - 하지만, 두 사람은 예상치 못한 인연을 맺게 된다.
   - But, the two develop an unexpected connection with each other.
-<!--SR:!2025-04-17,2,249-->
+<!--SR:!2025-04-22,5,249-->
 ?end
 
 
