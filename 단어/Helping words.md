@@ -390,3 +390,12 @@
 	- make the monthly payment on one's loan regularly[right on time].
 <!--SR:!2025-04-17,3,250-->
 ?end
+
+## 왠지 #card
+?begin
+### 뜻
+- [왜 그런지 몰라요](https://www.howtostudykorean.com/wp-content/uploads/2016/10/Lesson60s20.mp3) 
+	- I don’t know why it is like that
+### 예
+-
+?end
