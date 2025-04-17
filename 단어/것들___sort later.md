@@ -514,7 +514,7 @@
 	- I am hoping against hope that he will come back.
 - 내게 너무 기대하지 말게
 	- Don't expect too much of me.
-<!--SR:!2025-04-17,2,249-->
+<!--SR:!2025-04-22,5,249-->
 ?end
 
 
