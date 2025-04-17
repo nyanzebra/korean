@@ -425,7 +425,10 @@
 ?begin
 ### 뜻
 - take a picture
-- 
+- "when things touch"
+- stamp
+- guess (on test)
 ### 예
--
+- 시험 찍었어
+	- just picked answers
 ?end
