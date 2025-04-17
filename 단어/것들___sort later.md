@@ -1396,6 +1396,7 @@ go in and out frequently
 - change clothes
 ### 예
 -
+<!--SR:!2025-04-19,2,248-->
 ?end
 
 
@@ -1831,6 +1832,7 @@ go in and out frequently
 - It doesn't feel real somehow?
 ### 예
 -
+<!--SR:!2025-04-18,1,228-->
 ?end
 
 
