@@ -390,11 +390,3 @@
 	- make the monthly payment on one's loan regularly[right on time].
 <!--SR:!2025-04-17,3,250-->
 ?end
-
-## 가득 차다 #card
-?begin
-### 뜻
--
-### 예
--
-?end
