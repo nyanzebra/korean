@@ -2386,7 +2386,12 @@ go in and out frequently
 	- The building was requisitioned for army use.
 - 원서를 접수하다
 	- receive[accept] an application.
-- 
+- 담당관은 서류의 접수를 거부했다
+	- The official in charge refused to accept the papers.
+- 주문을 접수하다
+	- take an order.
+- 영어가 전세계를 접수하고 있다. 아니, 그런 것 같다.
+	- English is taking over the world, or so it seems.
 ?end
 
 
