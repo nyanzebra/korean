@@ -2369,7 +2369,7 @@ go in and out frequently
 - 진지 잡수셨습니까
 	- Do you have a meal?
 - 왕이 잡수시는 것, 최고로 맛있는 요리
-	- 
+	- a dish fit for a king
 ?end
 
 ## 그립다 #card
