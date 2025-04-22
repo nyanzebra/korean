@@ -2390,7 +2390,10 @@ go in and out frequently
 ### 뜻
 - miss
 ### 예
-- 
+- 그리운 사람
+	- my beloved/my dearest.
+- 그녀는 필라델피아에 정착하여 일자리를 구할 수 있었지만, 가족이 그리웠습니다.
+	- She settled in Philadelphia and was able to find work, but she missed her family
 ?end
 
 ## 접수 #card
