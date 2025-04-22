@@ -2353,7 +2353,10 @@ go in and out frequently
 ## 기르다 #card
 ?begin
 ### 뜻
--
+- raise
+- grow
+- develop
+- 
 ### 예
 -
 ?end
