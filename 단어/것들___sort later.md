@@ -2421,9 +2421,12 @@ go in and out frequently
 ### 뜻
 - debate
 - discuss
+- argue
 ### 예
 - 토론하기 시작하면 끝이 없다
 	- There is no end to argument.
+- 평화에 관해 토론하다
+	- debate on peace.
 ?end
 
 
