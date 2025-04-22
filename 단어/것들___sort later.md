@@ -2416,6 +2416,16 @@ go in and out frequently
 	- English is taking over the world, or so it seems.
 ?end
 
+## 토론하다 #card
+?begin
+### 뜻
+- debate
+- discuss
+### 예
+- 토론하기 시작하면 끝이 없다
+	- There is no end to argument.
+?end
+
 
 전립선 문제
 
