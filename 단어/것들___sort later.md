@@ -2350,6 +2350,30 @@ go in and out frequently
 	- They even sing for customers on special occasions such as birthdays.
 ?end
 
+## 기르다 #card
+?begin
+### 뜻
+-
+### 예
+-
+?end
+
+## 잡수다 #card
+?begin
+### 뜻
+-
+### 예
+-
+?end
+
+## 그립다 #card
+?begin
+### 뜻
+-
+### 예
+-
+?end
+
 
 전립선 문제
 
