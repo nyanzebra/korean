@@ -2356,9 +2356,15 @@ go in and out frequently
 - raise
 - grow
 - develop
-- 
+- breed 
+- foster 
 ### 예
--
+- 머리를 기르다
+	- let one's hair grow
+- 어학 실력을 기르다
+	- acquire linguistic skill/gain ability in a language. 
+- 어릴 때부터 길러 온 운동 선수
+	- 
 ?end
 
 ## 잡수다 #card
