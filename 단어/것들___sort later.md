@@ -2374,6 +2374,21 @@ go in and out frequently
 -
 ?end
 
+## 접수 #card
+?begin
+### 뜻
+- receive
+- accept
+- receipt
+- take over
+### 예
+- 그 건물은 군용으로 접수되었다
+	- The building was requisitioned for army use.
+- 원서를 접수하다
+	- receive[accept] an application.
+- 
+?end
+
 
 전립선 문제
 
