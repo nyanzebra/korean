@@ -1832,7 +1832,7 @@ go in and out frequently
 - It doesn't feel real somehow?
 ### 예
 -
-<!--SR:!2025-04-18,1,228-->
+<!--SR:!2025-04-23,2,228-->
 ?end
 
 
