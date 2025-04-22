@@ -48,7 +48,7 @@
 	- steady demand.
 - 그러나 올 한 해 대부분은 성장이 느리지만 꾸준하게 유지될 것이다.
 	- However, the growth should remain slow but steady for much of the year.
-<!--SR:!2025-04-18,2,249-->
+<!--SR:!2025-04-26,5,249-->
 ?end
 
 
@@ -331,7 +331,7 @@
 	- It is a long time since we met
 - 바퀴를 한 번만 움직이면 타성으로 한참 동안 돌아간다
 	- Once you set a wheel in motion, it will keep turning for quite a while because of inertia.
-<!--SR:!2025-04-19,2,249-->
+<!--SR:!2025-04-26,5,249-->
 ?end
 
 

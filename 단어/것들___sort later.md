@@ -363,7 +363,7 @@
 - physically or emotionally comfortable
 ### 예
 -
-<!--SR:!2025-04-20,8,250-->
+<!--SR:!2025-05-11,20,250-->
 ?end
 
 
@@ -2249,7 +2249,7 @@ go in and out frequently
 	- creative instinct
 - 모성 본능
 	- a maternal instinct
-<!--SR:!2025-04-19,5,231-->
+<!--SR:!2025-05-04,13,231-->
 ?end
 
 
