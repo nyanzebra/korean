@@ -2364,7 +2364,11 @@ go in and out frequently
 - 어학 실력을 기르다
 	- acquire linguistic skill/gain ability in a language. 
 - 어릴 때부터 길러 온 운동 선수
-	- 
+	- an athlete trained (by a coach) since he was young.
+- 자전거를 타거나, 악기를 연주하는 법을 배우거나, 애완동물을 기르세요.
+	- Ride a bike, learn how to play a musical instrument, or raise a pet.
+- 첫째, 농부들은 제한된 수의 이 과일만 기를 수 있습니다.
+	- First, farmers can only grow a limited number of this fruit.
 ?end
 
 ## 잡수다 #card
@@ -2384,9 +2388,9 @@ go in and out frequently
 ## 그립다 #card
 ?begin
 ### 뜻
--
+- miss
 ### 예
--
+- 
 ?end
 
 ## 접수 #card
