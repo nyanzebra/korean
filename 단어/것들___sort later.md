@@ -1470,7 +1470,7 @@ go in and out frequently
 - 이것은 정직한 사람이 손해를 보는 좋은 예다
 	- This is a good example of a case in which honesty doesn't pay.
 -
-<!--SR:!2025-04-21,5,249-->
+<!--SR:!2025-05-06,11,249-->
 ?end
 
 
