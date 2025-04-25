@@ -893,7 +893,7 @@ go in and out frequently
 	- Korea coach Cho plans to use a quick offense to determine the game.
 - 플레이오프 기간 동안 4팀이 승부를 겨룬다.
 	- Four teams are competing in the playoffs.
-<!--SR:!2025-04-22,5,249-->
+<!--SR:!2025-05-11,16,269-->
 ?end
 
 
@@ -1185,7 +1185,7 @@ go in and out frequently
 	- Though he eventually recovered from the infection, the toll on his body led to him being unable to recover from sepsis, which ultimately took his life.
 - 하지만, 결국 관계는 자존심보다 더 중요하게 여겨져야 합니다.
 	- But, in the end, the relationship should be more important than one’s own pride
-<!--SR:!2025-04-19,7,250-->
+<!--SR:!2025-05-20,25,270-->
 ?end
 
 
@@ -1483,7 +1483,7 @@ go in and out frequently
 	- People jokingly said the two chose different food at a cafeteria on purpose.
 - 일부러 정보를 주지 않는 것이 관객들이 몰입하게 합니다.
 	- You know, doing that intentionally is much more engaging.
-<!--SR:!2025-04-22,7,250-->
+<!--SR:!2025-05-12,17,250-->
 ?end
 
 
