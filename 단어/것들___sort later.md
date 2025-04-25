@@ -423,7 +423,7 @@
 ### 예
 - 그의 정열적인 포옹으로 그녀는 숨도 쉴 수 없었다
 	- His passionate embrace took her breath away./He took her breath away with a passionate embrace.
-<!--SR:!2025-04-24,8,250-->
+<!--SR:!2025-05-16,21,250-->
 ?end
 
 
@@ -514,7 +514,7 @@
 	- I am hoping against hope that he will come back.
 - 내게 너무 기대하지 말게
 	- Don't expect too much of me.
-<!--SR:!2025-04-22,5,249-->
+<!--SR:!2025-05-07,12,249-->
 ?end
 
 
@@ -689,7 +689,7 @@
 - 별로 그렇게까지 (not so much)?
 ### 예
 -
-<!--SR:!2025-04-24,8,250-->
+<!--SR:!2025-05-16,21,250-->
 ?end
 
 
@@ -1843,7 +1843,7 @@ go in and out frequently
 - some time ago?
 ### 예
 -
-<!--SR:!2025-04-22,7,250-->
+<!--SR:!2025-05-13,18,250-->
 ?end
 
 
