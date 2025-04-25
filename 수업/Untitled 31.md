@@ -25,3 +25,5 @@ Kyunghee Min (Apr 24, 2025, 17:19)
 Kyunghee Min (Apr 24, 2025, 17:26)
 
 허락하다/허락
+자원봉사하다
+듣기 숙제 
