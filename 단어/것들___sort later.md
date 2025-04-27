@@ -904,6 +904,7 @@ go in and out frequently
 - come/go by walking/foot
 ### 예
 -
+<!--SR:!2025-04-29,2,248-->
 ?end
 
 
