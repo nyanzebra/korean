@@ -2478,7 +2478,10 @@ go in and out frequently
 - reconcile
 - make peace
 ### 예
--
+- 결국 그들 두 사람은 화해했다
+	- They were reconciled in the end.
+- 두 국가는 제3국의 중재로 화해했다
+	- The two nations made peace with each other through the mediation of the third nation.
 ?end
 
 
