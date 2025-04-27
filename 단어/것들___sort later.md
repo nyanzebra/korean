@@ -2388,17 +2388,6 @@ go in and out frequently
 	- a dish fit for a king
 ?end
 
-## 그립다 #card
-?begin
-### 뜻
-- miss
-### 예
-- 그리운 사람
-	- my beloved/my dearest.
-- 그녀는 필라델피아에 정착하여 일자리를 구할 수 있었지만, 가족이 그리웠습니다.
-	- She settled in Philadelphia and was able to find work, but she missed her family
-?end
-
 ## 접수 #card
 ?begin
 ### 뜻
@@ -2419,18 +2408,7 @@ go in and out frequently
 	- English is taking over the world, or so it seems.
 ?end
 
-## 토론하다 #card
-?begin
-### 뜻
-- debate
-- discuss
-- argue
-### 예
-- 토론하기 시작하면 끝이 없다
-	- There is no end to argument.
-- 평화에 관해 토론하다
-	- debate on peace.
-?end
+
 
 ## 제도 #card
 ?begin
