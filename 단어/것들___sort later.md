@@ -1396,7 +1396,7 @@ go in and out frequently
 - change clothes
 ### 예
 -
-<!--SR:!2025-04-19,2,248-->
+<!--SR:!2025-05-01,5,248-->
 ?end
 
 
