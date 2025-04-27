@@ -331,7 +331,7 @@
 	- It is a long time since we met
 - 바퀴를 한 번만 움직이면 타성으로 한참 동안 돌아간다
 	- Once you set a wheel in motion, it will keep turning for quite a while because of inertia.
-<!--SR:!2025-04-26,5,249-->
+<!--SR:!2025-05-09,13,249-->
 ?end
 
 

@@ -1780,7 +1780,7 @@ go in and out frequently
 ### 예
 - 장단을 맞추다
 	- beat a rhythm
-<!--SR:!2025-04-23,7,250-->
+<!--SR:!2025-05-13,17,250-->
 ?end
 
 
