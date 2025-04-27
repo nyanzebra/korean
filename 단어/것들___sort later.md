@@ -2441,6 +2441,10 @@ go in and out frequently
 ### 예
 - 그런 제도는 즉시 폐기해 버려라
 	- Abolish such a system at once
+- 의회 제도
+	- the parliamentary system
+- 노예 제도를 폐하다
+	- abolish slavery.
 ?end
 
 
