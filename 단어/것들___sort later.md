@@ -1112,7 +1112,7 @@ go in and out frequently
 	- Some armed agents infiltrated Seoul.
 - 그는 결사의 각오로 적지에 잠입하였다
 	- He smuggled himself into enemy territory, ready to die if necessary.
-<!--SR:!2025-04-22,5,249-->
+<!--SR:!2025-05-07,11,249-->
 ?end
 
 
