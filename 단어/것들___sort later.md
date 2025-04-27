@@ -1715,6 +1715,7 @@ go in and out frequently
 	- He attempted to translate all the works of Shakespeare.
 - 처음에 실패해도 또 다시 시도해보아라
 	- If at first you don't succeed, (try,) try again.
+<!--SR:!2025-04-29,2,248-->
 ?end
 
 
