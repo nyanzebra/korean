@@ -449,5 +449,6 @@
 ### 뜻
 - more than anything
 ### 예
--
+- 무엇보다도 사랑해
+	- I love you more than anything
 ?end
