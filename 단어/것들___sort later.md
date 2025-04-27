@@ -2447,44 +2447,6 @@ go in and out frequently
 	- abolish slavery.
 ?end
 
-## 다투다 #card
-?begin
-### 뜻
-- fight
-- argue
-- compete
-### 예
-- 그는 언제나 부모님, 특히 아버지와 다툰다.
-	- He is always fighting with his parents, especially his father.
-- 잡 코리아는 또한 부부 중 69퍼센트가 집안 일을 두고 다툰다고 보도했다.
-	- Job Korea also reported that 69 percent of couples argue over housework
-- 참가 선수들은 수도 아테네를 비롯한 기타 4개 고대 도시의 35개 경기장에서 28개 종목에서 금메달을 다투게 된다.
-	- The athletes will compete for glory in 28 sports at 35 venues around the Greek capital and in four other old cities.
-?end
-
-## 반대하다 #card
-?begin
-### 뜻
-- oppose
-### 예
-- 그 정책에 지금은 반대하지 마라 지금은 풍파를 일으킬 때가 아니다
-	- Don't object to the policy now. This isn't the time to make waves.
-- 위와 같은 이유로 나는 반대한다
-	- I am opposed to it for the above reasons.
-?end
-## 화해하다 #card
-?begin
-### 뜻
-- reconcile
-- make peace
-### 예
-- 결국 그들 두 사람은 화해했다
-	- They were reconciled in the end.
-- 두 국가는 제3국의 중재로 화해했다
-	- The two nations made peace with each other through the mediation of the third nation.
-?end
-
-
 전립선 문제
 
 불다 blow 부르다 call 버리다 toss/completely 벌다 earn
