@@ -1200,7 +1200,7 @@ go in and out frequently
 	- The warmer weather makes them feel slower and more tired.
 - 너 참 둔하구나
 	- You are so oblivious.
-<!--SR:!2025-04-20,8,250-->
+<!--SR:!2025-05-17,21,250-->
 ?end
 
 
@@ -1962,7 +1962,7 @@ go in and out frequently
 - roof
 ### 예
 -
-<!--SR:!2025-04-21,5,249-->
+<!--SR:!2025-05-09,13,249-->
 ?end
 
 
