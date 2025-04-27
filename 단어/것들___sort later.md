@@ -2458,7 +2458,8 @@ go in and out frequently
 	- He is always fighting with his parents, especially his father.
 - 잡 코리아는 또한 부부 중 69퍼센트가 집안 일을 두고 다툰다고 보도했다.
 	- Job Korea also reported that 69 percent of couples argue over housework
-- 
+- 참가 선수들은 수도 아테네를 비롯한 기타 4개 고대 도시의 35개 경기장에서 28개 종목에서 금메달을 다투게 된다.
+	- The athletes will compete for glory in 28 sports at 35 venues around the Greek capital and in four other old cities.
 ?end
 
 
