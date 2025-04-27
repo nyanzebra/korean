@@ -2432,6 +2432,14 @@ go in and out frequently
 	- debate on peace.
 ?end
 
+## 단어 #card
+?begin
+### 뜻
+-
+### 예
+-
+?end
+
 
 전립선 문제
 
