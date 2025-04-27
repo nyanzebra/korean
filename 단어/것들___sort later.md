@@ -2432,12 +2432,15 @@ go in and out frequently
 	- debate on peace.
 ?end
 
-## 단어 #card
+## 제도 #card
 ?begin
 ### 뜻
--
+- policy
+- system
+- institution
 ### 예
--
+- 그런 제도는 즉시 폐기해 버려라
+	- Abolish such a system at once
 ?end
 
 
