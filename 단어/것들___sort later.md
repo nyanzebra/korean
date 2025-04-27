@@ -2462,6 +2462,17 @@ go in and out frequently
 	- The athletes will compete for glory in 28 sports at 35 venues around the Greek capital and in four other old cities.
 ?end
 
+## 반대하다 #card
+?begin
+### 뜻
+- oppose
+### 예
+- 그 정책에 지금은 반대하지 마라 지금은 풍파를 일으킬 때가 아니다
+	- Don't object to the policy now. This isn't the time to make waves.
+- 위와 같은 이유로 나는 반대한다
+	- I am opposed to it for the above reasons.
+?end
+
 
 전립선 문제
 
