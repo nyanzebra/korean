@@ -2425,6 +2425,18 @@ go in and out frequently
 	- abolish slavery.
 ?end
 
+## 몰래 #card
+?begin
+### 뜻
+- secret
+### 예
+- 현장을 몰래 찍은 동영상에는 이들이 한 방에 둘러앉아 담배를 피우며 도박을 하는 모습이 고스란히 담겨 있었다.
+	- In video footage taken secretly, they gambled in a room while smoking.
+- 이 네 명은 이웃집의 마당에 몰래 들어가기 위해서 만나기로 되어 있었다.
+	- The four of them were supposed to meet to sneak into a neighbor's yard
+?end
+
+
 전립선 문제
 
 불다 blow 부르다 call 버리다 toss/completely 벌다 earn
