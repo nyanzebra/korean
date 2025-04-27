@@ -2447,6 +2447,17 @@ go in and out frequently
 	- abolish slavery.
 ?end
 
+## 다투다 #card
+?begin
+### 뜻
+- fight
+- argue
+- compete
+### 예
+- 그는 언제나 부모님, 특히 아버지와 다툰다.
+	- He is always fighting with his parents, especially his father.
+- 
+?end
 
 
 전립선 문제
