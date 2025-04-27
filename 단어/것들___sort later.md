@@ -2456,6 +2456,8 @@ go in and out frequently
 ### 예
 - 그는 언제나 부모님, 특히 아버지와 다툰다.
 	- He is always fighting with his parents, especially his father.
+- 잡 코리아는 또한 부부 중 69퍼센트가 집안 일을 두고 다툰다고 보도했다.
+	- Job Korea also reported that 69 percent of couples argue over housework
 - 
 ?end
 
