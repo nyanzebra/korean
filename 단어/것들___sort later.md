@@ -2472,6 +2472,14 @@ go in and out frequently
 - 위와 같은 이유로 나는 반대한다
 	- I am opposed to it for the above reasons.
 ?end
+## 화해하다 #card
+?begin
+### 뜻
+- reconcile
+- make peace
+### 예
+-
+?end
 
 
 전립선 문제
