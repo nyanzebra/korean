@@ -2434,6 +2434,8 @@ go in and out frequently
 	- In video footage taken secretly, they gambled in a room while smoking.
 - 이 네 명은 이웃집의 마당에 몰래 들어가기 위해서 만나기로 되어 있었다.
 	- The four of them were supposed to meet to sneak into a neighbor's yard
+- 그래서 저는 몰래 줄을 매달고 허락없이 곡예를 했습니다.
+	- So I started putting a wire up in secret and performing without permission.
 ?end
 
 
