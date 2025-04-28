@@ -480,6 +480,8 @@
 ### 예
 - 이 그림은 사실파적이라기보다는 오히려 인상파적이다
 	- This picture is impressionistic rather than realistic
+- 오히려 제가 감사하죠
+	- rather I am grateful
 ?end
 
 ## 차라리 #card
