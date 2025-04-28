@@ -2438,6 +2438,15 @@ go in and out frequently
 	- So I started putting a wire up in secret and performing without permission.
 ?end
 
+## 대하다 #card
+?begin
+### 뜻
+- about
+- against
+- toward
+### 예
+-
+?end
 
 
 전립선 문제
