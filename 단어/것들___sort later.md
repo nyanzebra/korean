@@ -2465,7 +2465,12 @@ go in and out frequently
 - receive
 - claim
 ### 예
--
+- 점수를 많이 따다
+	- receive/get a good score
+- 병마개를 따다
+	- pull a cork/top
+- 그는 서울 올림픽에서 금메달을 땄다
+	- 
 ?end
 
 
