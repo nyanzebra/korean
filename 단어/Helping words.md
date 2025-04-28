@@ -464,6 +464,10 @@
 	- Please go instead of me, for they will recognize me.
 - 그는 특별히 재능이 있는 것은 아니나 그 대신 여간 열심히 노력하는 것이 아니다
 	- He is not particularly talented, but he more than makes up for it with hard work.
+- 그녀가 가사를 돌봐 주는 대신 나는 그녀에게 영어를 가르쳐 주고 있다
+	- I teach her English in exchange for[in return for] her help with housekeeping.
+- 언젠가는 석유 대신 태양 에너지로 바뀔 것이다
+	- Eventually oil will probably be replaced by solar energy.
 - 
 ?end
 
