@@ -468,7 +468,8 @@
 	- I teach her English in exchange for[in return for] her help with housekeeping.
 - 언젠가는 석유 대신 태양 에너지로 바뀔 것이다
 	- Eventually oil will probably be replaced by solar energy.
-- 
+- 나는 그를 대신해서 책임을 질 생각이다
+	- I intend to take the blame for[in place of] him.
 ?end
 
 ## 오히려 #card
