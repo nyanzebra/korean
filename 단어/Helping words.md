@@ -453,12 +453,22 @@
 	- I love you more than anything
 ?end
 
-## 오히려 #card
+## 대신 #card
 ?begin
 ### 뜻
 -
 ### 예
 -
+?end
+
+## 오히려 #card
+?begin
+### 뜻
+- rather
+- 
+### 예
+- 이 그림은 사실파적이라기보다는 오히려 인상파적이다
+	- This picture is impressionistic rather than realistic
 ?end
 
 ## 차라리 #card
