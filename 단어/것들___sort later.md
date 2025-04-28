@@ -1868,6 +1868,7 @@ go in and out frequently
 - over-reacting
 ### 예
 -
+<!--SR:!2025-05-01,3,268-->
 ?end
 
 
