@@ -2450,7 +2450,9 @@ go in and out frequently
 - 우연히 무언가를 발명하거나 발견한 사람들에 대한 재미있는 이야기가 많이 있다.
 	- There are many funny stories about people who invented or discovered things accidentally.
 - 러시아에 대한 각종 제재와 제한으로 러시아 선수들도 고통을 받고 있다.
-	- 
+	- With various sanctions and restrictions being used against Russia, its athletes are also suffering.
+- 마지막으로, 인터넷에서 사람들에게 친절하게 대하세요.
+	- Finally, be kind to people on the internet.
 ?end
 
 
