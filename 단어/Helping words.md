@@ -503,5 +503,8 @@
 	- Why don't you put it into practice instead of quibbling?
 - 자기의 신념을 실천하다
 	- live up to one's beliefs
-- 
+- 마땅히 소신대로 곧 실천해야 한다
+	- It is imperative that you should immediately carry your conviction into effect.
+- 철리를 실천하다
+	- carry one's philosophy into action.
 ?end
