@@ -458,8 +458,13 @@
 ### 뜻
 - instead of
 - replace
+- in lieu of
 ### 예
--
+- 그들이 내 얼굴을 알아 볼 테니 자네가 대신 가 주게
+	- Please go instead of me, for they will recognize me.
+- 그는 특별히 재능이 있는 것은 아니나 그 대신 여간 열심히 노력하는 것이 아니다
+	- He is not particularly talented, but he more than makes up for it with hard work.
+- 
 ?end
 
 ## 오히려 #card
