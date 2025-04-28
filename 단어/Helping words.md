@@ -452,3 +452,19 @@
 - 무엇보다도 사랑해
 	- I love you more than anything
 ?end
+
+## 오히려 #card
+?begin
+### 뜻
+-
+### 예
+-
+?end
+
+## 차라리 #card
+?begin
+### 뜻
+-
+### 예
+-
+?end
