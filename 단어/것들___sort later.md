@@ -2453,6 +2453,8 @@ go in and out frequently
 	- With various sanctions and restrictions being used against Russia, its athletes are also suffering.
 - 마지막으로, 인터넷에서 사람들에게 친절하게 대하세요.
 	- Finally, be kind to people on the internet.
+- 사람을 대하기 싫어하다
+	- don't like t
 ?end
 
 
