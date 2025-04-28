@@ -2470,7 +2470,9 @@ go in and out frequently
 - 병마개를 따다
 	- pull a cork/top
 - 그는 서울 올림픽에서 금메달을 땄다
-	- 
+	- He won a gold medal at[in] the Seoul Olympics.
+- 남의 글귀를 따다
+	- steal another's words/plagiarize.
 ?end
 
 
