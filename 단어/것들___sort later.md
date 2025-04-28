@@ -2454,7 +2454,7 @@ go in and out frequently
 - 마지막으로, 인터넷에서 사람들에게 친절하게 대하세요.
 	- Finally, be kind to people on the internet.
 - 사람을 대하기 싫어하다
-	- don't like t
+	- don't like to treat/receive people
 ?end
 
 
