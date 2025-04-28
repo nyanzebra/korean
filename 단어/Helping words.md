@@ -496,7 +496,12 @@
 ## 실천하다 #card
 ?begin
 ### 뜻
-- put in pract
+- put in practice
+- follow through with
 ### 예
--
+- 궤변만 늘어놓지 말고 한번 실천해 보면 어떠하냐
+	- Why don't you put it into practice instead of quibbling?
+- 자기의 신념을 실천하다
+	- live up to one's beliefs
+- 
 ?end
