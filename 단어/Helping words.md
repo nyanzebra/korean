@@ -492,3 +492,11 @@
 - 수치를 당하느니 차라리 죽는 것이 낫다
 	- Death is preferable to dishonor. 
 ?end
+
+## 실천하다 #card
+?begin
+### 뜻
+- put in pract
+### 예
+-
+?end
