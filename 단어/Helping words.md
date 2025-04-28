@@ -456,7 +456,8 @@
 ## 대신 #card
 ?begin
 ### 뜻
--
+- instead of
+- replace
 ### 예
 -
 ?end
@@ -474,7 +475,8 @@
 ## 차라리 #card
 ?begin
 ### 뜻
--
+- rather
 ### 예
--
+- 수치를 당하느니 차라리 죽는 것이 낫다
+	- Death is preferable to dishonor. 
 ?end
