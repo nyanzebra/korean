@@ -2457,6 +2457,17 @@ go in and out frequently
 	- don't like to treat/receive people
 ?end
 
+## 따다 #card
+?begin
+### 뜻
+- win
+- pick
+- receive
+- claim
+### 예
+-
+?end
+
 
 전립선 문제
 
