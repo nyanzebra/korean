@@ -647,6 +647,7 @@
 	- rack one's brains all day long.
 - 목소리를 쥐어짜다
 	- strain one's voice.
+<!--SR:!2025-04-30,2,248-->
 ?end
 
 
