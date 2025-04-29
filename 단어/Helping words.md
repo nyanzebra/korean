@@ -452,6 +452,7 @@
 ### 예
 - 무엇보다도 사랑해
 	- I love you more than anything
+<!--SR:!2025-04-30,2,249-->
 ?end
 
 ## 대신 #card
