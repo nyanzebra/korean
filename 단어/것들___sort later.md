@@ -444,6 +444,7 @@
 ### 예
 - 효자가 충신이 된다
 	- A good son will make a good subject.
+<!--SR:!2025-05-04,2,249-->
 ?end
 
 
@@ -1354,6 +1355,7 @@ go in and out frequently
 	- consult one's aides.
 - 변호사와 의논하다
 	- consult a lawyer.
+<!--SR:!2025-05-04,2,249-->
 ?end
 
 
