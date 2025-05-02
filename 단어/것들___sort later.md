@@ -2230,7 +2230,7 @@ go in and out frequently
   - reduce the staff
 - 인원이 너무 많다
   - be overstaffed
-<!--SR:!2025-05-01,5,230-->
+<!--SR:!2025-05-15,13,230-->
 ?end
 
 
@@ -2478,7 +2478,7 @@ go in and out frequently
 	- He won a gold medal at[in] the Seoul Olympics.
 - 남의 글귀를 따다
 	- steal another's words/plagiarize.
-<!--SR:!2025-04-30,2,248-->
+<!--SR:!2025-05-07,5,248-->
 ?end
 
 
