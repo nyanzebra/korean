@@ -1148,6 +1148,7 @@ go in and out frequently
 	- Some of them are people that he knows, while others are strangers to him.
 - 그러나 나머지 한국 기업들은 인지도가 낮으며 규모도 매우 작다"고 이 연구원은 말했다.
 	- But the rest are pretty insufficient and very small in scale, said Lee.
+<!--SR:!2025-05-04,2,249-->
 ?end
 
 
@@ -2366,19 +2367,20 @@ go in and out frequently
 - raise
 - grow
 - develop
-- breed 
-- foster 
+- breed
+- foster
 ### 예
 - 머리를 기르다
 	- let one's hair grow
 - 어학 실력을 기르다
-	- acquire linguistic skill/gain ability in a language. 
+	- acquire linguistic skill/gain ability in a language.
 - 어릴 때부터 길러 온 운동 선수
 	- an athlete trained (by a coach) since he was young.
 - 자전거를 타거나, 악기를 연주하는 법을 배우거나, 애완동물을 기르세요.
 	- Ride a bike, learn how to play a musical instrument, or raise a pet.
 - 첫째, 농부들은 제한된 수의 이 과일만 기를 수 있습니다.
 	- First, farmers can only grow a limited number of this fruit.
+<!--SR:!2025-05-03,1,229-->
 ?end
 
 ## 잡수다 #card
