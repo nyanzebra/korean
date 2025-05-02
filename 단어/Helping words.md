@@ -252,7 +252,7 @@
   - But the seemingly humble beginning led to realization of his childhood dream.
 - 겉보기보단 더 먹었어요
   - I'm older than I look.
-<!--SR:!2025-05-01,5,230-->
+<!--SR:!2025-05-14,12,230-->
 ?end
 
 
@@ -268,7 +268,7 @@
   - This book is too difficult for me to read.
 - 그 일은 워낙 명백해서 증거를 댈 필요도 없다
   - It is too evident to require proof.
-<!--SR:!2025-05-02,18,250-->
+<!--SR:!2025-07-04,63,270-->
 ?end
 
 
