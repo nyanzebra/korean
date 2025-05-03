@@ -527,6 +527,7 @@
 ### 예
 - 부자간의 멋진 대화를 나눠야죠
 	- We'll have a nice father-son chat.
+<!--SR:!2025-05-04,2,248-->
 ?end
 
 
