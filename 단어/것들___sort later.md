@@ -1834,7 +1834,7 @@ go in and out frequently
 - private tutoring
 ### 예
 -
-<!--SR:!2025-05-03,12,249-->
+<!--SR:!2025-06-02,29,249-->
 ?end
 
 
