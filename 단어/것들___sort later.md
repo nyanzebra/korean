@@ -2383,7 +2383,7 @@ go in and out frequently
 	- Ride a bike, learn how to play a musical instrument, or raise a pet.
 - 첫째, 농부들은 제한된 수의 이 과일만 기를 수 있습니다.
 	- First, farmers can only grow a limited number of this fruit.
-<!--SR:!2025-05-03,1,229-->
+<!--SR:!2025-05-06,2,229-->
 ?end
 
 ## 잡수다 #card
