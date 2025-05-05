@@ -3,13 +3,14 @@
 ### Usage
 #### 네요
 #### 군요 / 구나
+-군요 / -구나 is another way of expressing surprise, but it’s generally used in more formal situations (although you can use it informally if you wanted to).
 ### Form
 #### 네요
 #### 군요 / 구나
-| -   | 과거          | 현재  |
-| --- | ----------- | --- |
-| 동사  | 했는군요 / 했는구나 |     |
-| 형용사 | 바빴군요/바빴구나   | 바쁘  |
+| -   | 과거          | 현재          |
+| --- | ----------- | ----------- |
+| 동사  | 했는군요 / 했는구나 | 하는군요 / 하는구나 |
+| 형용사 | 바빴군요 / 바빴구나 | 바쁘군요 / 바쁘구나 |
 ### Restrictions
 ### Examples
 #### 네요
