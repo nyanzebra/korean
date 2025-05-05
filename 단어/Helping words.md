@@ -514,9 +514,15 @@
 ## 충분하다 #card
 ?begin
 ### 뜻
--
+- enough
+- sufficient
 ### 예
--
+- 그가 없어도 충분하다
+	- We can do well without him.
+- 로켓은 중력권을 탈출할 만한 충분한 속력을 내지 못했다
+	- The rocket failed to attain[gather] enough velocity to escape the sphere of gravity.
+- 충분한 자산
+	- 
 ?end
 
 ## 불충분하다 #card
@@ -533,6 +539,5 @@
 - 그리고 나는 이것이 절대적으로 불충분하다고 여기기 때문에 염려스럽습니다.
 	- And I am really afraid that it's absolutely not enough.
 - 경험주의론은 불충분한데 그 이유는 과학적 이론은 눈에 보이는 것을 눈에 보이지 않는 것들을 통해 설명하기 때문입니다.
-- Empiricism is inadequate because, well, scientific theories explain the seen in terms of the unseen.
-	- 
+	- Empiricism is inadequate because, well, scientific theories explain the seen in terms of the unseen.
 ?end
