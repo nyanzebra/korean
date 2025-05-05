@@ -6,16 +6,17 @@
 ### Form
 #### 네요
 #### 군요 / 구나
+
 ### Restrictions
 ### Examples
 #### 네요
 #### 군요 / 구나
-- **방이 너무 크군요. = The room is so big.**
-
-- This sentence gives the feeling of “I didn’t realize the room was so big.” or “I noticed that the room is really big.”
-
-- **농구를 잘 하는구나. = You play basketball well.
-	- Gives nuance of “I didn’t know you could play basketball.” or “I just noticed that you play basketball really well.”
+- 방이 너무 크군요.
+	- The room is so big.
+		- This sentence gives the feeling of “I didn’t realize the room was so big.” or “I noticed that the room is really big.”
+- 농구를 잘 하는구나. 
+	- You play basketball well.
+		- Gives nuance of “I didn’t know you could play basketball.” or “I just noticed that you play basketball really well.”
 - 이 케이크 진짜 맛있군요. 
 	- This cake is really delicious.
 - 그렇구나.
