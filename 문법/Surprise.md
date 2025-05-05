@@ -6,6 +6,11 @@
 -군요 / -구나 is another way of expressing surprise, but it’s generally used in more formal situations (although you can use it informally if you wanted to).
 ### Form
 #### 네요
+| -   | 과거          | 현재          |
+| --- | ----------- | ----------- |
+| 동사  | 했는군요 / 했는구나 | 하는군요 / 하는구나 |
+| 형용사 | 바빴군요 / 바빴구나 | 바쁘군요 / 바쁘구나 |
+
 #### 군요 / 구나
 | -   | 과거          | 현재          |
 | --- | ----------- | ----------- |
@@ -14,8 +19,10 @@
 ### Restrictions
 ### Examples
 #### 네요
-- **학점이 진짜 좋아요. = Your grades are really good.** 
-- **학점이 진짜 좋네요. = Your grades are really good.**
+- 학점이 진짜 좋아요.
+	- Your grades are really good.
+- 학점이 진짜 좋네요. 
+	- Your grades are really good.
 
 These two sentences have the same literal translation, but the one ending in -네요 gives the nuance of “wow, your grades are really high” or “I didn’t know your grades were so high” – it expresses more surprise than the first one.
 
