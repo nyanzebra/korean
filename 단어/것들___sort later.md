@@ -2491,7 +2491,7 @@ go in and out frequently
 ## 원어 #card
 ?begin
 ### 뜻
-- native
+- native (language)
 ### 예
 - 원어민성: 두 명의 한국어-영어 이중언어자 사례연구
 	- Native-speakerness: A Case Study of Two Korean-English Bilinguals
