@@ -2,14 +2,15 @@
 ?begin
 ### Usage
 #### 네요
+If you want to express surprise in Korean, you can use -네요. This can give the nuance of “wow” or something like that.
 #### 군요 / 구나
 -군요 / -구나 is another way of expressing surprise, but it’s generally used in more formal situations (although you can use it informally if you wanted to).
 ### Form
 #### 네요
-| -   | 과거          | 현재          |
-| --- | ----------- | ----------- |
-| 동사  | 했는군요 / 했는구나 | 하는군요 / 하는구나 |
-| 형용사 | 바빴군요 / 바빴구나 | 바쁘군요 / 바쁘구나 |
+| -   | 과거   | 현재   |
+| --- | ---- | ---- |
+| 동사  | 했네요  | 하네요  |
+| 형용사 | 바빴네요 | 바쁘네요 |
 
 #### 군요 / 구나
 | -   | 과거          | 현재          |
