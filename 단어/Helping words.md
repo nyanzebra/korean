@@ -524,7 +524,15 @@
 ### 뜻
 - deficient
 - insufficient
-- incom
+- incomplete
+- inadequate
+- not enough
 ### 예
--
+- "지금까지의 감사원 조사는 불충분하고 편파적이다.
+	- So far, the board of audit's investigation appears to be insufficient and biased
+- 그리고 나는 이것이 절대적으로 불충분하다고 여기기 때문에 염려스럽습니다.
+	- And I am really afraid that it's absolutely not enough.
+- 경험주의론은 불충분한데 그 이유는 과학적 이론은 눈에 보이는 것을 눈에 보이지 않는 것들을 통해 설명하기 때문입니다.
+- Empiricism is inadequate because, well, scientific theories explain the seen in terms of the unseen.
+	- 
 ?end
