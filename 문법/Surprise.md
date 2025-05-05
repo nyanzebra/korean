@@ -14,6 +14,20 @@
 ### Restrictions
 ### Examples
 #### 네요
+- **학점이 진짜 좋아요. = Your grades are really good.** 
+- **학점이 진짜 좋네요. = Your grades are really good.**
+
+These two sentences have the same literal translation, but the one ending in -네요 gives the nuance of “wow, your grades are really high” or “I didn’t know your grades were so high” – it expresses more surprise than the first one.
+
+Let’s see more examples:
+
+- 배구를 잘 하네요. 
+	- You play volleyball well.
+		- This gives the nuance of “wow, you play volleyball well!” Maybe you previously didn’t know that your friend played so well.
+
+- 한국어가 향상되었네요. 
+	- Your Korean improved.
+		- Gives the feeling of “wow, your Korean improved! I’m pleasantly surprised that you improved so much!”
 #### 군요 / 구나
 - 방이 너무 크군요.
 	- The room is so big.
