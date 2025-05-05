@@ -510,3 +510,27 @@
 - 철리를 실천하다
 	- carry one's philosophy into action.
 ?end
+
+## 충분하다 #card
+?begin
+### 뜻
+-
+### 예
+-
+?end
+
+## 불 #card
+?begin
+### 뜻
+-
+### 예
+-
+?end
+
+## 단어 #card
+?begin
+### 뜻
+-
+### 예
+-
+?end
