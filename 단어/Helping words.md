@@ -519,18 +519,12 @@
 -
 ?end
 
-## 불 #card
+## 불충분하다 #card
 ?begin
 ### 뜻
--
-### 예
--
-?end
-
-## 단어 #card
-?begin
-### 뜻
--
+- deficient
+- insufficient
+- incom
 ### 예
 -
 ?end
