@@ -522,7 +522,9 @@
 - 로켓은 중력권을 탈출할 만한 충분한 속력을 내지 못했다
 	- The rocket failed to attain[gather] enough velocity to escape the sphere of gravity.
 - 충분한 자산
-	- 
+	- ample means.
+- 충분한[불충분한] 증거
+	- sufficient[insufficient] evidence.
 ?end
 
 ## 불충분하다 #card
