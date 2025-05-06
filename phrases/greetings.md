@@ -97,15 +97,23 @@
 ## 저랑 음악 취향이 비슷하시네요 #card
 ?begin
 ### 뜻
--
+- we have similar tastes in music
 ### 예
 -
 ?end
 
-## 단어 #card
+## 하루 만에 다 봤어요 #card
 ?begin
 ### 뜻
+- i did it all in a day
+### 예
 -
+?end
+
+## 나가기 귀찮아요 #card
+?begin
+### 뜻
+- i'm too lazy to go out
 ### 예
 -
 ?end
