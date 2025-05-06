@@ -30,10 +30,34 @@
 -
 ?end
 
-## 단어 #card
+## 제가 그랬잖아요 #card
 ?begin
 ### 뜻
+- I told you
+### 예
 -
+?end
+
+## 안 믿겨요 #card
+?begin
+### 뜻
+- i can't believe it
+### 예
+-
+?end
+
+## 장난이에요 #card
+?begin
+### 뜻
+- I'm just kidding
+### 예
+-
+?end
+
+## 완전 팬이에요 #card
+?begin
+### 뜻
+- i am a 
 ### 예
 -
 ?end
