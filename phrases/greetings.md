@@ -70,6 +70,38 @@
 -
 ?end
 
+## 전혀 신경 안 써요 #card
+?begin
+### 뜻
+- I couldn't care less
+### 예
+-
+?end
+
+## 생각보다 어렵지 않네요 #card
+?begin
+### 뜻
+- it's not as difficult as i 
+### 예
+-
+?end
+
+## 단어 #card
+?begin
+### 뜻
+-
+### 예
+-
+?end
+
+## 단어 #card
+?begin
+### 뜻
+-
+### 예
+-
+?end
+
 ## 단어 #card
 ?begin
 ### 뜻
