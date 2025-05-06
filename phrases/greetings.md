@@ -57,7 +57,15 @@
 ## 완전 팬이에요 #card
 ?begin
 ### 뜻
-- i am a 
+- i am a huge fan
+### 예
+-
+?end
+
+## 그 말 취소할게요 #card
+?begin
+### 뜻
+- i take back what I said
 ### 예
 -
 ?end
