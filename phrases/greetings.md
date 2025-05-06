@@ -81,20 +81,20 @@
 ## 생각보다 어렵지 않네요 #card
 ?begin
 ### 뜻
-- it's not as difficult as i 
+- it's not as difficult as i thought
 ### 예
 -
 ?end
 
-## 단어 #card
+## 언제쯤 도착 예정이세요? #card
 ?begin
 ### 뜻
--
+- what's you eta?
 ### 예
 -
 ?end
 
-## 단어 #card
+## 저랑 음악 취향이 비슷하시네요 #card
 ?begin
 ### 뜻
 -
