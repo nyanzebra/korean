@@ -558,7 +558,7 @@
 ### 예
 - 항상 군말없이 따라주는 네 수고는 내가 다 기억한다
 	- I remember all the trouble you've gone to to keep me company!
-<!--SR:!2025-05-04,2,248-->
+<!--SR:!2025-05-16,7,268-->
 ?end
 
 
