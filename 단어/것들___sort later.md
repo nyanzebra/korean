@@ -1150,7 +1150,7 @@ go in and out frequently
 	- Some of them are people that he knows, while others are strangers to him.
 - 그러나 나머지 한국 기업들은 인지도가 낮으며 규모도 매우 작다"고 이 연구원은 말했다.
 	- But the rest are pretty insufficient and very small in scale, said Lee.
-<!--SR:!2025-05-09,5,249-->
+<!--SR:!2025-05-25,16,269-->
 ?end
 
 
