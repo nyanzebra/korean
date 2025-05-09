@@ -190,7 +190,7 @@
   - They call us partners, but they’re treating us like slaves.
 - 애완동물은 훌륭한 동반자가 되며 모든 가족에게 환영 받는 부가물이 될 수 있습니다.
   - Pets make excellent companions and can be a welcome addition to any family.
-<!--SR:!2025-05-07,12,249-->
+<!--SR:!2025-06-21,43,269-->
 ?end
 
 
@@ -326,7 +326,7 @@
 	- My daughter looks like her, too.
 - "당신은 우리 아버지와 쏙 빼닮았습니다."라고 수치 여사가 안재욱에게 말했다.
 	- "You look just like my father," Suu Kyi told Ahn.
-<!--SR:!2025-05-06,20,250-->
+<!--SR:!2025-06-28,50,250-->
 ?end
 
 
