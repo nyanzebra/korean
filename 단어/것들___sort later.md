@@ -89,7 +89,7 @@
 	- Impartiality is absolutely essential to a judge.
 - 무사하지는 못할거야
 	- not gonna make it
-<!--SR:!2025-05-08,12,249-->
+<!--SR:!2025-06-18,40,269-->
 ?end
 
 
@@ -538,7 +538,7 @@
 - arena
 ### 예
 -
-<!--SR:!2025-05-09,13,249-->
+<!--SR:!2025-06-23,45,269-->
 ?end
 
 
