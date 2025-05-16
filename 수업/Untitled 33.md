@@ -27,3 +27,4 @@ Kyunghee Min (May 15, 2025, 17:21)
 Kyunghee Min (May 15, 2025, 17:40)
 
 이민하다/이사하다/이동하
+
