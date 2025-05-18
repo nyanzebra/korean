@@ -161,7 +161,7 @@
 ## 많이 가르쳐 주세요 / 많이 도와주세요 #card
 ?begin
 ### 뜻
--
+- Please teach me a lot / Please help out a lot
 ### 예
 -
 ?end
