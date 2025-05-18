@@ -137,7 +137,16 @@
 ## -다가 -아/어서 -게 됐습니다 #card
 ?begin
 ### 뜻
-- I ended up __ because of __
+- I ended up __ after __
 ### 예
 -
 ?end
+
+## 열심히 활동하겠습니다 #card
+?begin
+### 뜻
+- I will participate actively
+### 예
+-
+?end
+
