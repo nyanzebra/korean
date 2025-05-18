@@ -19,7 +19,7 @@
 ## 지금부터 (졸업생의 연설)이 있겠습니다 #card
 ?begin
 ### 뜻
-- Now there is going to be (a speech by one of the gradua)
+- Now there is going to be (a speech by one of the graduates)
 ### 예
 -
 ?end
@@ -27,7 +27,7 @@
 ## (여러분, 끝까지 잘 들어 주시)기 바랍니다 #card
 ?begin
 ### 뜻
--
+- Everyone, please (listen carefully to the entire speech)
 ### 예
 -
 ?end
@@ -35,7 +35,7 @@
 ## 지금부터 (4급 학생의 춤 공연)이 있겠습니다 #card
 ?begin
 ### 뜻
--
+- Now there is going to be (a dance performance by a student from level 4)
 ### 예
 -
 ?end
@@ -43,7 +43,7 @@
 ## (큰 박수로 환영해 주시)기 바랍니다 #card
 ?begin
 ### 뜻
--
+- Please (welcome them with a round of applause)
 ### 예
 -
 ?end
