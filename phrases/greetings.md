@@ -123,6 +123,21 @@
 ### 뜻
 - I am __ from __
 ### 예
-- 한국에서 온 소여
+- 한국에서 온 소연입니다
 ?end
 
+## -아/어서 -게 됐습니다 #card
+?begin
+### 뜻
+- I ended up __ because of __
+### 예
+-
+?end
+
+## -다가 -아/어서 -게 됐습니다 #card
+?begin
+### 뜻
+- I ended up __ because of __
+### 예
+-
+?end
