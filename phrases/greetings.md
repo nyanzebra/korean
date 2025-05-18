@@ -150,3 +150,18 @@
 -
 ?end
 
+## 앞으로 여러분과 잘 지냈으면 좋겠슴니다 #card
+?begin
+### 뜻
+- I hope we get along well
+### 예
+-
+?end
+
+## 많이 가르쳐 주세요 / 많이 도와주세요 #card
+?begin
+### 뜻
+-
+### 예
+-
+?end
