@@ -117,3 +117,51 @@
 ### 예
 -
 ?end
+
+## __ 에서 온 __ 입니다 #card
+?begin
+### 뜻
+- I am __ from __
+### 예
+- 한국에서 온 소연입니다
+?end
+
+## -아/어서 -게 됐습니다 #card
+?begin
+### 뜻
+- I ended up __ because of __
+### 예
+-
+?end
+
+## -다가 -아/어서 -게 됐습니다 #card
+?begin
+### 뜻
+- I ended up __ after __
+### 예
+-
+?end
+
+## 열심히 활동하겠습니다 #card
+?begin
+### 뜻
+- I will participate actively
+### 예
+-
+?end
+
+## 앞으로 여러분과 잘 지냈으면 좋겠슴니다 #card
+?begin
+### 뜻
+- I hope we get along well
+### 예
+-
+?end
+
+## 많이 가르쳐 주세요 / 많이 도와주세요 #card
+?begin
+### 뜻
+- Please teach me a lot / Please help out a lot
+### 예
+-
+?end
