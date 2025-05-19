@@ -444,7 +444,7 @@
 ### 예
 - 효자가 충신이 된다
 	- A good son will make a good subject.
-<!--SR:!2025-05-04,2,249-->
+<!--SR:!2025-05-24,5,249-->
 ?end
 
 
@@ -1279,7 +1279,7 @@ go in and out frequently
 	- The skin's a whole another thing, probably the hardest part.
 - 그리고 그와는 별개로, 저는 작곡과 단편을 썼습니다.
 	- And aside from that, I wrote music and short stories.
-<!--SR:!2025-05-09,13,249-->
+<!--SR:!2025-06-20,32,249-->
 ?end
 
 
