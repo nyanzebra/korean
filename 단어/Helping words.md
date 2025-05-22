@@ -390,7 +390,7 @@
 	- readily obey one's elders.
 - 대출금을 매월 꼬박꼬박 갚아 나가다
 	- make the monthly payment on one's loan regularly[right on time].
-<!--SR:!2025-05-13,18,250-->
+<!--SR:!2025-07-05,45,250-->
 ?end
 
 ## 왠지 #card
