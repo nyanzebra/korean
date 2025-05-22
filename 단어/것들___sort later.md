@@ -1119,7 +1119,7 @@ go in and out frequently
 	- Some armed agents infiltrated Seoul.
 - 그는 결사의 각오로 적지에 잠입하였다
 	- He smuggled himself into enemy territory, ready to die if necessary.
-<!--SR:!2025-05-07,11,249-->
+<!--SR:!2025-06-16,26,249-->
 ?end
 
 
@@ -1865,7 +1865,7 @@ go in and out frequently
 - bat (baseball)
 ### 예
 -
-<!--SR:!2025-05-07,11,249-->
+<!--SR:!2025-06-17,27,249-->
 ?end
 
 
