@@ -678,13 +678,6 @@ go in and out frequently
 ?end
 
 
-## 햇빛에 타다 #card
-?begin
-### 뜻
-- get sunburnt
-### 예
--
-?end
 
 
 ## 승부 #card
@@ -783,16 +776,6 @@ go in and out frequently
 ?end
 
 
-## 부끄럽다 #card
-?begin
-### 뜻
-- embarrassing
-- ashamed
-- shame
-### 예
-- 그녀는 질책을 받아도 부끄럽지도 않은 것 같고 사과하려고 하지도 않습니다.
-	- She never seems embarrassed about the reprimand, nor is she apologetic.
-?end
 
 
 ## 덤 #card
