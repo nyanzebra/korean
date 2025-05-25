@@ -350,8 +350,6 @@
 <!--SR:!2025-05-16,21,250-->
 ?end
 
-
-
 ## 반항 #card
 ?begin
 ### 뜻
@@ -400,19 +398,6 @@
 <!--SR:!2025-06-20,42,269-->
 ?end
 
-
-## 부자간 #card
-?begin
-### 뜻
-- father-son chat?
-### 예
-- 부자간의 멋진 대화를 나눠야죠
-	- We'll have a nice father-son chat.
-<!--SR:!2025-05-16,7,268-->
-?end
-
-
-
 ## 투기장 #card
 ?begin
 ### 뜻
@@ -422,7 +407,6 @@
 <!--SR:!2025-06-23,45,269-->
 ?end
 
-
 ## 호적까지 싹 다 긁어오고 미행도 몇 붙여봐라 #card
 ?begin
 ### 뜻
@@ -430,7 +414,6 @@
 ### 예
 -
 ?end
-
 
 ## 군말하다 #card
 ?begin
@@ -441,18 +424,6 @@
 	- I remember all the trouble you've gone to to keep me company!
 <!--SR:!2025-05-16,7,268-->
 ?end
-
-
-## 애초 #card
-?begin
-### 뜻
-- from the beginning
-- from the outset
-### 예
-- 애초부터 우리는 불공평하게 대우받았다
-	- Right from the beginning[From the very beginning] we've been unfairly treated
-?end
-
 
 ## 보살피다 #card
 ?begin

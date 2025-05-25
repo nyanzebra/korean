@@ -1,3 +1,13 @@
+## 애초 #card
+?begin
+### 뜻
+- from the beginning
+- from the outset
+### 예
+- 애초부터 우리는 불공평하게 대우받았다
+	- Right from the beginning[From the very beginning] we've been unfairly treated
+?end
+
 ## 전부 #card
 ?begin
 ### 뜻
