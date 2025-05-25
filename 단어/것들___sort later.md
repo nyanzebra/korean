@@ -775,9 +775,6 @@ go in and out frequently
 -
 ?end
 
-
-
-
 ## 덤 #card
 ?begin
 ### 뜻
