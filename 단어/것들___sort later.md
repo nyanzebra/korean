@@ -1406,9 +1406,6 @@ go in and out frequently
 <!--SR:!2025-05-13,17,250-->
 ?end
 
-
-
-
 ## 위협 #card
 ?begin
 ### 뜻
@@ -1561,16 +1558,6 @@ go in and out frequently
 ### 예
 -
 <!--SR:!2025-05-10,1,250-->
-?end
-
-
-## 옥상 #card
-?begin
-### 뜻
-- roof
-### 예
--
-<!--SR:!2025-05-09,13,249-->
 ?end
 
 
