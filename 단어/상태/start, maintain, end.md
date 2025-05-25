@@ -83,3 +83,13 @@
 - 그는 1년 동안 무결석이었다
 	- He went to work regularly[without missing a single day] for one year.
 ?end
+
+## 정상 #card
+?begin
+### 뜻
+- normalcy
+- normality
+### 예
+- 정상적으로 자랄 수 있게 잘 보살펴준 것
+	- Take good care of them so they can grow up normally.
+?end

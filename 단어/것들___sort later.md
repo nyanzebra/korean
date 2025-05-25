@@ -436,18 +436,6 @@
 	- Take good care of them so they can grow up normally.
 ?end
 
-
-## 정상 #card
-?begin
-### 뜻
-- normalcy
-- normality
-### 예
-- 정상적으로 자랄 수 있게 잘 보살펴준 것
-	- Take good care of them so they can grow up normally.
-?end
-
-
 ## 조직 #card
 ?begin
 ### 뜻
@@ -463,7 +451,6 @@
 	- organization chart
 ?end
 
-
 ## 간만 #card
 ?begin
 ### 뜻
@@ -475,17 +462,6 @@
 ?end
 
 
-## 버릇하다 #card
-?begin
-### 뜻
-- be accustomed to
-- be in the habit of
-### 예
-- 일찍 일어나 버릇하다
-	- accustom oneself to early rising
-- 규칙적인 생활을 해 버릇하다
-	- accustom oneself to a regular life.
-?end
 
 
 ## 쥐어짜다 #card
