@@ -1373,7 +1373,7 @@ Same as 상의하다 and is more like discussion
 - 나는 그 일에 관하여 친구와 상담했다
 	- I consulted with a friend of mine about the matter.
 ### Notes
-
+Normally consulting with experts, more one-sided in asking for advice
 ?end
 
 
