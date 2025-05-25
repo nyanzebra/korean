@@ -1251,38 +1251,6 @@ go in and out frequently
 <!--SR:!2025-05-27,31,270-->
 ?end
 
-
-## 정중하다 #card
-?begin
-### 뜻
-- polite
-- courteous
-### 예
-- 그니까 좀 정중해져 보세요
-<!--SR:!2025-05-22,31,270-->
-?end
-
-
-## 존경 #card
-?begin
-### 뜻
-- respect
-- admiration
-### 예
--
-?end
-
-
-## 존경심 #card
-?begin
-### 뜻
-- 존경 + 심(mind/heart)
-### 예
-- 조금이라도 존경심을 보일 순 없어?
-	- Could you show some respect?
-?end
-
-
 ## 두리번거리다 #card
 ?begin
 ### 뜻
@@ -1353,25 +1321,7 @@ go in and out frequently
 ?end
 
 
-## 적어도 #card
-?begin
-### 뜻
-- at least
-### 예
-- 적어도 하루 두 번
-	- at least twice a day
-?end
 
-
-## 기껏해야 #card
-?begin
-### 뜻
-- at most?
-### 예
-- 기껏해야 하루에 한 번
-	- at most once a day
-<!--SR:!2025-05-09,23,250-->
-?end
 
 
 ## 시도하다 #card

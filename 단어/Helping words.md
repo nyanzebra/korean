@@ -627,3 +627,23 @@
 ### 예
 -
 ?end
+
+## 적어도 #card
+?begin
+### 뜻
+- at least
+### 예
+- 적어도 하루 두 번
+	- at least twice a day
+?end
+
+
+## 기껏해야 #card
+?begin
+### 뜻
+- at most?
+### 예
+- 기껏해야 하루에 한 번
+	- at most once a day
+<!--SR:!2025-05-09,23,250-->
+?end
