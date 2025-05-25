@@ -2128,20 +2128,7 @@ Normally consulting with experts, more one-sided in asking for advice
 
 
 
-## 제도 #card
-?begin
-### 뜻
-- policy
-- system
-- institution
-### 예
-- 그런 제도는 즉시 폐기해 버려라
-	- Abolish such a system at once
-- 의회 제도
-	- the parliamentary system
-- 노예 제도를 폐하다
-	- abolish slavery.
-?end
+
 
 ## 몰래 #card
 ?begin
