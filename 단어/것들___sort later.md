@@ -1664,14 +1664,6 @@ Normally consulting with experts, more one-sided in asking for advice
 ?end
 
 
-## 오바하다 #card
-?begin
-### 뜻
-- over-reacting
-### 예
--
-<!--SR:!2025-05-11,9,268-->
-?end
 
 
 ## 챙기다 #card
@@ -1699,15 +1691,7 @@ Normally consulting with experts, more one-sided in asking for advice
 ?end
 
 
-## 긴장 #card
-?begin
-### 뜻
-- nervous
-- strain
-- tension
-### 예
--
-?end
+
 
 
 ## 함정 #card
@@ -1796,20 +1780,7 @@ Normally consulting with experts, more one-sided in asking for advice
 ?end
 
 
-## 인연 #card
-?begin
-### 뜻
-- connection
-- tie
-- bond
-- relationship
-### 예
-- 라이샤워는 1939년 한국어의 로마자 표기법인 매쿤-라이샤워 표기법을 제안한 학자로서 한국과도 인연이 있다.
-  - He also has a relationship with Korea because he proposed McCune-Reischauer Romanization for Korean in 1939.
-- 하지만, 두 사람은 예상치 못한 인연을 맺게 된다.
-  - But, the two develop an unexpected connection with each other.
-<!--SR:!2025-07-03,44,269-->
-?end
+
 
 
 ## 또래들 #card
