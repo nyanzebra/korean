@@ -2497,6 +2497,16 @@ go in and out frequently
 	- Native-speakerness: A Case Study of Two Korean-English Bilinguals
 ?end
 
+## 바퀴 #card
+?begin
+### 뜻
+- a turn
+- wheel
+- round
+### 예
+-
+?end
+
 
 전립선 문제
 
