@@ -1115,48 +1115,6 @@ go in and out frequently
 	- In the field of modern technology, Korea is not behind other countries.
 ?end
 
-
-## 의논하다 #card
-?begin
-### 뜻
-- talk
-- consult / discuss
-### 예
-- 측근과 의논하다
-	- consult one's aides.
-- 변호사와 의논하다
-	- consult a lawyer.
-### Notes
-This is maybe more like discuss with
-<!--SR:!2025-05-04,2,249-->
-?end
-
-## 상의하다 #card
-?begin
-### 뜻
-- consult
-### 예
-- 가족과 상의 후 결정하고 싶다.
-	- I want to make a decision after consulting with my family
-### Notes
-This is more equal ground and involved with getting permission or sharing equally amongst each other
-?end
-
-
-##   상담하다 / 상담받다 #card
-?begin
-### 뜻
-- counsel (do/get)
-### 예
-- 상담을 진행하다
-	- go ahead with a business talk.
-- 나는 그 일에 관하여 친구와 상담했다
-	- I consulted with a friend of mine about the matter.
-### Notes
-Normally consulting with experts, more one-sided in asking for advice
-?end
-
-
 ## 꿇리다 #card
 ?begin
 ### 뜻
