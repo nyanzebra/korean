@@ -1779,19 +1779,6 @@ Normally consulting with experts, more one-sided in asking for advice
 -
 ?end
 
-
-
-
-
-## 또래들 #card
-?begin
-### 뜻
-- peers
-### 예
--
-?end
-
-
 ## 속이다 #card
 ?begin
 ### 뜻
@@ -1803,17 +1790,6 @@ Normally consulting with experts, more one-sided in asking for advice
 - 사람들은 밤늦게까지 휴대전화를 사용할 뿐만 아니라 휴대전화의 불빛이 우리의 뇌를 속여 아직 낮이라고 착각하게 만듭니다.
   - Not only do people use their cell phones late into the night, but the light from your phone tricks your brain into thinking it’s still daytime.
 ?end
-
-
-## 모쏘 #card
-?begin
-### 뜻
-- forever alone (from birth solo)
-### 예
--
-<!--SR:!2025-05-17,21,250-->
-?end
-
 
 ## 본론 #card
 ?begin
@@ -1876,16 +1852,6 @@ Normally consulting with experts, more one-sided in asking for advice
 ?end
 
 
-## 고백하다 #card
-?begin
-### 뜻
-- confess
-- confession
-### 예
-- 일이 여기에 이르고 보니 나는 모든 것을 고백할 수밖에 없다
-	- Since things have come to this, there is nothing I can do but confess everything.
-- 나는 그녀에게 사랑을 고백했다
-	- I confessed[declared] my love to her.
 
 ## 패거리 #card
 ?begin
