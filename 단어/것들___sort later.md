@@ -1131,17 +1131,6 @@ go in and out frequently
 <!--SR:!2025-05-20,18,268-->
 ?end
 
-
-## 간신히 #card
-?begin
-### 뜻
-- barely
-- narrowly
-### 예
--
-?end
-
-
 ## 겁먹다 #card
 ?begin
 ### 뜻
@@ -1165,17 +1154,6 @@ go in and out frequently
 - stuck
 ### 예
 -
-?end
-
-
-## 굳은살 #card
-?begin
-### 뜻
-- hardened skin
-- callus
-### 예
--
-<!--SR:!2025-05-16,20,250-->
 ?end
 
 
@@ -1206,32 +1184,10 @@ go in and out frequently
 ?end
 
 
-## 일부러 #card
-?begin
-### 뜻
-- on purpose
-### 예
-- 이 때문인지 법원 주변에서는 두 사람이 구내식당에서 밥을 먹을 때도 일부러 다른 메뉴를 시킨다는 우스개 소리가 나올 정도였다.
-	- People jokingly said the two chose different food at a cafeteria on purpose.
-- 일부러 정보를 주지 않는 것이 관객들이 몰입하게 합니다.
-	- You know, doing that intentionally is much more engaging.
-<!--SR:!2025-05-12,17,250-->
-?end
 
 
-## 당직 #card
-?begin
-### 뜻
-- oncall
-- be on duty
-### 예
-- 당직을 두다
-	- place a watch
-- 당직은 4시간마다 교대한다
-	- The watches are alternated[changed] every four hours.
-- 어젯밤에 당직했다
-	- I was on duty[watch] last night.
-?end
+
+
 
 
 ## 변호하다 #card
