@@ -1364,9 +1364,12 @@ go in and out frequently
 ##   상담하다 / 상담받다 #card
 ?begin
 ### 뜻
-- c
+- consult (do/get)
 ### 예
--
+- 상담을 진행하다
+	- go ahead with a business talk.
+- 나는 그 일에 관하여 친구와 상담했다
+	- I consulted with a friend of mine about the matter.
 ?end
 
 
