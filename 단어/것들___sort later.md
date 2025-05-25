@@ -1183,23 +1183,6 @@ go in and out frequently
 <!--SR:!2025-05-06,11,249-->
 ?end
 
-
-
-
-
-
-
-
-## 변호하다 #card
-?begin
-### 뜻
-- defend
-- plead for
-### 예
--
-?end
-
-
 ## 물리다 #card
 ?begin
 ### 뜻
