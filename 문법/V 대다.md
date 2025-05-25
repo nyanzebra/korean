@@ -22,4 +22,5 @@ Something continuous that is negative, like someone keeps doing something to the
 * 일찍 자야 한다면서 계속 커피를 마셔 대면 어떡해요?
 	* while saying you need to go to sleep early, why are you still drinking coffee
 ### Notes
+https://www.youtube.com/watch?v=COvrGNDJw4o&list=PLfdh-KXHu4wp_8I9OhqfENrot54g7t_Ba&index=3
 ?end
