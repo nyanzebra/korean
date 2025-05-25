@@ -553,10 +553,6 @@
 <!--SR:!2025-05-10,1,130-->
 ?end
 
-
-
-
-
 ## 수상하다 #card
 ?begin
 ### 뜻
@@ -671,16 +667,6 @@ go in and out frequently
 ### 예
 -
 ?end
-
-
-## 물결 #card
-?begin
-### 뜻
-- wave (ocean/water)
-### 예
--
-?end
-
 
 ## 헤엄하다 #card
 ?begin
