@@ -1367,7 +1367,7 @@ More public concept and can involve anything and anyone
 ##   상담하다 / 상담받다 #card
 ?begin
 ### 뜻
-- consult (do/get)
+- counsel (do/get)
 ### 예
 - 상담을 진행하다
 	- go ahead with a business talk.
