@@ -1791,14 +1791,7 @@ Normally consulting with experts, more one-sided in asking for advice
   - Not only do people use their cell phones late into the night, but the light from your phone tricks your brain into thinking it’s still daytime.
 ?end
 
-## 본론 #card
-?begin
-### 뜻
-- main discourse?
-### 예
-- 본론으로 들어가볼까?
-	- shall we cut to the chase
-?end
+
 
 
 ## 부수다 #card
