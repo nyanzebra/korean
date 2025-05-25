@@ -993,17 +993,6 @@ go in and out frequently
 <!--SR:!2025-05-17,21,250-->
 ?end
 
-
-## 소개팅 #card
-?begin
-### 뜻
-- blind date
-### 예
--
-<!--SR:!2025-05-18,32,270-->
-?end
-
-
 ## 코디 #card
 ?begin
 ### 뜻
@@ -1011,26 +1000,6 @@ go in and out frequently
 ### 예
 -
 ?end
-
-
-## 뺨 #card
-?begin
-### 뜻
-- cheek
-- slap in the cheek
-### 예
--
-?end
-
-
-## 흉터 #card
-?begin
-### 뜻
-- scar
-### 예
--
-?end
-
 
 ## 별개 #card
 ?begin
