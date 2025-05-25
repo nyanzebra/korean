@@ -543,3 +543,12 @@
 - 경험주의론은 불충분한데 그 이유는 과학적 이론은 눈에 보이는 것을 눈에 보이지 않는 것들을 통해 설명하기 때문입니다.
 	- Empiricism is inadequate because, well, scientific theories explain the seen in terms of the unseen.
 ?end
+
+## 그럭저럭 #card
+?begin
+### 뜻
+- so so
+### 예
+- 그럭저럭 지냈어요
+- 업적 평가 / 사람 평가
+?end

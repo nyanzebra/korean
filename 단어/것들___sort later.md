@@ -33,14 +33,6 @@
 ?end
 
 
-## 그럭저럭 #card
-?begin
-### 뜻
-- so so
-### 예
-- 그럭저럭 지냈어요
-- 업적 평가 / 사람 평가
-?end
 
 
 ## 불문하다 #card
@@ -1248,19 +1240,6 @@ go in and out frequently
 - scar
 ### 예
 -
-?end
-
-
-## 습격하다 #card
-?begin
-### 뜻
-- surprise attack
-- raid
-### 예
-- 시민들은 폭도로 변하여 시청사를 습격했다
-	- The townspeople turned into rioters and attacked the town hall.
-- 적진을 습격하여 탈취했다
-	- The enemy camp was taken in a surprise attack.
 ?end
 
 
