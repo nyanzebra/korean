@@ -1359,7 +1359,8 @@ go in and out frequently
 - 변호사와 의논하다
 	- consult a lawyer.
 ### Notes
-Same as 상의하다 and is more like discussion
+Same as 상의하다? and is more like discussion
+More public concept and can involve anything and anyone
 <!--SR:!2025-05-04,2,249-->
 ?end
 
