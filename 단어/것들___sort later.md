@@ -1368,7 +1368,10 @@ This is maybe more like discuss with
 ### 뜻
 - consult
 ### 예
-- 가족과 상의 후 결정
+- 가족과 상의 후 결정하고 싶다.
+	- I want to make a decision after consulting with my family
+### Notes
+This is more equal ground and involved with getting permission or shar
 ?end
 
 
