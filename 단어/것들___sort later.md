@@ -1361,6 +1361,14 @@ go in and out frequently
 <!--SR:!2025-05-04,2,249-->
 ?end
 
+##   상담하다 / 상담받다 #card
+?begin
+### 뜻
+- c
+### 예
+-
+?end
+
 
 ## 꿇리다 #card
 ?begin
