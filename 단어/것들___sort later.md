@@ -2504,7 +2504,12 @@ go in and out frequently
 - wheel
 - round
 ### 예
--
+- 연못을 한 바퀴 돌다
+	- walk around a pond
+- 제기 앞바퀴가 빵꾸났다
+	- Oh, gosh, the front wheel has flat.
+- 세계를 한바퀴 돌다
+	- travel round the world.
 ?end
 
 
