@@ -16,8 +16,6 @@ Kyunghee Min (May 15, 2025, 17:14)
 
 습하다
 
-햇빛 알러지
-
 철로
 
 Kyunghee Min (May 15, 2025, 17:21)
