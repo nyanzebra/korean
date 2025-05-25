@@ -1352,17 +1352,25 @@ go in and out frequently
 ?begin
 ### 뜻
 - talk
-- consult
+- consult / discuss
 ### 예
 - 측근과 의논하다
 	- consult one's aides.
 - 변호사와 의논하다
 	- consult a lawyer.
 ### Notes
-Same as 상의하다? and is more like discussion
-More public concept and can involve anything and anyone
+This is maybe more like discuss with
 <!--SR:!2025-05-04,2,249-->
 ?end
+
+## 상의하다 #card
+?begin
+### 뜻
+- consult
+### 예
+- 가족과 상의 후 결정
+?end
+
 
 ##   상담하다 / 상담받다 #card
 ?begin
