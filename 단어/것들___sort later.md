@@ -206,6 +206,7 @@
 - hit
 - bump
 - run into
+- "go for it" if 부딪쳐 보다
 ### 예
 - 남과 부딪치다
 	- bump into a person
@@ -217,7 +218,7 @@
 	- While training, I bump into another competitor and ruptured my left Achilles' tendon.
 - 운을 하늘에 맡기고 부딪쳐 보다
 	- risk it / chance it
-<!--SR:!2025-05-17,20,250-->
+<!--SR:!2025-07-16,50,250-->
 ?end
 
 
