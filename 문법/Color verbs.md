@@ -10,7 +10,7 @@
 
 Always remove ㅎ and put ㅐ(요)
 
-In English this is similar to reddened or whitened or blackened. Or reddening
+In English this is similar to reddened or whitened or blackened. Or reddening, etc...
 ### Form
 ### Restrictions
 ### Examples
