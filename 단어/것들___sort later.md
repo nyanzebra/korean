@@ -990,7 +990,7 @@ go in and out frequently
 	- The warmer weather makes them feel slower and more tired.
 - 너 참 둔하구나
 	- You are so oblivious.
-<!--SR:!2025-05-17,21,250-->
+<!--SR:!2025-07-18,53,250-->
 ?end
 
 ## 코디 #card
@@ -1403,7 +1403,7 @@ go in and out frequently
 ### 예
 - 장단을 맞추다
 	- beat a rhythm
-<!--SR:!2025-05-13,17,250-->
+<!--SR:!2025-07-09,44,250-->
 ?end
 
 ## 위협 #card
