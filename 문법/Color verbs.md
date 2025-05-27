@@ -3,6 +3,10 @@
 ### Usage
 
 파랗다 - to be blue
+빨갛다
+노랗다
+하얗다
+까맣다
 
 Always remove ㅎ and put ㅐ(요)
 
