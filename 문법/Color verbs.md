@@ -10,6 +10,7 @@
 
 Always remove ㅎ and put ㅐ(요)
 
+In English this is similar to 
 ### Form
 ### Restrictions
 ### Examples
