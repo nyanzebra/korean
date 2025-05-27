@@ -5,6 +5,7 @@ Similar to 으려고 했는데, but has more emphasis on intending to do A thoug
 ### Form
 A 하는것이 B
 ### Restrictions
+1s
 ### Examples
 * 노래를 튼다는 것이 라디오를 틀었네요
 	* I meant to turn on a song but turned on the radio
