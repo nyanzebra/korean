@@ -1128,7 +1128,7 @@ go in and out frequently
 - change clothes
 ### 예
 -
-<!--SR:!2025-05-20,18,268-->
+<!--SR:!2025-07-13,48,268-->
 ?end
 
 ## 겁먹다 #card
@@ -1452,7 +1452,7 @@ go in and out frequently
 - It doesn't feel real somehow?
 ### 예
 -
-<!--SR:!2025-05-12,10,228-->
+<!--SR:!2025-06-18,23,228-->
 ?end
 
 
