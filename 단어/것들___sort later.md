@@ -105,7 +105,7 @@
 	- I was all ears[attention] so as not to miss a single word.
 - 곱게 차려 입다
 	- dress oneself beautifully/be finely dressed.
-<!--SR:!2025-05-22,13,248-->
+<!--SR:!2025-06-29,32,248-->
 ?end
 
 
@@ -364,7 +364,7 @@
 	- For the rebellious Sartre, then, turning down a world-famous award was completely in character.
 - 그녀는 아빠에게 반항하고 늘 모험을 떠날 준비가 되어있다.
 	- She rebels against her father and is always ready for adventure
-<!--SR:!2025-05-20,25,230-->
+<!--SR:!2025-08-17,81,250-->
 ?end
 
 
@@ -961,7 +961,7 @@ go in and out frequently
 ### 예
 - 소지품 전부에 자기 이름을 붙이다
 	- put one's name on all one's belongings.
-<!--SR:!2025-05-26,31,270-->
+<!--SR:!2025-09-22,117,290-->
 ?end
 
 
@@ -1464,7 +1464,7 @@ go in and out frequently
 - some time ago?
 ### 예
 -
-<!--SR:!2025-05-13,18,250-->
+<!--SR:!2025-07-11,44,250-->
 ?end
 
 
