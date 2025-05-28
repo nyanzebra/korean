@@ -704,7 +704,7 @@ go in and out frequently
 - come/go by walking/foot
 ### 예
 -
-<!--SR:!2025-05-07,5,248-->
+<!--SR:!2025-06-08,11,248-->
 ?end
 
 
@@ -1249,7 +1249,7 @@ go in and out frequently
 - I will take responsibility
 ### 예
 -
-<!--SR:!2025-05-27,31,270-->
+<!--SR:!2025-09-21,116,290-->
 ?end
 
 ## 두리번거리다 #card
