@@ -165,3 +165,12 @@
 ### 예
 -
 ?end
+
+## -이라고 불러 주세요 #card
+?begin
+### 뜻
+- Please call me __
+### 예
+-
+?end
+
