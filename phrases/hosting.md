@@ -47,3 +47,19 @@
 ### 예
 -
 ?end
+
+## 돌아 #card
+?begin
+### 뜻
+-
+### 예
+-
+?end
+
+## (동호회) 신고식 #card
+?begin
+### 뜻
+- induction ceremony, group meeting for introducing new members
+### 예
+-
+?end
