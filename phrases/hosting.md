@@ -48,10 +48,10 @@
 -
 ?end
 
-## 돌아 #card
+## 돌아가면서 소개를 하다 #card
 ?begin
 ### 뜻
--
+- take turns introducing (people in a group)
 ### 예
 -
 ?end
