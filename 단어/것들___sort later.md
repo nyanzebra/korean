@@ -848,14 +848,14 @@ go in and out frequently
 ## 들키다 #card
 ?begin
 ### 뜻
-- found
-- discovered
+- be found
+- be discovered
 ### 예
 - 장난치다가 들키다
 	- be caught in mischief
 - 들키면 나는 큰일이다
 	- If I am discovered, I am done for
-<!--SR:!2025-05-15,13,248-->
+<!--SR:!2025-07-02,31,248-->
 
 ?end
 
@@ -1558,7 +1558,7 @@ go in and out frequently
 - nest
 ### 예
 -
-<!--SR:!2025-05-10,1,250-->
+<!--SR:!2025-06-04,3,250-->
 ?end
 
 
