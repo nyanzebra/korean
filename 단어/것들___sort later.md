@@ -522,8 +522,11 @@
 ### 뜻
 - 별로 그렇게까지 (not so much)?
 ### 예
--
-<!--SR:!2025-05-16,21,250-->
+- 그닥 맛도 없어요.
+  - It doesn't taste very good either
+- 이 분야에 대해 연구하는 사람들이 그닥 많지도 않죠.
+  - There's not many people working in this field.
+<!--SR:!2025-07-25,53,250-->
 ?end
 
 
