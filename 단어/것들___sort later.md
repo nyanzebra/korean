@@ -1184,7 +1184,7 @@ go in and out frequently
 - 이것은 정직한 사람이 손해를 보는 좋은 예다
 	- This is a good example of a case in which honesty doesn't pay.
 -
-<!--SR:!2025-05-06,11,249-->
+<!--SR:!2025-07-10,38,269-->
 ?end
 
 ## 물리다 #card
@@ -1224,7 +1224,7 @@ go in and out frequently
 - reach
 ### 예
 -
-<!--SR:!2025-05-16,7,250-->
+<!--SR:!2025-06-27,25,270-->
 ?end
 
 
