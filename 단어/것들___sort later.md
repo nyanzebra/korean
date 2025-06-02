@@ -584,7 +584,7 @@
 	- There were no signs of their having discussed the matter.
 - 나는 낌새를 알고 있었다
 	- I had an inkling of it.
-<!--SR:!2025-05-07,12,249-->
+<!--SR:!2025-07-02,30,249-->
 ?end
 
 
@@ -1339,7 +1339,7 @@ go in and out frequently
 	- He attempted to translate all the works of Shakespeare.
 - 처음에 실패해도 또 다시 시도해보아라
 	- If at first you don't succeed, (try,) try again.
-<!--SR:!2025-05-09,7,268-->
+<!--SR:!2025-06-22,20,268-->
 ?end
 
 
