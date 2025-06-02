@@ -288,7 +288,7 @@
 - physically or emotionally comfortable
 ### 예
 -
-<!--SR:!2025-05-11,20,250-->
+<!--SR:!2025-07-22,50,250-->
 ?end
 
 
