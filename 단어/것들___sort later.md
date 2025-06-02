@@ -877,7 +877,7 @@ go in and out frequently
 	- He delivered a staunch defense of the government.
 - 괴로운 입장
 	- an awkward situation.
-<!--SR:!2025-05-14,19,269-->
+<!--SR:!2025-07-23,51,269-->
 ?end
 
 
