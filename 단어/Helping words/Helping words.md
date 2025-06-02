@@ -237,7 +237,7 @@
 ### 예
 - 이번 합의는 지금까지 매치 그룹에 있어 최대 인수 합병이었다.
 	- The deal was the largest merger and acquisition of Match Group to date.
-<!--SR:!2025-05-03,19,250-->
+<!--SR:!2025-07-19,48,250-->
 ?end
 
 
