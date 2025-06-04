@@ -348,7 +348,7 @@
 ### 예
 - 그의 정열적인 포옹으로 그녀는 숨도 쉴 수 없었다
 	- His passionate embrace took her breath away./He took her breath away with a passionate embrace.
-<!--SR:!2025-05-16,21,250-->
+<!--SR:!2025-08-17,74,270-->
 ?end
 
 ## 반항 #card
@@ -660,7 +660,7 @@ go in and out frequently
 	- reeds swaying in the wind.
 - 성균관대 교수들에 따르면 기계적 공명 때문이라고 건물이 흔들렸다고 한다.
 	- According to the professors, the building shook because of mechanical resonance.
-<!--SR:!2025-05-07,5,248-->
+<!--SR:!2025-06-21,17,268-->
 ?end
 
 
