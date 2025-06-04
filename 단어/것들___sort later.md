@@ -979,7 +979,7 @@ go in and out frequently
 	- Though he eventually recovered from the infection, the toll on his body led to him being unable to recover from sepsis, which ultimately took his life.
 - 하지만, 결국 관계는 자존심보다 더 중요하게 여겨져야 합니다.
 	- But, in the end, the relationship should be more important than one’s own pride
-<!--SR:!2025-05-20,25,270-->
+<!--SR:!2025-09-08,96,290-->
 ?end
 
 
@@ -1561,7 +1561,7 @@ go in and out frequently
 - nest
 ### 예
 -
-<!--SR:!2025-06-04,3,250-->
+<!--SR:!2025-06-12,8,250-->
 ?end
 
 
