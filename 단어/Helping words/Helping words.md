@@ -71,7 +71,7 @@
 	- Each one of us has a room to himself/We each have our own room.
 - 이 두 문제는 각각 별도로 생각해야 한다
 	- The two problems have to be considered separately.
-<!--SR:!2025-06-04,26,289-->
+<!--SR:!2025-08-18,75,289-->
 ?end
 
 
