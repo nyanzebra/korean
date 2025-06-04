@@ -1768,7 +1768,7 @@ go in and out frequently
 	- creative instinct
 - 모성 본능
 	- a maternal instinct
-<!--SR:!2025-05-04,13,231-->
+<!--SR:!2025-07-16,42,251-->
 ?end
 
 
