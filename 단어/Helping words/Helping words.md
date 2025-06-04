@@ -166,8 +166,13 @@
 - keep
 - repeatedly
 ### 예
--
-<!--SR:!2025-05-19,23,250-->
+- 그냥 그런 생각이 자꾸 들어. 그냥 이대로 관계를 유지하고..
+  - I just keep thinking you know if I, if I stick with it, ...
+- 왜 자꾸 그걸 물어요?
+  - Why do you keep asking me that?
+- 제가 방에 혼자 있을 때면 자꾸 들어와서 뭘 하고 있는지 물어보시고 침실 문을 닫으면 안 된다고 말 하세요.
+  - When I'm in my room alone, she repeatedly comes in to ask me what's going on and says I'm not supposed to close my bedroom door.
+<!--SR:!2025-08-24,81,270-->
 ?end
 
 
