@@ -18,3 +18,4 @@ Kyunghee Min (Jun 5, 2025, 17:15)
 Kyunghee Min (Jun 5, 2025, 17:35)
 
 주중=평일
+24시간 동안=하루종일
