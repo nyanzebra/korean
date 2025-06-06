@@ -28,3 +28,4 @@ Kyunghee Min (Jun 5, 2025, 17:48)
 Kyunghee Min (Jun 5, 2025, 17:53)
 
 매주=주 마다/주 1회
+31- 
