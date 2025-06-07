@@ -9,6 +9,8 @@
 	- The card companies must be notified when cards are lost or stolen.
 - 분실물 / 분실한 물건
 	- lost thing
+- 분실했던 짐을 발견하다
+	- locate the missing luggage
 ?end
 
 
