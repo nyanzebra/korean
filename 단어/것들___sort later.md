@@ -6,7 +6,9 @@
 - miss
 ### 예
 - 카드를 분실하거나 도난당했을 때는 카드회사에 신고해야 한다
-	- 
+	- The card companies must be notified when cards are lost or stolen.
+- 분실물 / 분실한 물건
+	- lost thing
 ?end
 
 
