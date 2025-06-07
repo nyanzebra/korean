@@ -1064,7 +1064,7 @@ go in and out frequently
 - nationwide
 ### 예
 -
-<!--SR:!2025-06-07,3,254-->
+<!--SR:!2025-06-15,8,254-->
 ?end
 
 
