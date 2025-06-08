@@ -212,6 +212,7 @@
 - gain popularity (attract popularity)
 ### 예
 -
+<!--SR:!2025-06-10,3,254-->
 ?end
 
 
