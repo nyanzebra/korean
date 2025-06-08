@@ -328,7 +328,10 @@
 - maintain
 - sustain
 ### 예
--
+- 하지만 한국과 다르게 북한은 중국과 소련의 도움 없이는 전쟁을 지속할 수 없었다.
+	- However, unlike South Korea, North Korea could not continue their war without the help of China and the Soviet Union.
+- 우리가 이제까지 해 온 방식을 지속하기에는 그냥 위험이 너무 크기 때문입니다.
+	- The stakes are just too high to continue the way we are going.
 ?end
 
 
