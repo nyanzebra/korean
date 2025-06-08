@@ -322,6 +322,15 @@
 	- A month has passed, and the North Korean military threat remains.
 ?end
 
+## 지속하다 #card
+?begin
+### 뜻
+- maintain
+- sustain
+### 예
+-
+?end
+
 
 ## 상장 #card
 ?begin
