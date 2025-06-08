@@ -333,9 +333,20 @@
 - 우리가 이제까지 해 온 방식을 지속하기에는 그냥 위험이 너무 크기 때문입니다.
 	- The stakes are just too high to continue the way we are going.
 ### Notes
-
+keep doing some action
+https://hinative.com/questions/19360784
 ?end
 
+## 유지하다 #card
+?begin
+### 뜻
+- 
+### 예
+-
+### Notes
+sustain some state
+https://hinative.com/questions/19360784
+?end
 
 
 ## 상장 #card
