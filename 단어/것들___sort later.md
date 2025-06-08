@@ -340,9 +340,12 @@ https://hinative.com/questions/19360784
 ## 유지하다 #card
 ?begin
 ### 뜻
-- 
+- maintain
 ### 예
--
+- 원자재 가격이 국제 시장에서 약세를 유지하고 있다
+	- Raw material prices remains in a bearish trend in the international market.
+- 이 집을 유지하는데는 무척 많은 경비가 든다
+	- It costs a lot to maintain[keep up] this house.
 ### Notes
 sustain some state
 https://hinative.com/questions/19360784
