@@ -495,7 +495,7 @@
 	- rack one's brains all day long.
 - 목소리를 쥐어짜다
 	- strain one's voice.
-<!--SR:!2025-06-06,11,248-->
+<!--SR:!2025-07-04,27,248-->
 ?end
 
 
