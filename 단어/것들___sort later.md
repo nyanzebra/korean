@@ -600,7 +600,7 @@ https://hinative.com/questions/19360784
 - ?
 ### 예
 -
-<!--SR:!2025-06-11,1,130-->
+<!--SR:!2025-06-15,1,130-->
 ?end
 
 ## 수상하다 #card
@@ -753,7 +753,7 @@ go in and out frequently
 - come/go by walking/foot
 ### 예
 -
-<!--SR:!2025-06-08,11,248-->
+<!--SR:!2025-07-11,27,248-->
 ?end
 
 
