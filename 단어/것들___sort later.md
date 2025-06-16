@@ -563,7 +563,7 @@ https://hinative.com/questions/19360784
 	- Some supernatural power seems to be at work
 - 연이 올라갈 때는 바람이 양력으로 작용한다
 	- When a kite flies, the wind provides lift.
-<!--SR:!2025-06-16,1,233-->
+<!--SR:!2025-06-18,2,233-->
 ?end
 
 
@@ -954,7 +954,7 @@ go in and out frequently
 	- Some armed agents infiltrated Seoul.
 - 그는 결사의 각오로 적지에 잠입하였다
 	- He smuggled himself into enemy territory, ready to die if necessary.
-<!--SR:!2025-06-16,26,249-->
+<!--SR:!2025-08-19,64,249-->
 ?end
 
 
@@ -1628,7 +1628,7 @@ go in and out frequently
 - frank
 ### 예
 -
-<!--SR:!2025-06-16,1,213-->
+<!--SR:!2025-06-18,2,213-->
 ?end
 
 
