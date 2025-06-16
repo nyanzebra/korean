@@ -573,7 +573,7 @@
 	- ample means.
 - 충분한[불충분한] 증거
 	- sufficient[insufficient] evidence.
-<!--SR:!2025-06-15,8,253-->
+<!--SR:!2025-07-06,21,253-->
 ?end
 
 ## 불충분하다 #card
