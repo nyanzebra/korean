@@ -96,6 +96,7 @@
 	- He did very poorly[badly] in[Am. E. on] the examination./He did miserably on the examination.
 - 그는 말과 하는 짓이 모두 터무니없이 엉망이다
 	- Both his words and his actions are utterly confused.
+<!--SR:!2025-06-18,3,253-->
 ?end
 
 
