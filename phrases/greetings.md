@@ -72,6 +72,7 @@
 - i take back what I said
 ### 예
 -
+<!--SR:!2025-06-17,1,227-->
 ?end
 
 ## 전혀 신경 안 써요 #card
