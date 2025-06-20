@@ -30,3 +30,12 @@ Kyunghee Min (Jun 19, 2025, 17:47)
 
 조언/충고
 장마철
+쌍둥이
+
+일란성 쌍둥이
+
+이란성 쌍둥이
+
+You (Jun 19, 2025, 18:11)
+
+fraternal twins
