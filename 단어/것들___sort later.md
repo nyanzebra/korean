@@ -253,7 +253,7 @@
 	- Two of his ribs were fractured and his sherpa died.
 - 하지만 부러지는 것보다 휘는 것이 낫다고 했다.
 	- But it is better to bend than snap.
-<!--SR:!2025-06-19,5,234-->
+<!--SR:!2025-06-24,3,214-->
 ?end
 
 
@@ -1223,7 +1223,7 @@ go in and out frequently
 	- Please forgive me, for I did not mean what I said.
 - 결코 나는 그를 용서할 수 없다
 	- I cannot forgive him on any account.
-<!--SR:!2025-06-17,3,253-->
+<!--SR:!2025-06-22,1,250-->
 ?end
 
 
