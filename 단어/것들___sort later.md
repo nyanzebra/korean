@@ -96,7 +96,7 @@
 	- He did very poorly[badly] in[Am. E. on] the examination./He did miserably on the examination.
 - 그는 말과 하는 짓이 모두 터무니없이 엉망이다
 	- Both his words and his actions are utterly confused.
-<!--SR:!2025-06-18,3,253-->
+<!--SR:!2025-06-28,7,253-->
 ?end
 
 
@@ -1855,7 +1855,7 @@ go in and out frequently
 	- Lee headed a private support group when Roh was a presidential candidate in 2002.
 - 그것이 이 모든 일을 이끌어낸 원동력으로 보입니다.
 	- It seems to me that's the fuel that's driven a lot of this.
-<!--SR:!2025-06-17,16,249-->
+<!--SR:!2025-07-31,40,249-->
 ?end
 
 
