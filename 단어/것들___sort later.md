@@ -163,7 +163,7 @@
   - They call us partners, but they’re treating us like slaves.
 - 애완동물은 훌륭한 동반자가 되며 모든 가족에게 환영 받는 부가물이 될 수 있습니다.
   - Pets make excellent companions and can be a welcome addition to any family.
-<!--SR:!2025-06-21,43,269-->
+<!--SR:!2025-10-15,116,269-->
 ?end
 
 ## 위기 #card
@@ -214,7 +214,7 @@
 - gain popularity (attract popularity)
 ### 예
 -
-<!--SR:!2025-06-18,8,254-->
+<!--SR:!2025-07-11,20,254-->
 ?end
 
 
@@ -351,7 +351,7 @@ https://hinative.com/questions/19360784
 ### Notes
 sustain some state
 https://hinative.com/questions/19360784
-<!--SR:!2025-06-17,3,253-->
+<!--SR:!2025-06-23,2,233-->
 ?end
 
 
@@ -604,7 +604,7 @@ https://hinative.com/questions/19360784
 - ?
 ### 예
 -
-<!--SR:!2025-06-17,1,130-->
+<!--SR:!2025-06-22,1,130-->
 ?end
 
 ## 수상하다 #card
