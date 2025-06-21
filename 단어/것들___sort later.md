@@ -1532,7 +1532,7 @@ go in and out frequently
 - bat (baseball)
 ### 예
 -
-<!--SR:!2025-06-17,27,249-->
+<!--SR:!2025-08-27,67,249-->
 ?end
 
 
