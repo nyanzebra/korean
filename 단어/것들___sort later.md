@@ -1511,7 +1511,7 @@ go in and out frequently
 - It doesn't feel real somehow?
 ### 예
 -
-<!--SR:!2025-06-18,23,228-->
+<!--SR:!2025-06-22,1,250-->
 ?end
 
 
@@ -1652,7 +1652,7 @@ go in and out frequently
   - They are more likely to steal, lie, and cheat when they grow up.
 - 사람들은 밤늦게까지 휴대전화를 사용할 뿐만 아니라 휴대전화의 불빛이 우리의 뇌를 속여 아직 낮이라고 착각하게 만듭니다.
   - Not only do people use their cell phones late into the night, but the light from your phone tricks your brain into thinking it’s still daytime.
-<!--SR:!2025-06-17,1,232-->
+<!--SR:!2025-06-23,2,232-->
 ?end
 
 
