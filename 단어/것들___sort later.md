@@ -445,7 +445,7 @@ https://hinative.com/questions/19360784
 	- I am hoping against hope that he will come back.
 - 내게 너무 기대하지 말게
 	- Don't expect too much of me.
-<!--SR:!2025-06-20,42,269-->
+<!--SR:!2025-10-12,113,269-->
 ?end
 
 ## 투기장 #card
