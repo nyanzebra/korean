@@ -136,7 +136,7 @@
   - ominous dream
 - 그가 곧 죽는 것이나 아닐까 하는 불길한 예감이 든다
   - I have a premonition[an uneasy feeling] that he will die before long.
-<!--SR:!2025-06-17,3,253-->
+<!--SR:!2025-06-30,9,253-->
 ?end
 
 
@@ -1358,7 +1358,7 @@ go in and out frequently
 - sleuth
 ### 예
 -
-<!--SR:!2025-06-20,13,230-->
+<!--SR:!2025-07-22,31,230-->
 ?end
 
 

@@ -392,7 +392,7 @@
 	- thorough change
 - 철저한 토론
 	- thorough discussion
-<!--SR:!2025-06-17,3,253-->
+<!--SR:!2025-06-28,7,253-->
 ?end
 
 ## 평범하다 #card
