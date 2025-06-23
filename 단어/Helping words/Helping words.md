@@ -334,7 +334,9 @@
 - somehow
 - without knowing why
 ### 예
--
+- 어쩐지 슬프다
+- 어쩐지 마음이 거식하다
+- 
 ?end
 
 
