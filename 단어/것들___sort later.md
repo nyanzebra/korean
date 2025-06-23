@@ -1300,7 +1300,7 @@ go in and out frequently
 - it has been a long time since we last met in person
 ### 예
 -
-<!--SR:!2025-06-23,2,233-->
+<!--SR:!2025-06-30,7,253-->
 ?end
 
 
