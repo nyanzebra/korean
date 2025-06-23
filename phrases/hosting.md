@@ -46,7 +46,7 @@
 - Please (welcome them with a round of applause)
 ### 예
 -
-<!--SR:!2025-06-22,8,250-->
+<!--SR:!2025-07-12,20,250-->
 ?end
 
 ## 돌아가면서 소개를 하다 #card
