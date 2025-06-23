@@ -710,7 +710,7 @@ go in and out frequently
 	- reeds swaying in the wind.
 - 성균관대 교수들에 따르면 기계적 공명 때문이라고 건물이 흔들렸다고 한다.
 	- According to the professors, the building shook because of mechanical resonance.
-<!--SR:!2025-06-21,17,268-->
+<!--SR:!2025-08-07,46,268-->
 ?end
 
 
