@@ -335,8 +335,11 @@
 - without knowing why
 ### 예
 - 어쩐지 슬프다
+	- I feel somewhat sad
 - 어쩐지 마음이 거식하다
-- 
+	- Somehow I feel uneasy
+- 그녀와는 어쩐지 마음이 잘 맞지 않는다
+	- For some reason we just didn't hit it off
 ?end
 
 
