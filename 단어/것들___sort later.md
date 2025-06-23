@@ -604,7 +604,7 @@ https://hinative.com/questions/19360784
 - ?
 ### 예
 -
-<!--SR:!2025-06-22,1,130-->
+<!--SR:!2025-06-23,1,130-->
 ?end
 
 ## 수상하다 #card
@@ -1223,7 +1223,7 @@ go in and out frequently
 	- Please forgive me, for I did not mean what I said.
 - 결코 나는 그를 용서할 수 없다
 	- I cannot forgive him on any account.
-<!--SR:!2025-06-22,1,250-->
+<!--SR:!2025-06-23,1,230-->
 ?end
 
 
@@ -1394,7 +1394,7 @@ go in and out frequently
 	- He attempted to translate all the works of Shakespeare.
 - 처음에 실패해도 또 다시 시도해보아라
 	- If at first you don't succeed, (try,) try again.
-<!--SR:!2025-06-22,20,268-->
+<!--SR:!2025-08-16,55,268-->
 ?end
 
 
