@@ -327,6 +327,16 @@
 -
 ?end
 
+## 어쩐지 #card
+?begin
+### 뜻
+- for some reason or another
+- somehow
+- without knowing why
+### 예
+-
+?end
+
 
 ## 사이 #card
 ?begin
