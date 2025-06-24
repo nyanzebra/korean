@@ -1931,6 +1931,7 @@ go in and out frequently
 	- What he had was an extreme form of a condition called congenital adrenal hyperplasia.
 - 그들은 생일 같은 특별한 경우에는 고객들을 위해 노래까지 한다.
 	- They even sing for customers on special occasions such as birthdays.
+<!--SR:!2025-06-25,1,230-->
 ?end
 
 ## 기르다 #card
