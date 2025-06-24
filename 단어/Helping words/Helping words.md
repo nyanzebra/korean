@@ -176,13 +176,16 @@
 ?end
 
 
-## 충분하다 #card
+## 풍부하다 #card
 ?begin
 ### 뜻
-- sufficient
-- enough
+- abundant
+- plentiful
 ### 예
--
+- 그는 인생 경험이 풍부하다[하지 못하다]
+	- He has seen much[little] of life.
+- 그녀는 천분이 풍부한 시인이다
+	- She is a highly gifted poet./She has a great gift for poetry.
 ?end
 
 
