@@ -300,7 +300,7 @@
   - But the seemingly humble beginning led to realization of his childhood dream.
 - 겉보기보단 더 먹었어요
   - I'm older than I look.
-<!--SR:!2025-06-23,28,230-->
+<!--SR:!2025-08-28,65,230-->
 ?end
 
 
