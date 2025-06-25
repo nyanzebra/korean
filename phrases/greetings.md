@@ -155,6 +155,7 @@
 - I will participate actively
 ### 예
 -
+<!--SR:!2025-06-28,3,263-->
 ?end
 
 ## 앞으로 여러분과 잘 지냈으면 좋겠슴니다 #card
