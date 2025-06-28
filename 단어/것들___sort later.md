@@ -1150,7 +1150,7 @@ go in and out frequently
 - force to yield
 ### 예
 -
-<!--SR:!2025-06-28,13,234-->
+<!--SR:!2025-07-28,30,234-->
 ?end
 
 
