@@ -602,7 +602,7 @@ https://hinative.com/questions/19360784
 ## 명실상부 #card
 ?begin
 ### 뜻
-- ?
+- The reality agrees with the name
 ### 예
 -
 <!--SR:!2025-06-25,1,130-->
