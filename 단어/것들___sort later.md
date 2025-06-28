@@ -564,7 +564,7 @@ https://hinative.com/questions/19360784
 	- Some supernatural power seems to be at work
 - 연이 올라갈 때는 바람이 양력으로 작용한다
 	- When a kite flies, the wind provides lift.
-<!--SR:!2025-06-26,5,233-->
+<!--SR:!2025-07-10,12,233-->
 ?end
 
 
@@ -605,7 +605,7 @@ https://hinative.com/questions/19360784
 - The reality agrees with the name
 ### 예
 -
-<!--SR:!2025-06-25,1,130-->
+<!--SR:!2025-06-29,1,250-->
 ?end
 
 ## 수상하다 #card
@@ -1281,7 +1281,7 @@ go in and out frequently
 - reach
 ### 예
 -
-<!--SR:!2025-06-27,25,270-->
+<!--SR:!2025-09-04,68,270-->
 ?end
 
 
