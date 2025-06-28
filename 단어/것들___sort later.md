@@ -2053,7 +2053,7 @@ go in and out frequently
 ### 예
 - 원어민성: 두 명의 한국어-영어 이중언어자 사례연구
 	- Native-speakerness: A Case Study of Two Korean-English Bilinguals
-<!--SR:!2025-06-27,3,250-->
+<!--SR:!2025-07-07,9,250-->
 ?end
 
 ## 바퀴 #card
