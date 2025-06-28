@@ -2095,7 +2095,8 @@ go in and out frequently
 ## 을 중심으로 #card
 ?begin
 ### 뜻
-- 
+- center around
+- focus around
 ### 예
 -
 ?end
