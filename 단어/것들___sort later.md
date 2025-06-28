@@ -1352,7 +1352,7 @@ go in and out frequently
 	- If the other party rejects my proposal, I shall not hesitate to fight.
 - 차제에 깨끗이 거절하지 않으면 안 된다
 	- You must give a flat refusal right now.
-<!--SR:!2025-06-27,3,250-->
+<!--SR:!2025-07-05,8,250-->
 ?end
 
 
@@ -1818,7 +1818,7 @@ go in and out frequently
 	- park a car
 - 이제 와서 계획을 세워 봐야 사또떠난 뒤에 나팔 부는 격이다
 	- It is too late to work out a plan now.
-<!--SR:!2025-06-25,1,230-->
+<!--SR:!2025-06-29,2,230-->
 ?end
 
 
