@@ -2092,6 +2092,14 @@ go in and out frequently
 	- Each university will give prior notice on which type it will accept for its screening process.
 ?end
 
+## 을 중심으로 #card
+?begin
+### 뜻
+- 
+### 예
+-
+?end
+
 
 전립선 문제
 
