@@ -15,7 +15,7 @@ Examples
 내 생일 이틀 남았어요.  
 _It is two days before my birthday._
 
-사흘만 더 시간을 주세요?  
+사흘만 더 ㅇ시간을 주세요?  
 _Can you give me three more days time?_
 
 이레 동안 안 피웠어요.  
