@@ -2088,7 +2088,8 @@ go in and out frequently
 ### 예
 - TBA, 추후 공지.
 	- TBA, to be announced
-- 
+- 각 대학들은 입시에서 A, B형 중 어느 쪽의 성적을 반영할지를 사전에 공지한다.
+	- Each university will give prior notice on which type it will accept for its screening process.
 ?end
 
 
