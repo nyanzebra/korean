@@ -2078,7 +2078,7 @@ go in and out frequently
 - occur frequently
 ### 예
 - 불행한 일이 첩출하다
-	- 
+	- have one misfortune after another/have a series of misfortune
 ?end
 
 
