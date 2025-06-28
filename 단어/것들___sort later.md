@@ -2081,12 +2081,14 @@ go in and out frequently
 	- have one misfortune after another/have a series of misfortune
 ?end
 
-## 공지하다 #card
+## 공지 #card
 ?begin
 ### 뜻
--
+- announcement
 ### 예
--
+- TBA, 추후 공지.
+	- TBA, to be announced
+- 
 ?end
 
 
