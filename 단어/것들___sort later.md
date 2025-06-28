@@ -2071,6 +2071,16 @@ go in and out frequently
 	- travel round the world.
 ?end
 
+## 첩출하다 #card
+?begin
+### 뜻
+- arise in succession
+- occur frequently
+### 예
+- 불행한 일이 첩출하다
+	- 
+?end
+
 
 전립선 문제
 
