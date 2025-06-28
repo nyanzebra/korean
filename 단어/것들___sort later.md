@@ -1291,7 +1291,7 @@ go in and out frequently
 - nickname
 ### 예
 -
-<!--SR:!2025-06-27,3,250-->
+<!--SR:!2025-07-06,8,250-->
 ?end
 
 
