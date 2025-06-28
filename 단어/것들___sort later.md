@@ -605,7 +605,7 @@ https://hinative.com/questions/19360784
 - The reality agrees with the name
 ### 예
 -
-<!--SR:!2025-06-29,1,250-->
+<!--SR:!2025-07-01,3,250-->
 ?end
 
 ## 수상하다 #card
