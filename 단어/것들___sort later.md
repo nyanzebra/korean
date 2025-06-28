@@ -2081,6 +2081,14 @@ go in and out frequently
 	- have one misfortune after another/have a series of misfortune
 ?end
 
+## 공지하다 #card
+?begin
+### 뜻
+-
+### 예
+-
+?end
+
 
 전립선 문제
 
