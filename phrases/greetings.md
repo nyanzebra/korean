@@ -156,7 +156,7 @@
 - I will participate actively
 ### 예
 -
-<!--SR:!2025-06-28,3,263-->
+<!--SR:!2025-07-12,12,283-->
 ?end
 
 ## 앞으로 여러분과 잘 지냈으면 좋겠슴니다 #card
@@ -173,7 +173,7 @@
 - Please teach me a lot / Please help out a lot
 ### 예
 -
-<!--SR:!2025-06-29,5,243-->
+<!--SR:!2025-07-18,18,263-->
 ?end
 
 ## -이라고 불러 주세요 #card
