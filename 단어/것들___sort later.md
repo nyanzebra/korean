@@ -121,7 +121,7 @@
 	- I was all ears[attention] so as not to miss a single word.
 - 곱게 차려 입다
 	- dress oneself beautifully/be finely dressed.
-<!--SR:!2025-06-29,32,248-->
+<!--SR:!2025-10-20,112,268-->
 ?end
 
 
@@ -864,7 +864,7 @@ go in and out frequently
 	- succeed in an examination at one's first attempt
 - 그 아이는 욕심을 부려 단번에 사탕 3개를 한입에 쑤셔 넣었다
 	- The child greedily crammed three candies into his mouth all at once.
-<!--SR:!2025-06-30,5,231-->
+<!--SR:!2025-07-15,15,251-->
 ?end
 
 
