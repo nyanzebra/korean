@@ -269,7 +269,7 @@
 	- My daughter looks like her, too.
 - "당신은 우리 아버지와 쏙 빼닮았습니다."라고 수치 여사가 안재욱에게 말했다.
 	- "You look just like my father," Suu Kyi told Ahn.
-<!--SR:!2025-06-28,50,250-->
+<!--SR:!2025-11-02,125,250-->
 ?end
 
 
