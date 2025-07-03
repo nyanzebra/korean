@@ -2101,6 +2101,22 @@ go in and out frequently
 - ?
 ?end
 
+## 조언 #card
+?begin
+### 뜻
+- advice
+### 예
+-
+?end
+
+## 충고 #card
+?begin
+### 뜻
+- advice
+### 예
+-
+?end
+
 
 전립선 문제
 
