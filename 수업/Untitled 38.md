@@ -1,7 +1,5 @@
 
 
-서양/동양
-
 harpsichord
 
 deltoids
