@@ -2137,6 +2137,8 @@ go in and out frequently
 	- However, nutritionists have suggested that certain menu items can actually be healthy for you.
 - 하지만, 사우디 아라비아와 러시아는 이 제안을 거부했다.
 	- However, Saudi Arabia and Russia rejected the proposal.
+- 한 승무원이 그녀를 도와주겠다고 제안했지만, 승객은 항공사 직원을 밀치기 시작했습니다.
+	- A flight attendant offered to help her, but the passenger began to push the airline worker.
 ?end
 
 
