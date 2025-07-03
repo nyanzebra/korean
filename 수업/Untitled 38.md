@@ -29,7 +29,6 @@ Kyunghee Min (Jun 19, 2025, 17:33)
 Kyunghee Min (Jun 19, 2025, 17:47)
 
 조언/충고
-장마철
 쌍둥이
 
 일란성 쌍둥이
