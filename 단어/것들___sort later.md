@@ -2113,8 +2113,11 @@ go in and out frequently
 ?begin
 ### 뜻
 - advice
+- suggestion
+- recommendation
 ### 예
--
+- 충고자
+- 
 ?end
 
 
