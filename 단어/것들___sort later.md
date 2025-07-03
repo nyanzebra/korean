@@ -2105,8 +2105,12 @@ go in and out frequently
 ?begin
 ### 뜻
 - advice
+- tip
+- suggestion
 ### 예
--
+- 전문가의 조언
+- 나는 내 조언이 너에게 도움이 되었다니 매우 기뻐.
+	- I am so happy to hear that my advice helped you out.
 ?end
 
 ## 충고 #card
@@ -2117,7 +2121,9 @@ go in and out frequently
 - recommendation
 ### 예
 - 충고자
-- 
+	- adviser
+- 이 같은 충고는 그 후 여러 세대를 두고 세계 여타 나라들에 대한 미국의 태도에 영향을 미쳤다.
+	- This advice influenced American attitudes toward the rest of the world for generations to come.
 ?end
 
 
