@@ -2126,6 +2126,19 @@ go in and out frequently
 	- This advice influenced American attitudes toward the rest of the world for generations to come.
 ?end
 
+## 제안 #card
+?begin
+### 뜻
+- suggest
+- propose
+- offer
+### 예
+- 그러나, 영양학자들은 특정 메뉴는 실제로 건강에 좋을 수 있다고 제안했습니다.
+	- However, nutritionists have suggested that certain menu items can actually be healthy for you.
+- 하지만, 사우디 아라비아와 러시아는 이 제안을 거부했다.
+	- However, Saudi Arabia and Russia rejected the proposal.
+?end
+
 
 전립선 문제
 
