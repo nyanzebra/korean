@@ -635,7 +635,7 @@ https://hinative.com/questions/19360784
 	- There were no signs of their having discussed the matter.
 - 나는 낌새를 알고 있었다
 	- I had an inkling of it.
-<!--SR:!2025-07-02,30,249-->
+<!--SR:!2025-09-17,75,249-->
 ?end
 
 
