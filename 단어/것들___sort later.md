@@ -1818,7 +1818,7 @@ go in and out frequently
 	- park a car
 - 이제 와서 계획을 세워 봐야 사또떠난 뒤에 나팔 부는 격이다
 	- It is too late to work out a plan now.
-<!--SR:!2025-06-29,2,230-->
+<!--SR:!2025-07-09,5,230-->
 ?end
 
 
