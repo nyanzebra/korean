@@ -1803,7 +1803,7 @@ go in and out frequently
   - reduce the staff
 - 인원이 너무 많다
   - be overstaffed
-<!--SR:!2025-07-01,30,230-->
+<!--SR:!2025-07-20,16,210-->
 ?end
 
 
