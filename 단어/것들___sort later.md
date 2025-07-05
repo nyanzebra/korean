@@ -136,7 +136,7 @@
   - ominous dream
 - 그가 곧 죽는 것이나 아닐까 하는 불길한 예감이 든다
   - I have a premonition[an uneasy feeling] that he will die before long.
-<!--SR:!2025-06-30,9,253-->
+<!--SR:!2025-07-27,23,253-->
 ?end
 
 
@@ -530,7 +530,7 @@ https://hinative.com/questions/19360784
 	- rack one's brains all day long.
 - 목소리를 쥐어짜다
 	- strain one's voice.
-<!--SR:!2025-07-04,27,248-->
+<!--SR:!2025-09-09,67,248-->
 ?end
 
 
@@ -1226,7 +1226,7 @@ go in and out frequently
 	- Please forgive me, for I did not mean what I said.
 - 결코 나는 그를 용서할 수 없다
 	- I cannot forgive him on any account.
-<!--SR:!2025-07-04,5,230-->
+<!--SR:!2025-07-07,3,210-->
 ?end
 
 
