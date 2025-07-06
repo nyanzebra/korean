@@ -35,6 +35,7 @@
 	- One went into his brother's possession, but all the rest fell into his hands.
 - 전부 한데 모아 보내는 편이 낫다
 	- You'd better send them all together.
+<!--SR:!2025-07-07,1,230-->
 ?end
 
 ## 우선 #card

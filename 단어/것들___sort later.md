@@ -1498,6 +1498,7 @@ go in and out frequently
   - What do you expect me to do? You took away my cell phone.
 - 그들은 저의 영혼과 인간성을 뺏어갈 수도 있었을 겁니다.
   - They would have taken my soul and my humanity
+<!--SR:!2025-07-07,1,231-->
 ?end
 
 
