@@ -187,6 +187,7 @@
 	- He has seen much[little] of life.
 - 그녀는 천분이 풍부한 시인이다
 	- She is a highly gifted poet./She has a great gift for poetry.
+<!--SR:!2025-07-08,2,249-->
 ?end
 
 
