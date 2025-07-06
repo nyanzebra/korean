@@ -90,6 +90,7 @@
 - it's not as difficult as i thought
 ### 예
 -
+<!--SR:!2025-07-08,2,247-->
 ?end
 
 ## 언제쯤 도착 예정이세요? #card
