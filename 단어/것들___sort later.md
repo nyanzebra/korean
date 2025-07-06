@@ -1516,7 +1516,7 @@ go in and out frequently
 - It doesn't feel real somehow?
 ### 예
 -
-<!--SR:!2025-06-25,3,250-->
+<!--SR:!2025-07-14,9,250-->
 ?end
 
 
