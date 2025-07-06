@@ -22,6 +22,7 @@
 - Now there is going to be (a speech by one of the graduates)
 ### 예
 -
+<!--SR:!2025-07-07,1,230-->
 ?end
 
 ## (여러분, 끝까지 잘 들어 주시)기 바랍니다 #card
