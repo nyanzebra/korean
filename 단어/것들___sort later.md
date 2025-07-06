@@ -1140,7 +1140,7 @@ go in and out frequently
 	- I searched all over the house for the missing watch.
 - 한국은 첨단 기술 분야에서 외국에 뒤져 있지 않다
 	- In the field of modern technology, Korea is not behind other countries.
-<!--SR:!2025-07-06,4,211-->
+<!--SR:!2025-07-14,8,211-->
 ?end
 
 ## 꿇리다 #card
@@ -1291,7 +1291,7 @@ go in and out frequently
 - nickname
 ### 예
 -
-<!--SR:!2025-07-06,8,250-->
+<!--SR:!2025-07-27,21,250-->
 ?end
 
 
