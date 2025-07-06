@@ -40,7 +40,7 @@ birds of a feather
 ### 예
 - 당신의 식습관을 제대로 알면 다이어트는 백건백승이에요
 	- if you know your eating habits then you will master  your diet
-<!--SR:!2025-06-29,8,252-->
+<!--SR:!2025-07-24,19,252-->
 ?end
 
 
