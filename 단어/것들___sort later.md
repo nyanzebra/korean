@@ -2043,7 +2043,7 @@ go in and out frequently
 	- He won a gold medal at[in] the Seoul Olympics.
 - 남의 글귀를 따다
 	- steal another's words/plagiarize.
-<!--SR:!2025-07-06,15,228-->
+<!--SR:!2025-08-08,33,228-->
 ?end
 
 ## 원어 #card
