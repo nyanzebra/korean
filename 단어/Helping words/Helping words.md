@@ -464,20 +464,21 @@
 ## 왠지 #card
 ?begin
 ### 뜻
-- [왜 그런지 몰라요](https://www.howtostudykorean.com/wp-content/uploads/2016/10/Lesson60s20.mp3) 
+- [왜 그런지 몰라요](https://www.howtostudykorean.com/wp-content/uploads/2016/10/Lesson60s20.mp3)
 	- I don’t know why it is like that
 ### 예
-- [그녀는 왠지 한국어를 배우고 싶었어요](https://www.howtostudykorean.com/wp-content/uploads/2016/10/Lesson60s21.mp3)  
-	- She wanted to learn Korean for some reason  
+- [그녀는 왠지 한국어를 배우고 싶었어요](https://www.howtostudykorean.com/wp-content/uploads/2016/10/Lesson60s21.mp3)
+	- She wanted to learn Korean for some reason
 	- I don’t know why, but she wanted to learn Korean
 
-* [나는 왠지 오늘 학교에 가기 싫어](https://www.howtostudykorean.com/wp-content/uploads/2016/10/Lesson60s22.mp3)  
-	* I don’t want to go to school today for some reason  
+* [나는 왠지 오늘 학교에 가기 싫어](https://www.howtostudykorean.com/wp-content/uploads/2016/10/Lesson60s22.mp3)
+	* I don’t want to go to school today for some reason
 	* I don’t know why, but I don’t want to go to school today
 
-* [오늘이 일요일이지만 버스가 승객들로 왠지 가득 찼어요](https://www.howtostudykorean.com/wp-content/uploads/2016/10/Lesson60s23.mp3)  
-	* Even though today is Sunday, the bus is packed/filled with passengers for some reason  
+* [오늘이 일요일이지만 버스가 승객들로 왠지 가득 찼어요](https://www.howtostudykorean.com/wp-content/uploads/2016/10/Lesson60s23.mp3)
+	* Even though today is Sunday, the bus is packed/filled with passengers for some reason
 	* I don’t know why, but even though today is Sunday, the bus is packed/filled with passengers
+<!--SR:!2025-07-07,1,229-->
 ?end
 
 ## ~달 #card
