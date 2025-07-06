@@ -1352,7 +1352,7 @@ go in and out frequently
 	- If the other party rejects my proposal, I shall not hesitate to fight.
 - 차제에 깨끗이 거절하지 않으면 안 된다
 	- You must give a flat refusal right now.
-<!--SR:!2025-07-05,8,250-->
+<!--SR:!2025-07-25,20,250-->
 ?end
 
 
