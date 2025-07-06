@@ -731,6 +731,7 @@ go in and out frequently
 ### 예
 - 어린이를 풀에서 헤엄치게 하다
 	- let the children swim in the pool.
+<!--SR:!2025-07-07,1,230-->
 ?end
 
 
