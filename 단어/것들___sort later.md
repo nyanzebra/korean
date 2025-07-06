@@ -352,7 +352,7 @@ https://hinative.com/questions/19360784
 ### Notes
 sustain some state
 https://hinative.com/questions/19360784
-<!--SR:!2025-06-29,5,233-->
+<!--SR:!2025-07-18,13,233-->
 ?end
 
 
@@ -1621,7 +1621,7 @@ go in and out frequently
 - nest
 ### 예
 -
-<!--SR:!2025-07-05,21,250-->
+<!--SR:!2025-08-27,53,250-->
 ?end
 
 
@@ -1931,7 +1931,7 @@ go in and out frequently
 	- What he had was an extreme form of a condition called congenital adrenal hyperplasia.
 - 그들은 생일 같은 특별한 경우에는 고객들을 위해 노래까지 한다.
 	- They even sing for customers on special occasions such as birthdays.
-<!--SR:!2025-07-01,2,210-->
+<!--SR:!2025-07-09,4,210-->
 ?end
 
 ## 기르다 #card
