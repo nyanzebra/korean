@@ -564,7 +564,8 @@
 - rather
 ### 예
 - 수치를 당하느니 차라리 죽는 것이 낫다
-	- Death is preferable to dishonor. 
+	- Death is preferable to dishonor.
+<!--SR:!2025-07-08,2,247--> 
 ?end
 
 ## 실천하다 #card
