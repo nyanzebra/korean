@@ -1747,6 +1747,7 @@ go in and out frequently
 	- These are a few of them. So, what did I do?
 - 그러한 체험을 가진 사람은 전 인구 중 일부에 국한되어 있다
 	- Only a few in the whole population have had such experiences.
+<!--SR:!2025-07-08,2,249-->
 ?end
 
 
