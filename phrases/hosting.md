@@ -14,6 +14,7 @@
 - Can you please (come forward one at a time)
 ### 예
 -
+<!--SR:!2025-07-08,2,248-->
 ?end
 
 # At a graduation ceremony
