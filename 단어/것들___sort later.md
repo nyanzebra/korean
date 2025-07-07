@@ -1653,6 +1653,7 @@ go in and out frequently
 - amazing
 ### 예
 -
+<!--SR:!2025-07-08,2,249-->
 ?end
 
 ## 속이다 #card
