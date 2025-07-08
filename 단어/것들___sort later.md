@@ -1232,7 +1232,7 @@ go in and out frequently
 	- Please forgive me, for I did not mean what I said.
 - 결코 나는 그를 용서할 수 없다
 	- I cannot forgive him on any account.
-<!--SR:!2025-07-07,3,210-->
+<!--SR:!2025-07-13,6,210-->
 ?end
 
 
