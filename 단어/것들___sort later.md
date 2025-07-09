@@ -1759,7 +1759,7 @@ go in and out frequently
 - our side is lacking for a bit
 ### 예
 -
-<!--SR:!2025-07-07,1,230-->
+<!--SR:!2025-07-10,2,230-->
 ?end
 
 
