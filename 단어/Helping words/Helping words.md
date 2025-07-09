@@ -264,7 +264,7 @@
 	- the law pertaining to punishment for acts of violence and other (similar) crimes.
 - 그 따위 것
 	- such a thing/that sort of thing.
-<!--SR:!2025-07-08,2,247-->
+<!--SR:!2025-07-13,5,247-->
 ?end
 
 
