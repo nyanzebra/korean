@@ -565,7 +565,7 @@ https://hinative.com/questions/19360784
 	- Some supernatural power seems to be at work
 - 연이 올라갈 때는 바람이 양력으로 작용한다
 	- When a kite flies, the wind provides lift.
-<!--SR:!2025-07-10,12,233-->
+<!--SR:!2025-08-10,29,233-->
 ?end
 
 
@@ -620,7 +620,7 @@ https://hinative.com/questions/19360784
 	- She seems to be going about[around] with a questionable man.
 - 탐정은 수상한 그 사나이를 놓쳤다
 	- The detective lost track of the suspicious man.
-<!--SR:!2025-07-10,2,230-->
+<!--SR:!2025-07-17,5,230-->
 ?end
 
 
@@ -1642,7 +1642,7 @@ go in and out frequently
 - frank
 ### 예
 -
-<!--SR:!2025-07-08,4,193-->
+<!--SR:!2025-07-14,2,173-->
 ?end
 
 
