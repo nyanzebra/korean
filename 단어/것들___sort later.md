@@ -844,7 +844,7 @@ go in and out frequently
 	- throw in something extra.
 - 덤으로 귤 2개를 드리겠습니다
 	- I'll throw these two oranges in extra./I'll give you two oranges into the bargain.
-<!--SR:!2025-07-07,1,231-->
+<!--SR:!2025-07-14,2,231-->
 ?end
 
 
@@ -1505,7 +1505,7 @@ go in and out frequently
   - What do you expect me to do? You took away my cell phone.
 - 그들은 저의 영혼과 인간성을 뺏어갈 수도 있었을 겁니다.
   - They would have taken my soul and my humanity
-<!--SR:!2025-07-10,2,231-->
+<!--SR:!2025-07-17,5,231-->
 ?end
 
 
