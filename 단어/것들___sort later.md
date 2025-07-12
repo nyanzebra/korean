@@ -1536,7 +1536,7 @@ go in and out frequently
 - some time ago?
 ### 예
 -
-<!--SR:!2025-07-11,44,250-->
+<!--SR:!2025-10-29,109,250-->
 ?end
 
 
