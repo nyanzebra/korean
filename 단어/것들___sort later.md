@@ -1474,7 +1474,7 @@ go in and out frequently
 ### 예
 - 장단을 맞추다
 	- beat a rhythm
-<!--SR:!2025-07-09,44,250-->
+<!--SR:!2025-08-03,23,230-->
 ?end
 
 ## 위협 #card
