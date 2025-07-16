@@ -606,7 +606,7 @@ https://hinative.com/questions/19360784
 - The reality agrees with the name
 ### 예
 -
-<!--SR:!2025-07-11,5,230-->
+<!--SR:!2025-07-28,13,230-->
 ?end
 
 ## 수상하다 #card
@@ -1642,7 +1642,7 @@ go in and out frequently
 - frank
 ### 예
 -
-<!--SR:!2025-07-14,2,173-->
+<!--SR:!2025-07-18,3,173-->
 ?end
 
 
@@ -1967,7 +1967,7 @@ go in and out frequently
 	- Ride a bike, learn how to play a musical instrument, or raise a pet.
 - 첫째, 농부들은 제한된 수의 이 과일만 기를 수 있습니다.
 	- First, farmers can only grow a limited number of this fruit.
-<!--SR:!2025-07-12,10,209-->
+<!--SR:!2025-08-05,21,209-->
 ?end
 
 ## 잡수다 #card
