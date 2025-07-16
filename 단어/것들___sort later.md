@@ -1759,7 +1759,7 @@ go in and out frequently
 - our side is lacking for a bit
 ### 예
 -
-<!--SR:!2025-07-10,2,230-->
+<!--SR:!2025-07-23,7,250-->
 ?end
 
 
@@ -2019,7 +2019,7 @@ go in and out frequently
 	- The four of them were supposed to meet to sneak into a neighbor's yard
 - 그래서 저는 몰래 줄을 매달고 허락없이 곡예를 했습니다.
 	- So I started putting a wire up in secret and performing without permission.
-<!--SR:!2025-07-09,5,230-->
+<!--SR:!2025-07-31,15,250-->
 ?end
 
 ## 대하다 #card
