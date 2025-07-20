@@ -761,7 +761,7 @@ go in and out frequently
 - come/go by walking/foot
 ### 예
 -
-<!--SR:!2025-07-11,27,248-->
+<!--SR:!2025-09-26,68,248-->
 ?end
 
 
