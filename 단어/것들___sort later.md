@@ -236,7 +236,7 @@
 	- While training, I bump into another competitor and ruptured my left Achilles' tendon.
 - 운을 하늘에 맡기고 부딪쳐 보다
 	- risk it / chance it
-<!--SR:!2025-07-16,50,250-->
+<!--SR:!2025-11-22,125,250-->
 ?end
 
 
