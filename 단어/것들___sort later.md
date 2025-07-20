@@ -1192,7 +1192,7 @@ go in and out frequently
 - change clothes
 ### 예
 -
-<!--SR:!2025-07-13,48,268-->
+<!--SR:!2025-11-25,128,268-->
 ?end
 
 ## 겁먹다 #card
@@ -1505,7 +1505,7 @@ go in and out frequently
   - What do you expect me to do? You took away my cell phone.
 - 그들은 저의 영혼과 인간성을 뺏어갈 수도 있었을 겁니다.
   - They would have taken my soul and my humanity
-<!--SR:!2025-07-17,5,231-->
+<!--SR:!2025-07-31,11,231-->
 ?end
 
 
@@ -1817,7 +1817,7 @@ go in and out frequently
   - reduce the staff
 - 인원이 너무 많다
   - be overstaffed
-<!--SR:!2025-07-20,16,210-->
+<!--SR:!2025-08-23,34,210-->
 ?end
 
 
