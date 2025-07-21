@@ -703,3 +703,11 @@
 	- You can’t tell an entire community to completely stop using cars.
 ?end
 
+## 전부 #card
+?begin
+### 뜻
+- entire
+- everything
+### 예
+-
+?end
