@@ -260,7 +260,7 @@
 	- Two of his ribs were fractured and his sherpa died.
 - 하지만 부러지는 것보다 휘는 것이 낫다고 했다.
 	- But it is better to bend than snap.
-<!--SR:!2025-07-19,19,234-->
+<!--SR:!2025-07-30,10,214-->
 ?end
 
 
@@ -1254,7 +1254,7 @@ go in and out frequently
 - 이것은 정직한 사람이 손해를 보는 좋은 예다
 	- This is a good example of a case in which honesty doesn't pay.
 -
-<!--SR:!2025-07-16,1,250-->
+<!--SR:!2025-07-23,3,250-->
 ?end
 
 ## 물리다 #card
@@ -1739,7 +1739,7 @@ go in and out frequently
 - gang?
 ### 예
 -
-<!--SR:!2025-07-20,5,231-->
+<!--SR:!2025-08-01,12,231-->
 ?end
 
 
