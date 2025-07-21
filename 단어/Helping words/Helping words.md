@@ -695,11 +695,11 @@
 ## 전체 #card
 ?begin
 ### 뜻
--
+- whole
 ### 예
 - 여러분의 접시 전체가 탄수화물로 가득 차 있나요?
 	- Is your whole plate full of carbohydrates?
 - 전체 커뮤니티에 자동차 사용을 완전히 중단하라고 말할 수는 없어.
-	- 
+	- You can’t tell an entire community to completely stop using cars.
 ?end
 
