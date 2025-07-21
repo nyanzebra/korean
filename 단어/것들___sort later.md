@@ -206,7 +206,14 @@
 	- On this occasion, the political circle should prepare for measures to revitalize the farming sector.
 ?end
 
-
+## 인기를 모으다 #card
+?begin
+### 뜻
+- gain popularity 
+### 예
+-
+<!--SR:!2025-09-06,53,254-->
+?end
 
 ## 인기를 끌다 #card
 ?begin
