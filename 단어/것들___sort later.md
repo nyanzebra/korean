@@ -2162,6 +2162,14 @@ go in and out frequently
 	- A flight attendant offered to help her, but the passenger began to push the airline worker.
 ?end
 
+## 해당 #card
+?begin
+### 뜻
+-
+### 예
+- 그것에 해당하는 예
+?end
+
 
 전립선 문제
 
