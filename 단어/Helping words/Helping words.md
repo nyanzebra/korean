@@ -683,3 +683,12 @@
 	- at most once a day
 <!--SR:!2025-07-27,60,250-->
 ?end
+
+## 자세하다 #card
+?begin
+### 뜻
+- detailed
+### 예
+-
+?end
+
