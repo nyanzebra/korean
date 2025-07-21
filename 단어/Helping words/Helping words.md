@@ -706,8 +706,10 @@
 ## 전부 #card
 ?begin
 ### 뜻
-- entire
 - everything
 ### 예
--
+- 새 공사는 전부 청부를 준다
+	- All the new work will be put out to contract.
+- 두 번 다시 오지 않도록 필요한 서류를 전부 가지고 오시오
+	- Bring all the necessary documents so that you will not have to come again.
 ?end
