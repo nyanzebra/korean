@@ -314,7 +314,7 @@
 - physically or emotionally comfortable
 ### 예
 -
-<!--SR:!2025-07-22,50,250-->
+<!--SR:!2025-11-24,125,250-->
 ?end
 
 
