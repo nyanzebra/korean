@@ -1350,7 +1350,7 @@ go in and out frequently
 	- Many times, they have found the animal to return to its owner.
 - 우리는 받은 것을 돌려주어야 한다.
 	- We should give back what we have received.
-<!--SR:!2025-07-21,5,249-->
+<!--SR:!2025-08-08,17,269-->
 ?end
 
 
