@@ -96,7 +96,7 @@
 	- He did very poorly[badly] in[Am. E. on] the examination./He did miserably on the examination.
 - 그는 말과 하는 짓이 모두 터무니없이 엉망이다
 	- Both his words and his actions are utterly confused.
-<!--SR:!2025-07-23,25,273-->
+<!--SR:!2025-09-29,67,273-->
 ?end
 
 
@@ -940,7 +940,7 @@ go in and out frequently
 	- He delivered a staunch defense of the government.
 - 괴로운 입장
 	- an awkward situation.
-<!--SR:!2025-07-23,51,269-->
+<!--SR:!2025-08-19,26,249-->
 ?end
 
 
@@ -1839,7 +1839,7 @@ go in and out frequently
 	- park a car
 - 이제 와서 계획을 세워 봐야 사또떠난 뒤에 나팔 부는 격이다
 	- It is too late to work out a plan now.
-<!--SR:!2025-07-24,12,230-->
+<!--SR:!2025-08-22,29,230-->
 ?end
 
 
