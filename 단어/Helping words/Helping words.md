@@ -481,7 +481,7 @@
 * [오늘이 일요일이지만 버스가 승객들로 왠지 가득 찼어요](https://www.howtostudykorean.com/wp-content/uploads/2016/10/Lesson60s23.mp3)
 	* Even though today is Sunday, the bus is packed/filled with passengers for some reason
 	* I don’t know why, but even though today is Sunday, the bus is packed/filled with passengers
-<!--SR:!2025-07-21,6,249-->
+<!--SR:!2025-08-09,15,249-->
 ?end
 
 ## ~달 #card
