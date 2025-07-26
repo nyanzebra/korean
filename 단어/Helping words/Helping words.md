@@ -515,7 +515,7 @@
 	- dip in sauce
 - 카드를 거기에 찍어야 돼
 	- you must scan you card there
-<!--SR:!2025-07-13,2,229-->
+<!--SR:!2025-07-30,5,229-->
 ?end
 
 ## 무엇보다도 #card
