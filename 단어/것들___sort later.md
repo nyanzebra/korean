@@ -345,7 +345,7 @@
 ### Notes
 keep doing some action
 https://hinative.com/questions/19360784
-<!--SR:!2025-07-26,20,251-->
+<!--SR:!2025-09-14,50,251-->
 ?end
 
 ## 유지하다 #card
