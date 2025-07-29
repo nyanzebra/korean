@@ -1,3 +1,14 @@
+
+## 강조하다 #card
+?begin
+### 뜻
+- emphasize
+- stress
+### 예
+- 그는 문제의 중대성을 크게 강조했다
+	- 
+?end
+
 ## 모시다 #card
 ?begin
 ### 뜻
