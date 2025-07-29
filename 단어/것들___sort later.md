@@ -3,7 +3,13 @@
 ### 뜻
 - attend
 ### 예
--
+- 선생님을 모임에 모시다
+	- invite one's teacher to a meeting.
+- 여러분을 무대로 모시게 되어서 정말 기쁩니다.
+	- It's such a delight to have you on the stage.
+- 제가 다시 모시게 해 주세요
+	- Let me serve you again.
+- 
 ?end
 
 ## 분실하다 #card
