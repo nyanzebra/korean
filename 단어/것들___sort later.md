@@ -1,3 +1,10 @@
+## 모시다 #card
+?begin
+### 뜻
+- attend
+### 예
+-
+?end
 
 ## 분실하다 #card
 ?begin
