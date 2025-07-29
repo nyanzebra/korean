@@ -9,7 +9,8 @@
 	- It's such a delight to have you on the stage.
 - 제가 다시 모시게 해 주세요
 	- Let me serve you again.
-- 
+- 어버이를 중히 모시다
+	- be filial[devoted] to one's parents/take good care of[be kind to] one's parents/be considerate of the comfort of one's parents.
 ?end
 
 ## 분실하다 #card
