@@ -6,7 +6,9 @@
 - stress
 ### 예
 - 그는 문제의 중대성을 크게 강조했다
-	- 
+	- He was very emphatic on the importance of the matter.
+- 강조하는 단어에 방점을 찍다
+	- put dots[marks] alongside the words to show emphasis.
 ?end
 
 ## 모시다 #card
