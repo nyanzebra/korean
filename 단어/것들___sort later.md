@@ -1,4 +1,16 @@
 
+## 매력 #card
+?begin
+### 뜻
+- attractive
+- charm
+### 예
+- 테라리움의 가장 매력적인 점은 직접 만들 수 있다는 것이다.
+	- The most attractive quality about terrariums is that you can make one yourself.
+- 
+?end
+
+
 ## 강조하다 #card
 ?begin
 ### 뜻
