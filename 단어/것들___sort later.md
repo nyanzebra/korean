@@ -8,7 +8,7 @@
 - 테라리움의 가장 매력적인 점은 직접 만들 수 있다는 것이다.
 	- The most attractive quality about terrariums is that you can make one yourself.
 - 여자의 매력에 빠지다
-	- fall for a woman's c
+	- fall for a woman's charms
 ?end
 
 
