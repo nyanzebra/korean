@@ -300,7 +300,7 @@
 	- Two of his ribs were fractured and his sherpa died.
 - 하지만 부러지는 것보다 휘는 것이 낫다고 했다.
 	- But it is better to bend than snap.
-<!--SR:!2025-07-30,10,214-->
+<!--SR:!2025-08-21,22,214-->
 ?end
 
 
