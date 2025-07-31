@@ -225,7 +225,7 @@
 	- Those who get[score] under 50 will not pass.
 - 10분 미만에
 	- in less than ten minutes.
-<!--SR:!2025-07-30,10,229-->
+<!--SR:!2025-08-21,22,229-->
 ?end
 
 
