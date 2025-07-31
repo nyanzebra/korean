@@ -1201,7 +1201,7 @@ go in and out frequently
 - force to yield
 ### 예
 -
-<!--SR:!2025-07-28,30,234-->
+<!--SR:!2025-10-08,70,234-->
 ?end
 
 
@@ -1892,7 +1892,7 @@ go in and out frequently
 	- creative instinct
 - 모성 본능
 	- a maternal instinct
-<!--SR:!2025-07-16,42,251-->
+<!--SR:!2025-07-31,1,250-->
 ?end
 
 
