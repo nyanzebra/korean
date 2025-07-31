@@ -54,7 +54,7 @@
 	- We will stay here for the time being.
 - 그래서 그 목록을 천천히 보고 우선 순위를 매겼습니다.
 	- So what I did was, I went through and I prioritized that list.
-<!--SR:!2025-07-29,58,250-->
+<!--SR:!2025-08-28,29,230-->
 ?end
 
 
