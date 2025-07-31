@@ -41,7 +41,7 @@
 - Now there is going to be (a dance performance by a student from level 4)
 ### 예
 -
-<!--SR:!2025-07-25,20,250-->
+<!--SR:!2025-09-20,52,250-->
 ?end
 
 ## (큰 박수로 환영해 주시)기 바랍니다 #card
