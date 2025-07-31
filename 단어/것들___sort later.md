@@ -625,7 +625,7 @@ https://hinative.com/questions/19360784
   - It doesn't taste very good either
 - 이 분야에 대해 연구하는 사람들이 그닥 많지도 않죠.
   - There's not many people working in this field.
-<!--SR:!2025-07-25,53,250-->
+<!--SR:!2025-12-09,132,250-->
 ?end
 
 
@@ -653,7 +653,7 @@ https://hinative.com/questions/19360784
 - The reality agrees with the name
 ### 예
 -
-<!--SR:!2025-07-28,13,230-->
+<!--SR:!2025-08-28,29,230-->
 ?end
 
 ## 수상하다 #card
