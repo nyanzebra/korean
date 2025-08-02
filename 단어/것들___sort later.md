@@ -1354,7 +1354,7 @@ go in and out frequently
 - it has been a long time since we last met in person
 ### 예
 -
-<!--SR:!2025-07-25,25,273-->
+<!--SR:!2025-10-09,68,273-->
 ?end
 
 
