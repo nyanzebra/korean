@@ -1732,7 +1732,7 @@ go in and out frequently
 	- And if she were falling at this speed, she would've been crushed to death
 - 김태희의 배역은 부수어야 하고 아무것도 그녀를 막을 수 없는 역할이다.
 	- Kim's character is on a mission to destroy, and nothing can stop her.
-<!--SR:!2025-07-26,61,250-->
+<!--SR:!2025-08-03,1,250-->
 ?end
 
 
