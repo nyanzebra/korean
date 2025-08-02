@@ -1294,7 +1294,7 @@ go in and out frequently
 - 이것은 정직한 사람이 손해를 보는 좋은 예다
 	- This is a good example of a case in which honesty doesn't pay.
 -
-<!--SR:!2025-07-23,3,250-->
+<!--SR:!2025-08-09,8,250-->
 ?end
 
 ## 물리다 #card
@@ -1795,7 +1795,7 @@ go in and out frequently
 	- These are a few of them. So, what did I do?
 - 그러한 체험을 가진 사람은 전 인구 중 일부에 국한되어 있다
 	- Only a few in the whole population have had such experiences.
-<!--SR:!2025-07-28,13,249-->
+<!--SR:!2025-08-08,7,229-->
 ?end
 
 
