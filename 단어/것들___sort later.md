@@ -779,7 +779,7 @@ go in and out frequently
 ### 예
 - 어린이를 풀에서 헤엄치게 하다
 	- let the children swim in the pool.
-<!--SR:!2025-08-02,13,230-->
+<!--SR:!2025-09-01,30,230-->
 ?end
 
 
@@ -1098,7 +1098,7 @@ go in and out frequently
 	- The warmer weather makes them feel slower and more tired.
 - 너 참 둔하구나
 	- You are so oblivious.
-<!--SR:!2025-07-21,1,250-->
+<!--SR:!2025-08-05,3,250-->
 ?end
 
 ## 코디 #card
