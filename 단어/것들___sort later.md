@@ -12,7 +12,9 @@
 	- And make sure to avoid those chocolate bars with high sugar content.
 - 한 명이 쳐다보면 상대방은 빨리 다른 곳으로 눈길을 피하죠.
 	- As soon as one guy looks up, the other guy will look away
-- 
+- 수많은 난민들이 전쟁을 피해 유럽 대륙을 떠나왔다.
+	* Thousands of refugees fled continental Europe to escape the path of war.
+
 ?end
 
 
