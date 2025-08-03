@@ -1344,7 +1344,7 @@ go in and out frequently
 - nickname
 ### 예
 -
-<!--SR:!2025-07-27,21,250-->
+<!--SR:!2025-09-24,53,250-->
 ?end
 
 
