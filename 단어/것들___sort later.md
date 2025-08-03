@@ -1798,7 +1798,7 @@ go in and out frequently
 - gang?
 ### 예
 -
-<!--SR:!2025-08-03,1,250-->
+<!--SR:!2025-08-03,1,230-->
 ?end
 
 
@@ -1825,7 +1825,7 @@ go in and out frequently
 - our side is lacking for a bit
 ### 예
 -
-<!--SR:!2025-07-23,7,250-->
+<!--SR:!2025-08-19,17,250-->
 ?end
 
 
