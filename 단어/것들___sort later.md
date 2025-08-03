@@ -7,7 +7,10 @@
 ### 예
 - 원고를 베끼다
 	- make a copy of a manuscript.
-- 
+- 한 마디 한 마디 그대로 베끼지 마세요.
+	- Do not transcribe word-for-word
+- 그래서 저는 제가 이것을 책에서 베꼈다고 감지합니다.
+	- And I have a sense that I probably copied this from a book
 ?end
 
 ## 피하다 #card
