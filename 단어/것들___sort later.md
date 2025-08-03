@@ -1,4 +1,15 @@
 
+## 베께다 #card
+?begin
+### 뜻
+- transcibe
+- copycat
+### 예
+- 원고를 베끼다
+	- make a copy of a manuscript.
+- 
+?end
+
 ## 피하다 #card
 ?begin
 ### 뜻
