@@ -1,10 +1,18 @@
 
-## 단어 #card
+## 피하다 #card
 ?begin
 ### 뜻
--
+- avoid
+- away
+- escape
+- dodge
+- avert
 ### 예
--
+- 그리고 설탕 함량이 높은 초콜릿 바를 피하도록 하세요.
+	- And make sure to avoid those chocolate bars with high sugar content.
+- 한 명이 쳐다보면 상대방은 빨리 다른 곳으로 눈길을 피하죠.
+	- As soon as one guy looks up, the other guy will look away
+- 
 ?end
 
 
