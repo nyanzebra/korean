@@ -924,7 +924,7 @@ go in and out frequently
 	- throw in something extra.
 - 덤으로 귤 2개를 드리겠습니다
 	- I'll throw these two oranges in extra./I'll give you two oranges into the bargain.
-<!--SR:!2025-08-03,5,231-->
+<!--SR:!2025-08-16,13,231-->
 ?end
 
 
@@ -1722,7 +1722,7 @@ go in and out frequently
 - frank
 ### 예
 -
-<!--SR:!2025-07-18,3,173-->
+<!--SR:!2025-08-08,5,173-->
 ?end
 
 
