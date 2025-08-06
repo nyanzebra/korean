@@ -2238,7 +2238,7 @@ go in and out frequently
 ## 해당 #card
 ?begin
 ### 뜻
-- corr to pond
+- correspond
 ### 예
 - 그것에 해당하는 예
 ?end
