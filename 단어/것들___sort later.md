@@ -2239,8 +2239,12 @@ go in and out frequently
 ?begin
 ### 뜻
 - correspond
+- apply
 ### 예
-- 그것에 해당하는 예
+- 세계의 20퍼센트에는 해당이 안되는 것이죠.
+	- So it doesn't apply to 20 percent of the world.
+- 북극성의 위치는 기계 중심에 해당합니다.
+	- So the North Star corresponds to the center of the device.
 ?end
 
 
