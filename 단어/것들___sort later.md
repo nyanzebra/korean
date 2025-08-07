@@ -2196,24 +2196,6 @@ go in and out frequently
 	- Each university will give prior notice on which type it will accept for its screening process.
 ?end
 
-## 을 중심으로 #card
-?begin
-### 뜻
-- center around
-- focus around
-### 예
-- ?
-?end
-
-## 중심 #card
-?begin
-### 뜻
--
-### 예
--
-?end
-
-
 ## 조언 #card
 ?begin
 ### 뜻
