@@ -2205,6 +2205,15 @@ go in and out frequently
 - ?
 ?end
 
+## 중심 #card
+?begin
+### 뜻
+-
+### 예
+-
+?end
+
+
 ## 조언 #card
 ?begin
 ### 뜻
