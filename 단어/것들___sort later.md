@@ -1,9 +1,12 @@
-## 단어 #card
+## 점점 더 많이 #card
 ?begin
 ### 뜻
--
+- more and more
 ### 예
--
+- 위조서류는 점점 더 많이 필요해지는데, 그곳에 있는 서류들로는 어찌할 수 가 없었습니다.
+	- But demand was ever-growing and it was difficult to tamper with existing documents.
+- 하지만 앞으로 우리는 인간 두뇌에 대해서 점점 더 많이 알게 될 것입니다.
+	- But we are learning more and more about the human brain.
 ?end
 
 ## 베께다 #card
