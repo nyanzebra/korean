@@ -1,3 +1,10 @@
+## 단어 #card
+?begin
+### 뜻
+-
+### 예
+-
+?end
 
 ## 베께다 #card
 ?begin
