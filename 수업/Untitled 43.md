@@ -41,3 +41,12 @@ You (Aug 7, 2025, 17:23)
 siddhartha
 
 58-말하기 63
+활궁
+
+You (Aug 7, 2025, 18:00)
+
+pulley
+
+Kyunghee Min (Aug 7, 2025, 18:01)
+
+양궁
