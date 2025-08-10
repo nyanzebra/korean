@@ -1838,7 +1838,7 @@ go in and out frequently
 	- These are a few of them. So, what did I do?
 - 그러한 체험을 가진 사람은 전 인구 중 일부에 국한되어 있다
 	- Only a few in the whole population have had such experiences.
-<!--SR:!2025-08-08,7,229-->
+<!--SR:!2025-08-26,16,229-->
 ?end
 
 
@@ -2147,7 +2147,7 @@ go in and out frequently
 	- He won a gold medal at[in] the Seoul Olympics.
 - 남의 글귀를 따다
 	- steal another's words/plagiarize.
-<!--SR:!2025-08-08,33,228-->
+<!--SR:!2025-10-23,74,228-->
 ?end
 
 ## 원어 #card
