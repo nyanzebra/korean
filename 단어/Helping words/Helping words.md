@@ -321,7 +321,7 @@
   - This book is too difficult for me to read.
 - 그 일은 워낙 명백해서 증거를 댈 필요도 없다
   - It is too evident to require proof.
-<!--SR:!2025-08-05,32,250-->
+<!--SR:!2025-10-29,81,250-->
 ?end
 
 
