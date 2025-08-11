@@ -1141,7 +1141,7 @@ go in and out frequently
 	- The warmer weather makes them feel slower and more tired.
 - 너 참 둔하구나
 	- You are so oblivious.
-<!--SR:!2025-08-05,3,250-->
+<!--SR:!2025-08-17,7,250-->
 ?end
 
 ## 코디 #card
@@ -1234,7 +1234,7 @@ go in and out frequently
 	- I searched all over the house for the missing watch.
 - 한국은 첨단 기술 분야에서 외국에 뒤져 있지 않다
 	- In the field of modern technology, Korea is not behind other countries.
-<!--SR:!2025-08-07,23,231-->
+<!--SR:!2025-08-23,13,211-->
 ?end
 
 ## 꿇리다 #card
