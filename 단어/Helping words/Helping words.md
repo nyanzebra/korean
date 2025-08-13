@@ -249,7 +249,7 @@
 ### 예
 - 이번 합의는 지금까지 매치 그룹에 있어 최대 인수 합병이었다.
 	- The deal was the largest merger and acquisition of Match Group to date.
-<!--SR:!2025-08-12,8,250-->
+<!--SR:!2025-09-02,21,250-->
 ?end
 
 
@@ -515,7 +515,7 @@
 	- dip in sauce
 - 카드를 거기에 찍어야 돼
 	- you must scan you card there
-<!--SR:!2025-07-30,5,229-->
+<!--SR:!2025-08-24,12,229-->
 ?end
 
 ## 무엇보다도 #card
