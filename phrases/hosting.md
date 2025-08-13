@@ -67,5 +67,5 @@
 - induction ceremony, group meeting for introducing new members
 ### 예
 -
-<!--SR:!2025-08-07,16,268-->
+<!--SR:!2025-08-13,1,250-->
 ?end
