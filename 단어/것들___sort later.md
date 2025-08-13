@@ -412,7 +412,7 @@
 	- My father's condition remains the same.
 - 한 달이 지난 지금도 북한의 군사적 위협은 여전하다.
 	- A month has passed, and the North Korean military threat remains.
-<!--SR:!2025-08-03,1,250-->
+<!--SR:!2025-08-13,1,230-->
 ?end
 
 ## 지속하다 #card
@@ -1298,7 +1298,7 @@ go in and out frequently
   - Is that why you are afraid of me?
 - 사실, 완전히 겁먹었죠. 저는 저체온증에 걸린 것 같았고 제 친구들은 결국 저를 물밖으로 꺼내야만 했습니다.
   - Actually, I was totally freaking out and I was borderline hypothermic, and my friends eventually had to help me out of the water.
-<!--SR:!2025-08-11,12,230-->
+<!--SR:!2025-09-09,28,230-->
 ?end
 
 
