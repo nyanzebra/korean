@@ -710,7 +710,7 @@ https://hinative.com/questions/19360784
 	- She seems to be going about[around] with a questionable man.
 - 탐정은 수상한 그 사나이를 놓쳤다
 	- The detective lost track of the suspicious man.
-<!--SR:!2025-08-12,1,250-->
+<!--SR:!2025-08-15,3,250-->
 ?end
 
 
