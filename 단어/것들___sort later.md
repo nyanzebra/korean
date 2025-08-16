@@ -10,7 +10,8 @@
 ## 업적 #card
 ?begin
 ### 뜻
-- 
+- (noun) achievement
+- accomplishment
 ### 예
 -
 ?end
