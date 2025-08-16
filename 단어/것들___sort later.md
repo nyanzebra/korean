@@ -1,3 +1,21 @@
+
+## 역사가 #card
+?begin
+### 뜻
+- historian
+### 예
+-
+?end
+
+## 업적 #card
+?begin
+### 뜻
+- 
+### 예
+-
+?end
+
+
 ## 점점 더 많이 #card
 ?begin
 ### 뜻
