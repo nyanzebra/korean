@@ -35,7 +35,7 @@
 	- One went into his brother's possession, but all the rest fell into his hands.
 - 전부 한데 모아 보내는 편이 낫다
 	- You'd better send them all together.
-<!--SR:!2025-08-14,12,230-->
+<!--SR:!2025-09-14,28,230-->
 ?end
 
 ## 우선 #card
@@ -237,7 +237,7 @@
 ### 예
 - 그는 최소의 비용으로 그것을 그럭저럭 해냈다
 	- He managed to do it at the minimum of cost.
-<!--SR:!2025-08-17,26,270-->
+<!--SR:!2025-10-25,69,270-->
 ?end
 
 

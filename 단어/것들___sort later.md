@@ -431,7 +431,7 @@
 	- My father's condition remains the same.
 - 한 달이 지난 지금도 북한의 군사적 위협은 여전하다.
 	- A month has passed, and the North Korean military threat remains.
-<!--SR:!2025-08-15,2,230-->
+<!--SR:!2025-08-22,5,230-->
 ?end
 
 ## 지속하다 #card
@@ -729,7 +729,7 @@ https://hinative.com/questions/19360784
 	- She seems to be going about[around] with a questionable man.
 - 탐정은 수상한 그 사나이를 놓쳤다
 	- The detective lost track of the suspicious man.
-<!--SR:!2025-08-15,3,250-->
+<!--SR:!2025-08-24,7,250-->
 ?end
 
 
@@ -1583,7 +1583,7 @@ go in and out frequently
 ### 예
 - 장단을 맞추다
 	- beat a rhythm
-<!--SR:!2025-08-15,2,230-->
+<!--SR:!2025-08-22,5,230-->
 ?end
 
 ## 위협 #card
