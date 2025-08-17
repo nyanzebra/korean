@@ -524,7 +524,7 @@ https://hinative.com/questions/19360784
 	- For the rebellious Sartre, then, turning down a world-famous award was completely in character.
 - 그녀는 아빠에게 반항하고 늘 모험을 떠날 준비가 되어있다.
 	- She rebels against her father and is always ready for adventure
-<!--SR:!2025-08-17,81,250-->
+<!--SR:!2025-08-18,1,250-->
 ?end
 
 
@@ -1954,7 +1954,7 @@ go in and out frequently
 	- creative instinct
 - 모성 본능
 	- a maternal instinct
-<!--SR:!2025-08-15,2,230-->
+<!--SR:!2025-08-22,5,230-->
 ?end
 
 
