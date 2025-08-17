@@ -508,7 +508,7 @@ https://hinative.com/questions/19360784
 ### 예
 - 그의 정열적인 포옹으로 그녀는 숨도 쉴 수 없었다
 	- His passionate embrace took her breath away./He took her breath away with a passionate embrace.
-<!--SR:!2025-08-17,74,270-->
+<!--SR:!2026-03-05,200,270-->
 ?end
 
 ## 반항 #card
@@ -524,7 +524,7 @@ https://hinative.com/questions/19360784
 	- For the rebellious Sartre, then, turning down a world-famous award was completely in character.
 - 그녀는 아빠에게 반항하고 늘 모험을 떠날 준비가 되어있다.
 	- She rebels against her father and is always ready for adventure
-<!--SR:!2025-08-18,1,250-->
+<!--SR:!2025-08-18,1,230-->
 ?end
 
 
@@ -1515,7 +1515,7 @@ go in and out frequently
 	- He attempted to translate all the works of Shakespeare.
 - 처음에 실패해도 또 다시 시도해보아라
 	- If at first you don't succeed, (try,) try again.
-<!--SR:!2025-08-16,55,268-->
+<!--SR:!2025-08-18,1,230-->
 ?end
 
 
