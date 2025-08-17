@@ -953,7 +953,7 @@ go in and out frequently
 	- throw in something extra.
 - 덤으로 귤 2개를 드리겠습니다
 	- I'll throw these two oranges in extra./I'll give you two oranges into the bargain.
-<!--SR:!2025-08-16,13,231-->
+<!--SR:!2025-09-15,29,231-->
 ?end
 
 
@@ -1830,7 +1830,7 @@ go in and out frequently
   - Actually, in Orwellian fashion, this treaty is aimed at limiting cultural diversity, not expanding it.
 - 기본적인 목적은 금융기관을 이해하기 쉽고, 편리하고, 믿을 수 있는 곳으로 만들자는 것이다.
   - The basic goal is to make financial institutions approachable, convenient and trustworthy.
-<!--SR:!2025-08-16,23,251-->
+<!--SR:!2025-10-14,58,251-->
 ?end
 
 
