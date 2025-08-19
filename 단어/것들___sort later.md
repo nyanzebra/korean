@@ -1,10 +1,12 @@
 
-## 유용ㅎ #card
+## 유용하다 #card
 ?begin
 ### 뜻
--
+- useful
+- helpful
 ### 예
--
+- 유용한 회사 돈을 물어넣다
+	- repay misappropriated company funds.
 ?end
 
 
