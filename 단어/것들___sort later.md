@@ -1635,7 +1635,7 @@ go in and out frequently
 - private tutoring
 ### 예
 -
-<!--SR:!2025-08-14,71,249-->
+<!--SR:!2025-08-19,1,250-->
 ?end
 
 
