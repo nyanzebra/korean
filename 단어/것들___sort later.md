@@ -1,4 +1,16 @@
 
+## 주의하다 #card
+?begin
+### 뜻
+- give attention to
+- advise
+### 예
+- 교통 신호에 주의하다
+	- look[pay attention] to traffic signals.
+- 
+?end
+
+
 ## 유용하다 #card
 ?begin
 ### 뜻
