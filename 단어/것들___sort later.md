@@ -7,7 +7,8 @@
 ### 예
 - 교통 신호에 주의하다
 	- look[pay attention] to traffic signals.
-- 
+- 날치기당하지 않도록 소지품에 주의하십시오
+	- Keep an eye on your belongings so that no one will walk off with[snatch/swipe] them.
 ?end
 
 
