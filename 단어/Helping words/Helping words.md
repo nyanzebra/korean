@@ -120,7 +120,7 @@
 	- put money apart for educational expenses.
 - 물건을 각각 따로 두다
 	- keep things apart.
-<!--SR:!2025-08-21,52,230-->
+<!--SR:!2025-12-23,121,230-->
 ?end
 
 

@@ -1978,7 +1978,7 @@ go in and out frequently
 	- creative instinct
 - 모성 본능
 	- a maternal instinct
-<!--SR:!2025-08-22,5,230-->
+<!--SR:!2025-09-04,11,230-->
 ?end
 
 
