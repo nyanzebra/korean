@@ -1,3 +1,16 @@
+## 및 #card
+?begin
+### 뜻
+- and
+- as well
+### 예
+-
+### Notes
+Same as 와/과 and 고/하고 but is more formal?
+https://hinative.com/questions/16678555
+?end
+
+
 ## 애초 #card
 ?begin
 ### 뜻
