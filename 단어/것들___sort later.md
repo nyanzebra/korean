@@ -7,7 +7,14 @@
 ### 예
 - 저를 너무 과대 평가하시는 군요. 순전히 운이 좋아 성공한 것뿐입니다
 	- You're giving me too much credit. My success was entirely due to good luck.
-- 
+- 높이 평가하다
+	- highly appreciate/set a high value 《on》/esteem.
+- 외모로 사람을 평가해서는 안 된다
+	- We should not judge (of) a man by his appearance.
+- 토지를 높게 평가하다
+	- set a high valuation on the land.
+- 그의 인격을 과대 평가하였다
+	- I overestimated his character.
 ?end
 
 ## 수집하다 #card
