@@ -1,3 +1,11 @@
+## 단어 #card
+?begin
+### 뜻
+-
+### 예
+-
+?end
+
 
 ## 주의하다 #card
 ?begin
