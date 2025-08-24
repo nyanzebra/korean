@@ -455,7 +455,7 @@
 	- My father's condition remains the same.
 - 한 달이 지난 지금도 북한의 군사적 위협은 여전하다.
 	- A month has passed, and the North Korean military threat remains.
-<!--SR:!2025-08-22,5,230-->
+<!--SR:!2025-09-05,12,230-->
 ?end
 
 ## 지속하다 #card
@@ -1965,7 +1965,7 @@ go in and out frequently
 	- park a car
 - 이제 와서 계획을 세워 봐야 사또떠난 뒤에 나팔 부는 격이다
 	- It is too late to work out a plan now.
-<!--SR:!2025-08-22,29,230-->
+<!--SR:!2025-10-30,67,230-->
 ?end
 
 
