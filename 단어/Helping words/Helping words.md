@@ -173,7 +173,7 @@
   - Why do you keep asking me that?
 - 제가 방에 혼자 있을 때면 자꾸 들어와서 뭘 하고 있는지 물어보시고 침실 문을 닫으면 안 된다고 말 하세요.
   - When I'm in my room alone, she repeatedly comes in to ask me what's going on and says I'm not supposed to close my bedroom door.
-<!--SR:!2025-08-24,81,270-->
+<!--SR:!2026-03-31,219,270-->
 ?end
 
 
