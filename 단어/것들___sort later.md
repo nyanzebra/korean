@@ -19,7 +19,14 @@
 - material
 - resource
 ### 예
--
+- 통계 자료
+	- statistical data
+- 참고 자료
+	- reference data
+- 조사 자료
+	- investigation data
+- 비디오 및 오디오 녹음과 같은 다른 자료도 있을 수 있습니다.
+	- It can also have other materials, like videos and audio recordings
 ?end
 
 ## 주의하다 #card
