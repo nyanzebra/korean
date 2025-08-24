@@ -12,6 +12,13 @@
 	- She made a marvelous collection of ten thousand volumes.
 ?end
 
+## 설문 #card
+?begin
+### 뜻
+- survey
+### 예
+-
+?end
 
 ## 자료 #card
 ?begin
