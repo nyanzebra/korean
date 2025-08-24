@@ -386,7 +386,7 @@
 	- Two of his ribs were fractured and his sherpa died.
 - 하지만 부러지는 것보다 휘는 것이 낫다고 했다.
 	- But it is better to bend than snap.
-<!--SR:!2025-08-21,22,214-->
+<!--SR:!2025-10-09,46,214-->
 ?end
 
 
@@ -1066,7 +1066,7 @@ go in and out frequently
 	- He delivered a staunch defense of the government.
 - 괴로운 입장
 	- an awkward situation.
-<!--SR:!2025-08-19,26,249-->
+<!--SR:!2025-10-31,68,249-->
 ?end
 
 
