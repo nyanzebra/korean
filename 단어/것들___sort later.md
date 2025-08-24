@@ -1,3 +1,15 @@
+
+## 평가하다 #card
+?begin
+### 뜻
+- value
+- evaluate
+### 예
+- 저를 너무 과대 평가하시는 군요. 순전히 운이 좋아 성공한 것뿐입니다
+	- You're giving me too much credit. My success was entirely due to good luck.
+- 
+?end
+
 ## 수집하다 #card
 ?begin
 ### 뜻
