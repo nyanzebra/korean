@@ -1,11 +1,19 @@
-## 단어 #card
+## 수집하다 #card
+?begin
+### 뜻
+- collect
+- gather
+### 예
+-
+?end
+
+## 자료 #card
 ?begin
 ### 뜻
 -
 ### 예
 -
 ?end
-
 
 ## 주의하다 #card
 ?begin
