@@ -4,13 +4,20 @@
 - collect
 - gather
 ### 예
--
+- 논문 작성을 위해 모든 데이터를 수집했다
+	- I have collected all the data available to write an article.
+- 그 사건에 관한 자료는 도서관이 수집했다
+	- The library has gathered[amassed] materials on the incident.
+- 그녀는 물경 만 권의 책을 수집했다
+	- She made a marvelous collection of ten thousand volumes.
 ?end
 
 ## 자료 #card
 ?begin
 ### 뜻
--
+- data
+- material
+- resource
 ### 예
 -
 ?end
