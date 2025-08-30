@@ -5,7 +5,10 @@ Used to mean some action was completely done. Can also be used for emotions when
 
 Related to [[고 말다]]
 ### Form
+
 ### Restrictions
 ### Examples
+* 조깅을 하는 동안 열쇠를 잃어 버렸어요
+	* I lost my keys while jogging
 ### Notes
 ?end
