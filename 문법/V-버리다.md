@@ -18,6 +18,8 @@ Related to [[고 말다]]
 	* I told the police all I knew
 * 과일과 채소가 많이 싸서 다 사 버렸어요
 	* The fruits and veggies were so cheap that I bought them all
-* 
+* 월급날이 아직 멀었는데 돈을 벌써 다 써 버렸어요
+	* The payday is still far away, but the money has already been used up
+* 배가 고파서 냉장고의 음십
 ### Notes
 ?end
