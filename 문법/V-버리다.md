@@ -23,4 +23,5 @@ Related to [[고 말다]]
 * 배가 고파서 냉장고의 음식을 혼자 다 먹어 버렸어요
 	* I was hungry and ate all the food in the refrigerator by myself
 ### Notes
+https://www.verbling.com/discussion/~-its-totally-donefinishedcompleted
 ?end
