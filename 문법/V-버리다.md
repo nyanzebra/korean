@@ -10,5 +10,7 @@ Related to [[고 말다]]
 ### Examples
 * 조깅을 하는 동안 열쇠를 잃어 버렸어요
 	* I lost my keys while jogging
+* 친구들이 비밀을 알아 버렸어요
+	* My friends 
 ### Notes
 ?end
