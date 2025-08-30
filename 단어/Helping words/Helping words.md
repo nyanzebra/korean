@@ -612,7 +612,7 @@ https://hinative.com/questions/16678555
 	- ample means.
 - 충분한[불충분한] 증거
 	- sufficient[insufficient] evidence.
-<!--SR:!2025-08-29,54,253-->
+<!--SR:!2026-01-14,137,253-->
 ?end
 
 ## 불충분하다 #card
