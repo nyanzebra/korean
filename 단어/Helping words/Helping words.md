@@ -67,7 +67,7 @@ https://hinative.com/questions/16678555
 	- We will stay here for the time being.
 - 그래서 그 목록을 천천히 보고 우선 순위를 매겼습니다.
 	- So what I did was, I went through and I prioritized that list.
-<!--SR:!2025-08-28,29,230-->
+<!--SR:!2025-08-31,1,250-->
 ?end
 
 
@@ -415,7 +415,7 @@ https://hinative.com/questions/16678555
 	- It is a long time since we met
 - 바퀴를 한 번만 움직이면 타성으로 한참 동안 돌아간다
 	- Once you set a wheel in motion, it will keep turning for quite a while because of inertia.
-<!--SR:!2025-08-28,79,249-->
+<!--SR:!2026-03-13,195,249-->
 ?end
 
 
