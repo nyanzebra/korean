@@ -11,6 +11,10 @@ Related to [[고 말다]]
 * 조깅을 하는 동안 열쇠를 잃어 버렸어요
 	* I lost my keys while jogging
 * 친구들이 비밀을 알아 버렸어요
-	* My friends 
+	* My friends have found out the secret
+* 마침내 컴퓨터를 팔아 버렸어요
+	* I finally sold my computer
+* 경찰에세 아는 것 전부를 말해 버렸어요
+	* 
 ### Notes
 ?end
