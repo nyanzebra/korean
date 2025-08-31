@@ -318,7 +318,7 @@ https://hinative.com/questions/16678555
   - But the seemingly humble beginning led to realization of his childhood dream.
 - 겉보기보단 더 먹었어요
   - I'm older than I look.
-<!--SR:!2025-08-28,65,230-->
+<!--SR:!2026-01-28,150,230-->
 ?end
 
 
