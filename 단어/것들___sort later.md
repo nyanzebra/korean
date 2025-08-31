@@ -1267,7 +1267,7 @@ go in and out frequently
 	- The skin's a whole another thing, probably the hardest part.
 - 그리고 그와는 별개로, 저는 작곡과 단편을 썼습니다.
 	- And aside from that, I wrote music and short stories.
-<!--SR:!2025-08-27,38,229-->
+<!--SR:!2025-11-25,86,229-->
 ?end
 
 
