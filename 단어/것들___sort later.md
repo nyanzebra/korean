@@ -1,3 +1,13 @@
+## 공통하다 #card
+?begin
+### 뜻
+- common
+- commonalities
+### 예
+- 만인에게 공통하다
+	- be common to us all.
+?end
+
 
 ## 평가하다 #card
 ?begin
