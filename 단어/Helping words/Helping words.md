@@ -1,10 +1,15 @@
 
-## 단어 #card
+## 다름없다 #card
 ?begin
 ### 뜻
--
+- like
+- same
+- as good as
 ### 예
--
+- 전과 다름없는 우정
+	- steady[constant] friendship
+- 그리고 동생인 카일리는 거의 나타샤의 아이나 다름없었죠.
+	- 
 ?end
 
 ## 및 #card
