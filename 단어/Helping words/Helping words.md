@@ -12,7 +12,8 @@
 	- And Kylie I mean, it was almost like Kylie was her own child
 - "말씀드렸다시피…… 여느 때와 다름없는 아홉시였어요."
 	- "I told you ... nine o'clock--like always."
-- 
+- 너에겐 독이나 다름없지?
+	- It's like poison to you, isn't it?
 ?end
 
 ## 및 #card
