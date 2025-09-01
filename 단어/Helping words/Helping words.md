@@ -9,7 +9,10 @@
 - 전과 다름없는 우정
 	- steady[constant] friendship
 - 그리고 동생인 카일리는 거의 나타샤의 아이나 다름없었죠.
-	- 
+	- And Kylie I mean, it was almost like Kylie was her own child
+- "말씀드렸다시피…… 여느 때와 다름없는 아홉시였어요."
+	- "I told you ... nine o'clock--like always."
+- 
 ?end
 
 ## 및 #card
