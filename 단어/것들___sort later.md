@@ -1422,7 +1422,7 @@ go in and out frequently
 	- Please forgive me, for I did not mean what I said.
 - 결코 나는 그를 용서할 수 없다
 	- I cannot forgive him on any account.
-<!--SR:!2025-08-30,29,210-->
+<!--SR:!2025-11-03,64,210-->
 ?end
 
 
@@ -1664,7 +1664,7 @@ go in and out frequently
 ### 예
 - 장단을 맞추다
 	- beat a rhythm
-<!--SR:!2025-08-22,5,230-->
+<!--SR:!2025-09-12,12,230-->
 ?end
 
 ## 위협 #card
