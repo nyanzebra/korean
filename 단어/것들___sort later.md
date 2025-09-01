@@ -6,6 +6,10 @@
 ### 예
 - 만인에게 공통하다
 	- be common to us all.
+- 그런 다음, 여러분의 목록을 살펴보고 그들의 공통점을 찾으려고 노력하세요.
+	- Then look through your list and try to find something they have in common
+- 우리는 다름보다는 공통점을 더 보게 됩니다.
+	- We tend to see commonalities more than differences.
 ?end
 
 
