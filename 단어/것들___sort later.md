@@ -17,7 +17,7 @@
 ### 뜻
 - counterfeit
 - fake
-- fo
+- forgery
 ### 예
 -
 ?end
