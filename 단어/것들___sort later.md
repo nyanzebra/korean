@@ -12,6 +12,16 @@
 	- We tend to see commonalities more than differences.
 ?end
 
+## 위조 #card
+?begin
+### 뜻
+- counterfeit
+- fake
+- fo
+### 예
+-
+?end
+
 ## 방지하다 #card
 ?begin
 ### 뜻
