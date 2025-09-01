@@ -12,6 +12,13 @@
 	- We tend to see commonalities more than differences.
 ?end
 
+## 방지하다 #card
+?begin
+### 뜻
+- prevent
+### 예
+-
+?end
 
 ## 평가하다 #card
 ?begin
