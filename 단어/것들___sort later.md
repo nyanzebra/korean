@@ -16,8 +16,12 @@
 ?begin
 ### 뜻
 - prevent
+- check
 ### 예
--
+- 목적은 사고를 방지하려는 데에 있다
+	- The idea is to prevent accidents.
+- 한반도에서의 전쟁의 재발을 방지하다
+	- prevent the recurrence of war on the Korean Peninsula.
 ?end
 
 ## 평가하다 #card
