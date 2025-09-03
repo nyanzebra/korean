@@ -1740,7 +1740,7 @@ go in and out frequently
 - private tutoring
 ### 예
 -
-<!--SR:!2025-09-02,3,250-->
+<!--SR:!2025-09-10,8,250-->
 ?end
 
 
@@ -1879,7 +1879,7 @@ go in and out frequently
 - amazing
 ### 예
 -
-<!--SR:!2025-08-31,33,249-->
+<!--SR:!2025-09-19,17,229-->
 ?end
 
 ## 속이다 #card

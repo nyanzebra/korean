@@ -103,7 +103,7 @@ https://hinative.com/questions/16678555
 	- Each one of us has a room to himself/We each have our own room.
 - 이 두 문제는 각각 별도로 생각해야 한다
 	- The two problems have to be considered separately.
-<!--SR:!2025-08-18,75,289-->
+<!--SR:!2026-04-07,217,289-->
 ?end
 
 
@@ -120,7 +120,7 @@ https://hinative.com/questions/16678555
 	- steady demand.
 - 그러나 올 한 해 대부분은 성장이 느리지만 꾸준하게 유지될 것이다.
 	- However, the growth should remain slow but steady for much of the year.
-<!--SR:!2025-09-01,65,249-->
+<!--SR:!2026-02-11,162,249-->
 ?end
 
 
@@ -556,7 +556,7 @@ https://hinative.com/questions/16678555
 ### 예
 - 무엇보다도 사랑해
 	- I love you more than anything
-<!--SR:!2025-08-30,53,249-->
+<!--SR:!2026-01-13,133,249-->
 ?end
 
 ## 대신 #card
