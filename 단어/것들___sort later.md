@@ -1,3 +1,12 @@
+
+## 설문조사/질문 조사 #card
+?begin
+### 뜻
+- questionnaire (question + investigation)
+### 예
+-
+?end
+
 ## 공통하다 #card
 ?begin
 ### 뜻
