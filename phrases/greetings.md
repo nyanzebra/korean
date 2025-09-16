@@ -179,7 +179,7 @@
 - Please teach me a lot / Please help out a lot
 ### 예
 -
-<!--SR:!2025-09-05,47,263-->
+<!--SR:!2026-01-17,124,263-->
 ?end
 
 ## -이라고 불러 주세요 #card

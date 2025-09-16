@@ -572,7 +572,7 @@
 ### Notes
 keep doing some action
 https://hinative.com/questions/19360784
-<!--SR:!2025-09-14,50,251-->
+<!--SR:!2026-01-20,127,251-->
 ?end
 
 ## 유지하다 #card
@@ -1929,7 +1929,7 @@ go in and out frequently
 - unite
 ### 예
 -
-<!--SR:!2025-09-05,24,250-->
+<!--SR:!2025-09-16,1,250-->
 ?end
 
 
@@ -2079,7 +2079,7 @@ go in and out frequently
 	- creative instinct
 - 모성 본능
 	- a maternal instinct
-<!--SR:!2025-09-04,11,230-->
+<!--SR:!2025-10-10,25,230-->
 ?end
 
 
