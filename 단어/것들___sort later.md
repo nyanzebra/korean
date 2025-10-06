@@ -363,7 +363,7 @@
   - ominous dream
 - 그가 곧 죽는 것이나 아닐까 하는 불길한 예감이 든다
   - I have a premonition[an uneasy feeling] that he will die before long.
-<!--SR:!2025-09-29,58,253-->
+<!--SR:!2026-04-30,206,273-->
 ?end
 
 
@@ -1194,7 +1194,7 @@ go in and out frequently
 	- Some armed agents infiltrated Seoul.
 - 그는 결사의 각오로 적지에 잠입하였다
 	- He smuggled himself into enemy territory, ready to die if necessary.
-<!--SR:!2025-08-26,1,250-->
+<!--SR:!2025-10-10,4,270-->
 ?end
 
 
@@ -1285,7 +1285,7 @@ go in and out frequently
 	- The warmer weather makes them feel slower and more tired.
 - 너 참 둔하구나
 	- You are so oblivious.
-<!--SR:!2025-09-04,18,250-->
+<!--SR:!2025-10-07,1,250-->
 ?end
 
 ## 코디 #card
