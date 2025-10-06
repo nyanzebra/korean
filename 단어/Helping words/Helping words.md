@@ -218,7 +218,7 @@ https://hinative.com/questions/16678555
 	- He has seen much[little] of life.
 - 그녀는 천분이 풍부한 시인이다
 	- She is a highly gifted poet./She has a great gift for poetry.
-<!--SR:!2025-08-27,17,269-->
+<!--SR:!2025-12-08,63,289-->
 ?end
 
 
@@ -712,7 +712,7 @@ https://hinative.com/questions/16678555
 ### 예
 - 기껏해야 하루에 한 번
 	- at most once a day
-<!--SR:!2025-09-11,30,230-->
+<!--SR:!2026-01-10,96,250-->
 ?end
 
 ## 자세하다 #card
