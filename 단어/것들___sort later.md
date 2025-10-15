@@ -383,7 +383,7 @@
   - ominous dream
 - 그가 곧 죽는 것이나 아닐까 하는 불길한 예감이 든다
   - I have a premonition[an uneasy feeling] that he will die before long.
-<!--SR:!2025-09-29,58,253-->
+<!--SR:!2026-04-30,206,273-->
 ?end
 
 
@@ -456,10 +456,10 @@
 ## 인기를 모으다 #card
 ?begin
 ### 뜻
-- gain popularity 
+- gain popularity
 ### 예
 -
-<!--SR:!2025-09-06,53,254-->
+<!--SR:!2026-04-13,189,274-->
 ?end
 
 ## 인기를 끌다 #card
@@ -1305,7 +1305,7 @@ go in and out frequently
 	- The warmer weather makes them feel slower and more tired.
 - 너 참 둔하구나
 	- You are so oblivious.
-<!--SR:!2025-09-04,18,250-->
+<!--SR:!2025-10-07,1,250-->
 ?end
 
 ## 코디 #card
@@ -1800,7 +1800,7 @@ go in and out frequently
 - bat (baseball)
 ### 예
 -
-<!--SR:!2025-08-27,67,249-->
+<!--SR:!2026-05-28,234,269-->
 ?end
 
 
@@ -1986,7 +1986,7 @@ go in and out frequently
 - gang?
 ### 예
 -
-<!--SR:!2025-08-21,8,250-->
+<!--SR:!2025-10-25,19,250-->
 ?end
 
 

@@ -48,7 +48,7 @@ https://hinative.com/questions/16678555
 	- People jokingly said the two chose different food at a cafeteria on purpose.
 - 일부러 정보를 주지 않는 것이 관객들이 몰입하게 합니다.
 	- You know, doing that intentionally is much more engaging.
-<!--SR:!2025-09-10,28,230-->
+<!--SR:!2026-01-05,91,250-->
 ?end
 
 ## 전부 #card
@@ -218,7 +218,7 @@ https://hinative.com/questions/16678555
 	- He has seen much[little] of life.
 - 그녀는 천분이 풍부한 시인이다
 	- She is a highly gifted poet./She has a great gift for poetry.
-<!--SR:!2025-08-27,17,269-->
+<!--SR:!2025-12-08,63,289-->
 ?end
 
 
@@ -546,7 +546,7 @@ https://hinative.com/questions/16678555
 	- dip in sauce
 - 카드를 거기에 찍어야 돼
 	- you must scan you card there
-<!--SR:!2025-09-21,28,229-->
+<!--SR:!2026-01-04,90,249-->
 ?end
 
 ## 무엇보다도 #card
