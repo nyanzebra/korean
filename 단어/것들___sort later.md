@@ -1,4 +1,24 @@
 
+## 지각하다 #card
+?begin
+### 뜻
+- perceive
+- be late
+- come late
+### 예
+- 그는 늘 지각한다
+	- He is always behind time./He always comes late.
+- 첫 시간에 지각했다
+	- I came to school late for the first period.
+- 지각할 수 있다[없다]
+	- be perceptible
+- 지각하지 않도록 계고를 하다
+	- warn a person not to be late for work.
+- 그것을 통해, 그녀는 시각 없이 사물을 지각하는 방식을 보여준다.
+	- Through it, she displays a way of perceiving things without a sense of sight.
+?end
+
+
 ## 설문조사/질문 조사 #card
 ?begin
 ### 뜻
@@ -448,7 +468,7 @@
 - gain popularity (attract popularity)
 ### 예
 -
-<!--SR:!2025-09-06,53,254-->
+<!--SR:!2026-02-01,134,254-->
 ?end
 
 
@@ -587,7 +607,7 @@ https://hinative.com/questions/19360784
 ### Notes
 sustain some state
 https://hinative.com/questions/19360784
-<!--SR:!2025-08-24,30,233-->
+<!--SR:!2025-12-22,70,233-->
 ?end
 
 
@@ -649,7 +669,7 @@ https://hinative.com/questions/19360784
 	- For the rebellious Sartre, then, turning down a world-famous award was completely in character.
 - 그녀는 아빠에게 반항하고 늘 모험을 떠날 준비가 되어있다.
 	- She rebels against her father and is always ready for adventure
-<!--SR:!2025-08-18,1,230-->
+<!--SR:!2025-09-21,1,250-->
 ?end
 
 
@@ -765,7 +785,7 @@ https://hinative.com/questions/19360784
 	- rack one's brains all day long.
 - 목소리를 쥐어짜다
 	- strain one's voice.
-<!--SR:!2025-09-09,67,248-->
+<!--SR:!2026-03-26,164,248-->
 ?end
 
 
@@ -854,7 +874,7 @@ https://hinative.com/questions/19360784
 	- She seems to be going about[around] with a questionable man.
 - 탐정은 수상한 그 사나이를 놓쳤다
 	- The detective lost track of the suspicious man.
-<!--SR:!2025-08-24,7,250-->
+<!--SR:!2025-10-31,18,250-->
 ?end
 
 
@@ -871,7 +891,7 @@ https://hinative.com/questions/19360784
 	- There were no signs of their having discussed the matter.
 - 나는 낌새를 알고 있었다
 	- I had an inkling of it.
-<!--SR:!2025-09-17,75,249-->
+<!--SR:!2026-03-26,187,249-->
 ?end
 
 
@@ -995,7 +1015,7 @@ go in and out frequently
 - come/go by walking/foot
 ### 예
 -
-<!--SR:!2025-09-26,68,248-->
+<!--SR:!2026-04-03,172,248-->
 ?end
 
 
@@ -1078,7 +1098,7 @@ go in and out frequently
 	- throw in something extra.
 - 덤으로 귤 2개를 드리겠습니다
 	- I'll throw these two oranges in extra./I'll give you two oranges into the bargain.
-<!--SR:!2025-09-15,29,231-->
+<!--SR:!2025-12-06,67,231-->
 ?end
 
 
@@ -1148,7 +1168,7 @@ go in and out frequently
 	- be caught in mischief
 - 들키면 나는 큰일이다
 	- If I am discovered, I am done for
-<!--SR:!2025-09-18,76,248-->
+<!--SR:!2026-03-28,188,248-->
 
 ?end
 
@@ -1194,7 +1214,7 @@ go in and out frequently
 	- Some armed agents infiltrated Seoul.
 - 그는 결사의 각오로 적지에 잠입하였다
 	- He smuggled himself into enemy territory, ready to die if necessary.
-<!--SR:!2025-08-26,1,250-->
+<!--SR:!2025-09-23,3,250-->
 ?end
 
 
@@ -1207,7 +1227,7 @@ go in and out frequently
 	- root out a secret.
 - 나무 등걸을 캐내다
 	- dig up the stump of a tree.
-<!--SR:!2025-09-17,64,274-->
+<!--SR:!2026-04-09,178,274-->
 ?end
 
 
@@ -1442,7 +1462,7 @@ go in and out frequently
   - Is that why you are afraid of me?
 - 사실, 완전히 겁먹었죠. 저는 저체온증에 걸린 것 같았고 제 친구들은 결국 저를 물밖으로 꺼내야만 했습니다.
   - Actually, I was totally freaking out and I was borderline hypothermic, and my friends eventually had to help me out of the water.
-<!--SR:!2025-09-09,28,230-->
+<!--SR:!2025-11-22,63,230-->
 ?end
 
 
@@ -1453,7 +1473,7 @@ go in and out frequently
 - stuck
 ### 예
 -
-<!--SR:!2025-08-23,24,250-->
+<!--SR:!2025-10-14,1,250-->
 ?end
 
 
@@ -1481,7 +1501,7 @@ go in and out frequently
 - 이것은 정직한 사람이 손해를 보는 좋은 예다
 	- This is a good example of a case in which honesty doesn't pay.
 -
-<!--SR:!2025-09-07,28,270-->
+<!--SR:!2025-12-04,75,270-->
 ?end
 
 ## 물리다 #card
@@ -1507,7 +1527,7 @@ go in and out frequently
 	- exorcise evil spirits
 - 하루하루 물리다
 	- put off from day to day.
-<!--SR:!2025-09-09,9,230-->
+<!--SR:!2025-10-14,1,250-->
 ?end
 
 
@@ -1521,7 +1541,7 @@ go in and out frequently
 - reach
 ### 예
 -
-<!--SR:!2025-09-04,68,270-->
+<!--SR:!2026-03-25,186,270-->
 ?end
 
 
@@ -1541,7 +1561,7 @@ go in and out frequently
 - it has been a long time since we last met in person
 ### 예
 -
-<!--SR:!2025-10-09,68,273-->
+<!--SR:!2026-04-17,186,273-->
 ?end
 
 
@@ -1551,7 +1571,7 @@ go in and out frequently
 - I will take responsibility
 ### 예
 -
-<!--SR:!2025-09-21,116,290-->
+<!--SR:!2026-09-14,336,290-->
 ?end
 
 ## 두리번거리다 #card
@@ -1640,7 +1660,7 @@ go in and out frequently
 	- He attempted to translate all the works of Shakespeare.
 - 처음에 실패해도 또 다시 시도해보아라
 	- If at first you don't succeed, (try,) try again.
-<!--SR:!2025-09-10,11,230-->
+<!--SR:!2025-09-21,1,250-->
 ?end
 
 
@@ -1708,7 +1728,7 @@ go in and out frequently
 ### 예
 - 장단을 맞추다
 	- beat a rhythm
-<!--SR:!2025-09-12,12,230-->
+<!--SR:!2025-11-11,29,230-->
 ?end
 
 ## 위협 #card
@@ -1739,7 +1759,7 @@ go in and out frequently
   - What do you expect me to do? You took away my cell phone.
 - 그들은 저의 영혼과 인간성을 뺏어갈 수도 있었을 겁니다.
   - They would have taken my soul and my humanity
-<!--SR:!2025-08-27,24,231-->
+<!--SR:!2025-10-16,3,250-->
 ?end
 
 
@@ -1749,7 +1769,7 @@ go in and out frequently
 - private tutoring
 ### 예
 -
-<!--SR:!2025-09-10,8,250-->
+<!--SR:!2025-10-20,20,250-->
 ?end
 
 
@@ -1864,7 +1884,7 @@ go in and out frequently
 - nest
 ### 예
 -
-<!--SR:!2025-08-27,53,250-->
+<!--SR:!2025-09-21,1,250-->
 ?end
 
 
@@ -1876,7 +1896,7 @@ go in and out frequently
 - frank
 ### 예
 -
-<!--SR:!2025-08-19,9,173-->
+<!--SR:!2025-10-29,16,173-->
 ?end
 
 
@@ -1901,7 +1921,7 @@ go in and out frequently
   - They are more likely to steal, lie, and cheat when they grow up.
 - 사람들은 밤늦게까지 휴대전화를 사용할 뿐만 아니라 휴대전화의 불빛이 우리의 뇌를 속여 아직 낮이라고 착각하게 만듭니다.
   - Not only do people use their cell phones late into the night, but the light from your phone tricks your brain into thinking it’s still daytime.
-<!--SR:!2025-09-08,50,252-->
+<!--SR:!2026-01-25,127,252-->
 ?end
 
 
@@ -1929,7 +1949,7 @@ go in and out frequently
 - unite
 ### 예
 -
-<!--SR:!2025-09-16,1,250-->
+<!--SR:!2025-09-23,3,250-->
 ?end
 
 
@@ -1993,7 +2013,7 @@ go in and out frequently
 - our side is lacking for a bit
 ### 예
 -
-<!--SR:!2025-08-19,17,250-->
+<!--SR:!2025-09-21,1,250-->
 ?end
 
 
@@ -2051,7 +2071,7 @@ go in and out frequently
   - reduce the staff
 - 인원이 너무 많다
   - be overstaffed
-<!--SR:!2025-08-23,34,210-->
+<!--SR:!2025-10-16,3,250-->
 ?end
 
 
@@ -2079,7 +2099,7 @@ go in and out frequently
 	- creative instinct
 - 모성 본능
 	- a maternal instinct
-<!--SR:!2025-10-10,25,230-->
+<!--SR:!2025-12-08,56,230-->
 ?end
 
 

@@ -14,7 +14,7 @@
 - Can you please (come forward one at a time)
 ### 예
 -
-<!--SR:!2025-09-01,30,248-->
+<!--SR:!2025-12-28,76,248-->
 ?end
 
 # At a graduation ceremony
@@ -41,7 +41,7 @@
 - Now there is going to be (a dance performance by a student from level 4)
 ### 예
 -
-<!--SR:!2025-09-20,52,250-->
+<!--SR:!2026-02-21,131,250-->
 ?end
 
 ## (큰 박수로 환영해 주시)기 바랍니다 #card
@@ -67,5 +67,5 @@
 - induction ceremony, group meeting for introducing new members
 ### 예
 -
-<!--SR:!2025-09-04,5,230-->
+<!--SR:!2025-10-02,12,230-->
 ?end

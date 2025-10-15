@@ -66,7 +66,7 @@ https://hinative.com/questions/16678555
 	- One went into his brother's possession, but all the rest fell into his hands.
 - 전부 한데 모아 보내는 편이 낫다
 	- You'd better send them all together.
-<!--SR:!2025-09-14,28,230-->
+<!--SR:!2025-11-24,64,230-->
 ?end
 
 ## 우선 #card
@@ -85,7 +85,7 @@ https://hinative.com/questions/16678555
 	- We will stay here for the time being.
 - 그래서 그 목록을 천천히 보고 우선 순위를 매겼습니다.
 	- So what I did was, I went through and I prioritized that list.
-<!--SR:!2025-08-31,1,250-->
+<!--SR:!2025-10-16,3,250-->
 ?end
 
 
@@ -167,7 +167,7 @@ https://hinative.com/questions/16678555
 	- We have to respect each other's differences.
 - 그 두 극장은 아주 비슷한 영화로 서로 더 많은 관중을 끌어들이려고 한다
 	- The two theaters are trying to out draw each other with very similar films.
-<!--SR:!2025-08-29,86,270-->
+<!--SR:!2026-05-10,232,270-->
 ?end
 
 
@@ -256,7 +256,7 @@ https://hinative.com/questions/16678555
 	- Those who get[score] under 50 will not pass.
 - 10분 미만에
 	- in less than ten minutes.
-<!--SR:!2025-09-10,11,209-->
+<!--SR:!2025-11-05,23,209-->
 ?end
 
 
@@ -280,7 +280,7 @@ https://hinative.com/questions/16678555
 ### 예
 - 이번 합의는 지금까지 매치 그룹에 있어 최대 인수 합병이었다.
 	- The deal was the largest merger and acquisition of Match Group to date.
-<!--SR:!2025-09-02,21,250-->
+<!--SR:!2025-11-14,54,250-->
 ?end
 
 
@@ -492,7 +492,7 @@ https://hinative.com/questions/16678555
 	- readily obey one's elders.
 - 대출금을 매월 꼬박꼬박 갚아 나가다
 	- make the monthly payment on one's loan regularly[right on time].
-<!--SR:!2025-09-27,56,230-->
+<!--SR:!2026-02-05,128,230-->
 ?end
 
 ## 왠지 #card
@@ -712,7 +712,7 @@ https://hinative.com/questions/16678555
 ### 예
 - 기껏해야 하루에 한 번
 	- at most once a day
-<!--SR:!2025-09-11,30,230-->
+<!--SR:!2025-12-20,68,230-->
 ?end
 
 ## 자세하다 #card

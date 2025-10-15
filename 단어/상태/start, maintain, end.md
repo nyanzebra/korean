@@ -49,7 +49,7 @@
 	- What would happen if economic growth halts in the Republic of Korea now?
 - 그리고 뭐, 고통 또한 사랑스럽죠. 왜냐면 고통이 잠시동안 멈추면 그렇게 좋을 수가 없거든요.
 	- We like our suffering because it's so good when it ceases for a while
-<!--SR:!2025-09-18,82,270-->
+<!--SR:!2026-04-29,221,270-->
 ?end
 
 
@@ -65,7 +65,7 @@
 	- I wish I could stop being distracted by the Internet.
 - 회사를 그만하다
 	- quit a job
-<!--SR:!2025-09-07,49,252-->
+<!--SR:!2026-01-21,123,252-->
 ?end
 
 
@@ -75,7 +75,7 @@
 - 1 time every 2 weeks
 ### 예
 -
-<!--SR:!2025-09-03,57,252-->
+<!--SR:!2026-02-11,144,252-->
 ?end
 
 ## 1년동안 #card
