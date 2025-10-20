@@ -410,7 +410,7 @@
   - They call us partners, but they’re treating us like slaves.
 - 애완동물은 훌륭한 동반자가 되며 모든 가족에게 환영 받는 부가물이 될 수 있습니다.
   - Pets make excellent companions and can be a welcome addition to any family.
-<!--SR:!2025-10-15,116,269-->
+<!--SR:!2026-12-30,436,289-->
 ?end
 
 ## 위기 #card
@@ -1290,7 +1290,7 @@ go in and out frequently
 	- Though he eventually recovered from the infection, the toll on his body led to him being unable to recover from sepsis, which ultimately took his life.
 - 하지만, 결국 관계는 자존심보다 더 중요하게 여겨져야 합니다.
 	- But, in the end, the relationship should be more important than one’s own pride
-<!--SR:!2025-09-08,96,290-->
+<!--SR:!2026-11-11,387,310-->
 ?end
 
 
@@ -1624,7 +1624,7 @@ go in and out frequently
 - sleuth
 ### 예
 -
-<!--SR:!2025-10-03,71,230-->
+<!--SR:!2025-10-21,1,250-->
 ?end
 
 
