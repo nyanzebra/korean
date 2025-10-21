@@ -860,7 +860,7 @@ https://hinative.com/questions/19360784
 - The reality agrees with the name
 ### 예
 -
-<!--SR:!2025-09-15,15,210-->
+<!--SR:!2025-11-22,32,210-->
 ?end
 
 ## 수상하다 #card
