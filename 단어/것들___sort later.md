@@ -507,7 +507,7 @@
 	- Two of his ribs were fractured and his sherpa died.
 - 하지만 부러지는 것보다 휘는 것이 낫다고 했다.
 	- But it is better to bend than snap.
-<!--SR:!2025-10-09,46,214-->
+<!--SR:!2025-10-22,1,250-->
 ?end
 
 
@@ -1551,7 +1551,7 @@ go in and out frequently
 - nickname
 ### 예
 -
-<!--SR:!2025-09-24,53,250-->
+<!--SR:!2026-03-05,135,250-->
 ?end
 
 
@@ -1908,7 +1908,7 @@ go in and out frequently
 - amazing
 ### 예
 -
-<!--SR:!2025-09-19,17,229-->
+<!--SR:!2025-11-29,39,229-->
 ?end
 
 ## 속이다 #card
