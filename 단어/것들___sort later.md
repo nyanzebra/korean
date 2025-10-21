@@ -986,7 +986,7 @@ go in and out frequently
 ### 예
 - 어린이를 풀에서 헤엄치게 하다
 	- let the children swim in the pool.
-<!--SR:!2025-09-01,30,230-->
+<!--SR:!2025-12-28,68,230-->
 ?end
 
 
