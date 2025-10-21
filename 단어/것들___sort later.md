@@ -2013,7 +2013,7 @@ go in and out frequently
 - our side is lacking for a bit
 ### 예
 -
-<!--SR:!2025-09-21,1,250-->
+<!--SR:!2025-10-24,3,250-->
 ?end
 
 
