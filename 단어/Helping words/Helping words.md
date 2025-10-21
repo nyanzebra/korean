@@ -313,7 +313,7 @@ https://hinative.com/questions/16678555
 	- With the help of augmented reality (AR), you can feel like you are in the middle of a court banquet during the Joseon Dynasty
 - 마치 내가 혼자서 모든 것을 한 것처럼 나를 비난하고 있다.
 	- They are criticizing me as if I did everything on my own.
-<!--SR:!2025-10-01,32,247-->
+<!--SR:!2026-01-07,78,247-->
 ?end
 
 
@@ -420,7 +420,7 @@ https://hinative.com/questions/16678555
 	- They are not missing because they've died; they were never born.
 - 세상에 대한 더 넓은 시야를 갖고 싶다는 여러분의 개인적인 결심만으로는 모자랍니다.
 	- It's not enough to make the personal decision that you want a wider world.
-<!--SR:!2025-09-03,36,210-->
+<!--SR:!2025-10-22,1,250-->
 ?end
 
 

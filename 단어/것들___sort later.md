@@ -1365,7 +1365,7 @@ go in and out frequently
 	- This was surprising because other studies only counted prey that cats brought home.
 - 책임 소재를 따지지 않더라도, 여전히 국가 차원의 문제이며 한쪽은 다른 쪽보다 이 문제를 더 심각하게 생각하고 있습니다.
 	- But even if you blame nobody, it still is a national problem, and one side has been more concerned about it than the other.
-<!--SR:!2025-09-02,1,250-->
+<!--SR:!2025-10-22,1,250-->
 ?end
 
 
@@ -1660,7 +1660,7 @@ go in and out frequently
 	- He attempted to translate all the works of Shakespeare.
 - 처음에 실패해도 또 다시 시도해보아라
 	- If at first you don't succeed, (try,) try again.
-<!--SR:!2025-09-21,1,250-->
+<!--SR:!2025-10-22,1,230-->
 ?end
 
 
@@ -1949,7 +1949,7 @@ go in and out frequently
 - unite
 ### 예
 -
-<!--SR:!2025-09-23,3,250-->
+<!--SR:!2025-10-30,9,250-->
 ?end
 
 
@@ -2321,7 +2321,7 @@ go in and out frequently
 ### 예
 - 원어민성: 두 명의 한국어-영어 이중언어자 사례연구
 	- Native-speakerness: A Case Study of Two Korean-English Bilinguals
-<!--SR:!2025-10-10,59,250-->
+<!--SR:!2026-05-17,208,270-->
 ?end
 
 ## 바퀴 #card
