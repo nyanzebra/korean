@@ -1473,7 +1473,7 @@ go in and out frequently
 - stuck
 ### 예
 -
-<!--SR:!2025-10-14,1,250-->
+<!--SR:!2025-10-24,3,250-->
 ?end
 
 
@@ -1597,7 +1597,7 @@ go in and out frequently
 	- Many times, they have found the animal to return to its owner.
 - 우리는 받은 것을 돌려주어야 한다.
 	- We should give back what we have received.
-<!--SR:!2025-09-24,45,269-->
+<!--SR:!2026-02-17,119,269-->
 ?end
 
 
