@@ -75,9 +75,13 @@
 ### 뜻
 - discipline
 - scold
-- repr
+- reprimand
 ### 예
--
+- 그는 아들의 나약[소심]함을 꾸짖었다
+	- He scolded his son for his faintheartedness[cowardliness].
+- 경찰관이 내게 고함을 질러 꾸짖었다
+	- I was yelled at by a policeman.
+- 엄마가 동생을 꾸짖을 때마다 순희는 그를 변호했다
 ?end
 
 
