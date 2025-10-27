@@ -46,17 +46,28 @@
 ## 혼나다 #card
 ?begin
 ### 뜻
--
+- get frightened out of one's wits
+- bitter experiences
+- pay dearly
 ### 예
--
+- 그 때문에 혼났다
+	- I paid dearly for it./It cost me dear.
+- 회의중에 낙서를 했다고 상사로부터 혼난 사람들도 있죠.
+	- And they have bosses who scold them for doodling in the boardroom.
+- 이제 혼나야 돼
+	- You are in so much trouble.
+- 혼나다, 깜짝 놀라다
+	- get a scare
 ?end
 
 ## 혼내다 #card
 ?begin
 ### 뜻
--
+- scold
+- trouble
 ### 예
--
+- 가령, 왜 아이들을 혼내야 할까? 앉아라, 이리와서 이거 해라 등이요.
+	- We'd say, why do we have to scold the kids and say, sit down and come here and do that, and so forth
 ?end
 
 ## 야단치다 #card
