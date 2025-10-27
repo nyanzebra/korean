@@ -420,7 +420,7 @@ https://hinative.com/questions/16678555
 	- They are not missing because they've died; they were never born.
 - 세상에 대한 더 넓은 시야를 갖고 싶다는 여러분의 개인적인 결심만으로는 모자랍니다.
 	- It's not enough to make the personal decision that you want a wider world.
-<!--SR:!2025-10-22,1,250-->
+<!--SR:!2025-10-29,3,250-->
 ?end
 
 
