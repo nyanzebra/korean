@@ -1,10 +1,35 @@
 
-## 곱다 #card
+## 다루다 #card
 ?begin
 ### 뜻
 -
 ### 예
 -
+?end
+
+## 곱다 #card
+?begin
+### 뜻
+- fine
+- wonderful
+- beautiful
+- soft/delicate
+- numb
+- suffer a loss
+### 예
+- 마음씨가 곱다
+	- noble-minded
+- 허리다 곱다
+	- have a bent back
+- 살성이 곱다
+	- delicate texture
+- 그 처녀는 인물은 별로 없지만 그 대신에 마음씨가 고왔다
+	- She wasn't very good-looking, but she had a very tender heart to make up for it.
+- 곱게 다루다
+	- kid's gloves, handle carefully/softly
+- 고운 목소리
+	- sweet voice
+	- 
 ?end
 
 ## 야단치다 #card
