@@ -2,9 +2,19 @@
 ## 다루다 #card
 ?begin
 ### 뜻
--
+- deal with
+- talk about
+- handle
+- using
 ### 예
--
+- 시바견들은 다루기가 번거롭습니다.
+	- Shiba Inus are a hassle to deal with
+- 이 도표에는 다뤄야 할 것이 많습니다.
+	- There's a lot to talk about in this chart.
+- 로데오는 동물과 가축을 다룰 수 있는 사람들의 기술을 시험하는 경쟁 스포츠입니다.
+	- Rodeo is a competitive sport that tests people’s skills in being able to handle animals and livestock.
+- 그리고 어떻게 시스템이 불확실한 것을 다루는 지 알 수 있습니다.
+	- And then finally, there's how the system can handle uncertainty.
 ?end
 
 ## 곱다 #card
@@ -29,10 +39,11 @@
 	- kid's gloves, handle carefully/softly
 - 고운 목소리
 	- sweet voice
-	- 
+- 곱게 피어 있다
+	- beautiful bloom
 ?end
 
-## 야단치다 #card
+## 혼나다 #card
 ?begin
 ### 뜻
 -
@@ -40,11 +51,31 @@
 -
 ?end
 
-
-## 꼬짖다 #card
+## 혼내다 #card
 ?begin
 ### 뜻
 -
+### 예
+-
+?end
+
+## 야단치다 #card
+?begin
+### 뜻
+- chide
+- scold
+### 예
+- 선생님은 그 소년을 늘 야단치신다
+	- The teacher is always scolding that boy.
+?end
+
+
+## 꾸짖다 #card
+?begin
+### 뜻
+- discipline
+- scold
+- repr
 ### 예
 -
 ?end
