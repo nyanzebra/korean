@@ -1,4 +1,38 @@
 
+## 곱다 #card
+?begin
+### 뜻
+-
+### 예
+-
+?end
+
+## 야단치다 #card
+?begin
+### 뜻
+-
+### 예
+-
+?end
+
+
+## 꼬짖다 #card
+?begin
+### 뜻
+-
+### 예
+-
+?end
+
+
+## 바짝 #card
+?begin
+### 뜻
+-
+### 예
+-
+?end
+
 ## 지각하다 #card
 ?begin
 ### 뜻
@@ -368,7 +402,7 @@
 	- I was all ears[attention] so as not to miss a single word.
 - 곱게 차려 입다
 	- dress oneself beautifully/be finely dressed.
-<!--SR:!2025-10-20,112,268-->
+<!--SR:!2026-08-23,300,268-->
 ?end
 
 
