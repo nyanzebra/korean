@@ -343,7 +343,7 @@
 	- He did very poorly[badly] in[Am. E. on] the examination./He did miserably on the examination.
 - 그는 말과 하는 짓이 모두 터무니없이 엉망이다
 	- Both his words and his actions are utterly confused.
-<!--SR:!2025-09-29,67,273-->
+<!--SR:!2026-04-27,183,273-->
 ?end
 
 
@@ -2071,7 +2071,7 @@ go in and out frequently
   - reduce the staff
 - 인원이 너무 많다
   - be overstaffed
-<!--SR:!2025-10-24,2,230-->
+<!--SR:!2025-10-31,5,230-->
 ?end
 
 
