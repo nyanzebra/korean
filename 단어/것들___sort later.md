@@ -1779,7 +1779,7 @@ go in and out frequently
 - It doesn't feel real somehow?
 ### 예
 -
-<!--SR:!2025-10-07,57,250-->
+<!--SR:!2026-03-18,143,250-->
 ?end
 
 
