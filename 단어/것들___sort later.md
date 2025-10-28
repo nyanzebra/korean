@@ -774,7 +774,7 @@ https://hinative.com/questions/19360784
 	- For the rebellious Sartre, then, turning down a world-famous award was completely in character.
 - 그녀는 아빠에게 반항하고 늘 모험을 떠날 준비가 되어있다.
 	- She rebels against her father and is always ready for adventure
-<!--SR:!2025-09-21,1,250-->
+<!--SR:!2025-10-28,1,250-->
 ?end
 
 
@@ -815,7 +815,7 @@ https://hinative.com/questions/19360784
 - arena
 ### 예
 -
-<!--SR:!2025-10-21,120,269-->
+<!--SR:!2025-10-28,1,250-->
 ?end
 
 ## 호적까지 싹 다 긁어오고 미행도 몇 붙여봐라 #card
