@@ -17,11 +17,18 @@
 ## 할 의무가 있다 #card
 ?begin
 ### 뜻
--
+- be obligated to do something
+### 예
+- 
+?end
+
+## 의무감이 들다 #card
+?begin
+### 뜻
+- feel obligated to do
 ### 예
 -
 ?end
-
 
 ## 다루다 #card
 ?begin
