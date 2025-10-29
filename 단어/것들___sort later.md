@@ -1,3 +1,27 @@
+## 닿다 #card
+?begin
+### 뜻
+-
+### 예
+-
+?end
+
+## 그러저러하다 #card
+?begin
+### 뜻
+-
+### 예
+-
+?end
+
+## 할 의무가 있다 #card
+?begin
+### 뜻
+-
+### 예
+-
+?end
+
 
 ## 다루다 #card
 ?begin
