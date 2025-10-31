@@ -1926,7 +1926,7 @@ go in and out frequently
 - some time ago?
 ### 예
 -
-<!--SR:!2025-10-29,109,250-->
+<!--SR:!2026-07-30,273,250-->
 ?end
 
 
