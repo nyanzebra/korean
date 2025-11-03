@@ -1,3 +1,27 @@
+## 실천하다 #card
+?begin
+### 뜻
+- put into practice
+### 예
+-
+?end
+
+## 적성 #card
+?begin
+### 뜻
+- aptitude
+### 예
+-
+?end
+
+## 당황하다 #card
+?begin
+### 뜻
+- embarrassed
+### 예
+-
+?end
+
 ## 닿다 #card
 ?begin
 ### 뜻
