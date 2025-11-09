@@ -1,3 +1,12 @@
+
+## 수명 #card
+?begin
+### 뜻
+- lifespan
+### 예
+-
+?end
+
 ## 다가가다 #card
 ?begin
 ### 뜻
