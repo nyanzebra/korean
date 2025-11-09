@@ -1,3 +1,15 @@
+## 망설이다 #card
+?begin
+### 뜻
+- hesitate
+### 예
+- 파디의 눈꺼풀이 약간 떨렸다. 그는 잠시 망설이다가 대답했다.
+	- The man's eyelids quivered slightly, and he hesitated before answering
+- 그리고 잠시 망설인 뒤 물었다.
+	- he asked, after a moment's hesitation.
+?end
+
+
 ## 실천하다 #card
 ?begin
 ### 뜻
