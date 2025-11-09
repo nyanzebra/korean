@@ -1,3 +1,19 @@
+## 다가가다 #card
+?begin
+### 뜻
+- go to
+- approach
+- reach
+### 예
+- 여러분이 사랑하는 사람에게 다가가서 "결혼해주세요. 당신은 흥미로워요". 합니다.
+	- Are you really going to go to your sweetie and say, "Marry me! You're interesting."
+- 그래서 저는 이 로맨스에 좀 더 가까이 다가가고자 환상속의 비행기들을 그려내려 했습니다.
+	- I decided I had to get closer than just drawing fantasy airplanes.
+- 그냥 네가 그들에게 다가가지 않으면, 그들도 아마 그러지 않을 것이란 걸 기억해!
+	- Just remember that if you don’t approach them, they probably won’t either!
+?end
+
+
 ## 망설이다 #card
 ?begin
 ### 뜻
