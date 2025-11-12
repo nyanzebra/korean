@@ -1,3 +1,11 @@
+## 감히 #card
+?begin
+### 뜻
+- boldly
+- daringly
+### 예
+-
+?end
 
 ## 수명 #card
 ?begin
