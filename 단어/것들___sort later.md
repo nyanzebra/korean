@@ -1,3 +1,33 @@
+
+## 약탈하다 #card
+?begin
+### 뜻
+- plunder
+- pillage
+### 예
+-
+?end
+
+## 쳐들어오다 #card
+?begin
+### 뜻
+- invade
+- break in
+- barge in
+### 예
+- 그는 술내를 풍기며 쳐들어왔다
+	- he came barging in smelling of alcohol
+- 강도가 그녀의 집에 쳐들
+?end
+
+## 성 #card
+?begin
+### 뜻
+- castle
+### 예
+-
+?end
+
 ## 감히 #card
 ?begin
 ### 뜻
