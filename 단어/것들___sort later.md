@@ -17,7 +17,8 @@
 ### 예
 - 그는 술내를 풍기며 쳐들어왔다
 	- he came barging in smelling of alcohol
-- 강도가 그녀의 집에 쳐들
+- 강도가 그녀의 집에 쳐들어왔다
+	- burglars broke into her house
 ?end
 
 ## 성 #card
