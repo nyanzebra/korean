@@ -2005,7 +2005,7 @@ go in and out frequently
 - private tutoring
 ### 예
 -
-<!--SR:!2025-10-20,20,250-->
+<!--SR:!2026-01-24,71,270-->
 ?end
 
 
