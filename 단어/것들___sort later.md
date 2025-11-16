@@ -759,7 +759,7 @@
 	- My daughter looks like her, too.
 - "당신은 우리 아버지와 쏙 빼닮았습니다."라고 수치 여사가 안재욱에게 말했다.
 	- "You look just like my father," Suu Kyi told Ahn.
-<!--SR:!2025-11-02,125,250-->
+<!--SR:!2026-01-19,64,230-->
 ?end
 
 
@@ -905,7 +905,7 @@ https://hinative.com/questions/19360784
 	- For the rebellious Sartre, then, turning down a world-famous award was completely in character.
 - 그녀는 아빠에게 반항하고 늘 모험을 떠날 준비가 되어있다.
 	- She rebels against her father and is always ready for adventure
-<!--SR:!2025-10-28,1,250-->
+<!--SR:!2025-11-17,1,250-->
 ?end
 
 
@@ -1110,7 +1110,7 @@ https://hinative.com/questions/19360784
 	- She seems to be going about[around] with a questionable man.
 - 탐정은 수상한 그 사나이를 놓쳤다
 	- The detective lost track of the suspicious man.
-<!--SR:!2025-10-31,18,250-->
+<!--SR:!2025-12-30,44,250-->
 ?end
 
 
@@ -1849,7 +1849,7 @@ go in and out frequently
 	- If the other party rejects my proposal, I shall not hesitate to fight.
 - 차제에 깨끗이 거절하지 않으면 안 된다
 	- You must give a flat refusal right now.
-<!--SR:!2025-09-22,51,250-->
+<!--SR:!2026-03-24,128,250-->
 ?end
 
 
@@ -2249,7 +2249,7 @@ go in and out frequently
 - our side is lacking for a bit
 ### 예
 -
-<!--SR:!2025-10-24,3,250-->
+<!--SR:!2025-11-23,7,250-->
 ?end
 
 
