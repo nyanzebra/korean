@@ -12,11 +12,7 @@ Kyunghee Min (Jul 3, 2025, 17:07)
 
 Kyunghee Min (Jul 3, 2025, 17:12)
 
-인물화
 
-정물화
-
-풍경화
 
 Kyunghee Min (Jul 3, 2025, 17:18)
 
