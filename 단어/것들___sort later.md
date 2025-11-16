@@ -561,7 +561,7 @@
 	- Impartiality is absolutely essential to a judge.
 - 무사하지는 못할거야
 	- not gonna make it
-<!--SR:!2025-10-06,107,269-->
+<!--SR:!2026-08-31,288,269-->
 ?end
 
 
@@ -812,7 +812,7 @@
 	- My father's condition remains the same.
 - 한 달이 지난 지금도 북한의 군사적 위협은 여전하다.
 	- A month has passed, and the North Korean military threat remains.
-<!--SR:!2025-11-02,6,210-->
+<!--SR:!2025-11-28,12,210-->
 ?end
 
 ## 지속하다 #card
