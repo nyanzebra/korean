@@ -280,7 +280,7 @@ https://hinative.com/questions/16678555
 ### 예
 - 이번 합의는 지금까지 매치 그룹에 있어 최대 인수 합병이었다.
 	- The deal was the largest merger and acquisition of Match Group to date.
-<!--SR:!2025-11-14,54,250-->
+<!--SR:!2026-04-01,136,250-->
 ?end
 
 
