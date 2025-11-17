@@ -1644,7 +1644,7 @@ go in and out frequently
 - force to yield
 ### 예
 -
-<!--SR:!2025-10-27,1,250-->
+<!--SR:!2025-11-20,3,250-->
 ?end
 
 
@@ -1995,7 +1995,7 @@ go in and out frequently
   - What do you expect me to do? You took away my cell phone.
 - 그들은 저의 영혼과 인간성을 뺏어갈 수도 있었을 겁니다.
   - They would have taken my soul and my humanity
-<!--SR:!2025-10-16,3,250-->
+<!--SR:!2025-11-19,2,230-->
 ?end
 
 
