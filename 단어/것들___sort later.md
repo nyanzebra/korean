@@ -1541,7 +1541,7 @@ go in and out frequently
 	- The warmer weather makes them feel slower and more tired.
 - 너 참 둔하구나
 	- You are so oblivious.
-<!--SR:!2025-10-07,1,250-->
+<!--SR:!2025-11-19,3,250-->
 ?end
 
 ## 코디 #card
