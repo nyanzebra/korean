@@ -1511,7 +1511,7 @@ go in and out frequently
 ### 예
 - 소지품 전부에 자기 이름을 붙이다
 	- put one's name on all one's belongings.
-<!--SR:!2025-09-22,117,290-->
+<!--SR:!2025-11-18,1,250-->
 ?end
 
 
