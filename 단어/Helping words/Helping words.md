@@ -403,7 +403,7 @@ https://hinative.com/questions/16678555
   - Let's be artists, right now. Right away. How?
 - 정부가 가격 개입에서 손을 떼면 소비자도 당장은 부담이 커질 수 있다.
   - When the government takes its hands off the price, consumers may immediately feel burdened.
-<!--SR:!2025-10-03,62,253-->
+<!--SR:!2026-04-24,158,253-->
 ?end
 
 
