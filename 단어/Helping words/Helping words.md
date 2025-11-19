@@ -1,4 +1,4 @@
-
+﻿
 ## 다름없다 #card
 ?begin
 ### 뜻
@@ -69,7 +69,7 @@ https://hinative.com/questions/16678555
 <!--SR:!2025-11-24,64,230-->
 ?end
 
-## 우선 #card
+## 우선 #card #sogang #sogang-4A
 ?begin
 ### 뜻
 - first
@@ -171,7 +171,7 @@ https://hinative.com/questions/16678555
 ?end
 
 
-## 역시 #card
+## 역시 #card #sogang #sogang-4A
 ?begin
 ### 뜻
 - also
@@ -192,7 +192,7 @@ https://hinative.com/questions/16678555
 ?end
 
 
-## 자꾸 #card
+## 자꾸 #card #sogang #sogang-4A
 ?begin
 ### 뜻
 - keep
@@ -208,7 +208,7 @@ https://hinative.com/questions/16678555
 ?end
 
 
-## 풍부하다 #card
+## 풍부하다 #card #sogang #sogang-4A
 ?begin
 ### 뜻
 - abundant
@@ -234,7 +234,7 @@ https://hinative.com/questions/16678555
 ?end
 
 
-## 이상 #card
+## 이상 #card #sogang #sogang-4A
 ?begin
 ### 뜻
 - more than
@@ -394,7 +394,7 @@ https://hinative.com/questions/16678555
 ?end
 
 
-## 당장 #card
+## 당장 #card #sogang #sogang-4A
 ?begin
 ### 뜻
 - right away
@@ -715,7 +715,7 @@ https://hinative.com/questions/16678555
 <!--SR:!2025-12-20,68,230-->
 ?end
 
-## 자세하다 #card
+## 자세하다 #card #sogang #sogang-4A
 ?begin
 ### 뜻
 - detailed
@@ -723,7 +723,7 @@ https://hinative.com/questions/16678555
 -
 ?end
 
-## 전체 #card
+## 전체 #card #sogang #sogang-4A
 ?begin
 ### 뜻
 - whole

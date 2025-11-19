@@ -1,4 +1,4 @@
-## 그치다 #card
+﻿## 그치다 #card
 ?begin
 ### 뜻
 - stop or end permanently
@@ -19,7 +19,7 @@
 ?end
 
 
-## 마치다 #card
+## 마치다 #card #sogang #sogang-4A
 ?begin
 ### 뜻
 - get through
