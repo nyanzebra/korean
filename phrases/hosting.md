@@ -50,7 +50,7 @@
 - Please (welcome them with a round of applause)
 ### 예
 -
-<!--SR:!2025-09-05,52,250-->
+<!--SR:!2026-04-03,128,250-->
 ?end
 
 ## 돌아가면서 소개를 하다 #card
@@ -67,5 +67,5 @@
 - induction ceremony, group meeting for introducing new members
 ### 예
 -
-<!--SR:!2025-11-17,28,230-->
+<!--SR:!2026-01-29,64,230-->
 ?end

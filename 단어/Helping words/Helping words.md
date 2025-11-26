@@ -85,7 +85,7 @@ https://hinative.com/questions/16678555
 	- We will stay here for the time being.
 - 그래서 그 목록을 천천히 보고 우선 순위를 매겼습니다.
 	- So what I did was, I went through and I prioritized that list.
-<!--SR:!2025-10-16,3,250-->
+<!--SR:!2025-12-05,9,250-->
 ?end
 
 
