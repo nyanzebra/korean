@@ -597,7 +597,7 @@ https://hinative.com/questions/16678555
 ### 예
 - 수치를 당하느니 차라리 죽는 것이 낫다
 	- Death is preferable to dishonor.
-<!--SR:!2025-09-16,45,267-->
+<!--SR:!2026-05-13,168,287-->
 ?end
 
 ## 실천하다 #card
