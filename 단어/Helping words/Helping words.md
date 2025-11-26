@@ -1,4 +1,4 @@
-﻿
+
 ## 다름없다 #card
 ?begin
 ### 뜻
@@ -295,7 +295,7 @@ https://hinative.com/questions/16678555
 	- the law pertaining to punishment for acts of violence and other (similar) crimes.
 - 그 따위 것
 	- such a thing/that sort of thing.
-<!--SR:!2025-11-14,76,247-->
+<!--SR:!2025-11-27,1,250-->
 ?end
 
 
