@@ -1,4 +1,4 @@
-﻿## 그치다 #card
+## 그치다 #card
 ?begin
 ### 뜻
 - stop or end permanently
@@ -15,7 +15,7 @@
 	- Hopefully, innovation centers don’t end up a short-lived trophy like the Four Rivers project or Green Growth.
 - 그러나 해외 구직에 성공한 사람은 불과 542명으로 해외 구인 수요의 불과 20%를 약간 상회하는 수준에 그쳤다.
 	- However, only 542 of them turned out to be successful in landing a job, covering barely over 20 percent of the whole job openings.
-<!--SR:!2025-10-28,57,250-->
+<!--SR:!2026-04-27,146,250-->
 ?end
 
 
