@@ -352,7 +352,7 @@ https://hinative.com/questions/16678555
   - This book is too difficult for me to read.
 - 그 일은 워낙 명백해서 증거를 댈 필요도 없다
   - It is too evident to require proof.
-<!--SR:!2025-12-02,3,250-->
+<!--SR:!2025-12-09,7,250-->
 ?end
 
 
