@@ -243,7 +243,7 @@ https://hinative.com/questions/16678555
 	- First of all, natural resources have been man's best friend for more than a century now.
 - 30년 이상이 흘렀지만, 그것은 여전히 한국에서 가장 잘 팔리는 아이스크림 중의 하나이다.
 	- More than 30 years have passed, but it is still one of the best-selling ice creams in Korea.
-<!--SR:!2025-09-22,55,253-->
+<!--SR:!2026-04-21,137,253-->
 ?end
 
 
