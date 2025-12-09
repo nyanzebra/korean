@@ -256,7 +256,7 @@ https://hinative.com/questions/16678555
 	- Those who get[score] under 50 will not pass.
 - 10분 미만에
 	- in less than ten minutes.
-<!--SR:!2025-11-17,1,250-->
+<!--SR:!2025-12-09,1,230-->
 ?end
 
 
@@ -295,7 +295,7 @@ https://hinative.com/questions/16678555
 	- the law pertaining to punishment for acts of violence and other (similar) crimes.
 - 그 따위 것
 	- such a thing/that sort of thing.
-<!--SR:!2025-12-05,3,250-->
+<!--SR:!2025-12-19,11,270-->
 ?end
 
 
