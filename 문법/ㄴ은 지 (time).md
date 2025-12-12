@@ -20,5 +20,5 @@
 	- → '밖에' is used after'한 달' to say that the period is shorter than you think. And the negative expression ‘안 됐어요’ is followed.
 	- → If you say ‘한국에 온 지 한 달밖에 됐어요’.(X) This is wrong.
 ### Notes
-<!--SR:!2025-12-04,124,250-->
+<!--SR:!2026-10-20,312,250-->
 ?end

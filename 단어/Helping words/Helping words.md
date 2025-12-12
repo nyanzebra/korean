@@ -66,7 +66,7 @@ https://hinative.com/questions/16678555
 	- One went into his brother's possession, but all the rest fell into his hands.
 - 전부 한데 모아 보내는 편이 낫다
 	- You'd better send them all together.
-<!--SR:!2025-11-24,64,230-->
+<!--SR:!2026-05-06,145,230-->
 ?end
 
 ## 우선 #card #sogang #sogang-4A
@@ -352,7 +352,7 @@ https://hinative.com/questions/16678555
   - This book is too difficult for me to read.
 - 그 일은 워낙 명백해서 증거를 댈 필요도 없다
   - It is too evident to require proof.
-<!--SR:!2025-12-09,7,250-->
+<!--SR:!2025-12-30,18,250-->
 ?end
 
 
