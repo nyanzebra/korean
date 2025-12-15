@@ -85,7 +85,7 @@ https://hinative.com/questions/16678555
 	- We will stay here for the time being.
 - 그래서 그 목록을 천천히 보고 우선 순위를 매겼습니다.
 	- So what I did was, I went through and I prioritized that list.
-<!--SR:!2025-12-05,9,250-->
+<!--SR:!2026-01-06,22,250-->
 ?end
 
 
@@ -218,7 +218,7 @@ https://hinative.com/questions/16678555
 	- He has seen much[little] of life.
 - 그녀는 천분이 풍부한 시인이다
 	- She is a highly gifted poet./She has a great gift for poetry.
-<!--SR:!2025-12-08,63,289-->
+<!--SR:!2026-01-16,32,269-->
 ?end
 
 
@@ -256,7 +256,7 @@ https://hinative.com/questions/16678555
 	- Those who get[score] under 50 will not pass.
 - 10분 미만에
 	- in less than ten minutes.
-<!--SR:!2025-12-09,1,230-->
+<!--SR:!2025-12-17,2,230-->
 ?end
 
 
