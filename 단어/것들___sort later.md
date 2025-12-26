@@ -48,3 +48,42 @@ All words have been categorized and moved to appropriate category files.
 ### 예
 -
 ?end
+
+## 재우 #card
+?begin
+### 뜻
+- quickly
+- nimbly
+- agilely
+### 예
+-
+?end
+
+## 떼어내다 #card
+?begin
+### 뜻
+- tear off
+- rip off
+- bare
+### 예
+-
+?end
+
+## 떼어놓다 #card
+?begin
+### 뜻
+- part
+- separate
+- detach
+### 예
+-
+?end
+
+## 떼어먹다 #card
+?begin
+### 뜻
+- bilk
+- cheat by failing to pay
+### 예
+-
+?end
