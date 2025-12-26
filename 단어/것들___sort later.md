@@ -39,3 +39,12 @@ All words have been categorized and moved to appropriate category files.
 -
 ?end
 
+## 발걸음 #card
+?begin
+### 뜻
+- pace
+- step
+- tread
+### 예
+-
+?end
