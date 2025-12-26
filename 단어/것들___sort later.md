@@ -9,3 +9,11 @@ All words have been categorized and moved to appropriate category files.
 ### 예
 -
 ?end
+
+## 감탄하다 #card
+?begin
+### 뜻
+- admire
+### 예
+-
+?end
