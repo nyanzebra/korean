@@ -17,3 +17,25 @@ All words have been categorized and moved to appropriate category files.
 ### 예
 -
 ?end
+
+## 빼앗다 #card
+?begin
+### 뜻
+- take away
+- steal
+- rob of
+### 예
+-
+?end
+
+
+## 빼앗기다 #card
+?begin
+### 뜻
+- forfeit
+- lose
+- be taken
+### 예
+-
+?end
+
