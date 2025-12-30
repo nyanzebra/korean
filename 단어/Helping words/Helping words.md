@@ -151,7 +151,7 @@ https://hinative.com/questions/16678555
 	- put money apart for educational expenses.
 - 물건을 각각 따로 두다
 	- keep things apart.
-<!--SR:!2025-12-30,1,250-->
+<!--SR:!2026-01-02,3,250-->
 ?end
 
 
@@ -420,7 +420,7 @@ https://hinative.com/questions/16678555
 	- They are not missing because they've died; they were never born.
 - 세상에 대한 더 넓은 시야를 갖고 싶다는 여러분의 개인적인 결심만으로는 모자랍니다.
 	- It's not enough to make the personal decision that you want a wider world.
-<!--SR:!2025-12-26,18,250-->
+<!--SR:!2026-03-02,62,270-->
 ?end
 
 
