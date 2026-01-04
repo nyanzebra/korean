@@ -10,6 +10,17 @@
 -
 ?end
 
+## 뚜렷하다 #card
+?begin
+### 뜻
+- clear
+- distinct
+- apparent
+### 예
+-
+?end
+
+
 ## 뷔페 #card
 ?begin
 ### 뜻
