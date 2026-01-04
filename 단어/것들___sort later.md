@@ -17,7 +17,10 @@
 - distinct
 - apparent
 ### 예
--
+- 이 프로그램이 큰 영향력을 발휘했다는 뚜렷한 증거들이 계속 나왔습니다.
+	- We have had clear evidence of the great impact of this program
+- 하지만, 다른 측면에서는 여전히 뚜렷한 다양성의 부족이 있었습니다
+	- However, there was still a distinct lack of diversity in other aspects.
 ?end
 
 
