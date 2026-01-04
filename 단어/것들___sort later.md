@@ -1,6 +1,38 @@
 # Sort Later
 
-All words have been categorized and moved to appropriate category files.
+## 절약하다 #card
+?begin
+### 뜻
+- saving
+- conservation
+- frugality
+### 예
+- 우리가 아무리 돈을 절약할지라도 집을 살만큼의 돈은 마련하지 못할 것이다
+	- Even if we save every penny, we won't even have enough money to buy a house.
+- 여비를 절약하다
+	- save travel expenses.
+?end
+
+## 마련하다 #card
+?begin
+### 뜻
+- prepare
+- contrive
+### 예
+- 사무실을 마련하다
+	- open an office
+- 
+?end
+
+
+## 차비 #card
+?begin
+### 뜻
+-
+### 예
+-
+?end
+
 
 ## 영감 #card
 ?begin
