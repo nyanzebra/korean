@@ -17,20 +17,36 @@
 ?begin
 ### 뜻
 - prepare
+- make ready for
+- get ready
 - contrive
 ### 예
 - 사무실을 마련하다
 	- open an office
-- 
+- 그는 두름성이 있어 돈을 잘 마련한다
+	- He is resourceful and very good at raising money.
+- 나는 여행에 필요한 돈을 그럭저럭 마련하였다
+	- I scraped up expenses for trip.
 ?end
 
 
 ## 차비 #card
 ?begin
 ### 뜻
--
+- carriage
+- cartage
+- transit fare
+- freight
+- preparation
 ### 예
--
+- 차비를 할인하다
+	- discount[reduce] the fare 《for students》.
+- 서울까지의 왕복 차비는 얼마입니까
+	- What is the fare to Seoul and back?
+- 차비를 내다
+	- pay the fare.
+- 소매치기 당했어요. 차비 좀 주실 수 있나요?
+	- I just got pick-pocketed. Can I have some cash for the bus?
 ?end
 
 
