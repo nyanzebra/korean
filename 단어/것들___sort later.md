@@ -1,5 +1,24 @@
 # Sort Later
 
+## 취향 #card
+?begin
+### 뜻
+- taste
+- preference
+- cup of tea
+### 예
+-
+?end
+
+## 뷔페 #card
+?begin
+### 뜻
+- buffet
+### 예
+-
+?end
+
+
 ## 절약하다 #card
 ?begin
 ### 뜻
