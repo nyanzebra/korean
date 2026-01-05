@@ -256,7 +256,7 @@ https://hinative.com/questions/16678555
 	- Those who get[score] under 50 will not pass.
 - 10분 미만에
 	- in less than ten minutes.
-<!--SR:!2025-12-23,1,210-->
+<!--SR:!2026-01-07,2,210-->
 ?end
 
 
