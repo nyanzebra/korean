@@ -1,5 +1,73 @@
 # Sort Later
 
+## 실행하다 #card
+?begin
+### 뜻
+-
+### 예
+-
+?end
+
+## 합 #card
+?begin
+### 뜻
+-
+### 예
+-
+?end
+
+## 반환하다 #card
+?begin
+### 뜻
+-
+### 예
+-
+?end
+
+## 개선하다 #card
+?begin
+### 뜻
+-
+### 예
+-
+?end
+
+
+## 작성하다 #card
+?begin
+### 뜻
+-
+### 예
+-
+?end
+
+
+## 명확하다 #card
+?begin
+### 뜻
+-
+### 예
+-
+?end
+
+
+## 명명하다 #card
+?begin
+### 뜻
+-
+### 예
+-
+?end
+
+## 올바르다 #card
+?begin
+### 뜻
+-
+### 예
+-
+?end
+
+
 ## 취향 #card
 ?begin
 ### 뜻
