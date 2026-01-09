@@ -16,7 +16,23 @@
 -
 ?end
 
+## 오직 #card
+?begin
+### 뜻
+-
+### 예
+-
+?end
+
 ## 반환하다 #card
+?begin
+### 뜻
+-
+### 예
+-
+?end
+
+## 작업 #card
 ?begin
 ### 뜻
 -
