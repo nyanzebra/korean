@@ -8,6 +8,14 @@
 -
 ?end
 
+## 야경 #card
+?begin
+### 뜻
+-
+### 예
+-
+?end
+
 ## 꾸미다 #card
 ?begin
 ### 뜻
