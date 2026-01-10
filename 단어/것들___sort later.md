@@ -8,6 +8,39 @@
 -
 ?end
 
+## 피로 #card
+?begin
+### 뜻
+-
+### 예
+-
+?end
+
+## 탁 #card
+?begin
+### 뜻
+-
+### 예
+-
+?end
+
+## 트이다 #card
+?begin
+### 뜻
+-
+### 예
+-
+?end
+
+## 바라보다 #card
+?begin
+### 뜻
+-
+### 예
+-
+?end
+
+
 ## 야경 #card
 ?begin
 ### 뜻
