@@ -24,6 +24,23 @@
 -
 ?end
 
+## 환상 #card
+?begin
+### 뜻
+-
+### 예
+-
+?end
+
+## 환상적이다 #card
+?begin
+### 뜻
+-
+### 예
+-
+?end
+
+
 ## 트이다 #card
 ?begin
 ### 뜻
