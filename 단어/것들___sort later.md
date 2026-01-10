@@ -1,5 +1,22 @@
 # Sort Later
 
+## 촬영지 #card
+?begin
+### 뜻
+-
+### 예
+-
+?end
+
+## 꾸미다 #card
+?begin
+### 뜻
+-
+### 예
+-
+?end
+
+
 ## 실행하다 #card
 ?begin
 ### 뜻
