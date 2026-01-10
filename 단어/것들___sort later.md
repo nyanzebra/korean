@@ -24,6 +24,13 @@
 -
 ?end
 
+## 측정 #card
+?begin
+### 뜻
+- measure
+### 예
+-
+?end
 
 
 ## 성능 #card
@@ -87,6 +94,14 @@
 ?end
 
 ## 개선하다 #card
+?begin
+### 뜻
+-
+### 예
+-
+?end
+
+## 생성하다 #card
 ?begin
 ### 뜻
 -
