@@ -16,6 +16,41 @@
 -
 ?end
 
+## 도입하다 #card
+?begin
+### 뜻
+-
+### 예
+-
+?end
+
+## 형태 #card
+?begin
+### 뜻
+-
+### 예
+-
+?end
+
+
+## 정수 #card
+?begin
+### 뜻
+-
+### 예
+-
+?end
+
+
+## 구조 #card
+?begin
+### 뜻
+-
+### 예
+-
+?end
+
+
 ## 오직 #card
 ?begin
 ### 뜻
