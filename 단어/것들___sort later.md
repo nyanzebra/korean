@@ -24,6 +24,15 @@
 -
 ?end
 
+## 여의 #card
+?begin
+### 뜻
+-
+### 예
+-
+?end
+
+
 ## 환상 #card
 ?begin
 ### 뜻
