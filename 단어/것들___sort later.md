@@ -24,6 +24,23 @@
 -
 ?end
 
+## 전망대 #card
+?begin
+### 뜻
+-
+### 예
+-
+?end
+
+## 내내 #card
+?begin
+### 뜻
+-
+### 예
+-
+?end
+
+
 ## 여의 #card
 ?begin
 ### 뜻
