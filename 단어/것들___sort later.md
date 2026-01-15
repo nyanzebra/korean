@@ -1,5 +1,22 @@
 # Sort Later
 
+## 내향 #card
+?begin
+### 뜻
+-
+### 예
+-
+?end
+
+## 외향 #card
+?begin
+### 뜻
+-
+### 예
+-
+?end
+
+
 ## 촬영지 #card
 ?begin
 ### 뜻
