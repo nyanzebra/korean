@@ -8,6 +8,31 @@
 -
 ?end
 
+## 성곽길 #card
+?begin
+### 뜻
+-
+### 예
+-
+?end
+
+
+## 붐비다 #card
+?begin
+### 뜻
+-
+### 예
+-
+?end
+
+## 여행객 #card
+?begin
+### 뜻
+-
+### 예
+-
+?end
+
 ## 화창하다 #card
 ?begin
 ### 뜻
