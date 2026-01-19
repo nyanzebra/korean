@@ -8,6 +8,15 @@
 -
 ?end
 
+## 개방 #card
+?begin
+### 뜻
+-
+### 예
+-
+?end
+
+
 ## 성곽길 #card
 ?begin
 ### 뜻
@@ -16,7 +25,7 @@
 -
 ?end
 
-## 간첩 #card
+## 간첩	 #card
 ?begin
 ### 뜻
 -
