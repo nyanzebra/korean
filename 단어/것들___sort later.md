@@ -8,6 +8,24 @@
 -
 ?end
 
+## 구조 #card
+?begin
+### 뜻
+-
+### 예
+-
+?end
+
+
+## 평상시 #card
+?begin
+### 뜻
+-
+### 예
+-
+?end
+
+
 ## 개방 #card
 ?begin
 ### 뜻
