@@ -8,7 +8,33 @@
 -
 ?end
 
+## 둘라싸다 #card
+?begin
+### 뜻
+-
+### 예
+-
+?end
+
+
+## 총알 자국 #card
+?begin
+### 뜻
+-
+### 예
+-
+?end
+
+
 ## 구조 #card
+?begin
+### 뜻
+-
+### 예
+-
+?end
+
+## 한눈 #card
 ?begin
 ### 뜻
 -
