@@ -16,6 +16,24 @@
 -
 ?end
 
+## 통제 #card
+?begin
+### 뜻
+-
+### 예
+-
+?end
+
+
+## 사태 #card
+?begin
+### 뜻
+-
+### 예
+-
+?end
+
+
 ## 제시하다 #card
 ?begin
 ### 뜻
