@@ -16,6 +16,13 @@
 -
 ?end
 
+## 관광 #card
+?begin
+### 뜻
+-
+### 예
+-
+?end
 
 ## 성곽길 #card
 ?begin
