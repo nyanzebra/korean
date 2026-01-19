@@ -16,6 +16,14 @@
 -
 ?end
 
+## 간첩 #card
+?begin
+### 뜻
+-
+### 예
+-
+?end
+
 
 ## 붐비다 #card
 ?begin
