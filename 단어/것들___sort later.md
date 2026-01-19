@@ -8,6 +8,15 @@
 -
 ?end
 
+## 화창하다 #card
+?begin
+### 뜻
+-
+### 예
+-
+?end
+
+
 ## 외향 #card
 ?begin
 ### 뜻
