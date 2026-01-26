@@ -151,7 +151,7 @@ https://hinative.com/questions/16678555
 	- put money apart for educational expenses.
 - 물건을 각각 따로 두다
 	- keep things apart.
-<!--SR:!2026-01-02,3,250-->
+<!--SR:!2026-02-01,7,250-->
 ?end
 
 
@@ -313,7 +313,7 @@ https://hinative.com/questions/16678555
 	- With the help of augmented reality (AR), you can feel like you are in the middle of a court banquet during the Joseon Dynasty
 - 마치 내가 혼자서 모든 것을 한 것처럼 나를 비난하고 있다.
 	- They are criticizing me as if I did everything on my own.
-<!--SR:!2026-01-07,78,247-->
+<!--SR:!2026-08-06,193,247-->
 ?end
 
 
