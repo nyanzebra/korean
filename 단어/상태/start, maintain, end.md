@@ -65,7 +65,7 @@
 	- I wish I could stop being distracted by the Internet.
 - 회사를 그만하다
 	- quit a job
-<!--SR:!2026-01-21,123,252-->
+<!--SR:!2026-11-30,309,252-->
 ?end
 
 
