@@ -85,7 +85,7 @@ https://hinative.com/questions/16678555
 	- We will stay here for the time being.
 - 그래서 그 목록을 천천히 보고 우선 순위를 매겼습니다.
 	- So what I did was, I went through and I prioritized that list.
-<!--SR:!2026-01-06,22,250-->
+<!--SR:!2026-03-22,56,250-->
 ?end
 
 
@@ -295,7 +295,7 @@ https://hinative.com/questions/16678555
 	- the law pertaining to punishment for acts of violence and other (similar) crimes.
 - 그 따위 것
 	- such a thing/that sort of thing.
-<!--SR:!2026-01-21,30,270-->
+<!--SR:!2026-04-18,83,270-->
 ?end
 
 
@@ -556,7 +556,7 @@ https://hinative.com/questions/16678555
 ### 예
 - 무엇보다도 사랑해
 	- I love you more than anything
-<!--SR:!2026-01-13,133,249-->
+<!--SR:!2026-12-21,330,249-->
 ?end
 
 ## 대신 #card
