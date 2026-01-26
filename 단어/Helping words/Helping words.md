@@ -218,7 +218,7 @@ https://hinative.com/questions/16678555
 	- He has seen much[little] of life.
 - 그녀는 천분이 풍부한 시인이다
 	- She is a highly gifted poet./She has a great gift for poetry.
-<!--SR:!2026-01-16,32,269-->
+<!--SR:!2026-04-20,85,269-->
 ?end
 
 
