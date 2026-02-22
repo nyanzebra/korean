@@ -16,6 +16,22 @@
 -
 ?end
 
+## 장가 #card
+?begin
+### 뜻
+-
+### 예
+-
+?end
+
+## 살꼭대기 #card
+?begin
+### 뜻
+-
+### 예
+-
+?end
+
 
 ## 은혜 #card
 ?begin
