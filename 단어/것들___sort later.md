@@ -1,5 +1,31 @@
 # Sort Later
 
+## 가리키다 #card
+?begin
+### 뜻
+-
+### 예
+-
+?end
+
+## 갚다 #card
+?begin
+### 뜻
+-
+### 예
+-
+?end
+
+
+## 은혜 #card
+?begin
+### 뜻
+-
+### 예
+-
+?end
+
+
 ## 뚜렷하다 #card
 ?begin
 ### 뜻
