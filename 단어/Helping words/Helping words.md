@@ -712,7 +712,7 @@ https://hinative.com/questions/16678555
 ### 예
 - 기껏해야 하루에 한 번
 	- at most once a day
-<!--SR:!2025-12-20,68,230-->
+<!--SR:!2026-08-12,155,230-->
 ?end
 
 ## 자세하다 #card #sogang #sogang-4A
