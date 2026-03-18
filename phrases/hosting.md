@@ -5,7 +5,7 @@
 - Now we are going to (hear from the new club members)
 ### 예
 -
-<!--SR:!2026-02-11,107,268-->
+<!--SR:!2026-12-30,287,268-->
 ?end
 
 ## (한 분씩 앞으로 나와 주시)기 바랍니다 #card
