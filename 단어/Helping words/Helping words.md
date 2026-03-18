@@ -151,7 +151,7 @@ https://hinative.com/questions/16678555
 	- put money apart for educational expenses.
 - 물건을 각각 따로 두다
 	- keep things apart.
-<!--SR:!2026-02-01,7,250-->
+<!--SR:!2026-04-05,18,250-->
 ?end
 
 
@@ -256,7 +256,7 @@ https://hinative.com/questions/16678555
 	- Those who get[score] under 50 will not pass.
 - 10분 미만에
 	- in less than ten minutes.
-<!--SR:!2026-01-07,2,210-->
+<!--SR:!2026-03-22,4,210-->
 ?end
 
 
@@ -492,7 +492,7 @@ https://hinative.com/questions/16678555
 	- readily obey one's elders.
 - 대출금을 매월 꼬박꼬박 갚아 나가다
 	- make the monthly payment on one's loan regularly[right on time].
-<!--SR:!2026-02-05,128,230-->
+<!--SR:!2027-01-07,295,230-->
 ?end
 
 ## 왠지 #card
