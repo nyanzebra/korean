@@ -1,28 +1,10 @@
 # Sort Later
 
-## 가리키다 #card
-?begin
-### 뜻
--
-### 예
--
-?end
 
-## 갚다 #card
-?begin
-### 뜻
--
-### 예
--
-?end
 
-## 장가 #card
-?begin
-### 뜻
--
-### 예
--
-?end
+
+
+
 
 ## 살꼭대기 #card
 ?begin
@@ -141,15 +123,7 @@
 - 
 ?end
 
-## 번덕스럽다 #card
-?begin
-### 뜻
-- fickle
-- changeable
-### 예
-- 번덕스럽다=성격이 자주 바뀌다
-	- fickle = personality that changes often
-?end
+
 
 ## 개월마다 #card
 ?begin
@@ -210,40 +184,11 @@
 	- toy technician
 ?end
 
-## 짐 #card
-?begin
-### 뜻
-- luggage
-- baggage
-- load
-### 예
-- 짐 싸다
-	- pack luggage
-- 짐 풀다
-	- unpack luggage
-- 짐 정리하다
-	- organize luggage
-?end
 
-## 익숙해지다 #card
-?begin
-### 뜻
-- to get used to
-- to become familiar with
-### 예
-- 
-?end
 
-## 간격 #card
-?begin
-### 뜻
-- interval
-- gap
-- spacing
-### 예
-- 간격이 넓다
-	- the gap is wide
-?end
+
+
+
 
 ## 고속 #card
 ?begin
@@ -263,13 +208,7 @@
 - 
 ?end
 
-## 중순 #card
-?begin
-### 뜻
-- middle of the month
-### 예
-- 
-?end
+
 
 ## 흐르다 #card
 ?begin
@@ -330,21 +269,9 @@
 - 
 ?end
 
-## 민주당 #card
-?begin
-### 뜻
-- Democratic Party
-### 예
-- 
-?end
 
-## 공화당 #card
-?begin
-### 뜻
-- Republican Party
-### 예
-- 
-?end
+
+
 
 ## 사형 #card
 ?begin
@@ -419,14 +346,7 @@
 - 
 ?end
 
-## 재활용 #card
-?begin
-### 뜻
-- recycling
-### 예
-- 재활용 쓰레기통
-	- recycling bin
-?end
+
 
 ## 분리 #card
 ?begin
@@ -1143,50 +1063,13 @@
 	- to go out to meet someone
 ?end
 
-## 상당히 #card #adverb #considerably #quite
-?begin
-### 뜻
-- considerably
-- quite
-- fairly
-### 예
-- 상당히 좋아요
-	- It's quite good
-?end
 
-## 따다 #card #verb #win #pick
-?begin
-### 뜻
-- to win
-- to pick
-- to pluck
-### 예
-- 상을 따다
-	- to win a prize
-- 꽃을 따다
-	- to pick flowers
-?end
 
-## 규정 #card #rule #regulation
-?begin
-### 뜻
-- rule
-- regulation
-- provision
-### 예
-- 학교 규정
-	- school regulations
-?end
 
-## 자존심 #card #emotion #pride
-?begin
-### 뜻
-- pride
-- self-esteem
-### 예
-- 자존심이 강하다
-	- to have strong pride
-?end
+
+
+
+
 
 ## 난리나다 #card #verb #chaos #uproar
 ?begin
@@ -1378,14 +1261,7 @@
 	- to do activities
 ?end
 
-## 보건실 #card
-?begin
-### 뜻
-- school infirmary
-- health office
-### 예
--
-?end
+
 
 ## 컴푸터실 #card
 ?begin
@@ -1396,14 +1272,7 @@
 -
 ?end
 
-## 탁구장 #card
-?begin
-### 뜻
-- table tennis room
-- ping pong room
-### 예
--
-?end
+
 
 ## 과 #card
 ?begin
@@ -1414,15 +1283,7 @@
 -
 ?end
 
-## 모이다 #card
-?begin
-### 뜻
-- to gather
-- to assemble
-### 예
-- 모임
-	- gathering/meeting
-?end
+
 
 ## 엠티 #card
 ?begin
@@ -1463,14 +1324,7 @@
 	- terms of use
 ?end
 
-## 맞은편 #card
-?begin
-### 뜻
-- opposite side
-- other side
-### 예
--
-?end
+
 
 ## 매주 #card
 ?begin
