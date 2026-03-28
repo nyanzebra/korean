@@ -1,0 +1,96 @@
+## 법을 #card
+?begin
+### 뜻
+-
+### 예
+-
+?end
+
+## 대통령님 #card
+?begin
+### 뜻
+-
+### 예
+-
+?end
+
+## 대통령 #card
+?begin
+### 뜻
+-
+### 예
+-
+?end
+
+## 정부 #card
+?begin
+### 뜻
+-
+### 예
+-
+?end
+
+## 정부가 #card
+?begin
+### 뜻
+-
+### 예
+-
+?end
+
+## 대통령이 #card
+?begin
+### 뜻
+-
+### 예
+-
+?end
+
+## 마법의 #card
+?begin
+### 뜻
+-
+### 예
+-
+?end
+
+## 불법 #card
+?begin
+### 뜻
+-
+### 예
+-
+?end
+
+## 마법 #card
+?begin
+### 뜻
+-
+### 예
+-
+?end
+
+## 법이 #card
+?begin
+### 뜻
+-
+### 예
+-
+?end
+
+## 정부는 #card
+?begin
+### 뜻
+-
+### 예
+-
+?end
+
+## 마법을 #card
+?begin
+### 뜻
+-
+### 예
+-
+?end
+

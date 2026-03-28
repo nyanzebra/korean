@@ -1,0 +1,392 @@
+## 걱정 #card
+?begin
+### 뜻
+-
+### 예
+-
+?end
+
+## 느낌이 #card
+?begin
+### 뜻
+-
+### 예
+-
+?end
+
+## 사랑에 #card
+?begin
+### 뜻
+-
+### 예
+-
+?end
+
+## 대화를 #card
+?begin
+### 뜻
+-
+### 예
+-
+?end
+
+## 걱정하지 #card
+?begin
+### 뜻
+-
+### 예
+-
+?end
+
+## 행복한 #card
+?begin
+### 뜻
+-
+### 예
+-
+?end
+
+## 화장실 #card
+?begin
+### 뜻
+-
+### 예
+-
+?end
+
+## 사랑은 #card
+?begin
+### 뜻
+-
+### 예
+-
+?end
+
+## 전화해 #card
+?begin
+### 뜻
+-
+### 예
+-
+?end
+
+## 사랑이 #card
+?begin
+### 뜻
+-
+### 예
+-
+?end
+
+## 행복해 #card
+?begin
+### 뜻
+-
+### 예
+-
+?end
+
+## 행복하게 #card
+?begin
+### 뜻
+-
+### 예
+-
+?end
+
+## 두려워 #card
+?begin
+### 뜻
+-
+### 예
+-
+?end
+
+## 걱정마 #card
+?begin
+### 뜻
+-
+### 예
+-
+?end
+
+## 영화를 #card
+?begin
+### 뜻
+-
+### 예
+-
+?end
+
+## 전화가 #card
+?begin
+### 뜻
+-
+### 예
+-
+?end
+
+## 걱정할 #card
+?begin
+### 뜻
+-
+### 예
+-
+?end
+
+## 사랑의 #card
+?begin
+### 뜻
+-
+### 예
+-
+?end
+
+## 사랑하지 #card
+?begin
+### 뜻
+-
+### 예
+-
+?end
+
+## 사랑한다 #card
+?begin
+### 뜻
+-
+### 예
+-
+?end
+
+## 화를 #card
+?begin
+### 뜻
+-
+### 예
+-
+?end
+
+## 사랑한다고 #card
+?begin
+### 뜻
+-
+### 예
+-
+?end
+
+## 대화 #card
+?begin
+### 뜻
+-
+### 예
+-
+?end
+
+## 사랑하고 #card
+?begin
+### 뜻
+-
+### 예
+-
+?end
+
+## 감정이 #card
+?begin
+### 뜻
+-
+### 예
+-
+?end
+
+## 평화를 #card
+?begin
+### 뜻
+-
+### 예
+-
+?end
+
+## 걱정은 #card
+?begin
+### 뜻
+-
+### 예
+-
+?end
+
+## 걱정이 #card
+?begin
+### 뜻
+-
+### 예
+-
+?end
+
+## 느낌 #card
+?begin
+### 뜻
+-
+### 예
+-
+?end
+
+## 변화를 #card
+?begin
+### 뜻
+-
+### 예
+-
+?end
+
+## 걱정하는 #card
+?begin
+### 뜻
+-
+### 예
+-
+?end
+
+## 화나게 #card
+?begin
+### 뜻
+-
+### 예
+-
+?end
+
+## 전화할게 #card
+?begin
+### 뜻
+-
+### 예
+-
+?end
+
+## 화장실에 #card
+?begin
+### 뜻
+-
+### 예
+-
+?end
+
+## 화난 #card
+?begin
+### 뜻
+-
+### 예
+-
+?end
+
+## 통화 #card
+?begin
+### 뜻
+-
+### 예
+-
+?end
+
+## 전화로 #card
+?begin
+### 뜻
+-
+### 예
+-
+?end
+
+## 걱정마세요 #card
+?begin
+### 뜻
+-
+### 예
+-
+?end
+
+## 변화가 #card
+?begin
+### 뜻
+-
+### 예
+-
+?end
+
+## 사랑스러운 #card
+?begin
+### 뜻
+-
+### 예
+-
+?end
+
+## 걱정하지마 #card
+?begin
+### 뜻
+-
+### 예
+-
+?end
+
+## 걱정을 #card
+?begin
+### 뜻
+-
+### 예
+-
+?end
+
+## 느낌을 #card
+?begin
+### 뜻
+-
+### 예
+-
+?end
+
+## 전화도 #card
+?begin
+### 뜻
+-
+### 예
+-
+?end
+
+## 영화는 #card
+?begin
+### 뜻
+-
+### 예
+-
+?end
+
+## 전화기 #card
+?begin
+### 뜻
+-
+### 예
+-
+?end
+
+## 감정은 #card
+?begin
+### 뜻
+-
+### 예
+-
+?end
+
+## 걱정하고 #card
+?begin
+### 뜻
+-
+### 예
+-
+?end
+
+## 화재 #card
+?begin
+### 뜻
+-
+### 예
+-
+?end
+

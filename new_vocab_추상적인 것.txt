@@ -1,0 +1,240 @@
+## 사실 #card
+?begin
+### 뜻
+-
+### 예
+-
+?end
+
+## 사실은 #card
+?begin
+### 뜻
+-
+### 예
+-
+?end
+
+## 사실을 #card
+?begin
+### 뜻
+-
+### 예
+-
+?end
+
+## 이유를 #card
+?begin
+### 뜻
+-
+### 예
+-
+?end
+
+## 계획을 #card
+?begin
+### 뜻
+-
+### 예
+-
+?end
+
+## 가치가 #card
+?begin
+### 뜻
+-
+### 예
+-
+?end
+
+## 사실이 #card
+?begin
+### 뜻
+-
+### 예
+-
+?end
+
+## 의미가 #card
+?begin
+### 뜻
+-
+### 예
+-
+?end
+
+## 결과를 #card
+?begin
+### 뜻
+-
+### 예
+-
+?end
+
+## 결과가 #card
+?begin
+### 뜻
+-
+### 예
+-
+?end
+
+## 결과 #card
+?begin
+### 뜻
+-
+### 예
+-
+?end
+
+## 계획은 #card
+?begin
+### 뜻
+-
+### 예
+-
+?end
+
+## 상황에 #card
+?begin
+### 뜻
+-
+### 예
+-
+?end
+
+## 이유 #card
+?begin
+### 뜻
+-
+### 예
+-
+?end
+
+## 사실이야 #card
+?begin
+### 뜻
+-
+### 예
+-
+?end
+
+## 상황은 #card
+?begin
+### 뜻
+-
+### 예
+-
+?end
+
+## 계획 #card
+?begin
+### 뜻
+-
+### 예
+-
+?end
+
+## 이유로 #card
+?begin
+### 뜻
+-
+### 예
+-
+?end
+
+## 상황 #card
+?begin
+### 뜻
+-
+### 예
+-
+?end
+
+## 사실대로 #card
+?begin
+### 뜻
+-
+### 예
+-
+?end
+
+## 이유야 #card
+?begin
+### 뜻
+-
+### 예
+-
+?end
+
+## 결과는 #card
+?begin
+### 뜻
+-
+### 예
+-
+?end
+
+## 경험이 #card
+?begin
+### 뜻
+-
+### 예
+-
+?end
+
+## 의미 #card
+?begin
+### 뜻
+-
+### 예
+-
+?end
+
+## 진실은 #card
+?begin
+### 뜻
+-
+### 예
+-
+?end
+
+## 이유도 #card
+?begin
+### 뜻
+-
+### 예
+-
+?end
+
+## 의미를 #card
+?begin
+### 뜻
+-
+### 예
+-
+?end
+
+## 사실이에요 #card
+?begin
+### 뜻
+-
+### 예
+-
+?end
+
+## 계획대로 #card
+?begin
+### 뜻
+-
+### 예
+-
+?end
+
+## 계획에 #card
+?begin
+### 뜻
+-
+### 예
+-
+?end
+

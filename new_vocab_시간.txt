@@ -1,132 +1,12 @@
-## 자연 #card
+## 시간이 #card
 ?begin
 ### 뜻
-- nature
-- natural
-### 예
 -
-<!--SR:!2026-05-07,193,272-->
-?end
-
-
-
-
-
-## 쐬다 #card
-?begin
-### 뜻
-- air
-- expose
-### 예
-- 독한 가스를 쐬다
-	- be exposed to poisonous air.
-- 밤바람을 쐬어 감기에 걸렸다
-	- After being exposed to the (chilly) evening breeze, I caught a cold.
-- 발코니로 나가 시원한 바람을 쐬다
-	- enjoy the cool air out on the balcony.
-<!--SR:!2026-04-07,82,270-->
-?end
-
-
-## 흑돼지 #card #animal #black-pig
-?begin
-### 뜻
-- black pig (especially from Jeju)
-### 예
-- 흑돼지 고기
-- black pork
-- 제주도 흑돼지
-- Jeju black pig
-?end
-
-## 멧돼지 #card #animal #wild-boar
-?begin
-### 뜻
-- wild boar
-### 예
-- 멧돼지가 나타났어요
-- A wild boar appeared
-- 멧돼지 고기
-- wild boar meat
-?end
-
-## 족제비 #card #animal #weasel
-?begin
-### 뜻
-- weasel
-### 예
-- 족제비가 빨라요
-- The weasel is fast
-- 족제비처럼 도망가요
-- I run away like a weasel
-?end
-
-## 거위 #card #animal #goose
-?begin
-### 뜻
-- goose
-### 예
-- 거위가 크다
-- The goose is big
-- 거위 울음소리
-- goose honking
-?end
-
-## 황새 #card #animal #stork
-?begin
-### 뜻
-- stork
-### 예
-- 황새 둥지
-- stork nest
-- 황새가 날아요
-- The stork flies
-?end
-
-## 까치 #card #animal #magpie
-?begin
-### 뜻
-- magpie
-### 예
-- 까치가 울어요
-- The magpie calls
-- 까치 소리
-- magpie sound
-?end
-
-## 두루미 #card #animal #crane
-?begin
-### 뜻
-- crane (bird)
-### 예
-- 두루미가 아름다워요
-- The crane is beautiful
-- 두루미 보호
-- crane conservation
-?end
-
-## 제비 #card #animal #swallow
-?begin
-### 뜻
-- swallow (bird)
 ### 예
-- 제비가 날아요
-- The swallow flies
-- 제비 집
-- swallow nest
+-
 ?end
 
-## 해초 #card #nature #seaweed
-?begin
-### 뜻
-- seaweed
-### 예
-- 해초를 먹어요
-- I eat seaweed
-- 해초가 많아요
-- There's a lot of seaweed
-?end
-## 필요해 #card
+## 시간을 #card
 ?begin
 ### 뜻
 -
@@ -134,7 +14,7 @@
 -
 ?end
 
-## 필요해요 #card
+## 떠날 #card
 ?begin
 ### 뜻
 -
@@ -142,7 +22,7 @@
 -
 ?end
 
-## 조심해 #card
+## 시간은 #card
 ?begin
 ### 뜻
 -
@@ -150,7 +30,7 @@
 -
 ?end
 
-## 해줄 #card
+## 분이 #card
 ?begin
 ### 뜻
 -
@@ -158,7 +38,7 @@
 -
 ?end
 
-## 이해 #card
+## 덕분에 #card
 ?begin
 ### 뜻
 -
@@ -166,7 +46,7 @@
 -
 ?end
 
-## 좋아해요 #card
+## 달라 #card
 ?begin
 ### 뜻
 -
@@ -174,7 +54,7 @@
 -
 ?end
 
-## 확인해 #card
+## 옛날 #card
 ?begin
 ### 뜻
 -
@@ -182,7 +62,7 @@
 -
 ?end
 
-## 감사해요 #card
+## 도와주세요 #card
 ?begin
 ### 뜻
 -
@@ -190,7 +70,7 @@
 -
 ?end
 
-## 확실해 #card
+## 오늘밤 #card
 ?begin
 ### 뜻
 -
@@ -198,7 +78,7 @@
 -
 ?end
 
-## 기억해 #card
+## 분은 #card
 ?begin
 ### 뜻
 -
@@ -206,7 +86,7 @@
 -
 ?end
 
-## 어떡해 #card
+## 해주세요 #card
 ?begin
 ### 뜻
 -
@@ -214,7 +94,7 @@
 -
 ?end
 
-## 의해 #card
+## 시간에 #card
 ?begin
 ### 뜻
 -
@@ -222,7 +102,7 @@
 -
 ?end
 
-## 준비해 #card
+## 달라고 #card
 ?begin
 ### 뜻
 -
@@ -230,7 +110,7 @@
 -
 ?end
 
-## 강한 #card
+## 날이 #card
 ?begin
 ### 뜻
 -
@@ -238,7 +118,7 @@
 -
 ?end
 
-## 그만해요 #card
+## 주면 #card
 ?begin
 ### 뜻
 -
@@ -246,7 +126,7 @@
 -
 ?end
 
-## 이해해 #card
+## 맨날 #card
 ?begin
 ### 뜻
 -
@@ -254,7 +134,7 @@
 -
 ?end
 
-## 이해할 #card
+## 어젯밤에 #card
 ?begin
 ### 뜻
 -
@@ -262,7 +142,7 @@
 -
 ?end
 
-## 뭐해 #card
+## 오후 #card
 ?begin
 ### 뜻
 -
@@ -270,7 +150,7 @@
 -
 ?end
 
-## 준비됐어 #card
+## 일어날 #card
 ?begin
 ### 뜻
 -
@@ -278,7 +158,7 @@
 -
 ?end
 
-## 관해 #card
+## 어젯밤 #card
 ?begin
 ### 뜻
 -
@@ -286,7 +166,7 @@
 -
 ?end
 
-## 해라 #card
+## 달려 #card
 ?begin
 ### 뜻
 -
@@ -294,7 +174,7 @@
 -
 ?end
 
-## 바람 #card
+## 1년 #card
 ?begin
 ### 뜻
 -
@@ -302,7 +182,7 @@
 -
 ?end
 
-## 해줘요 #card
+## 대부분 #card
 ?begin
 ### 뜻
 -
@@ -310,7 +190,7 @@
 -
 ?end
 
-## 조심해요 #card
+## 맥주 #card
 ?begin
 ### 뜻
 -
@@ -318,7 +198,7 @@
 -
 ?end
 
-## 축하해 #card
+## 달린 #card
 ?begin
 ### 뜻
 -
@@ -326,7 +206,7 @@
 -
 ?end
 
-## 안해 #card
+## 밤을 #card
 ?begin
 ### 뜻
 -
@@ -334,7 +214,7 @@
 -
 ?end
 
-## 시작해 #card
+## 달리 #card
 ?begin
 ### 뜻
 -
@@ -342,7 +222,7 @@
 -
 ?end
 
-## 전해 #card
+## 대부분의 #card
 ?begin
 ### 뜻
 -
@@ -350,7 +230,7 @@
 -
 ?end
 
-## 이상해 #card
+## 끝날 #card
 ?begin
 ### 뜻
 -
@@ -358,7 +238,7 @@
 -
 ?end
 
-## 생각해봐 #card
+## 2년 #card
 ?begin
 ### 뜻
 -
@@ -366,7 +246,7 @@
 -
 ?end
 
-## 비밀을 #card
+## 10분 #card
 ?begin
 ### 뜻
 -
@@ -374,7 +254,7 @@
 -
 ?end
 
-## 위험해 #card
+## 시간이야 #card
 ?begin
 ### 뜻
 -
@@ -382,7 +262,7 @@
 -
 ?end
 
-## 비슷한 #card
+## 달러 #card
 ?begin
 ### 뜻
 -
@@ -390,7 +270,7 @@
 -
 ?end
 
-## 해야할 #card
+## 일주일 #card
 ?begin
 ### 뜻
 -
@@ -398,7 +278,7 @@
 -
 ?end
 
-## 준비를 #card
+## 30분 #card
 ?begin
 ### 뜻
 -
@@ -406,7 +286,7 @@
 -
 ?end
 
-## 대해선 #card
+## 5분 #card
 ?begin
 ### 뜻
 -
@@ -414,7 +294,7 @@
 -
 ?end
 
-## 데이비드 #card
+## 충분한 #card
 ?begin
 ### 뜻
 -
@@ -422,7 +302,7 @@
 -
 ?end
 
-## 진정해요 #card
+## 월터 #card
 ?begin
 ### 뜻
 -
@@ -430,7 +310,7 @@
 -
 ?end
 
-## 원해요 #card
+## 주셔서 #card
 ?begin
 ### 뜻
 -
@@ -438,7 +318,7 @@
 -
 ?end
 
-## 해봐요 #card
+## 주십시오 #card
 ?begin
 ### 뜻
 -
@@ -446,7 +326,7 @@
 -
 ?end
 
-## 강력한 #card
+## 여러분이 #card
 ?begin
 ### 뜻
 -
@@ -454,7 +334,7 @@
 -
 ?end
 
-## 나무 #card
+## 2주 #card
 ?begin
 ### 뜻
 -
@@ -462,7 +342,7 @@
 -
 ?end
 
-## 해냈어 #card
+## 우주 #card
 ?begin
 ### 뜻
 -
@@ -470,7 +350,7 @@
 -
 ?end
 
-## 별거 #card
+## 순간을 #card
 ?begin
 ### 뜻
 -
@@ -478,7 +358,7 @@
 -
 ?end
 
-## 비록 #card
+## 10년 #card
 ?begin
 ### 뜻
 -
@@ -486,7 +366,7 @@
 -
 ?end
 
-## 해결할 #card
+## 공주님 #card
 ?begin
 ### 뜻
 -
@@ -494,7 +374,7 @@
 -
 ?end
 
-## 바람에 #card
+## 달라요 #card
 ?begin
 ### 뜻
 -
@@ -502,7 +382,7 @@
 -
 ?end
 
-## 안전해 #card
+## 저녁에 #card
 ?begin
 ### 뜻
 -
@@ -510,7 +390,7 @@
 -
 ?end
 
-## 해보자 #card
+## 달러를 #card
 ?begin
 ### 뜻
 -
@@ -518,7 +398,7 @@
 -
 ?end
 
-## 향해 #card
+## 해주고 #card
 ?begin
 ### 뜻
 -
@@ -526,7 +406,7 @@
 -
 ?end
 
-## 비디오 #card
+## 여러분의 #card
 ?begin
 ### 뜻
 -
@@ -534,7 +414,7 @@
 -
 ?end
 
-## 중요해 #card
+## 주려고 #card
 ?begin
 ### 뜻
 -
@@ -542,7 +422,7 @@
 -
 ?end
 
-## 해리 #card
+## 말해주지 #card
 ?begin
 ### 뜻
 -
@@ -550,7 +430,7 @@
 -
 ?end
 
-## 이해해요 #card
+## 부분을 #card
 ?begin
 ### 뜻
 -
@@ -558,7 +438,7 @@
 -
 ?end
 
-## 비가 #card
+## 3년 #card
 ?begin
 ### 뜻
 -
@@ -566,7 +446,7 @@
 -
 ?end
 
-## 해치지 #card
+## 충분해 #card
 ?begin
 ### 뜻
 -
@@ -574,7 +454,7 @@
 -
 ?end
 
-## 인해 #card
+## 기분은 #card
 ?begin
 ### 뜻
 -
@@ -582,7 +462,7 @@
 -
 ?end
 
-## 확실해요 #card
+## 5년 #card
 ?begin
 ### 뜻
 -
@@ -590,7 +470,7 @@
 -
 ?end
 
-## 해야겠어 #card
+## 부분이 #card
 ?begin
 ### 뜻
 -
@@ -598,7 +478,7 @@
 -
 ?end
 
-## 축하해요 #card
+## 주의 #card
 ?begin
 ### 뜻
 -
@@ -606,7 +486,7 @@
 -
 ?end
 
-## 해가 #card
+## 매년 #card
 ?begin
 ### 뜻
 -
@@ -614,7 +494,7 @@
 -
 ?end
 
-## 풀어 #card
+## 시간도 #card
 ?begin
 ### 뜻
 -
@@ -622,7 +502,7 @@
 -
 ?end
 
-## 이해를 #card
+## 6개월 #card
 ?begin
 ### 뜻
 -
@@ -630,7 +510,7 @@
 -
 ?end
 
-## 해야만 #card
+## 작년에 #card
 ?begin
 ### 뜻
 -
@@ -638,7 +518,7 @@
 -
 ?end
 
-## 해본 #card
+## 24시간 #card
 ?begin
 ### 뜻
 -
@@ -646,7 +526,7 @@
 -
 ?end
 
-## 바비 #card
+## 보여주고 #card
 ?begin
 ### 뜻
 -
@@ -654,7 +534,7 @@
 -
 ?end
 
-## 해낼 #card
+## 오전 #card
 ?begin
 ### 뜻
 -
@@ -662,7 +542,7 @@
 -
 ?end
 
-## 위험해요 #card
+## 해주지 #card
 ?begin
 ### 뜻
 -
@@ -670,7 +550,7 @@
 -
 ?end
 
-## 불가능해 #card
+## 어느날 #card
 ?begin
 ### 뜻
 -
@@ -678,7 +558,7 @@
 -
 ?end
 
-## 잘해 #card
+## 애초에 #card
 ?begin
 ### 뜻
 -
@@ -686,7 +566,7 @@
 -
 ?end
 
-## 궁금해 #card
+## 그분은 #card
 ?begin
 ### 뜻
 -
@@ -694,7 +574,7 @@
 -
 ?end
 
-## 이용해 #card
+## 대부분은 #card
 ?begin
 ### 뜻
 -
@@ -702,7 +582,7 @@
 -
 ?end
 
-## 해야죠 #card
+## 20분 #card
 ?begin
 ### 뜻
 -
@@ -710,7 +590,7 @@
 -
 ?end
 
-## 계속해 #card
+## 부분은 #card
 ?begin
 ### 뜻
 -
@@ -718,7 +598,7 @@
 -
 ?end
 
-## 준비됐어요 #card
+## 밤이 #card
 ?begin
 ### 뜻
 -
@@ -726,7 +606,7 @@
 -
 ?end
 
-## 이해하지 #card
+## 오후에 #card
 ?begin
 ### 뜻
 -
@@ -734,7 +614,7 @@
 -
 ?end
 
-## 가야해 #card
+## 밤은 #card
 ?begin
 ### 뜻
 -
@@ -742,7 +622,7 @@
 -
 ?end
 
-## 안해요 #card
+## 주말에 #card
 ?begin
 ### 뜻
 -
@@ -750,7 +630,7 @@
 -
 ?end
 
-## 훌륭해 #card
+## 주인이 #card
 ?begin
 ### 뜻
 -
@@ -758,7 +638,7 @@
 -
 ?end
 
-## 바람을 #card
+## 주요 #card
 ?begin
 ### 뜻
 -
@@ -766,7 +646,7 @@
 -
 ?end
 
-## 비밀로 #card
+## 날을 #card
 ?begin
 ### 뜻
 -
@@ -774,7 +654,7 @@
 -
 ?end
 
-## 장난해 #card
+## 끝내주는 #card
 ?begin
 ### 뜻
 -
@@ -782,7 +662,7 @@
 -
 ?end
 
-## 부탁해요 #card
+## 저녁을 #card
 ?begin
 ### 뜻
 -
@@ -790,7 +670,7 @@
 -
 ?end
 
-## 준비하고 #card
+## 주변 #card
 ?begin
 ### 뜻
 -
@@ -798,7 +678,7 @@
 -
 ?end
 
-## 비싼 #card
+## 말해주세요 #card
 ?begin
 ### 뜻
 -
@@ -806,7 +686,7 @@
 -
 ?end
 
-## 부탁해 #card
+## 15분 #card
 ?begin
 ### 뜻
 -
@@ -814,7 +694,7 @@
 -
 ?end
 
-## 구해 #card
+## 주위를 #card
 ?begin
 ### 뜻
 -
@@ -822,7 +702,7 @@
 -
 ?end
 
-## 연락해 #card
+## 주실래요 #card
 ?begin
 ### 뜻
 -
@@ -830,7 +710,7 @@
 -
 ?end
 
-## 위해선 #card
+## 여러분은 #card
 ?begin
 ### 뜻
 -
@@ -838,7 +718,7 @@
 -
 ?end
 
-## 해줄게 #card
+## 충분하지 #card
 ?begin
 ### 뜻
 -
@@ -846,7 +726,7 @@
 -
 ?end
 
-## 해군 #card
+## 20년 #card
 ?begin
 ### 뜻
 -
@@ -854,7 +734,7 @@
 -
 ?end
 
-## 강하게 #card
+## 도와주고 #card
 ?begin
 ### 뜻
 -
@@ -862,7 +742,7 @@
 -
 ?end
 
-## 완벽해 #card
+## 아주머니 #card
 ?begin
 ### 뜻
 -
@@ -870,7 +750,7 @@
 -
 ?end
 
-## 특별 #card
+## 주여 #card
 ?begin
 ### 뜻
 -
@@ -878,7 +758,7 @@
 -
 ?end
 
-## 산소 #card
+## 순간에 #card
 ?begin
 ### 뜻
 -
@@ -886,7 +766,7 @@
 -
 ?end
 
-## 비켜요 #card
+## 2분 #card
 ?begin
 ### 뜻
 -
@@ -894,7 +774,7 @@
 -
 ?end
 
-## 이해합니다 #card
+## 주시겠어요 #card
 ?begin
 ### 뜻
 -
@@ -902,7 +782,7 @@
 -
 ?end
 
-## 해봤어 #card
+## 순간이 #card
 ?begin
 ### 뜻
 -
@@ -910,7 +790,7 @@
 -
 ?end
 
-## 강아지 #card
+## 옛날에 #card
 ?begin
 ### 뜻
 -
@@ -918,7 +798,7 @@
 -
 ?end
 
-## 해야해 #card
+## 달에 #card
 ?begin
 ### 뜻
 -
@@ -926,7 +806,7 @@
 -
 ?end
 
-## 대단해 #card
+## 주의를 #card
 ?begin
 ### 뜻
 -
@@ -934,7 +814,7 @@
 -
 ?end
 
-## 콜롬비아 #card
+## 분을 #card
 ?begin
 ### 뜻
 -
@@ -942,7 +822,7 @@
 -
 ?end
 
-## 싫어해 #card
+## 기분을 #card
 ?begin
 ### 뜻
 -
@@ -950,7 +830,7 @@
 -
 ?end
 
-## 비행 #card
+## 달고 #card
 ?begin
 ### 뜻
 -
@@ -958,7 +838,7 @@
 -
 ?end
 
-## 하늘을 #card
+## 해주면 #card
 ?begin
 ### 뜻
 -
@@ -966,7 +846,7 @@
 -
 ?end
 
-## 해결 #card
+## 그분이 #card
 ?begin
 ### 뜻
 -
@@ -974,7 +854,7 @@
 -
 ?end
 
-## 가능해 #card
+## 주신 #card
 ?begin
 ### 뜻
 -
@@ -982,7 +862,7 @@
 -
 ?end
 
-## 비밀이 #card
+## 주변을 #card
 ?begin
 ### 뜻
 -
@@ -990,7 +870,7 @@
 -
 ?end
 
-## 이상해요 #card
+## 주실 #card
 ?begin
 ### 뜻
 -
@@ -998,7 +878,7 @@
 -
 ?end
 
-## 해보고 #card
+## 년이 #card
 ?begin
 ### 뜻
 -
@@ -1006,7 +886,7 @@
 -
 ?end
 
-## 하늘에 #card
+## 날에 #card
 ?begin
 ### 뜻
 -
@@ -1014,7 +894,7 @@
 -
 ?end
 
-## 부동산 #card
+## 분위기 #card
 ?begin
 ### 뜻
 -
@@ -1022,7 +902,7 @@
 -
 ?end
 
-## 기억해요 #card
+## 해주는 #card
 ?begin
 ### 뜻
 -
@@ -1030,7 +910,7 @@
 -
 ?end
 
-## 올해 #card
+## 한시간 #card
 ?begin
 ### 뜻
 -
@@ -1038,7 +918,7 @@
 -
 ?end
 
-## 트래비스 #card
+## 오늘밤에 #card
 ?begin
 ### 뜻
 -
@@ -1046,7 +926,7 @@
 -
 ?end
 
-## 자비를 #card
+## 주제에 #card
 ?begin
 ### 뜻
 -
@@ -1054,7 +934,7 @@
 -
 ?end
 
-## 로비 #card
+## 날은 #card
 ?begin
 ### 뜻
 -
@@ -1062,7 +942,7 @@
 -
 ?end
 
-## 전해줘 #card
+## 주님 #card
 ?begin
 ### 뜻
 -
@@ -1070,7 +950,7 @@
 -
 ?end
 
-## 비상 #card
+## 주무세요 #card
 ?begin
 ### 뜻
 -
@@ -1078,7 +958,7 @@
 -
 ?end
 
-## 안해도 #card
+## 여러분을 #card
 ?begin
 ### 뜻
 -
@@ -1086,7 +966,7 @@
 -
 ?end
 
-## 산에 #card
+## 1시간 #card
 ?begin
 ### 뜻
 -
@@ -1094,7 +974,7 @@
 -
 ?end
 
-## 나무를 #card
+## 벗어날 #card
 ?begin
 ### 뜻
 -
@@ -1102,7 +982,7 @@
 -
 ?end
 
-## 뻔해 #card
+## 와주셔서 #card
 ?begin
 ### 뜻
 -
@@ -1110,7 +990,7 @@
 -
 ?end
 
-## 조용해 #card
+## 분의 #card
 ?begin
 ### 뜻
 -
@@ -1118,7 +998,7 @@
 -
 ?end
 
-## 해야할지 #card
+## 주문을 #card
 ?begin
 ### 뜻
 -
@@ -1126,7 +1006,7 @@
 -
 ?end
 
-## 준비는 #card
+## 주머니에 #card
 ?begin
 ### 뜻
 -
@@ -1134,7 +1014,7 @@
 -
 ?end
 
-## 해변에 #card
+## 우주의 #card
 ?begin
 ### 뜻
 -
@@ -1142,7 +1022,7 @@
 -
 ?end
 
-## 불가능해요 #card
+## 일주일에 #card
 ?begin
 ### 뜻
 -
@@ -1150,7 +1030,7 @@
 -
 ?end
 
-## 베이비 #card
+## 하룻밤 #card
 ?begin
 ### 뜻
 -
@@ -1158,7 +1038,7 @@
 -
 ?end
 
-## 해준 #card
+## 이분은 #card
 ?begin
 ### 뜻
 -
@@ -1166,7 +1046,7 @@
 -
 ?end
 
-## 인정해 #card
+## 주소 #card
 ?begin
 ### 뜻
 -
@@ -1174,7 +1054,7 @@
 -
 ?end
 
-## 별로야 #card
+## 주님의 #card
 ?begin
 ### 뜻
 -
@@ -1182,7 +1062,7 @@
 -
 ?end
 
-## 뭐해요 #card
+## 금요일 #card
 ?begin
 ### 뜻
 -
@@ -1190,7 +1070,7 @@
 -
 ?end
 
-## 침착해 #card
+## 토요일 #card
 ?begin
 ### 뜻
 -
@@ -1198,7 +1078,7 @@
 -
 ?end
 
-## 나무가 #card
+## 주시오 #card
 ?begin
 ### 뜻
 -
@@ -1206,7 +1086,7 @@
 -
 ?end
 
-## 가야해요 #card
+## 분명해 #card
 ?begin
 ### 뜻
 -
@@ -1214,7 +1094,7 @@
 -
 ?end
 
-## 비니 #card
+## 달이 #card
 ?begin
 ### 뜻
 -
@@ -1222,7 +1102,7 @@
 -
 ?end
 
-## 부족해 #card
+## 주게 #card
 ?begin
 ### 뜻
 -
@@ -1230,7 +1110,7 @@
 -
 ?end
 
-## 환영해 #card
+## 기분이야 #card
 ?begin
 ### 뜻
 -
@@ -1238,7 +1118,7 @@
 -
 ?end
 
-## 연결해 #card
+## 날이야 #card
 ?begin
 ### 뜻
 -
@@ -1246,7 +1126,7 @@
 -
 ?end
 
-## 경비 #card
+## 이년아 #card
 ?begin
 ### 뜻
 -
@@ -1254,7 +1134,7 @@
 -
 ?end
 
-## 장비를 #card
+## 보여주는 #card
 ?begin
 ### 뜻
 -
@@ -1262,7 +1142,7 @@
 -
 ?end
 
-## 애비 #card
+## 주인님 #card
 ?begin
 ### 뜻
 -
@@ -1270,7 +1150,7 @@
 -
 ?end
 
-## 해보세요 #card
+## 30초 #card
 ?begin
 ### 뜻
 -
@@ -1278,7 +1158,7 @@
 -
 ?end
 
-## 조심해야 #card
+## 보여주지 #card
 ?begin
 ### 뜻
 -
@@ -1286,7 +1166,7 @@
 -
 ?end
 
-## 바다에 #card
+## 주말 #card
 ?begin
 ### 뜻
 -
@@ -1294,7 +1174,7 @@
 -
 ?end
 
-## 싫어해요 #card
+## 초콜릿 #card
 ?begin
 ### 뜻
 -
@@ -1302,7 +1182,7 @@
 -
 ?end
 
-## 풀고 #card
+## 공주 #card
 ?begin
 ### 뜻
 -
@@ -1310,7 +1190,7 @@
 -
 ?end
 
-## 중요해요 #card
+## 1분 #card
 ?begin
 ### 뜻
 -
@@ -1318,7 +1198,7 @@
 -
 ?end
 
-## 어떡해요 #card
+## 시간이다 #card
 ?begin
 ### 뜻
 -
@@ -1326,7 +1206,7 @@
 -
 ?end
 
-## 환영해요 #card
+## 소년 #card
 ?begin
 ### 뜻
 -
@@ -1334,7 +1214,7 @@
 -
 ?end
 
-## 실례해요 #card
+## 매주 #card
 ?begin
 ### 뜻
 -
@@ -1342,7 +1222,7 @@
 -
 ?end
 
-## 해줘야 #card
+## 최초의 #card
 ?begin
 ### 뜻
 -
@@ -1350,7 +1230,7 @@
 -
 ?end
 
-## 해줄래 #card
+## 주인 #card
 ?begin
 ### 뜻
 -
@@ -1358,7 +1238,7 @@
 -
 ?end
 
-## 나무에 #card
+## 도와달라고 #card
 ?begin
 ### 뜻
 -
@@ -1366,7 +1246,7 @@
 -
 ?end
 
-## 해보죠 #card
+## 주소를 #card
 ?begin
 ### 뜻
 -
