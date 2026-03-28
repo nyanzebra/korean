@@ -960,6 +960,370 @@
 	- to win the lottery
 ?end
 
+## 얼버무리다 #card #verb #speaking
+?begin
+### 뜻
+- to slur
+- to speak ambiguously
+- to mumble
+### 예
+- 말 얼버무리지 마
+	- Don't mumble, speak clearly
+?end
+
+## 치밀하다 #card #adjective #elaborate #meticulous
+?begin
+### 뜻
+- elaborate
+- meticulous
+- detailed
+### 예
+- 치밀한 계획
+	- an elaborate plan
+?end
+
+## 숨기다 #card #verb #hide #conceal
+?begin
+### 뜻
+- to hide
+- to conceal
+- to breathe (숨 + 기다)
+### 예
+- 비밀을 숨기다
+	- to hide a secret
+?end
+
+## 중얼거리다 #card #verb #mutter #murmur
+?begin
+### 뜻
+- to mutter
+- to murmur
+- to mumble
+### 예
+- 혼자 중얼거렸다
+	- muttered to oneself
+?end
+
+## 꾀다 #card #verb #tempt #lure
+?begin
+### 뜻
+- to tempt
+- to lure
+- to entice
+### 예
+- 꾀는 말
+	- tempting words
+?end
+
+## 건너편 #card #location #opposite #across
+?begin
+### 뜻
+- opposite side
+- across
+- other side
+### 예
+- 길 건너편
+	- across the street
+?end
+
+## 맞은편 #card #location #opposite
+?begin
+### 뜻
+- opposite side
+- facing side
+### 예
+- 건물 맞은편
+	- opposite the building
+?end
+
+## 기숙사 #card #place #dormitory
+?begin
+### 뜻
+- dormitory
+- dorm
+### 예
+- 기숙사에 살아요
+	- I live in the dorm
+?end
+
+## 합격하다 #card #verb #pass #succeed
+?begin
+### 뜻
+- to pass (exam/test)
+- to be accepted
+### 예
+- 시험에 합격했어요
+	- I passed the exam
+?end
+
+## 글자 #card #writing #character
+?begin
+### 뜻
+- character
+- letter
+- word
+### 예
+- 한글 글자
+	- Korean characters
+?end
+
+## 공식 #card #formula #official
+?begin
+### 뜻
+- formula
+- official
+### 예
+- 수학 공식
+	- math formula
+- 공식적
+	- official
+?end
+
+## 통화 #card #phone #call
+?begin
+### 뜻
+- phone call
+- currency
+### 예
+- 통화하다
+	- to be on the phone
+- 통화 중이다
+	- line is busy
+?end
+
+## 안타깝다 #card #emotion #regrettable
+?begin
+### 뜻
+- regrettable
+- unfortunate
+- pitiful
+### 예
+- 안타까운 일
+	- a regrettable matter
+?end
+
+## 유감스럽다 #card #emotion #unfortunate #regretful
+?begin
+### 뜻
+- unfortunate
+- regretful
+### 예
+- 유감스럽게도
+	- unfortunately
+?end
+
+## 감동하다 #card #emotion #moved #impressed
+?begin
+### 뜻
+- to be moved
+- to be impressed
+- to be touched
+### 예
+- 영화에 감동했어요
+	- I was moved by the movie
+?end
+
+## 충격 #card #emotion #shock
+?begin
+### 뜻
+- shock
+- impact
+### 예
+- 충격을 받다
+	- to receive a shock
+?end
+
+## 마중 #card #meeting #greeting
+?begin
+### 뜻
+- meeting someone
+- greeting
+### 예
+- 마중 나가다
+	- to go out to meet someone
+?end
+
+## 상당히 #card #adverb #considerably #quite
+?begin
+### 뜻
+- considerably
+- quite
+- fairly
+### 예
+- 상당히 좋아요
+	- It's quite good
+?end
+
+## 따다 #card #verb #win #pick
+?begin
+### 뜻
+- to win
+- to pick
+- to pluck
+### 예
+- 상을 따다
+	- to win a prize
+- 꽃을 따다
+	- to pick flowers
+?end
+
+## 규정 #card #rule #regulation
+?begin
+### 뜻
+- rule
+- regulation
+- provision
+### 예
+- 학교 규정
+	- school regulations
+?end
+
+## 자존심 #card #emotion #pride
+?begin
+### 뜻
+- pride
+- self-esteem
+### 예
+- 자존심이 강하다
+	- to have strong pride
+?end
+
+## 난리나다 #card #verb #chaos #uproar
+?begin
+### 뜻
+- to be chaotic
+- to be in an uproar
+- to be in turmoil
+### 예
+- 집안이 난리났어요
+	- The house is in chaos
+?end
+
+## 꽉 #card #adverb #tight #full
+?begin
+### 뜻
+- tight
+- tightly
+- full
+### 예
+- 꽉 잡다
+	- to hold tight
+- 꽉 찼어요
+	- It's full
+?end
+
+## 마무리 #card #finish #conclusion
+?begin
+### 뜻
+- finish
+- conclusion
+- wrapping up
+### 예
+- 마무리 운동
+	- cool-down exercise
+- 일을 마무리하다
+	- to finish work
+?end
+
+## 깎다 #card #verb #cut #reduce #mow
+?begin
+### 뜻
+- to cut
+- to reduce
+- to mow
+- to peel
+### 예
+- 가격을 깎다
+	- to reduce the price
+- 풀을 깎다
+	- to mow the grass
+?end
+
+## 고급 #card #luxury #high-class
+?begin
+### 뜻
+- luxury
+- high-class
+- high-grade
+### 예
+- 고급 호텔
+	- luxury hotel
+?end
+
+## 처벌하다 #card #verb #punish
+?begin
+### 뜻
+- to punish
+- to penalize
+### 예
+- 벌을 주다
+	- to give punishment
+- 처벌하다
+	- to punish
+?end
+
+## 주시하다 #card #verb #stare #gaze #watch
+?begin
+### 뜻
+- to stare
+- to gaze
+- to watch closely
+### 예
+- 주의 깊게 주시하다
+	- to watch carefully
+?end
+
+## 일취월장 #card #idiom #progress
+?begin
+### 뜻
+- rapid progress
+- making great strides
+### 예
+- 실력이 일취월장하다
+	- skills improve rapidly
+?end
+
+## 백전백승 #card #idiom #victory
+?begin
+### 뜻
+- winning every battle
+- undefeated
+### 예
+- 백전백승의 장군
+	- an undefeated general
+?end
+
+## 연전연승 #card #idiom #consecutive-wins
+?begin
+### 뜻
+- consecutive victories
+- winning streak
+### 예
+- 연전연승하다
+	- to keep winning
+?end
+
+## 탈퇴 #card #membership #withdrawal
+?begin
+### 뜻
+- withdrawal
+- leaving (organization)
+### 예
+- 회원 탈퇴
+	- account cancellation
+?end
+
+## 화상 #card #video #image
+?begin
+### 뜻
+- video
+- image
+- burn (injury)
+### 예
+- 화상 통화
+	- video call
+?end
+
 ## 사회학 #card
 ?begin
 ### 뜻
