@@ -104,3 +104,409 @@
 - 소매치기 당했어요. 차비 좀 주실 수 있나요?
 	- I just got pick-pocketed. Can I have some cash for the bus?
 ?end
+
+## 달력 #card
+?begin
+### 뜻
+- calendar
+### 예
+- 달력 확인하다
+	- check the calendar
+?end
+
+## 편 #card
+?begin
+### 뜻
+- side
+- piece
+- volume
+### 예
+- 
+?end
+
+## 공산당 #card
+?begin
+### 뜻
+- communist party
+### 예
+- 중국 공산당
+	- Chinese Communist Party
+?end
+
+## 북한 #card
+?begin
+### 뜻
+- North Korea
+### 예
+- 
+?end
+
+## 번덕스럽다 #card
+?begin
+### 뜻
+- fickle
+- changeable
+### 예
+- 번덕스럽다=성격이 자주 바뀌다
+	- fickle = personality that changes often
+?end
+
+## 개월마다 #card
+?begin
+### 뜻
+- every (number) months
+### 예
+- 3개월마다
+	- every 3 months
+?end
+
+## 걸음 #card
+?begin
+### 뜻
+- step
+- pace
+- walking
+### 예
+- 
+?end
+
+## 마감 #card
+?begin
+### 뜻
+- deadline
+- closing
+### 예
+- 마감 시간
+	- deadline
+?end
+
+## 인공 #card
+?begin
+### 뜻
+- artificial
+- man-made
+### 예
+- 인공 지능
+	- artificial intelligence
+?end
+
+## 지능 #card
+?begin
+### 뜻
+- intelligence
+- intellect
+### 예
+- 인공 지능
+	- artificial intelligence
+?end
+
+## 기술자 #card
+?begin
+### 뜻
+- technician
+- engineer
+### 예
+- 장난감 기술자
+	- toy technician
+?end
+
+## 짐 #card
+?begin
+### 뜻
+- luggage
+- baggage
+- load
+### 예
+- 짐 싸다
+	- pack luggage
+- 짐 풀다
+	- unpack luggage
+- 짐 정리하다
+	- organize luggage
+?end
+
+## 익숙해지다 #card
+?begin
+### 뜻
+- to get used to
+- to become familiar with
+### 예
+- 
+?end
+
+## 간격 #card
+?begin
+### 뜻
+- interval
+- gap
+- spacing
+### 예
+- 간격이 넓다
+	- the gap is wide
+?end
+
+## 고속 #card
+?begin
+### 뜻
+- high speed
+- express
+### 예
+- 고속 버스
+	- express bus
+?end
+
+## 서울특별시 #card
+?begin
+### 뜻
+- Seoul Special City
+### 예
+- 
+?end
+
+## 중순 #card
+?begin
+### 뜻
+- middle of the month
+### 예
+- 
+?end
+
+## 흐르다 #card
+?begin
+### 뜻
+- to flow
+- to run
+### 예
+- 
+?end
+
+## 여쭙다 #card
+?begin
+### 뜻
+- to ask (humble)
+- to inquire (respectful)
+### 예
+- 여쭤볼 게 있어서
+	- I have something to ask
+?end
+
+## 방면 #card
+?begin
+### 뜻
+- direction
+- side
+- area
+### 예
+- 방면=방향
+	- direction
+?end
+
+## 정면 #card
+?begin
+### 뜻
+- front
+- facade
+- frontal
+### 예
+- 정면에 있다
+	- it's right in front
+?end
+
+## 감소되다 #card
+?begin
+### 뜻
+- to decrease
+- to be reduced
+### 예
+- 감소되다=줄어들다
+	- to decrease
+?end
+
+## 탄핵하다 #card
+?begin
+### 뜻
+- to impeach
+### 예
+- 
+?end
+
+## 민주당 #card
+?begin
+### 뜻
+- Democratic Party
+### 예
+- 
+?end
+
+## 공화당 #card
+?begin
+### 뜻
+- Republican Party
+### 예
+- 
+?end
+
+## 사형 #card
+?begin
+### 뜻
+- death penalty
+- capital punishment
+### 예
+- 
+?end
+
+## 분석가 #card
+?begin
+### 뜻
+- analyst
+### 예
+- 데이터 분석가
+	- data analyst
+?end
+
+## 분석하다 #card
+?begin
+### 뜻
+- to analyze
+### 예
+- 데이터 분석하다
+	- to analyze data
+?end
+
+## 나눔 #card
+?begin
+### 뜻
+- sharing
+- distribution
+### 예
+- 나눔 장터
+	- sharing market
+?end
+
+## 벼룩 #card
+?begin
+### 뜻
+- flea
+### 예
+- 벼룩 시장
+	- flea market
+?end
+
+## 생태 #card
+?begin
+### 뜻
+- ecology
+- ecosystem
+### 예
+- 생태 공원
+	- ecological park
+?end
+
+## 면접관 #card
+?begin
+### 뜻
+- interviewer
+### 예
+- 
+?end
+
+## 연휴 #card
+?begin
+### 뜻
+- consecutive holidays
+- long weekend
+### 예
+- 
+?end
+
+## 재활용 #card
+?begin
+### 뜻
+- recycling
+### 예
+- 재활용 쓰레기통
+	- recycling bin
+?end
+
+## 분리 #card
+?begin
+### 뜻
+- separation
+- segregation
+### 예
+- 분리 수거를 하다
+	- to separate waste for collection
+?end
+
+## 침 #card
+?begin
+### 뜻
+- saliva
+- spit
+### 예
+- 침을 흘리다
+	- to drool
+?end
+
+## 흘리다 #card
+?begin
+### 뜻
+- to spill
+- to shed
+- to drool
+### 예
+- 침을 흘리다
+	- to drool
+?end
+
+## 눈물 #card
+?begin
+### 뜻
+- tears
+### 예
+- 눈물이 눈에 고이다
+	- tears well up in the eyes
+?end
+
+## 고이다 #card
+?begin
+### 뜻
+- to pool
+- to collect
+- to well up
+### 예
+- 눈물이 눈에 고이다
+	- tears well up in the eyes
+?end
+
+## 엉엉 #card
+?begin
+### 뜻
+- wah wah (crying sound)
+- sobbing
+### 예
+- 엉엉 울다
+	- to cry/sob loudly
+?end
+
+## 활짝 #card
+?begin
+### 뜻
+- widely
+- broadly
+- fully open
+### 예
+- 활짝 웃다
+	- to smile broadly
+- 활짝 열다
+	- to open wide
+?end
+
+## 핥다 #card
+?begin
+### 뜻
+- to lick
+### 예
+- 혀로 핥다
+	- to lick with the tongue
+?end
