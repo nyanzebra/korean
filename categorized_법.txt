@@ -1,8 +1,0 @@
-## 경찰 #card
-?begin
-### 뜻
-- police
-### 예
-- 경찰을 부르세요 - Call the police
-?end
-
