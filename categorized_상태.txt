@@ -1,0 +1,72 @@
+## 필요 #card
+?begin
+### 뜻
+- need, necessity
+### 예
+- 도움이 필요해요 - I need help
+?end
+
+## 필요한 #card
+?begin
+### 뜻
+- necessary, needed
+### 예
+- 필요한 물건을 준비하세요 - Prepare the necessary items
+?end
+
+## 위대한 #card
+?begin
+### 뜻
+- great, magnificent
+### 예
+- 위대한 업적 - a great achievement
+?end
+
+## 예쁜 #card
+?begin
+### 뜻
+- pretty, beautiful
+### 예
+- 예쁜 꽃 - a pretty flower
+?end
+
+## 진정한 #card
+?begin
+### 뜻
+- true, genuine
+### 예
+- 진정한 친구 - a true friend
+?end
+
+## 잘못된 #card
+?begin
+### 뜻
+- wrong, mistaken
+### 예
+- 잘못된 결정 - a wrong decision
+?end
+
+## 어려운 #card
+?begin
+### 뜻
+- difficult, hard
+### 예
+- 어려운 문제 - a difficult problem
+?end
+
+## 관심 #card
+?begin
+### 뜻
+- interest, attention
+### 예
+- 관심을 가지다 - to take interest in
+?end
+
+## 착한 #card
+?begin
+### 뜻
+- kind, good
+### 예
+- 착한 아이 - a good child
+?end
+

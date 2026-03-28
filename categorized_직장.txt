@@ -1,0 +1,8 @@
+## 박사 #card
+?begin
+### 뜻
+- doctor, PhD
+### 예
+- 김 박사님 - Dr. Kim
+?end
+

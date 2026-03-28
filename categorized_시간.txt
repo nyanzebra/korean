@@ -1,0 +1,16 @@
+## 한잔 #card
+?begin
+### 뜻
+- one drink, a drink
+### 예
+- 커피 한잔 할래요? - Want to have a cup of coffee?
+?end
+
+## 크리스마스 #card
+?begin
+### 뜻
+- Christmas
+### 예
+- 크리스마스에 뭐 해요? - What do you do at Christmas?
+?end
+

@@ -1,0 +1,32 @@
+## 아저씨 #card
+?begin
+### 뜻
+- middle-aged man, mister
+### 예
+- 저 아저씨한테 물어봐요 - Ask that man over there
+?end
+
+## 자식 #card
+?begin
+### 뜻
+- child, offspring
+### 예
+- 부모는 자식을 사랑한다 - Parents love their children
+?end
+
+## 녀석 #card
+?begin
+### 뜻
+- guy, fellow (casual)
+### 예
+- 그 녀석은 정말 재미있어 - That guy is really funny
+?end
+
+## 인간 #card
+?begin
+### 뜻
+- human being, person
+### 예
+- 모든 인간은 평등하다 - All humans are equal
+?end
+

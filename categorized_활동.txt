@@ -1,0 +1,8 @@
+## 데이트 #card
+?begin
+### 뜻
+- date, dating
+### 예
+- 오늘 데이트 있어요 - I have a date today
+?end
+

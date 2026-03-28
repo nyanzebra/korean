@@ -1,0 +1,24 @@
+## 사건 #card
+?begin
+### 뜻
+- incident, event, case
+### 예
+- 중요한 사건이 일어났다 - An important event occurred
+?end
+
+## 사고 #card
+?begin
+### 뜻
+- accident, incident
+### 예
+- 교통 사고가 났어요 - There was a traffic accident
+?end
+
+## 세상 #card
+?begin
+### 뜻
+- world, society
+### 예
+- 이 세상은 넓다 - This world is wide
+?end
+
