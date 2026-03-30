@@ -120,7 +120,7 @@ https://hinative.com/questions/16678555
 	- steady demand.
 - 그러나 올 한 해 대부분은 성장이 느리지만 꾸준하게 유지될 것이다.
 	- However, the growth should remain slow but steady for much of the year.
-<!--SR:!2026-02-11,162,249-->
+<!--SR:!2027-05-09,405,249-->
 ?end
 
 
