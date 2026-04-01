@@ -204,7 +204,7 @@ https://hinative.com/questions/16678555
   - Why do you keep asking me that?
 - 제가 방에 혼자 있을 때면 자꾸 들어와서 뭘 하고 있는지 물어보시고 침실 문을 닫으면 안 된다고 말 하세요.
   - When I'm in my room alone, she repeatedly comes in to ask me what's going on and says I'm not supposed to close my bedroom door.
-<!--SR:!2026-03-31,219,270-->
+<!--SR:!2027-11-13,591,270-->
 ?end
 
 
@@ -256,7 +256,7 @@ https://hinative.com/questions/16678555
 	- Those who get[score] under 50 will not pass.
 - 10분 미만에
 	- in less than ten minutes.
-<!--SR:!2026-03-22,4,210-->
+<!--SR:!2026-04-08,7,210-->
 ?end
 
 
