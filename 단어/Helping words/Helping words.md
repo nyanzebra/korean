@@ -280,7 +280,7 @@ https://hinative.com/questions/16678555
 ### 예
 - 이번 합의는 지금까지 매치 그룹에 있어 최대 인수 합병이었다.
 	- The deal was the largest merger and acquisition of Match Group to date.
-<!--SR:!2026-04-01,136,250-->
+<!--SR:!2027-03-07,340,250-->
 ?end
 
 
@@ -437,7 +437,7 @@ https://hinative.com/questions/16678555
 	- thorough change
 - 철저한 토론
 	- thorough discussion
-<!--SR:!2026-03-23,3,250-->
+<!--SR:!2026-04-08,7,250-->
 ?end
 
 ## 평범하다 #card
