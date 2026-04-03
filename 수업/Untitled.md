@@ -21,3 +21,5 @@ Kyunghee Min (Apr 2, 2026, 17:16)
 Kyunghee Min (Apr 2, 2026, 17:22)
 
 오해하다=잘못 생각하다
+
+극적인 아이러니
