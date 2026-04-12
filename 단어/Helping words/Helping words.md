@@ -103,7 +103,7 @@ https://hinative.com/questions/16678555
 	- Each one of us has a room to himself/We each have our own room.
 - 이 두 문제는 각각 별도로 생각해야 한다
 	- The two problems have to be considered separately.
-<!--SR:!2026-04-07,217,289-->
+<!--SR:!2027-12-29,627,289-->
 ?end
 
 
