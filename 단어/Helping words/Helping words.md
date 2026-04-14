@@ -151,7 +151,7 @@ https://hinative.com/questions/16678555
 	- put money apart for educational expenses.
 - 물건을 각각 따로 두다
 	- keep things apart.
-<!--SR:!2026-04-05,18,250-->
+<!--SR:!2026-05-28,45,250-->
 ?end
 
 
@@ -256,7 +256,7 @@ https://hinative.com/questions/16678555
 	- Those who get[score] under 50 will not pass.
 - 10분 미만에
 	- in less than ten minutes.
-<!--SR:!2026-04-09,1,250-->
+<!--SR:!2026-04-16,3,250-->
 ?end
 
 
