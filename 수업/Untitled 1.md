@@ -51,3 +51,11 @@ Kyunghee Min (Apr 9, 2026, 17:41)
 7 듣기 말하기
 
 우체부=우편물 배달하는 사람/우체국 직원=우체국에서 일하는 사람
+
+collect taxes
+
+exasperated
+
+Kyunghee Min (Apr 16, 2026, 17:25)
+
+속상해하다
