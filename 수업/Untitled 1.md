@@ -63,3 +63,47 @@ Kyunghee Min (Apr 16, 2026, 17:25)
 쪼그라들다
 
 절약하다
+
+yunghee Min (Apr 16, 2026, 17:25)
+
+속상해하다
+
+You (Apr 16, 2026, 17:27)
+
+shrivel
+
+Kyunghee Min (Apr 16, 2026, 17:29)
+
+쪼그라들다
+
+Kyunghee Min (Apr 16, 2026, 17:30)
+
+절약하다(시간을/돈을)
+
+You (Apr 16, 2026, 17:31)
+
+ego
+
+Kyunghee Min (Apr 16, 2026, 17:33)
+
+헬스클럽
+
+Kyunghee Min (Apr 16, 2026, 17:40)
+
+제정신이니?
+
+파김치가 되다
+
+한 두 가지가 아니다
+
+Kyunghee Min (Apr 16, 2026, 17:45)
+
+호랑이 굴에 들어가다
+
+Kyunghee Min (Apr 16, 2026, 17:51)
+
+힘든 일을 겪는 거예요
+
+손묘,묘=고양이
+
+145
