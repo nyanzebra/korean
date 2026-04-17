@@ -59,3 +59,7 @@ exasperated
 Kyunghee Min (Apr 16, 2026, 17:25)
 
 속상해하다
+
+쪼그라들다
+
+절약하다
