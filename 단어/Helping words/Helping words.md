@@ -295,7 +295,7 @@ https://hinative.com/questions/16678555
 	- the law pertaining to punishment for acts of violence and other (similar) crimes.
 - 그 따위 것
 	- such a thing/that sort of thing.
-<!--SR:!2026-04-18,83,270-->
+<!--SR:!2026-11-27,223,270-->
 ?end
 
 
