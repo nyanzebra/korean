@@ -12,3 +12,8 @@ Kyunghee Min (Apr 30, 2026, 17:08)
 
 실력이 늘 수 있게
 복사한 다음에 붙이다
+shriek
+
+Kyunghee Min (Apr 30, 2026, 17:21)
+
+비명을 지르다
