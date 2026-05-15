@@ -17,7 +17,6 @@ Kyunghee Min (May 14, 2026, 17:18)
 buzzword
 
 Kyunghee Min (May 14, 2026, 17:27)
-
 유행어
 
 새로운 회사에 입사하고 싶다
@@ -29,3 +28,7 @@ Kyunghee Min (May 14, 2026, 17:27)
 기획/계획
 
 제일기획은 광고회사
+
+Kyunghee Min (May 14, 2026, 17:35)
+
+매사는=모든 일에
