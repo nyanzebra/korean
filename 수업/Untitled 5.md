@@ -32,3 +32,5 @@ Kyunghee Min (May 14, 2026, 17:27)
 Kyunghee Min (May 14, 2026, 17:35)
 
 매사는=모든 일에
+
+열정이 있다
