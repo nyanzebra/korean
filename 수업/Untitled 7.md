@@ -7,3 +7,4 @@ Kyunghee Min (May 29, 2026, 17:02)
 Kyunghee Min (May 29, 2026, 17:14)
 
 피부병
+거지
