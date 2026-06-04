@@ -23,8 +23,7 @@
 - in one's own way
 - in its own way
 - after one's own fashion
-
-예
+### 예
 
 - 나름대로 해결하고 싶어 알아봤지만…
     - I looked into it because I wanted to resolve it in my own way, but...
@@ -35,23 +34,9 @@
 - 별로인 것 같아도 나름대로 매력이 있어.
     - Even if it seems lacking, it has its own charm.
 - 다들 나름대로 힘든 시간을 보내고 있어요.
-    - Everyone is going through a hard time in their own way. ?end
+    - Everyone is going through a hard time in their own way.
+?end
 
-
-
-
-
-  
-
-
-
-Sonnet 4.6 Low
-
-
-
-
-
-
 ## 및 #card
 ?begin
 ### 뜻
