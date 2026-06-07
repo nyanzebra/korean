@@ -18,5 +18,5 @@ In English this is similar to reddened or whitened or blackened. Or reddening, e
 * 파란 가방을 샀어요
 ### Notes
 https://www.youtube.com/watch?v=jKpplyOO5IQ
-<!--SR:!2026-04-25,7,250-->
+<!--SR:!2026-06-24,17,250-->
 ?end
