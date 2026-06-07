@@ -87,7 +87,7 @@ https://hinative.com/questions/16678555
 	- One went into his brother's possession, but all the rest fell into his hands.
 - 전부 한데 모아 보내는 편이 낫다
 	- You'd better send them all together.
-<!--SR:!2026-05-06,145,230-->
+<!--SR:!2027-05-04,331,230-->
 ?end
 
 ## 우선 #card #sogang #sogang-4A
