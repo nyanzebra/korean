@@ -71,6 +71,18 @@ Passive from of 담다
 	- It's very simple, pour it from an expensive bottle.
 ?end
 
+## 적히다 #card
+?begin
+### 뜻
+- be written
+- be put down
+### 예
+-
+### Notes
+Passive form of 적다
+?end
+
+
 
 
 
