@@ -46,7 +46,29 @@
 	- This picture shows a dance performance that was held at a special event at the National Stadium in Beijing.
 - 75가지가 넘는 다양향 종류의 올리브유를 팔았고, 어떤 것들은 천년 된 올리브 나무에서 나온 것들이고 봉해진 케이스에 담겨 있었습니다.
 	- They had over 75 different kinds of olive oil, including those that were in a locked case that came from thousand-year-old olive trees.
-- 
+- 혈액검사 결과서에는 엄청나게 많은 정보가 담겨 있습니다.
+	- They're packed with information.
+- 여보세요. 여러분들은 소다를 병에 담지 않습니다.
+	- Hello. You don't put soda in bottles.
+### Notes
+Passive from of 담다
+?end
+
+## 담다 #card
+?begin
+### 뜻
+- put in
+- hold
+- include
+- bottle
+- carry
+### 예
+- 한 사람이 일생 동안 배우고 경험한 것은 한 권의 책에 담기에는 너무 많습니다.
+	- A person's lifetime of learning and experience is a lot more than you could put into a single book.
+- 이 사진은 수련 중 하나를 들고 있는 식물 전문가의 모습을 담고 있습니다.
+	- In this picture, there is a plant expert who is holding one of the water lilies.
+- 매우 간단합니다. 와인을 값비싼 병에 담으십시오.
+	- It's very simple, pour it from an expensive bottle.
 ?end
 
 
