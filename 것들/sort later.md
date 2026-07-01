@@ -77,9 +77,27 @@ Passive from of 담다
 - be written
 - be put down
 ### 예
--
+- 이름을 적히다
+	- Have one's name written down
 ### Notes
 Passive form of 적다
+?end
+
+## 적다 #card
+?begin
+### 뜻
+- less
+- small
+- write
+- few
+- low
+### 예
+- 이 나라에서 80세 이상 되는 사람은 극히 적다
+	- In this country, people over eighty years old are rare[few and far between].
+- 가계부를 적다
+	- keep a record of household expenses
+- 그는 적은 임금으로 겨우 살아간다
+	- He makes out on a small wage.
 ?end
 
 
