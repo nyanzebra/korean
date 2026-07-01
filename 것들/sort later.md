@@ -100,7 +100,6 @@ Passive form of 적다
 	- He makes out on a small wage.
 ?end
 
-
 ## 물 건너가다 #card
 ?begin
 ### 뜻
@@ -111,5 +110,20 @@ Passive form of 적다
 	- So is this where my dinner invitation disappears?
 ?end
 
+## 골동품 #card
+?begin
+### 뜻
+- antique
+### 예
+- 1700년대와 1800년대의 범선에 관련된 골동품들을 수집한 것이지요.
+	- It's a collection of nautical antiques from the 1700s and 1800s.
+?end
 
+## 낙서 #card
+?begin
+### 뜻
+- doodling
+### 예
+-
+?end
 
