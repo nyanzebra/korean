@@ -101,6 +101,15 @@ Passive form of 적다
 ?end
 
 
+## 물 건너가다 #card
+?begin
+### 뜻
+- crossed the water
+	- means there is no going back
+### 예
+- 그럼, 저녁식사는 물 건너갔겠네요?
+	- So is this where my dinner invitation disappears?
+?end
 
 
 
