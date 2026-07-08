@@ -172,7 +172,7 @@ https://hinative.com/questions/16678555
 	- put money apart for educational expenses.
 - 물건을 각각 따로 두다
 	- keep things apart.
-<!--SR:!2026-05-28,45,250-->
+<!--SR:!2026-10-30,115,250-->
 ?end
 
 
