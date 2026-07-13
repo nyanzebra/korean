@@ -86,7 +86,7 @@
 	- Congratulations on your wedding
 - 생일 축하합니다
 	- Happy birthday
-<!--SR:!2026-04-27,9,250-->
+<!--SR:!2026-08-03,22,250-->
 ?end
 
 ## 환영합니다 #card #welcome
