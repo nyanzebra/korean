@@ -188,7 +188,7 @@ https://hinative.com/questions/16678555
 	- We have to respect each other's differences.
 - 그 두 극장은 아주 비슷한 영화로 서로 더 많은 관중을 끌어들이려고 한다
 	- The two theaters are trying to out draw each other with very similar films.
-<!--SR:!2026-05-10,232,270-->
+<!--SR:!2028-03-30,626,270-->
 ?end
 
 
