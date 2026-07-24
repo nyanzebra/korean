@@ -34,3 +34,5 @@ Kyunghee Min (Jul 23, 2026, 17:29)
 Kyunghee Min (Jul 23, 2026, 17:50)
 
 진짜 이야기=진실=실화
+
+듣고 말하기 2
