@@ -49,7 +49,7 @@
 	- What would happen if economic growth halts in the Republic of Korea now?
 - 그리고 뭐, 고통 또한 사랑스럽죠. 왜냐면 고통이 잠시동안 멈추면 그렇게 좋을 수가 없거든요.
 	- We like our suffering because it's so good when it ceases for a while
-<!--SR:!2026-04-29,221,270-->
+<!--SR:!2028-11-06,833,290-->
 ?end
 
 
