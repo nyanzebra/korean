@@ -364,8 +364,8 @@ https://hinative.com/questions/16678555
 ## 워낙 #card
 ?begin
 ### 뜻
-- originally
-- by nature
+- extremely
+- somthing that happens so much to be natural or inherent
 ### 예
 - 그는 워낙 게으름쟁이다
   - He is inherently a lazy creature.
@@ -373,7 +373,7 @@ https://hinative.com/questions/16678555
   - This book is too difficult for me to read.
 - 그 일은 워낙 명백해서 증거를 댈 필요도 없다
   - It is too evident to require proof.
-<!--SR:!2026-07-21,111,250-->
+<!--SR:!2027-05-10,278,250-->
 ?end
 
 
