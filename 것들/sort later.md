@@ -127,3 +127,35 @@ Passive form of 적다
 -
 ?end
 
+
+## 따로따로 #card
+?begin
+### 뜻
+- separately
+### 예
+-
+?end
+
+## 돌아가면서 내다 #card
+?begin
+### 뜻
+- take turns paying
+### 예
+-
+?end
+
+## 각자 내다 #card
+?begin
+### 뜻
+- split the bill
+### 예
+-
+?end
+
+## A * S를 맡기다 #card
+?begin
+### 뜻
+- to have something repaired (AS stands for after service)
+### 예
+-
+?end
