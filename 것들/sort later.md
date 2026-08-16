@@ -159,3 +159,12 @@ Passive form of 적다
 ### 예
 -
 ?end
+
+## 뒷굽 #card
+?begin
+### 뜻
+- heel of a shoe or animal
+### 예
+-
+?end
+
