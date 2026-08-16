@@ -194,3 +194,55 @@ Passive form of 적다
 -
 ?end
 
+## 또각또가 #card
+?begin
+### 뜻
+- sound of hurried footsteps
+### 예
+-
+?end
+
+## 앞지르다 #card
+?begin
+### 뜻
+- to pass
+- overtake
+- get ahead of
+### 예
+- 앞질러 가다
+?end
+
+## 있는 힘을 다하다 #card
+?begin
+### 뜻
+- use all of one's strength
+### 예
+-
+?end
+
+## 노을이 비치다 #card
+?begin
+### 뜻
+- glow of the sunset appears
+### 예
+-
+?end
+
+## 따라잡다 #card
+?begin
+### 뜻
+- to catch up with (someone)
+### 예
+-
+?end
+
+## 안도의 한숨 #card
+?begin
+### 뜻
+-
+### 예
+-
+?end
+
+
+
