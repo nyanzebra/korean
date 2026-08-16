@@ -168,3 +168,29 @@ Passive form of 적다
 -
 ?end
 
+## 징 #card
+?begin
+### 뜻
+- hobnail for a shoe
+### 예
+-
+?end
+
+## 담 #card
+?begin
+### 뜻
+- low wall (often encircling a yard)
+### 예
+-
+?end
+
+
+## 검주다 #card
+?begin
+### 뜻
+- scare
+- frighten
+### 예
+-
+?end
+
