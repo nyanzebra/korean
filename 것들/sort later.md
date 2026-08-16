@@ -265,10 +265,28 @@ Passive form of 적다
 ## -을 대하다 #card
 ?begin
 ### 뜻
-- to treat (as in "he treats me well")
+- to treat (as in "he treats me well") (people?)
 ### 예
 -
 ?end
+
+## -을 취급하다 #card
+?begin
+### 뜻
+- to treat (as in "he treats it well") (things?)
+### 예
+-
+?end
+
+## 사소하다 #card
+?begin
+### 뜻
+- trivial
+- trifling
+### 예
+-
+?end
+
 
 
 
