@@ -239,7 +239,33 @@ Passive form of 적다
 ## 안도의 한숨 #card
 ?begin
 ### 뜻
+- sigh of relief
+### 예
 -
+?end
+
+## 피하다 #card
+?begin
+### 뜻
+- avoid
+- dodge
+### 예
+-
+?end
+
+## 서글프다 #card
+?begin
+### 뜻
+- sad
+- forlorn
+### 예
+-
+?end
+
+## -을 대하다 #card
+?begin
+### 뜻
+- to treat (as in "he treats me well")
 ### 예
 -
 ?end
