@@ -6,12 +6,21 @@
 -
 ?end
 
+
+
 ## 건너가다 #card
 ?begin
 ### 뜻
--
+- cross
+- go over
+- across
 ### 예
--
+- 철길을 건너가다
+	- cross railroad tracks
+- 바다를 건너가다
+	- cross an ocean
+- 한 노파가 비실비실 길을 건나갔다
+	- An old woman walked across the street unsteadily
 ?end
 
 ## 간직하다 #card
