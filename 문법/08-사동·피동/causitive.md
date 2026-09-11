@@ -32,7 +32,7 @@ Let’s look at causative verbs first. Causative verbs are already fixed, they h
 
 |   |   |   |
 |---|---|---|
-|앉다 (to sit)|앉히다|아이를 식탁이 앉히는 일이 쉽지 않아요. It is not easy to have the kid sit down.|
+|앉다 (to sit)|앉히다|아이를 식탁에 앉히는 일이 쉽지 않아요. It is not easy to have the kid sit down at the table.|
 |읽다 (to read)|읽히다|선생님이 저한테 영어 책을 읽혀서 긴장했어요. The teacher made me read an English book, so I was very nervous.|
 |좁다 (to be narrow)|좁히다|의자 사이가 너무 넓어서 좁혔어요. It was too wide between chairs, so I make them narrower.|
 |넓다 (to be wide)|넓히다|길을 넓히는 공사를 하고 있어요. There is a construction to make the street wider.|

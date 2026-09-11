@@ -76,7 +76,7 @@ If there are not matching passive verbs, then add -아/어/여지다 after a ver
 |깨다|**깨지다**|컵이 떨어져서 깨졌어요. The cup was dropped and broken.|
 |켜다|**켜지다**|손을 대면 불이 저절로 켜질 거예요. If you touch, the light will be on automatically.|
 |끄다|**꺼지다**|전기가 나가서 텔레비전이 꺼졌어요. The power was off, so TV was turned off.|
-|이루다|**이루어지다**|소원이 이루어질 거예요. Your dream will be come true.|
+|이루다|**이루어지다**|소원이 이루어질 거예요. Your dream will come true.|
 
 Passive voice is often confusing with causative sentences which are ‘make/have/let someone do’, but they are different.
 
