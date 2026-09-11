@@ -9,7 +9,7 @@ Something continuous that is negative, like someone keeps doing something to the
 ### Examples
 * 요즘 잠도 안자고 게임만 해대요
 	* Recently, I have only been doing games and don't even sleep
-* 밖에서 고양이가 밤마다 울우대서 잠을 자기 힘들어요
+* 밖에서 고양이가 밤마다 울어대서 잠을 자기 힘들어요
 	* Every night the cat keeps crying so sleep is hard
 * 새벽에 옆집 강아지가 짖어 대서 일찍 깼어요
 	* The dog keeps barking at dawn so I woke up early
