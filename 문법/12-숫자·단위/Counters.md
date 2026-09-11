@@ -9,7 +9,7 @@
 |★★★|대1|臺|Machines; vehicles; musical instruments; appliances|Pure|세탁기 세 대|Three washing machines|
 |★★★|마리||Animals; fish; insects; 붕어빵|Pure|고양이 세 마리|Three cats|
 |★★★|명|名|Number of persons|Pure|학생 세 명|Three students|
-|★★★|벌1||Clothes (excluding footwear)|Pure|잠옷 한 벌|Three pyjamas|
+|★★★|벌1||Clothes (excluding footwear)|Pure|잠옷 세 벌|Three pyjamas|
 |★★★|병|甁|Liquid/powder containers (bottles)|Pure|맥주 세 병|Three bottles of beer|
 |★★★|잔|盞|Cups; glasses (of drinks)|Pure|커피 세 잔|Three cups of coffee|
 |★★★|장1|張|Thin flat objects (paper; pictures; glass; towels; 김)|Pure|도화지 세 장|Three sheets of drawing paper|
@@ -91,7 +91,7 @@
 | ★     | 배       | 杯     | Glasses of liquor                                                        | Pure      | 술 세 배          | Three glasses of liquor            |
 | ★★★   | 번       | 番     | Times an action is done                                                  | Pure      | 세 번            | Three times                        |
 | ★     | 범       | 犯     | Convictions given (major crime)                                          | Sino      | 전과 3(삼) 범      | Three convictions                  |
-| ★★★   | 벌1      |       | Clothes (excluding footwear)                                             | Pure      | 잠옷 한 벌         | Three pyjamas                      |
+| ★★★   | 벌1      |       | Clothes (excluding footwear)                                             | Pure      | 잠옷 세 벌         | Three pyjamas                      |
 | ★★    | 벌2      |       | Cutlery                                                                  | Pure      | 수저 세 벌         | Three sets of spoon and chopsticks |
 | ★★    | 뼘       |       | Measure from thumb to little finger (fingers spread out)                 | Pure      | 세 뼘            | Three ‘spread hands’               |
 | ★★★   | 병       | 甁     | Liquid/powder containers (bottles)                                       | Pure      | 맥주 세 병         | Three bottles of beer              |
@@ -130,7 +130,7 @@
 | ★★    | 알갱이     |       | Small, round-shaped things (grains; stones)                              | Pure      | 모래 세 알갱이       | Three grains of sand               |
 | ★     | 우리      |       | Sets of 2,000 tiles                                                      | Pure      | 세 우리           | Three sets of (2K) tiles           |
 | ★     | 움큼/옴큼   |       | Measure of handfuls                                                      | Pure      | 쌀 세 움큼         | Three handfuls of rice             |
-| ★★★   | 원       | 願     | Won                                                                      | Sino      | 3,000(삼천) 원    | Three thousand won                 |
+| ★★★   | 원       | 圓     | Won                                                                      | Sino      | 3,000(삼천) 원    | Three thousand won                 |
 | ★★★   | 월       | 月     | Months of the year                                                       | Sino      | 3(삼)월          | March                              |
 | ★★    | 위       | 位     | Placement; ranking                                                       | Sino      | 3(삼)위          | 3rd place                          |
 | ★★★   | 인       | 人     | Number of persons                                                        | Sino      | 선수 3(삼) 인      | Three players                      |
@@ -145,11 +145,11 @@
 | ★     | 자릿수     | 자릿數   | Number of digits                                                         | Pure      | 세 자릿수          | Three digits                       |
 | ★★★   | 잔       | 盞     | Cups; glasses (of drinks)                                                | Pure      | 커피 세 잔         | Three cups of coffee               |
 | ★★★   | 장1      | 張     | Thin flat objects (paper; pictures; glass; towels; 김)                    | Pure      | 도화지 세 장        | Three sheets of drawing paper      |
-| ★★    | 장2      | 章     | Book chapters                                                            | Sino      | 세 장            | Three chapters                     |
+| ★★    | 장2      | 章     | Book chapters                                                            | Sino      | 3(삼) 장         | Three chapters                     |
 | ★     | 절       | 節     | Sections of creative works (paragraphs; verses)                          | Sino      | 3(삼) 절         | Three verses                       |
-| ★     | 점1      | 點     | Pieces of art; performances                                              | Sino      | 그림 세 점         | Three paintings                    |
-| ★     | 점2      | 點     | Pieces/slices of meat, sashimi                                           | Sino      | 삼겹살 세 점        | Three pieces of 삼겹살                |
-| ★     | 점3      | 點     | Droplets (water; tears)                                                  | Sino      | 눈물 한 점         | A single tear                      |
+| ★     | 점1      | 點     | Pieces of art; performances                                              | Pure      | 그림 세 점         | Three paintings                    |
+| ★     | 점2      | 點     | Pieces/slices of meat, sashimi                                           | Pure      | 삼겹살 세 점        | Three pieces of 삼겹살                |
+| ★     | 점3      | 點     | Droplets (water; tears)                                                  | Pure      | 눈물 한 점         | A single tear                      |
 | ★     | 점4      | 點     | Number of clouds and wind                                                | Pure      | 바람 한 점         | A single breeze                    |
 | ★★    | 점5      | 點     | Stones placed or the difference in score in 바둑                           | Sino      | 3(삼) 점 차이      | Three-point difference             |
 | ★★★   | 점6      | 點     | Score on a test                                                          | Sino      | 30(삼십) 점       | Thirty points                      |
