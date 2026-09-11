@@ -14,7 +14,7 @@ Related to [[고 말다]]
 	* My friends have found out the secret
 * 마침내 컴퓨터를 팔아 버렸어요
 	* I finally sold my computer
-* 경찰에세 아는 것 전부를 말해 버렸어요
+* 경찰에게 아는 것 전부를 말해 버렸어요
 	* I told the police all I knew
 * 과일과 채소가 많이 싸서 다 사 버렸어요
 	* The fruits and veggies were so cheap that I bought them all
