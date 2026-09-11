@@ -26,7 +26,7 @@
     
     친구가 지금 기다리고 있습니다. "My friend is waiting now."
     
-    The verb들다 is used after the stem of an action verb with the suffix - (으)러.
+    The verb들다 is used after the stem of an action verb with the suffix - (으)려.
     
     **Verb stem + - (으)려 + 들다**
     
@@ -80,13 +80,13 @@
     
     Example:
     
-    선생님의 말을 들어 보세요. "Listen to the teacher."
+    선생님의 말을 들어 보세요. "Try listening to what the teacher says."
     
     This form is also used in first person questions that ask permission to do something.
     
     Example:
     
-    이 소포를 선박우편 보내 볼까요? ###  예, 그럽시다. "Shall I send this parcel by sea mail? - Yes, do that.
+    이 소포를 선박우편 보내 볼까요? - 예, 그럽시다. "Shall I send this parcel by sea mail? - Yes, do that.
     
   5.  **Iterative auxiliary verbs (대다)**
     
@@ -180,7 +180,7 @@
     
     Example:
     
-    건강할 때 건강을 지키야 합니다. "You must treat your health while you are healthy."
+    건강할 때 건강을 지켜야 합니다. "You must treat your health while you are healthy."
     
     The construction 곤 하다 indicates that the action was repeated regularly. In English, it equivalent to the construction "used to do something."
     
