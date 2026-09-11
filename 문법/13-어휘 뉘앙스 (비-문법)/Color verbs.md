@@ -10,6 +10,8 @@
 
 Always remove ㅎ and put ㅐ(요)
 
+Exception: 하얗다 (white) becomes 하얘요, not 하래요.
+
 In English this is similar to reddened or whitened or blackened. Or reddening, etc...
 ### Form
 ### Restrictions
