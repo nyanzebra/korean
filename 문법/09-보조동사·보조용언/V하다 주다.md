@@ -18,10 +18,7 @@ V-아다 주다/어다 주다/해다 주다
 #### Extra
 - 나나: 여보세요? 미소 씨, 지금 어디예요?
 - 미소: 지금 회사에 가는 길인데, 왜요?
-- 나나: 그럼 부탁이 있는데요. 오는 길에 빵 좀 사다 줄 수 있어요?
-<!--SR:!2027-04-06,370,250-->
-?end
-
+- 나나: 그럼 부탁이 있는데요. 오는 길에 빵 좀 사다 줄 수 있어요?
 
 * Nana: Hello? Miso, where are you now?
 * Miso: I'm on my way to work now, why?
@@ -40,3 +37,5 @@ V-아다 주다/어다 주다/해다 주다
 
 나나: 미소 씨, 커피 좀 사 주세요.
 This is different from 사다 주다 in that this sentence indicates both parties are in same place
+<!--SR:!2027-04-06,370,250-->
+?end

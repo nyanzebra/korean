@@ -5,9 +5,8 @@ grammar points sit next to each other for easier review and comparison. See [[st
 suggested order to study everything, and [[progress]] for notes on how this was organized (and what's
 still a stub).
 
-## 00. 기초 필수 문법 (TODO stubs)
-Foundational beginner grammar that was missing from the vault entirely. These are stubs (marked
-`#todo`) with just a title/skeleton — fill in Usage/Form/Examples as you study them.
+## 00. 기초 필수 문법
+Foundational beginner grammar that was missing from the vault entirely — now fully filled in.
 [[은는 vs 이가 (주제 vs 주어)]] · [[에 vs 에서]] · [[부터 & 까지]] · [[밖에]] ·
 [[조차 & 마저 & 까지도]] · [[(으)로 (방향·도구·자격 기본)]] · [[(으)려고]] · [[(으)러 (가다·오다)]] ·
 [[아서 & 어서 (기본 이유·순서)]] · [[(으)면]] · [[아야 어야 하다·되다 (의무)]] ·
@@ -81,4 +80,4 @@ Noun-attaching particles, bound nouns, and comparison markers.
 
 ---
 See [[study-plan]] for a recommended study order, and [[progress]] for the organization rationale,
-merge decisions, and a list of common grammar points not yet covered (stubs to add later).
+merge decisions, and the correctness-review log.
