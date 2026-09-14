@@ -55,3 +55,106 @@ birds of a feather
 ?end
 
 
+## 단어 #card
+?begin
+### 뜻
+-
+### 예
+-
+?end
+
+## 단어 #card
+?begin
+### 뜻
+-
+### 예
+-
+?end
+
+## 단어 #card
+?begin
+### 뜻
+-
+### 예
+-
+?end
+
+## 단어 #card
+?begin
+### 뜻
+-
+### 예
+-
+?end
+
+## 단어 #card
+?begin
+### 뜻
+-
+### 예
+-
+?end
+
+## 단어 #card
+?begin
+### 뜻
+-
+### 예
+-
+?end
+
+## 단어 #card
+?begin
+### 뜻
+-
+### 예
+-
+?end
+
+## 단어 #card
+?begin
+### 뜻
+-
+### 예
+-
+?end
+
+## 단어 #card
+?begin
+### 뜻
+-
+### 예
+-
+?end
+
+## 단어 #card
+?begin
+### 뜻
+-
+### 예
+-
+?end
+
+## 단어 #card
+?begin
+### 뜻
+-
+### 예
+-
+?end
+
+## 단어 #card
+?begin
+### 뜻
+- A journ
+### 예
+-
+?end
+
+## 그림의 떡 #card
+?begin
+### 뜻
+- Rice cake in the picture -> Pie in the sky
+### 예
+-
+?end

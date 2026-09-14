@@ -6,6 +6,31 @@
 -
 ?end
 
+## 속담 #card
+?begin
+### 뜻
+- proverb
+### 예
+-
+?end
+
+## 뜻풀이하다 #card
+?begin
+### 뜻
+- interpret
+- construe
+### 예
+-
+?end
+
+## 인용하다 #card
+?begin
+### 뜻
+- cite
+- quotation
+### 예
+-
+?end
 
 
 ## 건너가다 #card
