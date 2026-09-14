@@ -449,28 +449,29 @@ The 'smash' in 'smash or pass'
 	- They are inhabited by a small number of monks and nuns
 ?end
 
-## 단어 #card
+## 초토 #card
 ?begin
 ### 뜻
--
+- scorched earth
+- burnt ground
 ### 예
--
+- 초토작전
+	- scorched earth strategy
+- 아름다운 거리는 전쟁으로 초토화되었다
+	- War turned the beautiful streets into ruins
 ?end
 
-## 단어 #card
+## 조건 #card
 ?begin
 ### 뜻
--
+- stipulation
+- condition
+- terms
+- qualification
 ### 예
--
-?end
-
-## 단어 #card
-?begin
-### 뜻
--
-### 예
--
+- 그러나 모든 조건에서 일정량의 물이 순환하여 증발하고 응축됩니다.
+	- But in all conditions, an amount of water evaporates and condenses in a cycle.
+	- 
 ?end
 
 ## 단어 #card
