@@ -327,15 +327,32 @@ Passive form of 적다
 ### 뜻
 - eradicate
 ### 예
--
+- 결핵을 박멸하다
+	- eradicate tuberculosis
+- 해충을 박멸하다
+	- eradicate vermin
+- 사회악을 박멸하다
+	- Eradicate social evils
 ?end
 
-## 단어 #card
+## 옳다 #card
 ?begin
 ### 뜻
--
+- be right
+- correct
+- proper
+- righteous
 ### 예
--
+- 자네 말마따나 그의 말이 옳았다고 내가 생각할 날이 올지도 모르겠다
+	- As you say, I may be convinced some day of the justice of his remark.
+- 물론 당신이 옳다
+	- Of course, you are right.
+- 옳은 일을 하다
+	- do right/do the right thing.
+- 옳은 방향
+	- the right direction.
+- 그것은 어느 의미에서는 옳다
+	- That is correct in a certain sense.
 ?end
 
 ## 단어 #card
