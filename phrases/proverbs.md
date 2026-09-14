@@ -87,7 +87,47 @@ birds of a feather
 -
 ?end
 
-## 단어 #card
+## 무소식이 희소식 #card
+?begin
+### 뜻
+- No news is good news
+### 예
+-
+?end
+
+## 길고 짧은 것을 대봐야 안다 #card
+?begin
+### 뜻
+- You won't know which is short or long until you measure -> There's only one way to find out
+### 예
+-
+?end
+
+## 세월이 약 #card
+?begin
+### 뜻
+- Time is medicine -> Time heals all wounds
+### 예
+-
+?end
+
+## 우물 안 개구리 #card
+?begin
+### 뜻
+- Frog in a well -> Big fish in a little pond
+### 예
+-
+?end
+
+## 소 앓고 외양간 고친다 #card
+?begin
+### 뜻
+- Fix the barn after losing the cow -> Close the stable door after 
+### 예
+-
+?end
+
+## 바늘 가는 데 실 간다 #card
 ?begin
 ### 뜻
 -
@@ -95,7 +135,7 @@ birds of a feather
 -
 ?end
 
-## 단어 #card
+## 도토리 키 재기 #card
 ?begin
 ### 뜻
 -
@@ -103,50 +143,10 @@ birds of a feather
 -
 ?end
 
-## 단어 #card
+## 천 리 길도 한 걸음 부터 #card
 ?begin
 ### 뜻
--
-### 예
--
-?end
-
-## 단어 #card
-?begin
-### 뜻
--
-### 예
--
-?end
-
-## 단어 #card
-?begin
-### 뜻
--
-### 예
--
-?end
-
-## 단어 #card
-?begin
-### 뜻
--
-### 예
--
-?end
-
-## 단어 #card
-?begin
-### 뜻
--
-### 예
--
-?end
-
-## 단어 #card
-?begin
-### 뜻
-- A journ
+- A journey of a thousand leagues begins with a single step
 ### 예
 -
 ?end
