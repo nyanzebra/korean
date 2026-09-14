@@ -489,27 +489,30 @@ The 'smash' in 'smash or pass'
 ### 뜻
 - soldier
 - troop
-- 군인
+- 군인 - but only private/lower ranks
 ### 예
 -
 ?end
 
-## 단어 #card
+## 전투력 #card
 ?begin
 ### 뜻
--
+- fighting power
 ### 예
--
-?end
-## 단어 #card
-?begin
-### 뜻
--
-### 예
--
+- 왜냐하면 병사들 중 일부라도 설사에 걸리면 전장에서의 전투력이 떨어지기 때문입니다.
+	- Because if some of your troops get diarrhea they're not that effective on the battlefield.
 ?end
 
-## 단어 #card
+## 날벼락 #card
+?begin
+### 뜻
+- an unreasonable scolding
+### 예
+- 그런데 이처럼 애완견을 끔찍이 아끼는 일본인들에게 마른 하늘에 날벼락 치듯 어느 날 갑자기 오직 갈색 개만 허용 한다면 어떨까? 프랑스 작가 프랭크 파블로프가 반-이상향적인 컨셉으로 만든 그의 "갈색 아침" 이라는 책이다.
+	- But what if a terrible law was suddenly enforced in Japan and only brown dogs were allowed? French writer Franck Pavloff introduced this dystopic concept in his story “Brown Morning.”
+?end
+
+## 내부 #card
 ?begin
 ### 뜻
 -
