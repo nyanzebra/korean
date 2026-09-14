@@ -395,6 +395,16 @@ Passive form of 적다
 ### 예
 - 호감을 가지고 있다
 	- have attraction towards
+- 호감이 가는
+	- amiable/affable
+- 그에 대한 나의 첫 반응은 호감과 존경심이었다.
+	- My initial reaction to his personality was one of liking and respect
+- 넌 호감형이야
+	- But, you know, you're.. you're likable.
+- 따라서 사랑에 대한 궁극적인 문제는 이런 겁니다: 어떻게 호감이 가게 되고 또 호감을 유지할 수 있을까?
+	- Hence the eternal problem of love: how to become and remain desirable?
+- 따라서, 호감을 갖는 또 다른 존재만이 제게 호감을 보일 수 있는 거죠.
+	- Therefore, only another desiring conscience can conceive me as a desirable being.
 ?end
 
 ## 단어 #card
