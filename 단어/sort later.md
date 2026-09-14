@@ -471,21 +471,25 @@ The 'smash' in 'smash or pass'
 ### 예
 - 그러나 모든 조건에서 일정량의 물이 순환하여 증발하고 응축됩니다.
 	- But in all conditions, an amount of water evaporates and condenses in a cycle.
-	- 
+- 하나는 실제로 절대적인 조건들로서 생각하는데 어려움을 겪습니다.
+	- One is that we have a really hard time thinking in absolute terms.
 ?end
 
-## 단어 #card
+## 지형 #card
 ?begin
 ### 뜻
--
+- terrain
+- topology
 ### 예
 -
 ?end
 
-## 단어 #card
+## 병사 #card
 ?begin
 ### 뜻
--
+- soldier
+- troop
+- 군인
 ### 예
 -
 ?end
