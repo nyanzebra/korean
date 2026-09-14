@@ -55,7 +55,7 @@ birds of a feather
 ?end
 
 
-## 단어 #card
+## 발 없는 말이 천 리를 간다 #card
 ?begin
 ### 뜻
 -
@@ -63,7 +63,7 @@ birds of a feather
 -
 ?end
 
-## 단어 #card
+## 종로에서 뺨 맞고 한강에서 화풀이한다 #card
 ?begin
 ### 뜻
 -
@@ -71,7 +71,7 @@ birds of a feather
 -
 ?end
 
-## 단어 #card
+## 호랑이도 제 말 하면 온다 #card
 ?begin
 ### 뜻
 -
@@ -79,7 +79,7 @@ birds of a feather
 -
 ?end
 
-## 단어 #card
+## 산 넘어 산 #card
 ?begin
 ### 뜻
 -
@@ -122,7 +122,7 @@ birds of a feather
 ## 소 앓고 외양간 고친다 #card
 ?begin
 ### 뜻
-- Fix the barn after losing the cow -> Close the stable door after 
+- Fix the barn after losing the cow -> Close the stable door after the horse left
 ### 예
 -
 ?end
@@ -130,7 +130,7 @@ birds of a feather
 ## 바늘 가는 데 실 간다 #card
 ?begin
 ### 뜻
--
+- Where the needle goes, the thread follows -> The 2 are inseparable
 ### 예
 -
 ?end
@@ -138,7 +138,7 @@ birds of a feather
 ## 도토리 키 재기 #card
 ?begin
 ### 뜻
--
+- Measuring the height of acorns -> Little difference between the two
 ### 예
 -
 ?end
@@ -155,6 +155,57 @@ birds of a feather
 ?begin
 ### 뜻
 - Rice cake in the picture -> Pie in the sky
+### 예
+-
+?end
+
+## 침소봉대하다 #card
+?begin
+### 뜻
+-
+### 예
+-
+?end
+
+## 모기 보고 칼 빼기 #card
+?begin
+### 뜻
+-
+### 예
+-
+?end
+
+
+## 빈 수레가 요란하다 #card
+?begin
+### 뜻
+-
+### 예
+-
+### Notes
+허장성세 - bluff or make a show of strength without substance
+?end
+
+## 단어 #card
+?begin
+### 뜻
+-
+### 예
+-
+?end
+
+## 단어 #card
+?begin
+### 뜻
+-
+### 예
+-
+?end
+
+## 단어 #card
+?begin
+### 뜻
+-
 ### 예
 -
 ?end
