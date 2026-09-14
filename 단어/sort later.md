@@ -355,28 +355,46 @@ Passive form of 적다
 	- That is correct in a certain sense.
 ?end
 
-## 단어 #card
+## 끼치다 #card
 ?begin
 ### 뜻
--
+- influence
+- impace
+- cause
+- affect
+### 예
+- 해를 끼치다
+	- to cause harm
+- 폐 끼차다
+	- inconvenience (cause a bother)
+- 소름이 끼치다
+	- get goose bumps
+- 남에게 폐를 끼치는 일을 해서는 안 된다
+	- You should not do anything that will be a nuisance to others.
+- 그의 유령 이야기를 듣고 우리 모두는 소름이 끼쳤다
+	- His ghost story sent a chill through us all[made our blood run cold].
+- 그것은 전통적 미풍 양속 양속에 해를 끼칠 우려가 있다
+	- It is feared that it will have a harmful effect upon our long-established and fine custom.
+?end
+
+## 점근하다 #card
+?begin
+### 뜻
+- gradual approach
+- get nearer
 ### 예
 -
 ?end
 
-## 단어 #card
+## 호감 #card
 ?begin
 ### 뜻
--
+- likable
+- desirability
+- favorable
 ### 예
--
-?end
-
-## 단어 #card
-?begin
-### 뜻
--
-### 예
--
+- 호감을 가지고 있다
+	- have attraction towards
 ?end
 
 ## 단어 #card
