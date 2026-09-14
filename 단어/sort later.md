@@ -322,5 +322,210 @@ Passive form of 적다
 ?end
 
 
+## 박멸하다 #card
+?begin
+### 뜻
+- eradicate
+### 예
+-
+?end
 
+## 단어 #card
+?begin
+### 뜻
+-
+### 예
+-
+?end
+
+## 단어 #card
+?begin
+### 뜻
+-
+### 예
+-
+?end
+
+## 단어 #card
+?begin
+### 뜻
+-
+### 예
+-
+?end
+
+## 단어 #card
+?begin
+### 뜻
+-
+### 예
+-
+?end
+
+## 단어 #card
+?begin
+### 뜻
+-
+### 예
+-
+?end
+
+## 단어 #card
+?begin
+### 뜻
+-
+### 예
+-
+?end
+
+## 단어 #card
+?begin
+### 뜻
+-
+### 예
+-
+?end
+
+## 단어 #card
+?begin
+### 뜻
+-
+### 예
+-
+?end
+
+## 단어 #card
+?begin
+### 뜻
+-
+### 예
+-
+?end
+
+## 단어 #card
+?begin
+### 뜻
+-
+### 예
+-
+?end
+
+## 단어 #card
+?begin
+### 뜻
+-
+### 예
+-
+?end
+
+## 단어 #card
+?begin
+### 뜻
+-
+### 예
+-
+?end
+
+## 단어 #card
+?begin
+### 뜻
+-
+### 예
+-
+?end
+## 단어 #card
+?begin
+### 뜻
+-
+### 예
+-
+?end
+
+## 단어 #card
+?begin
+### 뜻
+-
+### 예
+-
+?end
+
+## 단어 #card
+?begin
+### 뜻
+-
+### 예
+-
+?end
+
+## 단어 #card
+?begin
+### 뜻
+-
+### 예
+-
+?end
+
+## 단어 #card
+?begin
+### 뜻
+-
+### 예
+-
+?end
+
+## 단어 #card
+?begin
+### 뜻
+-
+### 예
+-
+?end
+
+## 단어 #card
+?begin
+### 뜻
+-
+### 예
+-
+?end
+
+## 단어 #card
+?begin
+### 뜻
+-
+### 예
+-
+?end
+
+## 단어 #card
+?begin
+### 뜻
+-
+### 예
+-
+?end
+## 단어 #card
+?begin
+### 뜻
+-
+### 예
+-
+?end
+
+## 단어 #card
+?begin
+### 뜻
+-
+### 예
+-
+?end
+
+
+## 단어 #card
+?begin
+### 뜻
+-
+### 예
+-
+?end
 

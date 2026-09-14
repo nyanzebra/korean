@@ -162,7 +162,7 @@ birds of a feather
 ## 침소봉대하다 #card
 ?begin
 ### 뜻
--
+- Make pole out of a needle -> making mountain out of mole hills
 ### 예
 -
 ?end
@@ -170,16 +170,18 @@ birds of a feather
 ## 모기 보고 칼 빼기 #card
 ?begin
 ### 뜻
--
+- Seeing a mosquito and drawing a knife
 ### 예
 -
+### Notes
+Variation of 빈 수레가 요란하다
 ?end
 
 
 ## 빈 수레가 요란하다 #card
 ?begin
 ### 뜻
--
+- An empty wagon makes the most noise
 ### 예
 -
 ### Notes
