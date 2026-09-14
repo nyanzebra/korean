@@ -405,22 +405,31 @@ Passive form of 적다
 	- Hence the eternal problem of love: how to become and remain desirable?
 - 따라서, 호감을 갖는 또 다른 존재만이 제게 호감을 보일 수 있는 거죠.
 	- Therefore, only another desiring conscience can conceive me as a desirable being.
+### Notes
+The 'smash' in 'smash or pass'
 ?end
 
-## 단어 #card
+## 소유 #card
 ?begin
 ### 뜻
--
+- ownership
+- possess
 ### 예
--
+- 풀소유
+	- 'full' ownership
+- 이것들은 스마트폰을 소유하는 이유 중 일부일 뿐입니다.
+	- These are only some of the reasons for owning a smartphone.
+- 공동 소유의 느낌과 자유로운 공공성, 부가 가치, 이런 모든 것이 메출에 도움이 됩니다.
+	- The sense of co-ownership, the free publicity, the added value, all helped drive sales.
 ?end
 
-## 단어 #card
+## 약탈자 #card
 ?begin
 ### 뜻
--
+- plunderer
 ### 예
--
+- 약탈자들의 가증스러운 잔학
+	- the detestable atrocities of the plunderers.
 ?end
 
 ## 단어 #card
