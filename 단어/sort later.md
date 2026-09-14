@@ -430,6 +430,10 @@ The 'smash' in 'smash or pass'
 ### 예
 - 약탈자들의 가증스러운 잔학
 	- the detestable atrocities of the plunderers.
+- 약탈자는 온갖 포악한 짓을 다했다
+	- The plunderers committed all sorts of atrocities.
+- 경제 이론, 모든 사냥꾼과 약탈자, 모든 영웅과 겁쟁이.
+	- Economic doctrines, every hunter and forager, every hero and coward
 ?end
 
 ## 단어 #card
