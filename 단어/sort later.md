@@ -436,12 +436,17 @@ The 'smash' in 'smash or pass'
 	- Economic doctrines, every hunter and forager, every hero and coward
 ?end
 
-## 단어 #card
+## 거주지 #card
 ?begin
 ### 뜻
--
+- place of residence
+- inhabited
+- settlements
 ### 예
--
+- 예를 들어, 2008년 베이징 올림픽을 준비하기 위해 약 150만 명의 사람들이 최소한의 보상으로 그들의 거주지에서 쫓겨났습니다.
+	- For example, an estimated 1.5 million people were evicted from their residences with minimal compensation in preparation for the 2008 Beijing Olympics
+- 그곳에는 소수의 승려와 수녀들이 거주하고 있습니다.
+	- They are inhabited by a small number of monks and nuns
 ?end
 
 ## 단어 #card
