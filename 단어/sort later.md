@@ -515,25 +515,46 @@ The 'smash' in 'smash or pass'
 ## 내부 #card
 ?begin
 ### 뜻
--
+- internal
+- inside
 ### 예
--
+- [내부 고발자](https://dic.daum.net/word/view.do?wordid=kew000014179&q=%EB%82%B4%EB%B6%80+%EA%B3%A0%EB%B0%9C%EC%9E%90)
+	- a whistle-blower
+- [내부 사정](https://dic.daum.net/word/view.do?wordid=kew000014187&q=%EB%82%B4%EB%B6%80+%EC%82%AC%EC%A0%95)
+	- the internal affairs, the inside story
+- [내부 분열](https://dic.daum.net/word/view.do?wordid=kew000014185&q=%EB%82%B4%EB%B6%80+%EB%B6%84%EC%97%B4)
+	- a split among friends, internal discord
+- [내부 고발](https://dic.daum.net/word/view.do?wordid=kew000014178&q=%EB%82%B4%EB%B6%80+%EA%B3%A0%EB%B0%9C)
+	- whistle-blowing
+- [내부 질환](https://dic.daum.net/word/view.do?wordid=kew000014193&q=%EB%82%B4%EB%B6%80+%EC%A7%88%ED%99%98)
+	- an internal trouble
+- 그것들은 일반적인 검사 유형으로, 의사가 가능한 내부 부상을 보고 환자의 회복을 감시할 수 있도록 합니다.
+	- They are a common type of exam, allowing the doctor to view possible internal injuries and monitor the patient’s recovery.
 ?end
 
-## 단어 #card
+## 하르방 #card
 ?begin
 ### 뜻
--
+- grandfather (제주도 사투리)
 ### 예
--
+
 ?end
 
-## 단어 #card
+## 부대 #card
 ?begin
 ### 뜻
--
+- unit
+- force
+- team
+- camp
+- sack (負袋)
+- incident
 ### 예
--
+- 부대 조건이 없는 원조
+	- (aid) with no strings attached/no-strings-attached (aid).
+- 우리는 국경 가까이서 적의 전초 부대와 일전을 벌였다
+	- We encountered an advance unit of the enemy near the border.
+- 
 ?end
 
 ## 단어 #card
