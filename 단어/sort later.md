@@ -548,16 +548,44 @@ The 'smash' in 'smash or pass'
 - team
 - camp
 - sack (負袋)
-- incident
+- incident (附帶)
 ### 예
 - 부대 조건이 없는 원조
 	- (aid) with no strings attached/no-strings-attached (aid).
 - 우리는 국경 가까이서 적의 전초 부대와 일전을 벌였다
 	- We encountered an advance unit of the enemy near the border.
+- 그 부대는 방어전에 힘썼다
+	- The unit did its best to defend its position.
+?end
+
+## 부하 #card
+?begin
+### 뜻
+- subordinate (部下)
+- follower (部下)
+- carry a burden (負荷)
+### 예
+- 그는 부하에게 약점이 잡혀 있는데 부하가 그의 비밀을 알고 있기 때문이다
+	- He is in the power of his subordinate, who knows his secret.
+?end
+
+## 호위 #card
+?begin
+### 뜻
 - 
+### 예
+-
 ?end
 
-## 단어 #card
+## 무사 #card
+?begin
+### 뜻
+- warrior
+### 예
+-
+?end
+
+## 제압 #card
 ?begin
 ### 뜻
 -
@@ -565,59 +593,10 @@ The 'smash' in 'smash or pass'
 -
 ?end
 
-## 단어 #card
+## 단번 #card
 ?begin
 ### 뜻
 -
 ### 예
 -
 ?end
-
-## 단어 #card
-?begin
-### 뜻
--
-### 예
--
-?end
-
-## 단어 #card
-?begin
-### 뜻
--
-### 예
--
-?end
-
-## 단어 #card
-?begin
-### 뜻
--
-### 예
--
-?end
-## 단어 #card
-?begin
-### 뜻
--
-### 예
--
-?end
-
-## 단어 #card
-?begin
-### 뜻
--
-### 예
--
-?end
-
-
-## 단어 #card
-?begin
-### 뜻
--
-### 예
--
-?end
-
