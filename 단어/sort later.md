@@ -572,7 +572,9 @@ The 'smash' in 'smash or pass'
 ## 호위 #card
 ?begin
 ### 뜻
-- 
+- escort
+- guard
+- convoy
 ### 예
 -
 ?end
@@ -580,23 +582,25 @@ The 'smash' in 'smash or pass'
 ## 무사 #card
 ?begin
 ### 뜻
-- warrior
+- warrior (武士)
+- safety (無事)
 ### 예
--
+- 그런 무사 태평한 사고 방식으로는 이 세상을 살아 나가기가 어렵지
+	- Such an easygoing[happy-go-lucky] way of thinking will be of no use in the real world.
 ?end
 
-## 제압 #card
+## 제압하다 #card
 ?begin
 ### 뜻
--
+- overpower
+- face down
+- gain control
 ### 예
--
+- 우리는 적의 기선을 제압하려고 그 항구를 공격했다
+	- We attacked the harbor to forestall the enemy force.
+- 바다를 제압하다
+	- gain control of the seas.
+### Notes
+제압 (制壓) is control or mastery or supremacy
 ?end
 
-## 단번 #card
-?begin
-### 뜻
--
-### 예
--
-?end
