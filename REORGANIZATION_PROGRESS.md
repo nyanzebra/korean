@@ -212,6 +212,37 @@ All folders organized by semantic meaning with complete Index.md navigation:
 
 ---
 
+## Additional Improvements (Post-Completion)
+
+### ✅ Master Index Audit & Rebuild
+- Audited all 27 semantic folders for accurate link verification
+- Rebuilt `korean/단어/Index.md` with only verified, existing file links
+- Fixed 30+ broken links (e.g., `날씨` was in wrong folder, now correctly in `자연`)
+- Removed mixed Chinese/Japanese character encoding issues
+- All 277 wiki-style links now reference real files
+
+### ✅ Restructured 추상적인 것 (Abstract Concepts) Folder
+The massive 50+ file folder was reorganized into 10 semantic subfolders:
+
+1. **감정_심리** (Emotions & Psychology) - 5 files
+2. **윤리_신념** (Ethics & Beliefs) - 5 files
+3. **성공_성취** (Success & Achievement) - 5 files
+4. **사회_문화** (Society & Culture) - 4 files
+5. **소통_관계** (Communication & Relationships) - 5 files
+6. **상태_변화** (States & Change) - 5 files
+7. **개인_특성** (Personal Qualities) - 5 files
+8. **시간_공간** (Time & Space) - 3 files
+9. **프로세스_절차** (Process & Procedure) - 7 files
+10. **개념_추상** (Concepts & Abstract) - 7 files
+
+**Total:** 51 vocabulary files organized into 10 subfolders with individual Index.md files for navigation
+
+### ✅ Updated Navigation
+- Master Index updated to show 10 subfolders instead of 50+ individual files
+- Each subfolder has its own Index.md with complete wiki-style links
+- Parent `추상적인 것/Index.md` shows semantic subfolder table
+- All links verified to work in Obsidian
+
 ## Remaining Notes
 
 ### Known Files with Non-Standard Format
@@ -223,9 +254,21 @@ These are marked as "Advanced Conversation" curriculum materials and maintain th
 ### Future Maintenance
 To add new vocabulary:
 1. Identify the semantic category for the word
-2. Find or create the appropriate file in `korean/단어/[category]/`
+2. Find or create the appropriate file in `korean/단어/[category]/` (or appropriate subfolder)
 3. Add the word as a properly formatted `#card` entry (see AGENT.md)
 4. Update the relevant Index.md if a new file was created
+5. For 추상적인 것 folder: first determine which semantic subcategory (감정_심리, 윤리_신념, etc.) before adding
+
+---
+
+## Current Repository Statistics
+
+- **Total Semantic Folders:** 27 main categories
+- **Total Subfolders:** 10 (all in 추상적인 것)
+- **Total Vocabulary Files:** ~240+ across all folders
+- **Total Index.md Files:** 38 (27 main + 10 sub + 1 master)
+- **Format:** 100% Obsidian-compatible flashcards with `#card` markers
+- **All Links:** Verified and working (no dead links)
 
 ---
 
@@ -233,4 +276,4 @@ To add new vocabulary:
 
 - **Standards:** See `korean/AGENT.md` for complete guidelines
 - **Future Tasks:** See `korean/TODO_REMAINING_TASKS.md` for task templates
-- **Navigation:** Each folder's `Index.md` provides links to all contained files
+- **Navigation:** Each folder's `Index.md` provides wiki-style links to all contained files
