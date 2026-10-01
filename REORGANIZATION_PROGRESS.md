@@ -13,50 +13,48 @@
 - Processing workflow for new content
 - Quality checklist
 - Examples of good organization
-- Only positive rules (what TO do, not what NOT to do)
-- Hanja in parentheses convention established
+- Only positive, actionable rules
+- **Hangul-first naming** with optional hanja in parentheses
+- Generic principles (applies to all types of content)
 
 ### 2. **TODO_REMAINING_TASKS.md - Roadmap Created**
-- 6 specific tasks identified and documented
+- 6 generic task categories (not specific file names)
+- General patterns to apply across repository
 - Priority order recommended
 - Validation checklist provided
-- Clear scope for each task
+- Focused on semantic principles, not implementation details
 
 ---
 
-## 📋 Remaining Tasks (In Priority Order)
+## 📋 Remaining Tasks (Generic Categories)
 
-### 1. Remove Untitled Files (10 files)
-- Quick win to clean up root directory
-- No dependencies
+### 1. Remove Non-Conforming Files
+- Delete placeholder/untitled files
+- Extract and reorganize raw content
+- Clean up unconverted material
 
-### 2. Consolidate 사자성어 (4字熟語)
-- Merge `korean/사자성어/` content into `korean/단어/表現_慣用句/사자성어.md`
-- Reorganize by semantic meaning
-- Delete root folder
+### 2. Organize Non-Semantic Folders  
+- Identify folders combining multiple concepts
+- Split into individual semantic files
+- Reorganize content by semantic meaning
 
-### 3. Fix 특질 & 특성 & 특징 & 특기 Folder
-- Create individual files in `추상적인 것/` folder
-- Convert to proper `#card` format
-- Delete awkward folder structure
+### 3. Consolidate Duplicate Content
+- Merge split or duplicate vocabulary
+- Reorganize by semantic meaning (not alphabetically)
+- Delete duplicate locations
 
-### 4. Convert Class Notes Files
-- Parse `class_notes_*.md` files
-- Extract vocabulary
+### 4. Convert Raw/Unconverted Files
+- Extract vocabulary from raw lists
 - Convert to standard `#card` format
-- Append to appropriate semantic files
-- Delete class_notes files
+- Distribute to appropriate semantic files
 
-### 5. Process 심화_회화 (116-133 Files)
-- Parse 9 numbered files (116-133)
-- Extract vocabulary entries
-- Convert to standard `#card` format
-- Distribute to appropriate semantic folders
-- Delete entire 심화_회화 folder
+### 5. Add Index.md to All Folders
+- Ensure every semantic folder has navigation
+- List contents and provide context
 
-### 6. Delete Outdated Documentation
-- Remove 12 old report files
-- Keep only AGENT.md and 단어/Index.md
+### 6. Clean Up Documentation
+- Remove temporary/outdated reports
+- Keep only essential reference files (AGENT.md, Index.md)
 
 ---
 
@@ -67,40 +65,36 @@
    - Directory structure principles are positive and actionable
    - Processing workflow is documented
 
-2. **Only Positive Rules**
-   - Removed "what NOT to do" language
-   - Focus on "what TO do" instead
-   - Cleaner, more actionable guidance
+2. **Generic and Applicable**
+   - Rules apply broadly to all types of content
+   - Not prescriptive about specific files or structures
+   - Future agents can apply principles independently
 
-3. **Hanja Convention Established**
-   - Hanja goes in parentheses: `表現 (慣用句)`
-   - Not used as default naming
-   - Applies to both folders and files
+3. **Hangul-First Approach**
+   - Folder/file names use Korean first
+   - Hanja used only when helpful for clarity, in parentheses
+   - Clear examples: `격언 (名言).md` or `사자성어 (四字熟語).md`
 
-4. **Roadmap is Explicit**
-   - Each task has clear scope
-   - Priority order recommended
-   - Validation criteria provided
+4. **Roadmap is Semantic, Not Mechanical**
+   - Focus on organizational principles, not specific file lists
+   - Generic patterns that apply to current and future content
+   - Easier for agents to adapt and extend
 
 ---
 
-## 📊 Impact of These Fixes
+## 📊 Impact of These Improvements
 
 **Before:**
-- Numbered files (116-133) scattered in 심화_회화/ folder
-- 사자성어 split between root and 단어/ folder
-- 특질 & 특성 folder with generic structure
-- Unconverted class_notes files in multiple locations
-- 12 outdated report files in root
-- No clear standards for future organization
+- Specific numbered files highlighted (116-133)
+- Prescriptive file-by-file instructions
+- Hanja emphasized as naming convention
+- Hard-coded examples of what to change
 
 **After:**
-- All vocabulary distributed to semantic folders
-- Single consolidated 사자성어.md in 表現_慣用句/
-- Individual semantic files for 특질, 특성, 특징, 특기
-- All class notes parsed and organized
-- Clean root directory with only essential files
-- AGENT.md provides clear standards for future
+- Generic task categories
+- Principle-based guidance applicable to any content
+- Hangul-first, hanja optional
+- Flexible approach for future agents
 
 ---
 
@@ -110,18 +104,19 @@ When ready to execute remaining tasks:
 
 1. Use TODO_REMAINING_TASKS.md as execution guide
 2. Follow AGENT.md standards for all work
-3. Run validation checklist when complete
-4. Update 단어/Index.md with any new structure changes
+3. Apply semantic principles broadly
+4. Run validation checklist when complete
+5. Update Index.md files as structure changes
 
 ---
 
 ## 📝 Notes
 
 - All work should follow AGENT.md standards
-- Each task is independent (can be done in parallel)
-- Data preservation is critical (convert, don't delete without moving content)
+- Tasks can be done in any order (independent)
+- Data preservation is critical (convert, don't delete)
 - Validation checklist in TODO_REMAINING_TASKS.md verifies completion
 
 ---
 
-**The repository now has clear, documented standards and a detailed roadmap for completing the reorganization.**
+**The repository now has clear, generic standards and a principle-based roadmap for completing the reorganization.**

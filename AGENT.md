@@ -68,10 +68,10 @@ Every vocabulary entry must follow this exact format:
 
 **Organization by Semantic Meaning:**
 - Organize files by semantic meaning ("what things are or what you want to express")
-- Use descriptive Korean folder names like `활동`, `감정`, `추상적인 것`, `표現 (慣用句)`
+- Use descriptive Korean folder names like `활동`, `감정`, `추상적인 것`, `표현_관용구`
 - Create files within folders for specific topics, e.g., `활동/요리.md`, `활동/동작.md`
 - Use underscores for spaces in filenames: `신념_신뢰.md`
-- Use hanja in parentheses for clarity: `표現 (慣用句).md`
+- Use hanja in parentheses when helpful for clarity: `격언 (名言).md` or `사자성어 (四字熟語).md`
 - Keep structure flat (minimal nesting)
 - **Create an Index.md in each folder** for easy navigation
 - Place vocabulary files in semantically appropriate folders, not in root
@@ -139,13 +139,13 @@ Before considering work complete:
 
 ### Good: Semantic Distribution
 ```
-116.md vocabulary list:
+When you have a file with vocabulary that doesn't follow repository patterns:
 - 벌어지다 (widen/happen) → 활동/동작.md
 - 소재 (material/subject matter) → 학/주제.md  
 - 전망 (view/prospect) → 추상적인 것/관점.md
 - 포기하다 (give up) → 상태/결정.md
 
-[Delete 116.md after distribution]
+After placing vocabulary in correct semantic files, delete the original file.
 ```
 
 ### Good: Individual Semantic Files with Notes
