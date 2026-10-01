@@ -18,42 +18,40 @@ Traditional Korean sayings and folk wisdom including:
 - And 20+ additional proverbs
 
 ### 2. **격언_명언.md** (Sayings & Quotes) - ~170 lines
-Philosophical wisdom and quotes organized by theme:
-- **만족과 탐욕** (Satisfaction & Greed) - On knowing satisfaction
-- **생산성** (Productivity) - On effective work
-- **행복** (Happiness) - On finding true happiness
-- **실수와 회한** (Mistakes & Regret) - On learning from failures
-- **통제와 신념** (Control & Conviction) - On leadership and belief
-- **일과 직업** (Jobs) - On choosing meaningful work
-- **시간 절약** (Saving Time) - On time management
-- **자연과 성장** (Nature & Growth) - Whales and shrimp proverb
+Philosophical wisdom and quotes organized by theme
 
 ### 3. **사자성어.md** (Chinese Four-Character Idioms) - ~27 lines
 Chinese idioms commonly used in Korean:
 - 작심삼일 (New Year's resolution; giving up after 3 days)
-- [Additional idioms can be added]
 
 ---
 
 ## Functional Expression Files
 
-### 4. **인사말.md** (Greetings & Polite Expressions) - ~193 lines
-Essential greeting phrases:
+### 4. **기본_인사말.md** (Greetings & Polite Expressions) - ~223 lines
+Essential greeting and introductory phrases:
 - 오랜만이네요 (long time no see)
 - 연락 드릴게요 (I'll keep in touch)
 - 얼른 나으세요 (get well soon)
 - 장난이에요 (I'm just kidding)
 - 축하합니다 (Congratulations)
 - 건배 (Cheers/Toast)
-- And 20+ additional greetings
+- Self-introduction patterns
+- 열심히 활동하겠습니다 (I will participate actively)
+- And 15+ additional greetings
 
-### 5. **일상표현.md** (Daily Expressions) - ~134 lines
-Common everyday phrases:
-- 생각보다 어렵지 않네요 (it's not as difficult as I thought)
-- 언제쯤 도착 예정이세요? (what's your ETA?)
-- 저랑 음악 취향이 비슷하시네요 (we have similar music tastes)
-- 나가기 귀찮아요 (I'm too lazy to go out)
-- Grammar patterns and expressions
+### 5. **일상표현.md** (Daily Expressions & Activities) - ~284 lines
+Common everyday phrases and daily routines:
+- **Common Expressions:** 감사합니다, 고맙습니다, 죄송합니다, 축하합니다, 환영합니다
+- **Daily Activities:**
+  - 아침을 먹고 있어요 (I'm having breakfast)
+  - 일어나야 해요 (I need to get up)
+  - 지금 바빠요 (I'm busy right now)
+  - 퇴근했어요 (I got off work)
+  - 오늘 뭐했어? (What did you do today?)
+  - 저녁을 먹을래요? (Do you want to have dinner?)
+  - 집에 도착했어요 (I got home)
+  - 일찍 자야 해요 (I need to go to bed early)
 
 ### 6. **사과_감사.md** (Apologies & Gratitude) - ~151 lines
 Expressions for apologizing and thanking:
@@ -70,7 +68,6 @@ Phrases for help-related conversations:
 - 손을 좀 빌려줄 수 있어요? (Can you lend a hand?)
 - 뭘 도와드릴까요? (What can I help you with?)
 - 괜찮으면 도와드릴게요 (If you don't mind, I'll help)
-- And offering support phrases
 
 ### 8. **통신_기술.md** (Communication & Technical Issues) - ~142 lines
 Tech and communication problem phrases:
@@ -80,20 +77,8 @@ Tech and communication problem phrases:
 - 인터넷이 느려요 (Internet is slow)
 - 음성이 깨져요 (Audio is cutting out)
 - 마이크를 켜 주세요 (Please turn on the microphone)
-- Screen sharing and reconnection phrases
 
-### 9. **일상활동.md** (Daily Activities) - ~142 lines
-Everyday activities and routines:
-- 아침을 먹고 있어요 (I'm having breakfast)
-- 일어나야 해요 (I need to get up)
-- 지금 바빠요 (I'm busy right now)
-- 퇴근했어요 (I got off work)
-- 오늘 뭐했어? (What did you do today?)
-- 저녁을 먹을래요? (Do you want to have dinner?)
-- 집에 도착했어요 (I got home)
-- 일찍 자야 해요 (I need to go to bed early)
-
-### 10. **호스팅_행사.md** (Hosting & Events) - ~71 lines
+### 9. **호스팅_행사.md** (Hosting & Events) - ~71 lines
 Phrases for hosting meetings and events:
 - 신입 회원들의 인사 (introductions of new members)
 - 졸업생의 연설 (speech by graduates)
@@ -101,7 +86,7 @@ Phrases for hosting meetings and events:
 - 큰 박수로 환영 (welcome with applause)
 - 동호회 신고식 (induction ceremony)
 
-### 11. **의견표현.md** (Expressing Opinions) - ~142 lines
+### 10. **의견표현.md** (Expressing Opinions) - ~142 lines
 Phrases for sharing opinions and disagreeing:
 - 제 생각에는 (In my opinion)
 - 제 의견으로는 (According to my opinion)
@@ -112,9 +97,35 @@ Phrases for sharing opinions and disagreeing:
 - 좋은 생각인데요 (That's a good idea)
 - 반대예요 (I'm opposed)
 
-### 12. **회화표현.md** (Conversational Expressions)
+### 11. **회화표현.md** (Conversational Expressions)
 Natural conversational phrases and dialogue patterns
-[Additional details available in the file]
+
+### 12. **일상활동.md** (Daily Activities - Legacy)
+[Merged into 일상표현.md]
+
+---
+
+## New Vocabulary Files (from Hodgepodge Distribution)
+
+The following vocabulary files have been created in their respective category folders to support expressions:
+
+### 추상적인 것 (Abstract Concepts):
+- **신념_신뢰.md** - Beliefs, convictions, justice, realization
+- **행복과_노력.md** - Happiness, effort, making others happy
+- **실수_두려움.md** - Mistakes, fear, discouragement, continuous effort
+- **효율_생산성.md** - Efficiency, productivity, opinions, perspectives
+- **후회_겸웅.md** - Regret, what could have been, should have done
+
+### 상태 (States/Conditions):
+- **통제_유지.md** - Maintaining, control, regulation, fortune/misfortune
+- **만족_성취.md** - Satisfaction, greed, goals, achievement, pride
+- **충돌_피해.md** - Collateral damage, byproducts, being trapped
+
+### 직장 (Workplace):
+- **직업_선택.md** - Choosing careers, lifetime work, accuracy
+
+### 시간 (Time):
+- **절약하다** (added to 시간.md) - Saving time, economizing
 
 ---
 
@@ -125,16 +136,47 @@ Natural conversational phrases and dialogue patterns
 | Proverbs | 속담.md | ~216 | Traditional sayings |
 | Sayings | 격언_명언.md | ~170 | Philosophical quotes |
 | Idioms | 사자성어.md | ~27 | Chinese idioms |
-| Greetings | 인사말.md | ~193 | Polite expressions |
-| Daily | 일상표현.md | ~134 | Common phrases |
+| Greetings | 기본_인사말.md | ~223 | Polite expressions |
+| Daily | 일상표현.md | ~284 | Daily activities & expressions |
 | Emotions | 사과_감사.md | ~151 | Apologies & thanks |
 | Help | 도움_제안.md | ~129 | Asking for/offering help |
 | Tech | 통신_기술.md | ~142 | Communication issues |
-| Activities | 일상활동.md | ~142 | Daily routines |
 | Events | 호스팅_행사.md | ~71 | Event/hosting phrases |
 | Opinions | 의견표현.md | ~142 | Expressing opinions |
 | Conversation | 회화표현.md | Varies | Conversational patterns |
-| | **TOTAL** | **~1,417** | **All categories** |
+| | **TOTAL** | **~1,556** | **All categories** |
+
+---
+
+## Consolidation Changes (October 2026)
+
+### Files Moved to 표현_관용구:
+- greetings.md → 기본_인사말.md (created)
+- apologies and gratitude.md → merged into 사과_감사.md
+- asking and offering help.md → already matches 도움_제안.md
+- communication and technical issues.md → already matches 통신_기술.md
+- common expressions.md → merged into 일상표현.md
+- daily activities.md → merged into 일상표현.md
+- personal opinion.md → already matches 의견표현.md
+- hosting.md → already matches 호스팅_행사.md
+
+### Hodgepodge Content Distribution:
+All vocabulary from hodgepodge files distributed to appropriate 단어/ folders:
+- bad conviction.md → 추상적인 것/신념_신뢰.md
+- control.md → 상태/통제_유지.md
+- jobs.md → 직장/직업_선택.md
+- make others happy.md → 추상적인 것/행복과_노력.md
+- mistakes.md → 추상적인 것/실수_두려움.md
+- productivity.md → 추상적인 것/효율_생산성.md
+- regret.md → 추상적인 것/후회_겸웅.md
+- satisfaction.md → 상태/만족_성취.md
+- saving time.md → 시간/절약하다
+- whales.md → 상태/충돌_피해.md
+
+### Cleanup:
+- Deleted 9 phrase files from korean/phrases/
+- Deleted hodgepodge/ folder completely
+- 사자성어.md consolidated to 표현_관용구/
 
 ---
 
@@ -168,5 +210,5 @@ Each file uses the flashcard format with `#card` markers for spaced repetition l
 ---
 
 **Last Updated:** 2026-10-01
-**Total Files in this Category:** 12 primary + conversational expression files
-**All content organized as separate, focused reference files**
+**Total Files in this Category:** 12 primary files
+**All content organized, consolidated, and distributed to appropriate reference files**
