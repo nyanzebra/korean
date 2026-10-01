@@ -1,62 +1,24 @@
 # 추상적인 것 (Abstract Concepts)
 
-This folder contains vocabulary related to abstract ideas, emotions, concepts, qualities, relationships, and intangible notions.
+This folder contains vocabulary related to abstract ideas, emotions, concepts, qualities, relationships, and intangible notions, organized into 10 semantic subcategories for better navigation.
 
-## Files in this folder:
+## Semantic Subcategories
 
-- [[감정.md|Emotions and feelings]]
-- [[개념.md|Concepts and ideas]]
-- [[개념과_상태.md|Concepts and states]]
-- [[것.md|Abstract objects and things]]
-- [[관점.md|Perspectives and viewpoints]]
-- [[규율.md|Rules and discipline]]
-- [[기회.md|Opportunities and chances]]
-- [[느낌.md|Feelings and sensations]]
-- [[대응.md|Response and dealing with situations]]
-- [[도덕.md|Morality and ethics]]
-- [[두드러짐.md|Prominence and distinction]]
-- [[본능.md|Instincts and natural tendencies]]
-- [[사업과 경제.md|Business and economy]]
-- [[사회와 문화.md|Society and culture]]
-- [[상태.md|States and conditions]]
-- [[생각___마음.md|Thoughts and mind]]
-- [[성취.md|Achievement and accomplishment]]
-- [[속임수.md|Deception and tricks]]
-- [[쇼핑과 구매.md|Shopping and purchasing]]
-- [[수명.md|Lifespan and duration]]
-- [[수와 양.md|Numbers and quantities]]
-- [[시간.md|Time and temporal concepts]]
-- [[신념_신뢰.md|Beliefs and trust]]
-- [[실수_두려움.md|Mistakes and fear]]
-- [[언어.md|Language]]
-- [[언어와 예술.md|Language and art]]
-- [[연속.md|Continuity and succession]]
-- [[영향.md|Influence and impact]]
-- [[완료_및_완성.md|Completion and finishing]]
-- [[완료_완성_비교.md|Completion, finishing, and comparison]]
-- [[외모.md|Appearance and looks]]
-- [[용서.md|Forgiveness]]
-- [[위치와 장소.md|Location and place]]
-- [[위치와_장소.md|Location and place (alternate)]]
-- [[위험.md|Danger and risk]]
-- [[유지.md|Maintenance and continuation]]
-- [[의견.md|Opinions and views]]
-- [[의무.md|Obligation and duty]]
-- [[의사소통.md|Communication]]
-- [[의심.md|Suspicion and doubt]]
-- [[작용.md|Action and operation]]
-- [[적용.md|Application and implementation]]
-- [[절차.md|Procedures and processes]]
-- [[접수.md|Reception and acceptance]]
-- [[조언.md|Advice and counsel]]
-- [[조정.md|Adjustment and coordination]]
-- [[증서.md|Certificates and documents]]
-- [[책임.md|Responsibility]]
-- [[특성_성격.md|Characteristics and personality]]
-- [[행복과_노력.md|Happiness and effort]]
-- [[효율_생산성.md|Efficiency and productivity]]
-- [[후회_겸웅.md|Regret and humility]]
+| Subfolder | Description |
+|-----------|-------------|
+| [[감정_심리/Index.md\|감정_심리]] | **Emotions & Psychology** - Emotions, feelings, thoughts, and psychological states (5 files) |
+| [[윤리_신념/Index.md\|윤리_신념]] | **Ethics & Beliefs** - Ethics, beliefs, morality, responsibility, and trust (5 files) |
+| [[성공_성취/Index.md\|성공_성취]] | **Success & Achievement** - Success, achievement, happiness, effort, and opportunity (5 files) |
+| [[사회_문화/Index.md\|사회_문화]] | **Society & Culture** - Society, culture, business, economics, language, and arts (4 files) |
+| [[소통_관계/Index.md\|소통_관계]] | **Communication & Relationships** - Communication, dialogue, advice, and opinions (5 files) |
+| [[상태_변화/Index.md\|상태_변화]] | **States & Change** - States, changes, conditions, and maintenance (5 files) |
+| [[개인_특성/Index.md\|개인_특성]] | **Personal Qualities** - Characteristics, appearance, personality, and discipline (5 files) |
+| [[시간_공간/Index.md\|시간_공간]] | **Time & Space** - Time, duration, locations, and spatial concepts (3 files) |
+| [[프로세스_절차/Index.md\|프로세스_절차]] | **Process & Procedure** - Procedures, processes, completion, and application (7 files) |
+| [[개념_추상/Index.md\|개념_추상]] | **Concepts & Abstract** - Abstract concepts, perspectives, quantities, and deception (7 files) |
 
 ---
+
+**Total:** 51 vocabulary files organized across 10 semantic subfolders
 
 See also: AGENT.md for repository standards and guidelines.
