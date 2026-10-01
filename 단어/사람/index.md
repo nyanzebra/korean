@@ -495,3 +495,18 @@
 - 우리 가족들은 모두 건강해요
   - All our family members are healthy
 ?end
+
+## 요원 #card
+?begin
+### 뜻
+- agent
+- operative
+- personnel
+### 예
+- 비밀 요원
+	- secret agent
+- 소방 요원
+	- firefighter
+- FBI 요원이 그 사건을 조사하고 있어요
+	- An FBI agent is investigating the case
+?end
