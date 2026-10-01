@@ -305,11 +305,11 @@ Structural and grammatical vocabulary supporting core vocabulary:
 
 | # | Folder | Type | Size |
 |---|--------|------|------|
-| 1 | [[생활/Index.md|생활]] (Daily Life) | Practical | 31 files |
+| 1 | [[생활/Index.md|생활]] (Daily Life) | Practical | 32 files |
 | 2 | [[세상/Index.md|세상]] (The World) | Global | 16 files |
 | 3 | [[장소/Index.md|장소]] (Places) | Spatial | 28 files |
 | 4 | [[사람/Index.md|사람]] (People) | Social | 5 files |
-| 5 | [[활동/Index.md|활동]] (Activities) | Behavioral | 33 files |
+| 5 | [[활동/Index.md|활동]] (Activities) | Behavioral | 34 files |
 | 6 | [[추상적인 것/Index.md|추상적인 것]] (Abstract) | Conceptual | 50+ files |
 | 7 | [[표현_관용구/Index.md|표현_관용구]] (Expressions) | Linguistic | 13 files |
 | 8 | [[건강/Index.md|건강]] (Health) | Medical | 4 files |

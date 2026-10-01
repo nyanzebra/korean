@@ -23,6 +23,7 @@
 | [[놀이.md|놀이]] | Games and play |
 | [[농업.md|농업]] | Agriculture and farming |
 | [[담다_및_함유.md|담다_및_함유]] | Containing and holding verbs |
+| [[대화.md|대화]] | Conversation and dialogue |
 | [[독서.md|독서]] | Reading and literature |
 | [[동작.md|동작]] | Physical actions and movements |
 | [[발표.md|발표]] | Presentation and speaking |
@@ -53,7 +54,7 @@
 
 ## 📅 Last Updated
 
-**October 1, 2026** - Index cleaned up with proper navigation links
+**October 1, 2026** - Added 대화.md file consolidating conversation vocabulary
 
 ---
 

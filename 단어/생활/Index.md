@@ -18,6 +18,7 @@
 | [[가정용품.md|가정용품]] | Household items and appliances |
 | [[가족.md|가족]] | Family-related vocabulary |
 | [[거래.md|거래]] | Transactions and business dealings |
+| [[결혼.md|결혼]] | Marriage, wedding, and divorce vocabulary |
 | [[것.md|것]] | General objects and things |
 | [[관계.md|관계]] | Relationships and social connections |
 | [[당한 것.md|당한 것]] | Things that happen to you |
@@ -51,7 +52,7 @@
 
 ## 📅 Last Updated
 
-**October 1, 2026** - Index cleaned up with proper navigation links
+**October 1, 2026** - Added 결혼.md consolidating marriage vocabulary from scattered locations
 
 ---
 
