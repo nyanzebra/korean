@@ -1,0 +1,174 @@
+## 결백 #card
+?begin
+### 뜻
+- innocence
+- clear
+- integrity
+### 예
+-
+?end
+
+## 헌법 #card #politics #law #constitution
+?begin
+### 뜻
+- constitution
+### 예
+- 헌법을 지켜요
+- I uphold the constitution
+- 헌법 조항
+- constitutional clause
+?end
+
+## 법 #card #law
+?begin
+### 뜻
+- law
+### 예
+- 법을 지켜요
+- I follow the law
+- 법이 엄격해요
+- The law is strict
+?end
+
+## 법률 #card #law #statute
+?begin
+### 뜻
+- law
+- statute
+### 예
+- 법률을 공부해요
+- I study law
+- 법률 자문
+- legal consultation
+?end
+
+
+
+## 규정 #card #law #regulation
+?begin
+### 뜻
+- regulation
+### 예
+- 규정에 따라요
+- I follow the regulations
+- 회사 규정
+- company regulations
+?end
+
+
+
+## 금지 #card #law #prohibition
+?begin
+### 뜻
+- prohibition
+### 예
+- 흡연 금지
+- no smoking
+- 금지됐어요
+- It's prohibited
+?end
+
+## 허가 #card #law #permission
+?begin
+### 뜻
+- permission
+- permit
+### 예
+- 허가를 받아요
+- I get permission
+- 건축 허가
+- building permit
+?end
+
+## 승인 #card #official #approval
+?begin
+### 뜻
+- approval
+### 예
+- 승인을 받았어요
+- I received approval
+- 승인 절차
+- approval process
+?end
+
+## 증거 #card #law #evidence
+?begin
+### 뜻
+- evidence
+### 예
+- 증거를 찾아요
+- I find evidence
+- 증거가 없어요
+- There's no evidence
+?end
+
+## 재판 #card #law #trial
+?begin
+### 뜻
+- trial
+### 예
+- 재판을 받아요
+- I stand trial
+- 재판소
+- court
+?end
+
+
+
+## 변호사 #card #law #lawyer #attorney
+?begin
+### 뜻
+- lawyer
+- attorney
+### 예
+- 변호사를 고용해요
+- I hire a lawyer
+- 변호사가 됐어요
+- I became a lawyer
+?end
+
+
+
+## 사형 #card
+?begin
+### 뜻
+- death penalty
+- capital punishment
+### 예
+- 
+?end
+
+
+## 납치하다 #card
+?begin
+### 뜻
+- to kidnap
+- to abduct
+### 예
+- 납치하다=인질로 잡다
+	- to kidnap = to take as hostage
+?end
+
+
+## 도둑질 #card
+?begin
+### 뜻
+- theft
+- stealing
+### 예
+- 도둑질을 하다
+	- to steal
+?end
+
+
+## 처벌하다 #card #verb #punish
+?begin
+### 뜻
+- to punish
+- to penalize
+### 예
+- 벌을 주다
+	- to give punishment
+- 처벌하다
+	- to punish
+?end

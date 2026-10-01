@@ -1,0 +1,98 @@
+## 연예 #card
+?begin
+### 뜻
+- entertainment
+### 예
+-
+?end
+
+## 공연하다 #card
+?begin
+### 뜻
+- perform
+### 예
+- 효린은 "터치마이바디(Touch My Body)"를 공연했고, 그녀의 놀라운 라이브 공연으로 관객을 놀라게 했습니다.
+	- 효린은 "터치마이바디(Touch My Body)"를 공연했고, 그녀의 놀라운 라이브 공연으로 관객을 놀라게 했습니다.
+?end
+
+## 공연가 #card
+?begin
+### 뜻
+- performer
+### 예
+-
+?end
+
+## 연주하다 #card
+?begin
+### 뜻
+- perform musical instruments
+### 예
+- 이 음악 스타일은 세계 여러 곳에서 매우 진지하게 받아들여지고 있으며, 오늘날까지도 여전히 클래식 음악을 연주하고 배우는 사람들이 있습니다.
+	- The musical style is taken very seriously in many places around the world, and there are still people performing and learning classical music to this day
+?end
+
+## 연기하다 #card
+?begin
+### 뜻
+- perform with acting
+### 예
+-
+?end
+
+## 연기자 #card
+?begin
+### 뜻
+- performer (actor)
+### 예
+-
+?end
+
+## 대사 #card
+?begin
+### 뜻
+- lines in a play or musical
+### 예
+-
+?end
+
+## 표정 #card
+?begin
+### 뜻
+- facial expression
+### 예
+-
+<!--SR:!2026-08-27,60,250-->
+?end
+
+## 감정을 전달하다 #card
+?begin
+### 뜻
+- communicate emotion
+### 예
+-
+?end
+
+## 무대에 서다 #card
+?begin
+### 뜻
+- take the stage
+### 예
+-
+?end
+
+## 박수 #card
+?begin
+### 뜻
+- applause
+### 예
+-
+?end
+
+## 역할을 바꾸다 #card
+?begin
+### 뜻
+- applause
+### 예
+-
+?end
