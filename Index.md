@@ -1,228 +1,232 @@
 # 한국어 학습 저장소 (Korean Learning Repository)
 
-**Overview:** A comprehensive, semantically-organized Korean vocabulary and grammar repository with Obsidian-compatible flashcards for spaced repetition learning.
+Welcome to your comprehensive Korean learning vault. This repository is organized into **semantic categories** for efficient vocabulary learning and a **functional grammar structure** for grammar pattern mastery.
 
 ---
 
-## 🎯 Main Sections
+## 🎯 Quick Start
 
-### 📚 [[단어/Index.md|단어]] - Vocabulary (Master Index)
-The core vocabulary repository with **27 semantic categories** and **51+ vocabulary files** organized by meaningful concepts rather than alphabetical order.
-
-**Key Statistics:**
-- 27 primary semantic folders (생활, 활동, 추상적인 것, etc.)
-- 10 semantic subfolders within 추상적인 것 (Abstract Concepts)
-- 51+ vocabulary files organized by context and meaning
-- All content formatted as Obsidian-compatible flashcards with spaced repetition markers
-
-**Quick Navigation:**
-- [[단어/생활/Index.md|생활]] - Daily Life & Lifestyle
-- [[단어/활동/Index.md|활동]] - Activities & Actions  
-- [[단어/추상적인 것/Index.md|추상적인 것]] - Abstract Concepts (with 10 subcategories)
-- [[단어/사람/Index.md|사람]] - People & Relationships
-- [[단어/장소/Index.md|장소]] - Places & Locations
-
-See [[단어/Index.md|Vocabulary Master Index]] for complete directory.
+**New to this repository?**
+1. Start with [[단어/표현_관용구/기본_인사말|기본 인사말 (Basic Greetings)]]
+2. Explore [[단어/활동/요리|요리 (Cooking)]] or [[단어/생활/쇼핑|쇼핑 (Shopping)]] for practical vocabulary
+3. Review [[문법/Index.md|문법]] when you need to understand grammar patterns
+4. Check [[AGENT.md|AGENT.md]] for repository standards and organization principles
 
 ---
 
-### 📖 [[문법/Index.md|문법]] - Grammar (Grammar Index)
-Comprehensive grammar reference organized by **grammatical function** with related structures grouped for comparison and learning.
+## 📚 Main Sections
 
-**Key Sections:**
-- 기초 필수 문법 (Foundational Essential Grammar)
-- 조사 (Particles)
-- 연결어미 (Connective Endings - 4 categories)
-- 종결어미 (Sentence Endings)
-- 인용·간접화법 (Reported/Indirect Speech)
-- 시제·상 (Tense & Aspect)
-- 사동·피동 (Causative & Passive)
-- 보조동사 (Auxiliary Verbs)
-- 명사화 (Nominalization)
-- 높임법·문체 (Honorifics & Speech Level)
-- 숫자·단위 (Numbers & Counters)
-- 어휘 뉘앙스 (Vocabulary Nuance)
+### 📖 **[[단어/Index.md|단어 (Vocabulary Database)]]**
+The comprehensive vocabulary repository with **27 semantic categories** and **240+ vocabulary files** organized by meaning, not part of speech.
 
-See [[문법/Index.md|Grammar Index]] for complete reference.
+**Key Features:**
+- Semantic organization (생활, 활동, 추상적인 것, etc.)
+- Obsidian-compatible flashcard format with spaced repetition
+- 10 subfolders in 추상적인 것 for better navigation
+- All files link to related concepts
+
+**Popular Starting Points:**
+- [[단어/표현_관용구/Index.md|표현_관용구]] - Expressions and idioms
+- [[단어/생활/Index.md|생활]] - Daily life vocabulary
+- [[단어/활동/Index.md|활동]] - Activities and actions
 
 ---
 
-### 💬 [[사자성어/Index.md|사자성어]] - Chinese Character Idioms (四字熟語)
-Korean proverbs and idioms with Chinese origins, organized by semantic meaning for contextual learning.
+### 📝 **[[문법/Index.md|문법 (Grammar)]]**
+Organized by **grammatical function** rather than alphabetically, so related/competing grammar points sit next to each other for comparison.
+
+**13 Major Grammar Categories:**
+- 기초 필수 문법 - Foundational beginner grammar
+- 조사 (Particles) - Noun-attaching particles
+- 연결어미 (Connectives) - Cause, condition, contrast
+- 종결어미 (Sentence endings) - Speculation and possibility
+- 시제·상 (Tense & aspect)
+- 사동·피동 (Causative & passive)
+- 높임법·문체 (Honorifics & speech level)
+- And more...
+
+**Study Resources:**
+- See [[문법/study-plan|study-plan]] for recommended study order
+- Check [[문법/progress|progress]] for organization rationale
 
 ---
 
-### 📝 [[숙제/Index.md|숙제]] - Homework & Assignments
-Class materials and homework assignments organized by course and session.
-
-**Current Structure:**
-- 3A, 3B, 4A, 4B (Course levels)
-- 발표 (Presentations)
+### 🗣️ **[[사자성어|사자성어 (Chinese Idioms)]]**
+Four-character idioms organized by semantic meaning.
 
 ---
 
-### 🎓 [[수업/Index.md|수업]] - Class Materials & Notes
-Class notes, lesson materials, and course-related content.
+### 📚 **Other Folders**
+
+| Folder | Purpose |
+|--------|---------|
+| [[수업|수업]] | Class materials and lesson notes |
+| [[숙제|숙제]] | Homework and assignments |
+| [[Topik|Topik]] | TOPIK exam preparation materials |
+| [[templates|templates]] | Vocabulary and flashcard templates |
 
 ---
 
-### ⭐ [[Topik/Index.md|Topik]] - TOPIK Test Preparation
-Materials and vocabulary for Korean language proficiency testing (TOPIK).
+## 🔍 How to Navigate
 
----
+### For Vocabulary Learning:
+1. Visit [[단어/Index.md|단어/Index.md]] (Master Vocabulary Index)
+2. Click any category name to explore that semantic folder
+3. For large categories like [[추상적인 것/Index.md|추상적인 것]], navigate through semantic subfolders
+4. Click individual files to study flashcards
 
-### 📋 [[templates|Templates]]
-Obsidian templates for creating new vocabulary cards and maintaining consistency.
+### For Grammar Study:
+1. Visit [[문법/Index.md|문법/Index.md]]
+2. Follow the [[문법/study-plan|study-plan]] for recommended order
+3. Click grammar points to review detailed explanations and examples
+4. Compare related patterns within each section
 
----
-
-## 📋 Repository Structure
-
-```
-korean/
-├── 단어/                          # Vocabulary (27 primary folders + 51+ files)
-│   ├── Index.md                   # Master vocabulary index
-│   ├── 생활/                      # Daily Life (31 files)
-│   ├── 활동/                      # Activities (34 files)
-│   ├── 추상적인 것/               # Abstract Concepts (51 files in 10 subfolders)
-│   │   ├── 감정_심리/
-│   │   ├── 윤리_신념/
-│   │   ├── 성공_성취/
-│   │   ├── 사회_문화/
-│   │   ├── 소통_관계/
-│   │   ├── 상태_변화/
-│   │   ├── 개인_특성/
-│   │   ├── 시간_공간/
-│   │   ├── 프로세스_절차/
-│   │   └── 개념_추상/
-│   ├── 사람/, 장소/, 건강/, 몸/, 식사/, 연예/, 교통/
-│   ├── 기계/, 색깔/, 형용사/, 동사/, 상태/
-│   ├── 표현_관용구/, 학/, 직장/, 전자 기술/
-│   ├── 한국/, 한국 역사/, 자연/, 법/
-│   ├── 형태와 형사/, Helping words/
-│   ├── Honorifics.md
-│   ├── 시간.md
-│   ├── 기타_단어.md
-│   └── 듣기_연습/
-├── 문법/                          # Grammar (organized by function)
-│   └── Index.md
-├── 사자성어/                      # Chinese Character Idioms
-│   ├── Index.md
-│   └── Files organized by semantic meaning
-├── 숙제/                          # Homework & Assignments
-│   ├── 3A/, 3B/, 4A/, 4B/
-│   └── 발표/
-├── 수업/                          # Class Materials
-├── Topik/                         # TOPIK Test Prep
-├── templates/                     # Obsidian Templates
-└── Index.md                       # This file
-```
-
----
-
-## 🎯 How to Use This Repository
-
-### For New Learners:
-1. Start with [[단어/생활/Index.md|생활 (Daily Life)]] for everyday essentials
-2. Move to [[단어/활동/Index.md|활동 (Activities)]] for common verbs and actions
-3. Reference [[문법/Index.md|문법 (Grammar)]] for foundational structures
-
-### For Intermediate Learners:
-1. Explore [[단어/추상적인 것/Index.md|추상적인 것 (Abstract Concepts)]] to express complex ideas
-2. Study [[단어/표현_관용구/Index.md|표현_관용구 (Expressions & Idioms)]] for natural speech
-3. Deep-dive into [[문법/Index.md|specific grammar sections]] for nuance
-
-### For Advanced Learners:
-1. Review [[사자성어/Index.md|사자성어 (Chinese Character Idioms)]] for cultural depth
-2. Reference [[단어/학/Index.md|학 (Academic Vocabulary)]]
-3. Consult [[단어/표현_관용구/Index.md|Expressions]] for idiomatic fluency
-
-### By Study Goal:
-- **Conversation:** [[단词/생활/Index.md|생활]], [[단어/활동/Index.md|활동]], [[단어/표현_관용구/Index.md|표현_관용구]]
-- **Reading:** [[단어/학/Index.md|학]], [[단어/직장/Index.md|직장]], [[文法/Index.md|문법]]
-- **Writing:** [[문법/Index.md|문법]], [[단어/표현_관용구/Index.md|표현_관용구]], [[단어/상태/Index.md|상태]]
-- **TOPIK Exam:** [[Topik/Index.md|Topik Materials]]
-
----
-
-## 📚 Vocabulary Card Format
-
-All vocabulary is formatted as **Obsidian-compatible flashcards** for spaced repetition:
-
-```markdown
-## [Korean Word] #card
-?begin
-### 뜻
-- [English translation]
-- [Alternative meaning]
-
-### 예
-- [Korean sentence] - [English translation]
-- [Korean sentence] - [English translation]
-
-### Notes
-[Optional: related terms, usage patterns, nuances]
-
-<!--SR:!2027-01-15,100,250-->
-?end
-```
-
-This format supports:
-- **Spaced Repetition:** Dates track review intervals
-- **Quick Lookup:** Korean-English pairs are clearly separated
-- **Context:** Examples show usage patterns
-- **Relationships:** Notes highlight connected vocabulary
-
----
-
-## 🗂️ Semantic Organization Philosophy
-
-Rather than alphabetical arrangement, vocabulary is organized by **semantic meaning**:
-- "What does this thing *represent* or *express*?"
-- "What context would I use this word in?"
-- "What related concepts sit nearby?"
-
-This approach:
-✅ Supports intuitive discovery  
-✅ Builds vocabulary clusters for better retention  
-✅ Connects related concepts naturally  
-✅ Reduces cognitive load during review  
-
-**Example:** The word "간병인" (caregiver) lives in [[단어/활동/Index.md|활동]] (Activities) because it's a *role* defined by action, not in [[단어/사람/Index.md|사람]] (People) as a noun.
+### By Learning Goal:
+- **Conversational:** Focus on [[단어/표현_관용구/Index.md|표현_관용구]], [[단어/활동/Index.md|활동]], [[단어/생활/Index.md|생활]]
+- **Writing:** Study [[단어/동사/Index.md|동사]], [[단어/형용사/Index.md|형용사]], [[단어/추상적인 것/Index.md|추상적인 것]]
+- **Listening:** Review [[단어/표현_관용구/Index.md|표현_관용구]] and natural speech patterns
+- **Grammar:** Follow [[문법/study-plan|study-plan]] in the grammar section
+- **TOPIK Exam:** Systematically cover all semantic categories + grammar points
 
 ---
 
 ## 📊 Repository Statistics
 
-| Category | Count |
-|----------|-------|
-| **Semantic folders (단어)** | 27 primary + 10 subfolders |
-| **Vocabulary files** | 51+ files |
-| **Grammar sections** | 13 main categories |
-| **Chinese idioms** | Organized by semantic meaning |
-| **Course materials** | 4 course levels + presentations |
+| Metric | Count |
+|--------|-------|
+| **Main Semantic Folders** | 27 |
+| **Semantic Subfolders** | 10 (in 추상적인 것) |
+| **Vocabulary Files** | 240+ |
+| **Grammar Categories** | 13 |
+| **Index.md Navigation Files** | 38+ |
+| **Total Markdown Files** | 500+ |
+| **Format** | Obsidian-compatible flashcards (#card) |
 
 ---
 
-## 🔗 Quick Links
+## 🎓 Using This Repository in Obsidian
 
-**Vocabulary:**
-- [[단어/Index.md|Master Vocabulary Index]] - Complete overview
-- [[단어/생활/Index.md|Daily Life]] · [[단어/활動/Index.md|Activities]] · [[단어/추상적인 것/Index.md|Abstract Concepts]]
-- [[단어/표현_관용구/Index.md|Expressions & Idioms]] · [[단어/사람/Index.md|People]] · [[단어/장소/Index.md|Places]]
+### Spaced Repetition:
+- All vocabulary files use `#card` markers for Obsidian's spaced repetition plugin
+- Cards include:
+  - **뜻 (Meaning)** - English translation
+  - **예 (Examples)** - Korean-English sentence pairs
+  - **Notes** - Related terms and nuances
 
-**Grammar:**
-- [[문법/Index.md|Grammar Index]] - Complete grammar reference
+### Graph View:
+- Use Obsidian's graph feature to explore connections between files
+- Wiki-style links [[]] show relationships between vocabulary categories
+- Follow the semantic hierarchy for related concepts
 
-**Other Resources:**
-- [[사자성어/Index.md|Chinese Character Idioms]] · [[숙제/Index.md|Homework]] · [[Topik/Index.md|TOPIK Materials]]
+### Quick Navigation:
+- Use Ctrl+K (or Cmd+K) to open the Quick Switcher
+- Search by folder or file name to jump directly to content
+- All Index.md files provide structured navigation
+
+### Search:
+- Use Ctrl+Shift+F (or Cmd+Shift+F) for full-text search
+- Search for Korean terms to find examples across the repository
+- Search for grammar patterns or vocabulary groups
 
 ---
 
-## 📅 Last Updated
+## 📋 Folder Structure
 
-**October 1, 2026** - Repository root index created with comprehensive navigation
+```
+korean/
+├── Index.md                          # You are here (repository root)
+├── AGENT.md                          # Repository standards & guidelines
+├── TODO_REMAINING_TASKS.md           # Future task roadmap
+├── REORGANIZATION_PROGRESS.md        # Completion report
+├── 단어/                             # Main vocabulary database (27 folders)
+│   ├── Index.md                      # Vocabulary master index
+│   ├── 생활/                         # Daily life
+│   ├── 활동/                         # Activities
+│   ├── 추상적인 것/                  # Abstract concepts (10 subfolders)
+│   ├── ... (20 more semantic folders)
+│
+├── 문법/                             # Grammar by function
+│   ├── Index.md                      # Grammar index
+│   ├── study-plan                    # Recommended study order
+│   ├── 00-index/
+│   ├── 01-조사 (Particles)/
+│   ├── ... (11 more grammar sections)
+│
+├── 사자성어/                         # Four-character idioms
+├── 수업/                             # Class materials
+├── 숙제/                             # Homework
+├── Topik/                            # TOPIK exam prep
+└── templates/                        # Flashcard templates
+```
 
 ---
 
-**For repository maintenance and organization standards, see [[AGENT.md|AGENT.md]]**
+## 📖 Key Files to Review
+
+- **[[AGENT.md|AGENT.md]]** - Complete repository standards, organization principles, and card format specifications
+- **[[단어/Index.md|단어/Index.md]]** - Master vocabulary index with all 27 categories
+- **[[문법/Index.md|문법/Index.md]]** - Grammar index organized by function
+- **[[TODO_REMAINING_TASKS.md|TODO_REMAINING_TASKS.md]]** - Generic task templates for future maintenance
+- **[[REORGANIZATION_PROGRESS.md|REORGANIZATION_PROGRESS.md]]** - Detailed completion report
+
+---
+
+## ✨ Repository Highlights
+
+✅ **Semantic Organization** - Vocabulary organized by meaning, not grammar  
+✅ **Spaced Repetition** - All cards use #card format for Obsidian plugins  
+✅ **Comprehensive** - 240+ vocabulary files + 13 grammar sections  
+✅ **Navigable** - 38+ Index.md files with wiki-style links throughout  
+✅ **Maintainable** - Clear standards (AGENT.md) and organization principles  
+✅ **Scalable** - Easy to add new vocabulary following semantic guidelines  
+
+---
+
+## 🚀 Getting Started with New Vocabulary
+
+To add new Korean vocabulary:
+
+1. **Identify the semantic category** - What concept does this word relate to?
+2. **Find or create the appropriate file** in `korean/단어/[category]/`
+3. **Convert to standard `#card` format** with:
+   - Korean word/phrase as header
+   - `뜻` section with English translation
+   - `예` section with Korean-English sentence pairs
+   - Optional `Notes` section for related terms
+4. **Update the folder's Index.md** if you created a new file
+5. **Follow AGENT.md** for complete formatting guidelines
+
+**Example:**
+```markdown
+## 간병인 #card
+?begin
+### 뜻
+- caregiver
+- medical assistant
+
+### 예
+- 아버지를 돌보기 위해 간병인을 고용했어요
+  - We hired a caregiver to look after my father
+
+### Notes
+- Related: 보호자 (guardian), 의료진 (medical staff)
+
+<!--SR:!2027-01-15,100,250-->
+?end
+```
+
+---
+
+## 📞 Quick Links
+
+- **Standards:** [[AGENT.md|AGENT.md]]
+- **Vocabulary Master Index:** [[단어/Index.md|단어/Index.md]]
+- **Grammar Index:** [[문법/Index.md|문법/Index.md]]
+- **Future Tasks:** [[TODO_REMAINING_TASKS.md|TODO_REMAINING_TASKS.md]]
+- **Progress Report:** [[REORGANIZATION_PROGRESS.md|REORGANIZATION_PROGRESS.md]]
+
+---
+
+**Last Updated:** October 1, 2026  
+**Repository Status:** ✅ Fully organized and navigable
+
