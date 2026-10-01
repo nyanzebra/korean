@@ -4,10 +4,10 @@ This folder contains vocabulary related to mechanical objects, equipment, tools,
 
 ## Files in this folder:
 
-- **기계.md** - Machines and mechanical devices
-- **스포츠 용품.md** - Sports equipment and gear
-- **집.md** - House-related items and structures
-- **회전.md** - Rotation and turning concepts
+- [[기계.md|Machines and mechanical devices]]
+- [[스포츠 용품.md|Sports equipment and gear]]
+- [[집.md|House-related items and structures]]
+- [[회전.md|Rotation and turning concepts]]
 
 ---
 
