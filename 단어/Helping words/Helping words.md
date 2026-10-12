@@ -558,7 +558,7 @@ https://hinative.com/questions/16678555
 	- dip in sauce
 - 카드를 거기에 찍어야 돼
 	- you must scan you card there
-<!--SR:!2026-08-30,224,249-->
+<!--SR:!2028-12-03,783,269-->
 ?end
 
 ## 무엇보다도 #card
