@@ -289,7 +289,7 @@ https://hinative.com/questions/16678555
 ### 예
 - 그는 최소의 비용으로 그것을 그럭저럭 해냈다
 	- He managed to do it at the minimum of cost.
-<!--SR:!2026-09-30,94,250-->
+<!--SR:!2026-10-15,3,250-->
 ?end
 
 
