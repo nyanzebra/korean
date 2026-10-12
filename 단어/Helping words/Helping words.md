@@ -106,7 +106,7 @@ https://hinative.com/questions/16678555
 	- We will stay here for the time being.
 - 그래서 그 목록을 천천히 보고 우선 순위를 매겼습니다.
 	- So what I did was, I went through and I prioritized that list.
-<!--SR:!2026-10-05,1,250-->
+<!--SR:!2026-10-15,3,250-->
 ?end
 
 
@@ -724,7 +724,7 @@ https://hinative.com/questions/16678555
 ### 예
 - 기껏해야 하루에 한 번
 	- at most once a day
-<!--SR:!2026-08-12,155,230-->
+<!--SR:!2026-12-30,79,210-->
 ?end
 
 
