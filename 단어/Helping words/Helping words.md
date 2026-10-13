@@ -458,7 +458,7 @@ https://hinative.com/questions/16678555
 	- thorough change
 - 철저한 토론
 	- thorough discussion
-<!--SR:!2026-10-09,11,270-->
+<!--SR:!2026-11-11,29,270-->
 ?end
 
 ## 평범하다 #card
