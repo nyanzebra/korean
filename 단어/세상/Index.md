@@ -23,6 +23,7 @@
 | [[돈.md|돈]] | Money and financial terms |
 | [[동물.md|동물]] | Animals |
 | [[범죄 조직.md|범죄 조직]] | Criminal organizations |
+| [[사고_안전.md|사고_안전]] | Accidents, disasters, and public safety |
 | [[시간.md|시간]] | Time concepts |
 | [[식물.md|식물]] | Plants and vegetation |
 | [[자연.md|자연]] | Nature |
