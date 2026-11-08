@@ -1,8 +1,17 @@
-
-https://letusstudykorean.com/%EC%96%B4%EC%95%84%EC%97%AC%EC%84%9C-vs-%EC%9C%BC%EB%8B%88%EA%B9%8C-differences-and-important-rules/
-
+## 서 vs 으니까 #card
+?begin
+### Usage
 These two – ~어/아/여서 and ~(으)니까 – are probably two of the most commonly confused grammar expression. To be very honest, I’m not sure about the difference at times. I’ll list some very important rules down (with much research) because the difference can’t be easily explained through mere differences. There are very specific situations where they can be used.
 
+- **~어/아/여서**: explains *cause and effect* (a natural consequence, usually already happened); emphasis falls on the clause after it. See [[아서_어서]].
+- **~(으)니까**: *justifies* an action, thought, suggestion or request; emphasis falls on the clause before it. See [[으니까]].
+### Form
+- ~어/아/여서: no tense marker before it (×배고팠어서). Tense goes only at the end of the sentence.
+- ~(으)니까: can attach to a past-tense verb/adjective (왔으니까, 봤으니까).
+### Restrictions
+- ~어/아/여서 cannot be followed by propositive/imperative endings or the speaker's intention (~(으)세요, ~ㅂ시다, ~자, ~ㄹ까, ~겠, ~ㄹ게) — use ~(으)니까.
+- ~(으)니까 cannot be used for greetings, apologies, gratitude and emotional statements (반갑습니다, 감사합니다, 죄송합니다, 다행이에요, 슬퍼요) — use ~어/아/여서.
+### Examples
 #### Important rules about using ~어/아/여서 and ~(으)니까
 
 #### **1. ~어/아/여서 cannot be used for propositive, imperative situations or expressing one’s intent**
@@ -25,13 +34,13 @@ Because/Since today is cold, let’s eat spicy food.
 오늘 추워서 집에서 영화를 볼까(요)? (X)  
 Because/Since today is cold, shall we watch a movie at home?
 
-오늘 추우니까 장갑을 입고 나가겠어요. (O)  
-오늘 추워서 장갑을 입고 나가겠어요. (X)  
+오늘 추우니까 장갑을 끼고 나가겠어요. (O)  
+오늘 추워서 장갑을 끼고 나가겠어요. (X)  
 Because/Since today is cold, I’ll wear gloves and go out.
 
 #### **2. ~(으)니까 cannot be used in speeches of greetings/apologies/gratitude**
 
-This means that in any sentence that you’re greeting, apologising, thanking, or any other similar situations that involve some sort of emotions, you cannot use ~(으)니까.
+This means that in any sentence that you’re greeting, apologizing, thanking, or any other similar situations that involve some sort of emotions, you cannot use ~(으)니까.
 
 Examples:
 
@@ -67,8 +76,8 @@ In other words, ~어/아/여서 is usually used when recounting past experiences
 
 Examples:
 
-배고 너무 파서 많이 먹었어요. (O)  
-배고 너무 프니까 많이 먹었어요. (X)  
+배가 너무 고파서 많이 먹었어요. (O)  
+배가 너무 고프니까 많이 먹었어요. (X)  
 I was really hungry so I ate a lot.
 
 비가 와서 학교에 늦게 도착했어요. (O)  
@@ -89,7 +98,7 @@ For example, unless (and this is very rare that it’s case) the situation in th
 
 In other words, ~(으)니까 is usually used when explaining the motivation or reason behind a certain action. Most of the time, you would want to use ~(으)니까 if a justification is needed for a certain action.
 
-Also, when you use ~(으)니까, you’re essentially making it clear to the listener(s) that the justification is being emphasised on.
+Also, when you use ~(으)니까, you’re essentially making it clear to the listener(s) that the justification is being emphasized on.
 
 *~(으)니까 places emphasis on the clause before it, essentially placing more focus on the reason instead of the action. This is also because the action is usually not carried out yet (present or future).
 
@@ -99,24 +108,24 @@ Examples:
 높은 성적을 얻고 싶어서 지금부터 드라마 안 보고 끝까지 열심히 공부할게요. (X)  
 Because/Since I want to get a high grade, from now on, I won’t watch dramas and study hard until the end.
 
-엄마는 장미꽃을 아주 좋아하시니까 꽃집이 멀어도 꼭 샀다 올게요. (O)  
-엄마는 장미꽃을 아주 좋아해서 꽃집이 멀어도 꼭 샀다 올게요. (X)  
+엄마는 장미꽃을 아주 좋아하시니까 꽃집이 멀어도 꼭 사 올게요. (O)  
+엄마는 장미꽃을 아주 좋아해서 꽃집이 멀어도 꼭 사 올게요. (X)  
 Because/Since my Mum really loves roses, no matter how far the florist is, I will surely buy it back.
 
-보무님은 많이 힘들어도 우리를 잘 키우니까 이제 우리가 보무님을 돌보자. (O)  
-보무님은 많이 힘들어도 우리를 잘 키워서 이제 우리가 보무님을 돌보자. (X)  
-Because/Since our parents brought us up well despite that it was very tough, let’s take good care of them now.
+부모님은 많이 힘들어도 우리를 잘 키우니까 이제 우리가 부모님을 돌보자. (O)  
+부모님은 많이 힘들어도 우리를 잘 키워서 이제 우리가 부모님을 돌보자. (X)  
+Because/Since our parents brought us up well even though it was very tough, let’s take good care of them now.
 
 As you can see from the examples above, the speaker is justifying why he/she is intending to do something. There is no cause and effect relationship in those examples, simply because the action in the second clause hasn’t happened yet (the speaker’s intent).
 
-Like in the examples above, the speaker is talking about something that has already happened in the first clause (and emphasising it), which is essentially the justification for the intent/request in the second clause.
+Like in the examples above, the speaker is talking about something that has already happened in the first clause (and emphasizing it), which is essentially the justification for the intent/request in the second clause.
 
 #### **4a. ~어/아/여서 is usually used to describe cause and effect (past) but the past tense is placed at the back of the sentence. You absolutely cannot attach ~어/아/여서 to a past tense verb/descriptive verb (adjective).**
 
 Examples:
 
-배고 너무 파서 많이 먹었어요. (O)  
-배고 너무 팠어서 많이 먹었어요. (X)  
+배가 너무 고파서 많이 먹었어요. (O)  
+배가 너무 고팠어서 많이 먹었어요. (X)  
 I was really hungry so I ate a lot.
 
 비가 와서 학교에 늦게 도착했어요. (O)  
@@ -142,9 +151,8 @@ Because/Since I watched this movie yesterday, shall we watch other movies?
 
 친구는 이 영화를 보고 재미 없다고 하니까 다른 영화를 볼까? (O)  
 Because/Since my friend watched this movie and said that it’s not interesting, shall we watch other movies?
-
+### Notes
 #### Summary
-
 #### **~어/아/여서**
 
 - cannot be used for propositive, imperative situations or expressing one’s intent (eg. ~(으)세요, ~ㅂ시다, ~자, ~ㄹ까, ~겠, ~ㄹ게)
@@ -159,4 +167,6 @@ Because/Since my friend watched this movie and said that it’s not interesting,
 - ~(으)니까 is usually used to justify an action in the present or intent to carry out an action in the future; the justification can be either something that is happening (present) or has happened (past).
 - The present/future tense is placed at the back of the sentence (action/intent/suggestion/request/etc).
 - You can attach ~(으)니까 to a past tense verb/descriptive verb (adjective)
-- 
+
+Source: https://letusstudykorean.com/%EC%96%B4%EC%95%84%EC%97%AC%EC%84%9C-vs-%EC%9C%BC%EB%8B%88%EA%B9%8C-differences-and-important-rules/
+?end

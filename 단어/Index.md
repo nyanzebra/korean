@@ -95,11 +95,11 @@ Welcome to the Korean vocabulary repository. This index organizes **26 semantic 
 - [[사람/호칭|호칭]] - Forms of address and titles
 
 ### 🎬 **[[활동/Index.md|활동]] (Activities & Actions)**
-- [[활동/경기|경기]] - Sports and competitions
+- [[활동/스포츠|경기 (merged into 스포츠)]] - Sports and competitions
 - [[활동/관광|관광]] - Tourism and sightseeing
 - [[활동/관용구|관용구]] - Idiomatic expressions related to activities
 - [[활동/기본 동사|기본 동사]] - Basic verbs
-- [[활동/기본_동사_-_이동|기본_동사_-_이동]] - Basic movement verbs
+- [[활동/기본_동사_이동|기본_동사_이동]] - Basic movement verbs
 - [[활동/놀이|놀이]] - Games and play
 - [[활동/농업|농업]] - Agriculture and farming
 - [[활동/담다_및_함유|담다_및_함유]] - Containing and holding verbs
@@ -117,7 +117,7 @@ Welcome to the Korean vocabulary repository. This index organizes **26 semantic 
 - [[활동/운동|운동]] - Exercise and sports
 - [[활동/움직이다|움직이다]] - Movement and motion verbs
 - [[활동/일상 행동|일상 행동]] - Daily routines and actions
-- [[활동/적다_-_기록|적다_-_기록]] - Writing and recording
+- [[활동/적다_기록|적다_기록]] - Writing and recording
 - [[활동/전쟁|전쟁]] - War and conflict
 - [[활동/조사|조사]] - Investigation and research
 - [[활동/청소|청소]] - Cleaning and tidiness
