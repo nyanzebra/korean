@@ -70,24 +70,6 @@
 <!--SR:!2026-12-14,318,270-->
 ?end
 
-## 전부 #card
-?begin
-### 뜻
-- everything
-- all
-- whole
-### 예
-- 두 번 다시 오지 않도록 필요한 서류를 전부 가지고 오시오
-	- Bring all the necessary documents so that you will not have to come again.
-- 새 공사는 전부 청부를 준다
-	- All the new work will be put out to contract.
-- 하나는 형의 것이 되었으나 나머지는 전부 그의 손으로 돌아갔다
-	- One went into his brother's possession, but all the rest fell into his hands.
-- 전부 한데 모아 보내는 편이 낫다
-	- You'd better send them all together.
-<!--SR:!2027-05-04,331,230-->
-?end
-
 ## 우선 #card #sogang #sogang-4A
 ?begin
 ### 뜻
@@ -238,11 +220,16 @@
 - enormous
 - huge
 - great
+- tremendous; incredible
 ### 예
 - 시험 점수가 엄청나게 올랐어요.
 	- My exam score went up enormously.
 - 서울의 교통 체증은 엄청나다.
 	- The traffic congestion in Seoul is enormous.
+- 엄청난 눈이 내렸어요
+  - An enormous amount of snow fell
+- 그 가수의 인기는 정말 엄청나요
+  - That singer's popularity is truly incredible
 ### Notes
 - 엄청나게 / 엄청 (adverb): extremely, hugely
 ?end
@@ -426,23 +413,6 @@
 <!--SR:!2026-11-18,15,290-->
 ?end
 
-## 한참 #card
-?begin
-### 뜻
-- for a while
-- quite a long time
-### 예
-- 한참 만에 그를 다시 만났다.
-	- I met him again after quite a long while.
-- 한참을 기다렸어요.
-	- I waited for quite a while.
-- 바퀴를 한 번만 움직이면 타성으로 한참 동안 돌아간다
-	- Once you set a wheel in motion, it will keep turning for quite a while because of inertia.
-### Notes
-- See also 쪽수가 한참 모자라 (부분 표현.md), where 한참 means 'by far / considerably'
-<!--SR:!2027-07-30,485,249-->
-?end
-
 ## 철저하다 #card
 ?begin
 ### 뜻
@@ -603,23 +573,6 @@
 	- It is imperative that you should immediately carry your conviction into effect.
 - 철리를 실천하다
 	- carry one's philosophy into action.
-?end
-
-## 충분하다 #card
-?begin
-### 뜻
-- enough
-- sufficient
-### 예
-- 그가 없어도 충분하다
-	- We can do well without him.
-- 로켓은 중력권을 탈출할 만한 충분한 속력을 내지 못했다
-	- The rocket failed to attain[gather] enough velocity to escape the sphere of gravity.
-- 충분한 자산
-	- ample means.
-- 충분한[불충분한] 증거
-	- sufficient[insufficient] evidence.
-<!--SR:!2027-03-01,346,253-->
 ?end
 
 ## 불충분하다 #card
