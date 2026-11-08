@@ -11,7 +11,6 @@ This folder contains vocabulary related to various locations, buildings, establi
 - [[경찰서.md|Police stations]]
 - [[공간.md|Spaces, facilities, indoors/outdoors, above/below ground]]
 - [[공원.md|Parks and leisure spaces]]
-- [[기타 단어.md|Miscellaneous words that do not fit a place theme (to be moved)]]
 - [[길.md|Roads, paths, and directions]]
 - [[도서관.md|Libraries]]
 - [[미용실.md|Beauty salons]]

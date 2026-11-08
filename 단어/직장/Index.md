@@ -1,4 +1,4 @@
-﻿# 직장 (Workplace)
+# 직장 (Workplace)
 
 This folder contains vocabulary related to work, employment, occupations, business, and workplace concepts.
 

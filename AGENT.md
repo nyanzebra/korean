@@ -70,8 +70,11 @@ Every vocabulary entry must follow this exact format:
 - Organize files by semantic meaning ("what things are or what you want to express")
 - Use descriptive Korean folder names like `활동`, `감정`, `추상적인 것`, `표현_관용구`
 - Create files within folders for specific topics, e.g., `활동/요리.md`, `활동/동작.md`
-- Use underscores for spaces in filenames: `신념_신뢰.md`
-- Use hanja in parentheses when helpful for clarity: `격언 (名言).md` or `사자성어 (四字熟語).md`
+- Use underscores for spaces in filenames: `신념_정의.md`
+- Put hanja or extra notes INSIDE the document (in `Notes`), not in the filename
+- Android/sync-safe filenames: no `( ) & · : ? * < > | " ->`; use `_` instead. Never create two names differing only by case (always `Index.md`)
+- No catch-all files (`기타`, `것`, `misc`): every card goes in a themed file
+- A word may appear in several files only when the meanings/themes differ; add a `See also` line in Notes. Same word + same meaning = ONE card
 - Keep structure flat (minimal nesting)
 - **Create an Index.md in each folder** for easy navigation
 - Place vocabulary files in semantically appropriate folders, not in root
@@ -111,7 +114,6 @@ Every vocabulary entry must follow this exact format:
 - `Index.md` - Master vocabulary index with all categories
 - `Honorifics.md` - Honorific forms
 - `시간.md` - Time-related vocabulary
-- `기타_단어.md` - Miscellaneous terms that don't fit categories
 
 ### Each semantic folder should have:
 - `Index.md` - Lists all files in that folder and provides context
@@ -129,7 +131,7 @@ Before considering work complete:
 - [ ] All cards have `예` section with Korean-English pairs
 - [ ] All folders have `Index.md`
 - [ ] Content organized by semantic meaning
-- [ ] Hanja used in parentheses: `表現 (慣用句)` not `表現_慣用句`
+- [ ] Hanja and parenthetical notes live in the card Notes, not in filenames (no `( ) & ·` in names)
 - [ ] No empty folders
 - [ ] No Untitled files
 
@@ -142,7 +144,7 @@ Before considering work complete:
 When you have a file with vocabulary that doesn't follow repository patterns:
 - 벌어지다 (widen/happen) → 활동/동작.md
 - 소재 (material/subject matter) → 학/주제.md  
-- 전망 (view/prospect) → 추상적인 것/관점.md
+- 전망 (view/prospect) → 추상적인 것/개념_추상/개념.md
 - 포기하다 (give up) → 상태/결정.md
 
 After placing vocabulary in correct semantic files, delete the original file.
@@ -182,7 +184,7 @@ After placing vocabulary in correct semantic files, delete the original file.
 
 ## 🗂️ 사자성어 (四字熟語 - Chinese Idioms) Organization
 
-Organize `사자성어.md` by **semantic meaning**, not alphabetically:
+Organize the `사자성어/` folder by **semantic meaning**, not alphabetically:
 
 **Semantic Categories for Idioms:**
 - Behavior/Character (행동과 성격): 작심삼일, 근묵자흑
@@ -191,7 +193,7 @@ Organize `사자성어.md` by **semantic meaning**, not alphabetically:
 - Misfortune/Hardship (불운과 고충): 고진감래, 과유불급
 - Appearance/Quality (외모와 품질): 경국지색, 금지옥엽
 
-Group similar idioms together within the file for easy discovery.
+Group similar idioms together within each file for easy discovery.
 
 ---
 
