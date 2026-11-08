@@ -7,7 +7,6 @@
 ## 📚 Navigation
 
 - 📖 See [[study-plan|Study Plan]] for a recommended order to study everything
-- 📋 See [[progress|Progress Notes]] for organization rationale and correctness-review log
 - 🔙 Return to [[../Index.md|Repository Root]]
 
 ---
@@ -202,7 +201,6 @@ Key points:
 - [[텐데 vs 을까 봐.md|텐데 vs 을까 봐]] - Comparison: unreal vs fear
 - [[텐데.md|텐데]] - Would/should (unreal)
 
-> **Note:** Some files in this section (텐데/을 텐데/을 텐데 걱정이다/텐데 vs 을까 봐) overlap heavily. See [[progress|Progress Notes]] for merger recommendations.
 
 ---
 
@@ -345,7 +343,6 @@ Key points:
 | Document | Purpose |
 |----------|---------|
 | [[study-plan\|Study Plan]] | Recommended study order for all grammar points |
-| [[progress\|Progress Notes]] | Organization rationale, merge decisions, and review log |
 
 ---
 

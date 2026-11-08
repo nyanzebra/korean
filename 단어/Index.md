@@ -1,6 +1,6 @@
 # 한국어 단어 (Korean Vocabulary) - Master Index
 
-Welcome to the Korean vocabulary repository. This index organizes **27 semantic categories** covering daily life, abstract concepts, and specialized topics. All vocabulary is formatted as Obsidian-compatible flashcards for spaced repetition practice.
+Welcome to the Korean vocabulary repository. This index organizes **26 semantic categories** covering daily life, abstract concepts, and specialized topics. All vocabulary is formatted as Obsidian-compatible flashcards for spaced repetition practice.
 
 ---
 
@@ -301,7 +301,7 @@ Structural and grammatical vocabulary supporting core vocabulary:
 
 ---
 
-## 📂 **All 27 Semantic Folders**
+## 📂 **All 26 Semantic Folders**
 
 | # | Folder | Type | Size |
 |---|--------|------|------|
@@ -331,7 +331,6 @@ Structural and grammatical vocabulary supporting core vocabulary:
 | 24 | [[자연/Index.md|자연]] (Nature) | Environmental | 5 files |
 | 25 | [[법/Index.md|법]] (Law) | Legal | 1 file |
 | 26 | [[형태와 형사/Index.md|형태와 형사]] (Shape) | Descriptive | 1 file |
-| 27 | [[심화_회화|심화_회화]] (Advanced Conversation) | Practice | Raw materials |
 
 ---
 
@@ -392,7 +391,7 @@ All files use Obsidian-compatible flashcard format with:
 
 ## ✅ **Repository Integrity**
 
-- **Total Semantic Folders:** 27
+- **Total Semantic Folders:** 26
 - **Total Files:** ~240+
 - **Format:** Obsidian-compatible flashcards with spaced repetition support
 - **Organization:** By semantic meaning, not by part of speech
@@ -413,4 +412,4 @@ All files use Obsidian-compatible flashcard format with:
 ## 📅 **Last Updated**
 
 **October 1, 2026**  
-Master Index rebuilt with all 27 folders accurately represented. All links verified to reference existing files only.
+Master Index rebuilt with all 26 folders accurately represented. All links verified to reference existing files only.

@@ -39,7 +39,7 @@ Folders: `03-연결어미_조건_가정_양보`, `05-종결어미_추측_가능�
 - [ ] [[는 한]], [[거든]], [[수록]]
 - [ ] [[으나 마나]], [[봤자]], [[다고 해도]], [[지라도]]
 - [ ] [[는 모양이다]], [[은가 보다_나 보다]], [[ㄴ 셈이다]]
-- [ ] [[을 텐데]] family — consider consolidating (see [[progress]])
+- [ ] [[을 텐데]] family
 - [ ] [[았을 것이다]], [[을 게 뻔하다]], [[을 뻔하다]]
 - [ ] [[네요_군요]], [[잖아요]], [[다니]]
 
@@ -80,4 +80,4 @@ than drilling on a schedule: [[판]], [[치고]], [[답시고]], [[한편으로�
 [[기 나름이다]], [[기 마련이다]], [[기 바라다]].
 
 ---
-See [[Index]] for the full category listing and [[progress]] for organizational notes.
+See [[Index]] for the full category listing.

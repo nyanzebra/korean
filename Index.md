@@ -17,7 +17,7 @@ Welcome to your comprehensive Korean learning vault. This repository is organize
 ## 📚 Main Sections
 
 ### 📖 **[[단어/Index.md|단어 (Vocabulary Database)]]**
-The comprehensive vocabulary repository with **27 semantic categories** and **240+ vocabulary files** organized by meaning, not part of speech.
+The comprehensive vocabulary repository with **26 semantic categories** and **240+ vocabulary files** organized by meaning, not part of speech.
 
 **Key Features:**
 - Semantic organization (생활, 활동, 추상적인 것, etc.)
@@ -94,7 +94,7 @@ Four-character idioms organized by semantic meaning.
 
 | Metric | Count |
 |--------|-------|
-| **Main Semantic Folders** | 27 |
+| **Main Semantic Folders** | 26 |
 | **Semantic Subfolders** | 10 (in 추상적인 것) |
 | **Vocabulary Files** | 240+ |
 | **Grammar Categories** | 13 |
@@ -136,9 +136,7 @@ Four-character idioms organized by semantic meaning.
 korean/
 ├── Index.md                          # You are here (repository root)
 ├── AGENT.md                          # Repository standards & guidelines
-├── TODO_REMAINING_TASKS.md           # Future task roadmap
-├── REORGANIZATION_PROGRESS.md        # Completion report
-├── 단어/                             # Main vocabulary database (27 folders)
+├── 단어/                             # Main vocabulary database (26 folders)
 │   ├── Index.md                      # Vocabulary master index
 │   ├── 생활/                         # Daily life
 │   ├── 활동/                         # Activities
@@ -164,10 +162,8 @@ korean/
 ## 📖 Key Files to Review
 
 - **[[AGENT.md|AGENT.md]]** - Complete repository standards, organization principles, and card format specifications
-- **[[단어/Index.md|단어/Index.md]]** - Master vocabulary index with all 27 categories
+- **[[단어/Index.md|단어/Index.md]]** - Master vocabulary index with all 26 categories
 - **[[문법/Index.md|문법/Index.md]]** - Grammar index organized by function
-- **[[TODO_REMAINING_TASKS.md|TODO_REMAINING_TASKS.md]]** - Generic task templates for future maintenance
-- **[[REORGANIZATION_PROGRESS.md|REORGANIZATION_PROGRESS.md]]** - Detailed completion report
 
 ---
 
@@ -222,8 +218,6 @@ To add new Korean vocabulary:
 - **Standards:** [[AGENT.md|AGENT.md]]
 - **Vocabulary Master Index:** [[단어/Index.md|단어/Index.md]]
 - **Grammar Index:** [[문법/Index.md|문법/Index.md]]
-- **Future Tasks:** [[TODO_REMAINING_TASKS.md|TODO_REMAINING_TASKS.md]]
-- **Progress Report:** [[REORGANIZATION_PROGRESS.md|REORGANIZATION_PROGRESS.md]]
 
 ---
 
