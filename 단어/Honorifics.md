@@ -1,5 +1,3 @@
-# Honorifics
-
 ## 잡수다 #card
 ?begin
 ### 뜻
@@ -49,4 +47,20 @@
 - 주십시오 = formal polite request; 주시오 = formal/authoritative or old-fashioned request (하오체); 주실래요? = polite "would you mind giving/doing..."
 - Related: 주다 (to give), 드리다 (to give to a superior), 받으시다 (to receive, honorific)
 <!--SR:!2026-07-31,18,250-->
+?end
+
+## 자네 #card
+?begin
+### 뜻
+- you (older to younger person - formal/polite)
+- informal term for "you" from older speaker
+### 예
+- 자네한테 할 말이 있어
+  - I have something to tell you
+- 이건 자네랑 나만 알고 있어
+  - Only you and I know this
+- 자네가 좋아해?
+  - Do you like it?
+### Notes
+- Related: 너 (you - informal), 당신 (you - formal), 그대 (you - old-fashioned)
 ?end

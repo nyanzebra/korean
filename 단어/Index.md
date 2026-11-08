@@ -1,415 +1,379 @@
 # 한국어 단어 (Korean Vocabulary) - Master Index
 
-Welcome to the Korean vocabulary repository. This index organizes **26 semantic categories** covering daily life, abstract concepts, and specialized topics. All vocabulary is formatted as Obsidian-compatible flashcards for spaced repetition practice.
+Vocabulary is organized by **semantic category**, not by part of speech. Every entry is an Obsidian flashcard (`#card`) with 뜻, 예 and optional Notes. See [[../AGENT.md|AGENT.md]] for the card format.
+
+Related: [[../사자성어/Index|사자성어]] · [[../문법/Index|문법]] · [[../Index|Repository Root]]
 
 ---
 
-## 📚 Quick Navigation by Category
+## 📂 Folders
 
-### 🏠 **[[생활/Index.md|생활]] (Daily Life & Lifestyle)**
-- [[생활/일|일]] - Work, employment, careers
-- [[생활/여행지|여행지]] - Travel destinations
-- [[생활/가족|가족]] - Family-related vocabulary
-- [[생활/거래|거래]] - Transactions and business dealings
-- [[생활/관계|관계]] - Relationships and social connections
-- [[생활/당한 것|당한 것]] - Things that happen to you
-- [[생활/물건|물건]] - Objects and items
-- [[생활/물건_설명|물건_설명]] - Descriptions of objects
-- [[생활/미술|미술]] - Art and visual arts
-- [[생활/분리수거|분리수거]] - Recycling and waste sorting
-- [[생활/사교|사교]] - Socializing and interpersonal interactions
-- [[생활/생활|생활]] - General lifestyle vocabulary
-- [[생활/선물|선물]] - Gifts and giving
-- [[생활/성격|성격]] - Personality and character traits
-- [[생활/쇼핑|쇼핑]] - Shopping
-- [[생활/신발과_시설|신발과_시설]] - Footwear and facilities
-- [[생활/연락|연락]] - Communication and contacting
-- [[생활/예술_및_기타|예술_및_기타]] - Arts and other topics
-- [[생활/옷과 패션|옷과 패션]] - Clothing and fashion
-- [[생활/외출|외출]] - Going out and outings
-- [[생활/의복|의복]] - Clothing and garments
-- [[생활/이주하다|이주하다]] - Moving and relocation
-- [[생활/일상 물건|일상 물건]] - Everyday objects
-- [[생활/일상 행동|일상 행동]] - Everyday actions
-- [[생활/일상표현_회화|일상표현_회화]] - Everyday expressions and conversation
-- [[생활/장례|장례]] - Funeral and mourning practices
-- [[생활/취미와 여가|취미와 여가]] - Hobbies and leisure
-- [[생활/파티|파티]] - Parties and celebrations
-- [[생활/행동|행동]] - Actions and behaviors
-- [[생활/가정용품|가정용품]] - Household items and appliances
-- [[생활/것|것]] - General objects and things
+| Folder | Theme | Files | Cards |
+|---|---|---|---|
+| [[생활/Index\|생활]] | Daily Life | 30 | 497 |
+| [[세상/Index\|세상]] | The World (society, money, law, politics) | 15 | 254 |
+| [[장소/Index\|장소]] | Places | 33 | 235 |
+| [[사람/Index\|사람]] | People & Relationships | 7 | 131 |
+| [[활동/Index\|활동]] | Activities & Actions | 43 | 629 |
+| [[추상적인 것/Index\|추상적인 것]] | Abstract Concepts | 41 | 697 |
+| [[표현_관용구/Index\|표현_관용구]] | Expressions, Idioms & Proverbs | 13 | 179 |
+| [[건강/Index\|건강]] | Health | 3 | 113 |
+| [[몸/Index\|몸]] | Body | 6 | 131 |
+| [[식사/Index\|식사]] | Food & Eating | 6 | 163 |
+| [[연예/Index\|연예]] | Entertainment | 1 | 17 |
+| [[교통/Index\|교통]] | Transportation | 1 | 44 |
+| [[기계/Index\|기계]] | Machines | 4 | 7 |
+| [[색깔/Index\|색깔]] | Colors | 1 | 55 |
+| [[상태/Index\|상태]] | States & Conditions | 9 | 310 |
+| [[Helping words/Index\|Helping words]] | Helping Words (adverbs, particles, mimetics) | 14 | 583 |
+| [[학/Index\|학]] | Learning & Academics | 10 | 163 |
+| [[직장/Index\|직장]] | Workplace | 8 | 223 |
+| [[전자 기술/Index\|전자 기술]] | Technology | 3 | 140 |
+| [[한국/Index\|한국]] | Korea & Culture | 3 | 55 |
+| [[한국 역사/Index\|한국 역사]] | Korean History | 3 | 16 |
+| [[자연/Index\|자연]] | Nature | 5 | 139 |
+| [[법/Index\|법]] | Law | 1 | 1 |
+| [[형태와_형상/Index\|형태와_형상]] | Shapes & Forms | 2 | 4 |
+| [[듣기_연습/Index\|듣기_연습]] | Listening Practice | 4 | 29 |
 
-### 🌍 **[[세상/Index.md|세상]] (The World)**
-- [[세상/경제|경제]] - Economy and economic concepts
-- [[세상/공고|공고]] - Announcements and notices
-- [[세상/군사|군사]] - Military and warfare terminology
-- [[세상/나라|나라]] - Countries and nations
-- [[세상/나라와 세계|나라와 세계]] - Countries and the world
-- [[세상/돈|돈]] - Money and financial terms
-- [[세상/동물|동물]] - Animals
-- [[세상/범죄 조직|범죄 조직]] - Criminal organizations
-- [[세상/시간|시간]] - Time concepts
-- [[세상/식물|식물]] - Plants and vegetation
-- [[세상/자연|자연]] - Nature
-- [[세상/정부_행정|정부_행정]] - Government and administration
-- [[세상/정치|정치]] - Politics
-- [[세상/종교|종교]] - Religion
-- [[세상/지리|지리]] - Geography
-- [[세상/환경_사회|환경_사회]] - Environment and society
-
-### 🏘️ **[[장소/Index.md|장소]] (Places & Locations)**
-- [[장소/가게|가게]] - Shops and stores
-- [[장소/가구|가구]] - Furniture
-- [[장소/건물|건물]] - Buildings and structures
-- [[장소/것|것]] - Location-related objects
-- [[장소/경기장|경기장]] - Sports venues and stadiums
-- [[장소/경찰서|경찰서]] - Police stations
-- [[장소/길|길]] - Roads and paths
-- [[장소/도서관|도서관]] - Libraries
-- [[장소/미용실|미용실]] - Beauty salons
-- [[장소/방 구조|방 구조]] - Room structure and layout
-- [[장소/방송국|방송국]] - Broadcasting stations
-- [[장소/병원|병원]] - Hospitals
-- [[장소/부엌 주방|부엌 주방]] - Kitchen and cooking areas
-- [[장소/분실물 센터|분실물 센터]] - Lost and found centers
-- [[장소/서점|서점]] - Bookstores
-- [[장소/세탁소|세탁소]] - Laundry services
-- [[장소/시장|시장]] - Markets
-- [[장소/식당|식당]] - Restaurants
-- [[장소/영화관|영화관]] - Movie theaters
-- [[장소/우체국|우체국]] - Post offices
-- [[장소/은행|은행]] - Banks
-- [[장소/자연|자연]] - Natural locations
-- [[장소/장소|장소]] - General places and locations
-- [[장소/주유소|주유소]] - Gas stations
-- [[장소/집|집]] - Houses and homes
-- [[장소/집과 가구|집과 가구]] - Houses and furniture
-- [[장소/침실|침실]] - Bedrooms
-- [[장소/화장실|화장실]] - Bathrooms
-
-### 👥 **[[사람/Index.md|사람]] (People & Relationships)**
-- [[사람/가족 관계|가족 관계]] - Family relationships
-- [[사람/가족|가족]] - Family and relatives
-- [[사람/가족과 관계|가족과 관계]] - Family and social relationships
-- [[사람/나이|나이]] - Age and age-related terms
-- [[사람/호칭|호칭]] - Forms of address and titles
-
-### 🎬 **[[활동/Index.md|활동]] (Activities & Actions)**
-- [[활동/스포츠|경기 (merged into 스포츠)]] - Sports and competitions
-- [[활동/관광|관광]] - Tourism and sightseeing
-- [[활동/관용구|관용구]] - Idiomatic expressions related to activities
-- [[활동/기본 동사|기본 동사]] - Basic verbs
-- [[활동/기본_동사_이동|기본_동사_이동]] - Basic movement verbs
-- [[활동/놀이|놀이]] - Games and play
-- [[활동/농업|농업]] - Agriculture and farming
-- [[활동/담다_및_함유|담다_및_함유]] - Containing and holding verbs
-- [[활동/독서|독서]] - Reading and literature
-- [[활동/동작|동작]] - Physical actions and movements
-- [[활동/발표|발표]] - Presentation and speaking
-- [[활동/사회보기|사회보기]] - Social observation
-- [[활동/사회적 행동|사회적 행동]] - Social actions and behavior
-- [[활동/생각과 행동|생각과 행동]] - Thinking and mental actions
-- [[활동/소통|소통]] - Communication and interaction
-- [[활동/쇼핑|쇼핑]] - Shopping and commerce
-- [[활동/스포츠|스포츠]] - Sports and physical activity
-- [[활동/양육|양육]] - Parenting and child care
-- [[활동/요리|요리]] - Cooking and culinary arts
-- [[활동/운동|운동]] - Exercise and sports
-- [[활동/움직이다|움직이다]] - Movement and motion verbs
-- [[활동/일상 행동|일상 행동]] - Daily routines and actions
-- [[활동/적다_기록|적다_기록]] - Writing and recording
-- [[활동/전쟁|전쟁]] - War and conflict
-- [[활동/조사|조사]] - Investigation and research
-- [[활동/청소|청소]] - Cleaning and tidiness
-- [[활동/취미|취미]] - Hobbies and leisure
-- [[활동/컴퓨터|컴퓨터]] - Computing and technology activities
-- [[활동/탈취|탈취]] - Removing and extraction
-- [[활동/통제_및_영향|통제_및_영향]] - Control and influence
-- [[활동/파괴|파괴]] - Destruction and damage
-- [[활동/활동|활동]] - General activities
-- [[활동/획득|획득]] - Acquisition and obtaining
-
-### 💭 **[[추상적인 것/Index.md|추상적인 것]] (Abstract Concepts & Ideas)**
-
-This category contains 51 vocabulary files organized into 10 semantic subfolders:
-
-- [[추상적인 것/감정_심리/Index.md|감정_심리]] - Emotions, feelings, thoughts, and psychological states
-- [[추상적인 것/윤리_신념/Index.md|윤리_신념]] - Ethics, morality, beliefs, and trust
-- [[추상적인 것/성공_성취/Index.md|성공_성취]] - Success, achievement, and accomplishment
-- [[추상적인 것/사회_문화/Index.md|사회_문화]] - Society, culture, and social concepts
-- [[추상적인 것/소통_관계/Index.md|소통_관계]] - Communication, relationships, and interaction
-- [[추상적인 것/상태_변화/Index.md|상태_변화]] - States, conditions, and changes
-- [[추상적인 것/개인_특성/Index.md|개인_특성]] - Personal characteristics, traits, and qualities
-- [[추상적인 것/시간_공간/Index.md|시간_공간]] - Time, space, location, and temporal concepts
-- [[추상적인 것/프로세스_절차/Index.md|프로세스_절차]] - Processes, procedures, and operations
-- [[추상적인 것/개념_추상/Index.md|개념_추상]] - General concepts, abstractions, and ideas
-
-### 🗣️ **[[표현_관용구/Index.md|표현_관용구]] (Expressions & Idioms)**
-
-Expressions, idioms, proverbs, greetings, and colloquial phrases:
-
-- [[표현_관용구/격언_명언|격언_명언]] - Maxims and wise sayings
-- [[표현_관용구/기본_인사말|기본_인사말]] - Basic greetings
-- [[표현_관용구/도움_제안|도움_제안]] - Offers of help and suggestions
-- [[표현_관용구/사과_감사|사과_감사]] - Apologies and gratitude
-- [[표현_관용구/사자성어|사자성어]] - Chinese-origin idioms (四字熟語)
-- [[표현_관용구/속담|속담]] - Proverbs and folk sayings
-- [[표현_관용구/의견표현|의견표현]] - Opinion expressions
-- [[표현_관용구/인사말|인사말]] - Greetings and salutations
-- [[표현_관용구/일상표현|일상표현]] - Everyday expressions
-- [[표현_관용구/일상활동|일상활동]] - Everyday activities
-- [[표현_관용구/통신_기술|통신_기술]] - Communication and technology
-- [[표현_관용구/호스팅_행사|호스팅_행사]] - Hosting and events
-- [[표현_관용구/회화표현|회화표현]] - Conversational expressions
-
-### 🏥 **[[건강/Index.md|건강]] (Health & Medicine)**
-- [[건강/건강|건강]] - General health and wellness concepts
-- [[건강/신체 부위|신체 부위]] - Body parts and anatomical terms
-- [[건강/의료|의료]] - Medical terminology and healthcare
-- [[건강/증상|증상]] - Symptoms and physical conditions
-
-### 👕 **[[몸/Index.md|몸]] (Body & Appearance)**
-- [[몸/것|것]] - Body-related objects and items
-- [[몸/신체|신체]] - General body and physical structure
-- [[몸/치아|치아]] - Teeth and dental terms
-- [[몸/해부|해부]] - Anatomical and physiological terms
-- [[몸/화장|화장]] - Cosmetics and makeup
-
-### 🍽️ **[[식사/Index.md|식사]] (Food & Dining)**
-- [[식사/것|것]] - Food objects and items
-- [[식사/맛|맛]] - Taste and flavor-related words
-- [[식사/음식|음식]] - Food and dishes
-
-### 🎵 **[[연예/Index.md|연예]] (Entertainment & Arts)**
-- [[연예/미디어|미디어]] - Media and media-related terms
-
-### 🚗 **[[교통/Index.md|교통]] (Transportation)**
-- [[교통/교통수단|교통수단]] - Transportation methods and vehicles
-
-### 🔧 **[[기계/Index.md|기계]] (Machines & Mechanical)**
-- [[기계/기계|기계]] - Machines and mechanical devices
-- [[기계/스포츠 용품|스포츠 용품]] - Sports equipment and gear
-- [[기계/집|집]] - House-related items and structures
-- [[기계/회전|회전]] - Rotation and turning concepts
-
-### 🎨 **[[색깔/Index.md|색깔]] (Colors)**
-- [[색깔/색깔|색깔]] - Colors and color-related vocabulary
-
-### 📏 **[[형용사/Index.md|형용사]] (Adjectives)**
-- [[형용사/색깔|색깔]] - Color-related adjectives and descriptions
-
-### 📝 **[[동사/Index.md|동사]] (Verbs & Actions)**
-- [[동사/동료|동료]] - Subfolders and files related to verbs and verb usage
-
-### 📊 **[[상태/Index.md|상태]] (States & Conditions)**
-- [[상태/start, maintain, end|start, maintain, end]] - Verbs related to starting, continuing, and ending
-- [[상태/각성|각성]] - Awakening and awareness states
-- [[상태/감정과_성질|감정과_성질]] - Emotions and qualities
-- [[상태/개인|개인]] - Individual and personal states
-- [[상태/것들|것들]] - Objects and things
-- [[상태/고정|고정]] - Fixed and stable states
-- [[상태/만족_성취|만족_성취]] - Satisfaction and achievement
-- [[상태/분위기|분위기]] - Atmosphere and mood
-- [[상태/상태|상태]] - General states and conditions
-- [[상태/은밀|은밀]] - Hidden and secret states
-- [[상태/충돌_피해|충돌_피해]] - Conflict and damage
-- [[상태/크기와 양|크기와 양]] - Size and quantity
-- [[상태/통제_유지|통제_유지]] - Control and maintenance
-- [[상태/평온|평온]] - Peace and calmness
-- [[상태/형용사|형용사]] - Adjectives
-- [[상태/형용사와 부사|형용사와 부사]] - Adjectives and adverbs
-
-### 🤝 **[[보조 단어/Index.md|Helping words (보조 단어)]]**
-
-Structural and grammatical vocabulary supporting core vocabulary:
-
-- [[Helping words/Helping words|Helping words]] - General helping words and particles
-- [[Helping words/관용구|관용구]] - Idiomatic expressions and phrases
-- [[Helping words/대명사|대명사]] - Pronouns
-- [[Helping words/말하기|말하기]] - Speech and communication verbs
-- [[Helping words/방향 동사|방향 동사]] - Directional verbs
-- [[Helping words/방향|방향]] - Directional words and concepts
-- [[Helping words/부분 표현|부분 표현]] - Partial and fractional expressions
-- [[Helping words/부사|부사]] - Adverbs
-- [[Helping words/수와 카운터|수와 카운터]] - Numbers and counters
-- [[Helping words/시간 개념|시간 개념]] - Time concepts
-- [[Helping words/시간 표현|시간 표현]] - Time expressions
-- [[Helping words/위치 표현|위치 표현]] - Location and position expressions
-- [[Helping words/의성어|의성어]] - Onomatopoeia
-- [[Helping words/의성어_및_표현|의성어_및_표현]] - Onomatopoeia and expressions
-- [[Helping words/의태어|의태어]] - Mimetic words (descriptive sounds and movements)
-- [[Helping words/접속사|접속사]] - Conjunctions
-- [[Helping words/표현|표현]] - General expressions
-- [[Helping words/표현_및_언어|표현_및_언어]] - Expressions and language
-- [[Helping words/필수 동사|필수 동사]] - Essential verbs
-- [[Helping words/필수 형용사|필수 형용사]] - Essential adjectives
-
-### 🎓 **[[학/Index.md|학]] (Learning & Education)**
-- [[학/과학|과학]] - Science and scientific concepts
-- [[학/교육|교육]] - Education and teaching
-- [[학/기술|기술]] - Technology and technical knowledge
-- [[학/수학|수학]] - Mathematics and mathematical terms
-- [[학/언어|언어]] - Language and linguistics
-- [[학/의학|의학]] - Medicine and medical science
-- [[학/조사|조사]] - Research and investigation
-- [[학/책|책]] - Books and literature
-- [[학/학교 생활|학교 생활]] - School life
-- [[학/학교|학교]] - School-related vocabulary
-
-### 💼 **[[직장/Index.md|직장]] (Workplace & Employment)**
-- [[직장/사업_취직|사업_취직]] - Business and employment
-- [[직장/수사|수사]] - Investigation and detection
-- [[직장/업무_시간대|업무_시간대]] - Work tasks and time periods
-- [[직장/인재|인재]] - Talent and personnel
-- [[직장/일|일]] - Work and labor
-- [[직장/직업|직업]] - Occupations and jobs
-- [[직장/직업_선택|직업_선택]] - Occupational choice
-- [[직장/직업과 일|직업과 일]] - Occupations and work
-- [[직장/직업과 직위|직업과 직위]] - Jobs and positions
-- [[직장/직장 생활|직장 생활]] - Workplace life
-- [[직장/회사|회사]] - Companies and organizations
-
-### 📚 **[[전자 기술/Index.md|전자 기술]] (Electronics & Technology)**
-- [[전자 기술/기술|기술]] - Technology and technical concepts
-- [[전자 기술/미디어와 통신|미디어와 통신]] - Media and communication
-- [[전자 기술/전자 기기|전자 기기]] - Electronic devices
-
-### 🇰🇷 **[[한국/Index.md|한국]] (Korea)**
-- [[한국/것|것]] - Korean-related objects and things
-- [[한국/문화|문화]] - Korean culture and traditions
-- [[한국/역사|역사]] - Korean history
-- [[한국/한국 역사|한국 역사]] - More detailed Korean history
-- [[한국/한국 지역|한국 지역]] - Korean regions and geography
-
-### 🏛️ **[[한국 역사/Index.md|한국 역사]] (Korean History)**
-- [[한국 역사/일본 식민지|일본 식민지]] - Japanese colonial period
-- [[한국 역사/조선|조선]] - Joseon Dynasty period
-- [[한국 역사/한국전쟁|한국전쟁]] - Korean War
-
-### 🔍 **[[자연/Index.md|자연]] (Nature)**
-- [[자연/날씨|날씨]] - Weather and climate
-- [[자연/동물|동물]] - Animals and wildlife
-- [[자연/식물_가드닝|식물_가드닝]] - Plants and gardening
-- [[자연/식물과 과일|식물과 과일]] - Plants and fruits
-- [[자연/액체|액체]] - Liquids and liquid substances
-
-### ⚖️ **[[법/Index.md|법]] (Law & Justice)**
-- [[법/범죄|범죄]] - Crime and criminal concepts
-
-### 📖 **[[형태와 형사/Index.md|형태와 형사]] (Shape & Descriptive Terms)**
-- [[형태와 형사/더미|더미]] - Placeholder or miscellaneous items
+**Total cards:** 4885
 
 ---
 
-## 📂 **All 26 Semantic Folders**
+## 📖 Contents (file – cards)
 
-| # | Folder | Type | Size |
-|---|--------|------|------|
-| 1 | [[생활/Index.md|생활]] (Daily Life) | Practical | 32 files |
-| 2 | [[세상/Index.md|세상]] (The World) | Global | 16 files |
-| 3 | [[장소/Index.md|장소]] (Places) | Spatial | 28 files |
-| 4 | [[사람/Index.md|사람]] (People) | Social | 5 files |
-| 5 | [[활동/Index.md|활동]] (Activities) | Behavioral | 34 files |
-| 6 | [[추상적인 것/Index.md|추상적인 것]] (Abstract) | Conceptual | 50+ files |
-| 7 | [[표현_관용구/Index.md|표현_관용구]] (Expressions) | Linguistic | 13 files |
-| 8 | [[건강/Index.md|건강]] (Health) | Medical | 4 files |
-| 9 | [[몸/Index.md|몸]] (Body) | Anatomical | 5 files |
-| 10 | [[식사/Index.md|식사]] (Food) | Culinary | 3 files |
-| 11 | [[연예/Index.md|연예]] (Entertainment) | Media | 1 file |
-| 12 | [[교통/Index.md|교통]] (Transportation) | Mobility | 1 file |
-| 13 | [[기계/Index.md|기계]] (Machines) | Technical | 4 files |
-| 14 | [[색깔/Index.md|색깔]] (Colors) | Visual | 1 file |
-| 15 | [[형용사/Index.md|형용사]] (Adjectives) | Descriptive | 1 file |
-| 16 | [[동사/Index.md|동사]] (Verbs) | Action | 1 file |
-| 17 | [[상태/Index.md|상태]] (States) | Condition | 16 files |
-| 18 | [[Helping words/Index.md|Helping words]] (보조 단어) | Structural | 20 files |
-| 19 | [[학/Index.md|학]] (Learning) | Academic | 10 files |
-| 20 | [[직장/Index.md|직장]] (Workplace) | Professional | 11 files |
-| 21 | [[전자 기술/Index.md|전자 기술]] (Technology) | Digital | 3 files |
-| 22 | [[한국/Index.md|한국]] (Korea) | Cultural | 5 files |
-| 23 | [[한국 역사/Index.md|한국 역사]] (Korean History) | Historical | 3 files |
-| 24 | [[자연/Index.md|자연]] (Nature) | Environmental | 5 files |
-| 25 | [[법/Index.md|법]] (Law) | Legal | 1 file |
-| 26 | [[형태와 형사/Index.md|형태와 형사]] (Shape) | Descriptive | 1 file |
+### [[생활/Index|생활]] — Daily Life
+- [[생활/가정용품|가정용품]] (39)
+- [[생활/가족|가족]] (6)
+- [[생활/거래|거래]] (13)
+- [[생활/것|것]] (23)
+- [[생활/결혼|결혼]] (10)
+- [[생활/관계|관계]] (11)
+- [[생활/당한 것|당한 것]] (3)
+- [[생활/도구_기구|도구_기구]] (7)
+- [[생활/물건|물건]] (39)
+- [[생활/물건_설명|물건_설명]] (8)
+- [[생활/미디어_출판|미디어_출판]] (2)
+- [[생활/미술|미술]] (12)
+- [[생활/분리수거|분리수거]] (10)
+- [[생활/사교|사교]] (9)
+- [[생활/생활|생활]] (7)
+- [[생활/선물|선물]] (3)
+- [[생활/성격|성격]] (20)
+- [[생활/쇼핑_금융|쇼핑_금융]] (43)
+- [[생활/시간_관용|시간_관용]] (5)
+- [[생활/식기_도구|식기_도구]] (9)
+- [[생활/여행지|여행지]] (34)
+- [[생활/연락|연락]] (7)
+- [[생활/음식|음식]] (1)
+- [[생활/의복|의복]] (72)
+- [[생활/이민_출입국|이민_출입국]] (7)
+- [[생활/일|일]] (34)
+- [[생활/일상표현_회화|일상표현_회화]] (22)
+- [[생활/장례|장례]] (8)
+- [[생활/취미와 여가|취미와 여가]] (22)
+- [[생활/행동|행동]] (11)
+
+### [[세상/Index|세상]] — The World (society, money, law, politics)
+- [[세상/경제|경제]] (24)
+- [[세상/군사|군사]] (8)
+- [[세상/나라와 세계|나라와 세계]] (49)
+- [[세상/돈|돈]] (22)
+- [[세상/동물|동물]] (6)
+- [[세상/법|법]] (10)
+- [[세상/사건_일화|사건_일화]] (7)
+- [[세상/사고_안전|사고_안전]] (21)
+- [[세상/시간|시간]] (12)
+- [[세상/자연|자연]] (37)
+- [[세상/정부_행정|정부_행정]] (10)
+- [[세상/정치|정치]] (25)
+- [[세상/종교|종교]] (6)
+- [[세상/지리|지리]] (11)
+- [[세상/환경_사회|환경_사회]] (6)
+
+### [[장소/Index|장소]] — Places
+- [[장소/가게|가게]] (2)
+- [[장소/가구|가구]] (17)
+- [[장소/건물|건물]] (9)
+- [[장소/경기장|경기장]] (2)
+- [[장소/경찰서|경찰서]] (1)
+- [[장소/공간|공간]] (9)
+- [[장소/공원|공원]] (6)
+- [[장소/기타 단어|기타 단어]] (11)
+- [[장소/길|길]] (6)
+- [[장소/도서관|도서관]] (1)
+- [[장소/미용실|미용실]] (2)
+- [[장소/방 구조|방 구조]] (19)
+- [[장소/방송국|방송국]] (7)
+- [[장소/병원|병원]] (7)
+- [[장소/부동산|부동산]] (18)
+- [[장소/부엌 주방|부엌 주방]] (9)
+- [[장소/분실물 센터|분실물 센터]] (2)
+- [[장소/서점|서점]] (1)
+- [[장소/세탁소|세탁소]] (1)
+- [[장소/시장|시장]] (2)
+- [[장소/식당|식당]] (3)
+- [[장소/영화관|영화관]] (9)
+- [[장소/우체국|우체국]] (9)
+- [[장소/유적지|유적지]] (12)
+- [[장소/은행|은행]] (17)
+- [[장소/자연|자연]] (11)
+- [[장소/장소|장소]] (8)
+- [[장소/주유소|주유소]] (1)
+- [[장소/집|집]] (9)
+- [[장소/청소|청소]] (9)
+- [[장소/화장실|화장실]] (7)
+- **[[장소/학교/Index|학교/]]**
+  - [[장소/학교/전공|전공]] (3)
+  - [[장소/학교/학교|학교]] (5)
+
+### [[사람/Index|사람]] — People & Relationships
+- [[사람/가족과_관계|가족과_관계]] (66)
+- [[사람/국적_민족|국적_민족]] (2)
+- [[사람/나이|나이]] (12)
+- [[사람/부인|부인]] (1)
+- [[사람/사람_일반|사람_일반]] (15)
+- [[사람/직업|직업]] (28)
+- [[사람/호칭|호칭]] (7)
+
+### [[활동/Index|활동]] — Activities & Actions
+- [[활동/감정_표현|감정_표현]] (1)
+- [[활동/거래_상거래|거래_상거래]] (1)
+- [[활동/관광|관광]] (9)
+- [[활동/관용구|관용구]] (1)
+- [[활동/기본 동사|기본 동사]] (84)
+- [[활동/기본_동사_이동|기본_동사_이동]] (4)
+- [[활동/기본동작|기본동작]] (6)
+- [[활동/놀이|놀이]] (18)
+- [[활동/농업|농업]] (7)
+- [[활동/담다_및_함유|담다_및_함유]] (3)
+- [[활동/대화|대화]] (31)
+- [[활동/독서|독서]] (5)
+- [[활동/동작|동작]] (114)
+- [[활동/발표|발표]] (3)
+- [[활동/변화_발전|변화_발전]] (1)
+- [[활동/사회보기|사회보기]] (4)
+- [[활동/사회적 행동|사회적 행동]] (38)
+- [[활동/생각과 행동|생각과 행동]] (65)
+- [[활동/소통|소통]] (28)
+- [[활동/쇼핑|쇼핑]] (14)
+- [[활동/스포츠|스포츠]] (50)
+- [[활동/시각_표현|시각_표현]] (1)
+- [[활동/시간표현|시간표현]] (1)
+- [[활동/양육|양육]] (1)
+- [[활동/요리|요리]] (7)
+- [[활동/운동|운동]] (9)
+- [[활동/움직이다|움직이다]] (26)
+- [[활동/음악|음악]] (1)
+- [[활동/일상 행동|일상 행동]] (1)
+- [[활동/적다_기록|적다_기록]] (4)
+- [[활동/전쟁|전쟁]] (1)
+- [[활동/조사|조사]] (6)
+- [[활동/직장생활|직장생활]] (2)
+- [[활동/청소|청소]] (8)
+- [[활동/취미|취미]] (35)
+- [[활동/컴퓨터|컴퓨터]] (14)
+- [[활동/탈취|탈취]] (6)
+- [[활동/통제_및_영향|통제_및_영향]] (3)
+- [[활동/파괴|파괴]] (4)
+- [[활동/표현_예술|표현_예술]] (1)
+- [[활동/행동_태도|행동_태도]] (2)
+- [[활동/활동|활동]] (8)
+- [[활동/획득|획득]] (1)
+
+### [[추상적인 것/Index|추상적인 것]] — Abstract Concepts
+- [[추상적인 것/특질_성격|특질_성격]] (3)
+- **[[추상적인 것/감정_심리/Index|감정_심리/]]**
+  - [[추상적인 것/감정_심리/감정|감정]] (98)
+  - [[추상적인 것/감정_심리/생각_마음|생각_마음]] (31)
+  - [[추상적인 것/감정_심리/실수_두려움|실수_두려움]] (5)
+  - [[추상적인 것/감정_심리/후회_유감|후회_유감]] (6)
+- **[[추상적인 것/개념_추상/Index|개념_추상/]]**
+  - [[추상적인 것/개념_추상/개념|개념]] (108)
+  - [[추상적인 것/개념_추상/동사_표현|동사_표현]] (14)
+  - [[추상적인 것/개념_추상/부사_연결_표현|부사_연결_표현]] (10)
+  - [[추상적인 것/개념_추상/속임수_의심|속임수_의심]] (4)
+  - [[추상적인 것/개념_추상/쇼핑과_구매|쇼핑과_구매]] (44)
+  - [[추상적인 것/개념_추상/수와_양|수와_양]] (57)
+- **[[추상적인 것/개인_특성/Index|개인_특성/]]**
+  - [[추상적인 것/개인_특성/규율|규율]] (2)
+  - [[추상적인 것/개인_특성/두드러짐|두드러짐]] (1)
+  - [[추상적인 것/개인_특성/본능|본능]] (1)
+  - [[추상적인 것/개인_특성/외모|외모]] (1)
+  - [[추상적인 것/개인_특성/특성_성격|특성_성격]] (18)
+- **[[추상적인 것/사회_문화/Index|사회_문화/]]**
+  - [[추상적인 것/사회_문화/사업과_경제|사업과_경제]] (43)
+  - [[추상적인 것/사회_문화/사회와_문화|사회와_문화]] (29)
+  - [[추상적인 것/사회_문화/언어와_예술|언어와_예술]] (34)
+- **[[추상적인 것/상태_변화/Index|상태_변화/]]**
+  - [[추상적인 것/상태_변화/상태|상태]] (4)
+  - [[추상적인 것/상태_변화/위험|위험]] (2)
+  - [[추상적인 것/상태_변화/유지|유지]] (3)
+- **[[추상적인 것/성공_성취/Index|성공_성취/]]**
+  - [[추상적인 것/성공_성취/기회|기회]] (2)
+  - [[추상적인 것/성공_성취/성취|성취]] (1)
+  - [[추상적인 것/성공_성취/영향|영향]] (2)
+  - [[추상적인 것/성공_성취/행복과_노력|행복과_노력]] (5)
+  - [[추상적인 것/성공_성취/효율_생산성|효율_생산성]] (5)
+- **[[추상적인 것/소통_관계/Index|소통_관계/]]**
+  - [[추상적인 것/소통_관계/대응|대응]] (1)
+  - [[추상적인 것/소통_관계/의견|의견]] (6)
+  - [[추상적인 것/소통_관계/조언|조언]] (3)
+  - [[추상적인 것/소통_관계/조정|조정]] (3)
+- **[[추상적인 것/시간_공간/Index|시간_공간/]]**
+  - [[추상적인 것/시간_공간/시간|시간]] (59)
+  - [[추상적인 것/시간_공간/위치와_장소|위치와_장소]] (67)
+- **[[추상적인 것/윤리_신념/Index|윤리_신념/]]**
+  - [[추상적인 것/윤리_신념/도덕|도덕]] (2)
+  - [[추상적인 것/윤리_신념/신념_정의|신념_정의]] (4)
+  - [[추상적인 것/윤리_신념/용서|용서]] (1)
+  - [[추상적인 것/윤리_신념/의무_책임|의무_책임]] (5)
+- **[[추상적인 것/프로세스_절차/Index|프로세스_절차/]]**
+  - [[추상적인 것/프로세스_절차/완료_및_완성|완료_및_완성]] (5)
+  - [[추상적인 것/프로세스_절차/적용_작용|적용_작용]] (3)
+  - [[추상적인 것/프로세스_절차/접수_증서|접수_증서]] (2)
+  - [[추상적인 것/프로세스_절차/평가와_방지|평가와_방지]] (3)
+
+### [[표현_관용구/Index|표현_관용구]] — Expressions, Idioms & Proverbs
+- [[표현_관용구/격언_명언|격언_명언]] (0)
+- [[표현_관용구/기본_인사말|기본_인사말]] (22)
+- [[표현_관용구/도움_제안|도움_제안]] (10)
+- [[표현_관용구/사과_감사|사과_감사]] (14)
+- [[표현_관용구/속담|속담]] (26)
+- [[표현_관용구/양_배수|양_배수]] (14)
+- [[표현_관용구/의견표현|의견표현]] (13)
+- [[표현_관용구/일상표현|일상표현]] (11)
+- [[표현_관용구/일상활동|일상활동]] (12)
+- [[표현_관용구/정도_수준|정도_수준]] (4)
+- [[표현_관용구/통신_기술|통신_기술]] (11)
+- [[표현_관용구/호스팅_행사|호스팅_행사]] (8)
+- [[표현_관용구/회화표현|회화표현]] (34)
+
+### [[건강/Index|건강]] — Health
+- [[건강/건강|건강]] (17)
+- [[건강/의료|의료]] (68)
+- [[건강/증상|증상]] (28)
+
+### [[몸/Index|몸]] — Body
+- [[몸/기타|기타]] (41)
+- [[몸/머리와 외모|머리와 외모]] (6)
+- [[몸/신체|신체]] (8)
+- [[몸/신체부위|신체부위]] (34)
+- [[몸/치아|치아]] (3)
+- [[몸/해부|해부]] (39)
+
+### [[식사/Index|식사]] — Food & Eating
+- [[식사/기타|기타]] (13)
+- [[식사/맛|맛]] (18)
+- [[식사/식습관|식습관]] (16)
+- [[식사/요리|요리]] (21)
+- [[식사/음식|음식]] (35)
+- [[식사/재료|재료]] (60)
+
+### [[연예/Index|연예]] — Entertainment
+- [[연예/미디어|미디어]] (17)
+
+### [[교통/Index|교통]] — Transportation
+- [[교통/교통수단|교통수단]] (44)
+
+### [[기계/Index|기계]] — Machines
+- [[기계/기계|기계]] (3)
+- [[기계/스포츠 용품|스포츠 용품]] (1)
+- [[기계/집|집]] (2)
+- [[기계/회전|회전]] (1)
+
+### [[색깔/Index|색깔]] — Colors
+- [[색깔/색깔|색깔]] (55)
+
+### [[상태/Index|상태]] — States & Conditions
+- [[상태/감정과_성질|감정과_성질]] (70)
+- [[상태/것들|것들]] (22)
+- [[상태/분위기|분위기]] (3)
+- [[상태/상태|상태]] (14)
+- [[상태/시작_유지_끝|시작_유지_끝]] (5)
+- [[상태/충돌_피해|충돌_피해]] (6)
+- [[상태/크기와 양|크기와 양]] (43)
+- [[상태/통제|통제]] (3)
+- [[상태/형용사|형용사]] (144)
+
+### [[Helping words/Index|Helping words]] — Helping Words (adverbs, particles, mimetics)
+- [[Helping words/Helping words|Helping words]] (51)
+- [[Helping words/관용구|관용구]] (13)
+- [[Helping words/대명사|대명사]] (13)
+- [[Helping words/말하기|말하기]] (41)
+- [[Helping words/방향|방향]] (18)
+- [[Helping words/부분 표현|부분 표현]] (3)
+- [[Helping words/부사|부사]] (71)
+- [[Helping words/수와 카운터|수와 카운터]] (14)
+- [[Helping words/시간 개념|시간 개념]] (26)
+- [[Helping words/의성어|의성어]] (3)
+- [[Helping words/의태어|의태어]] (197)
+- [[Helping words/접속사|접속사]] (25)
+- [[Helping words/필수 동사|필수 동사]] (75)
+- [[Helping words/필수 형용사|필수 형용사]] (33)
+
+### [[학/Index|학]] — Learning & Academics
+- [[학/과학|과학]] (6)
+- [[학/교육|교육]] (23)
+- [[학/미디어|미디어]] (3)
+- [[학/수학|수학]] (12)
+- [[학/언어|언어]] (4)
+- [[학/의학|의학]] (12)
+- [[학/조사|조사]] (1)
+- [[학/책|책]] (9)
+- [[학/학교 생활|학교 생활]] (88)
+- [[학/학문_연구|학문_연구]] (5)
+
+### [[직장/Index|직장]] — Workplace
+- [[직장/사업_취직|사업_취직]] (9)
+- [[직장/수사|수사]] (1)
+- [[직장/업무_시간대|업무_시간대]] (1)
+- [[직장/인재|인재]] (1)
+- [[직장/직업_선택|직업_선택]] (3)
+- [[직장/직업과 일|직업과 일]] (34)
+- [[직장/직업과 직위|직업과 직위]] (101)
+- [[직장/직장 생활|직장 생활]] (73)
+
+### [[전자 기술/Index|전자 기술]] — Technology
+- [[전자 기술/기술|기술]] (54)
+- [[전자 기술/미디어와 통신|미디어와 통신]] (72)
+- [[전자 기술/전자 기기|전자 기기]] (14)
+
+### [[한국/Index|한국]] — Korea & Culture
+- [[한국/문화|문화]] (36)
+- [[한국/한국 역사|한국 역사]] (9)
+- [[한국/한국 지역|한국 지역]] (10)
+
+### [[한국 역사/Index|한국 역사]] — Korean History
+- [[한국 역사/일본 식민지|일본 식민지]] (1)
+- [[한국 역사/조선|조선]] (8)
+- [[한국 역사/한국전쟁|한국전쟁]] (7)
+
+### [[자연/Index|자연]] — Nature
+- [[자연/날씨|날씨]] (81)
+- [[자연/동물|동물]] (9)
+- [[자연/식물과 과일|식물과 과일]] (45)
+- [[자연/액체|액체]] (3)
+- [[자연/천체|천체]] (1)
+
+### [[법/Index|법]] — Law
+- [[법/범죄|범죄]] (1)
+
+### [[형태와_형상/Index|형태와_형상]] — Shapes & Forms
+- [[형태와_형상/더미|더미]] (1)
+- [[형태와_형상/무늬_패턴|무늬_패턴]] (3)
+
+### [[듣기_연습/Index|듣기_연습]] — Listening Practice
+- [[듣기_연습/clue_1|clue_1]] (0)
+- [[듣기_연습/skit_1|skit_1]] (0)
+- [[듣기_연습/듣기 Mooky the Parrot_Korean Listening Practice_2024-03-02|듣기 Mooky the Parrot_Korean Listening Practice_2024-03-02]] (0)
+- [[듣기_연습/듣기_어휘|듣기_어휘]] (29)
+
+### Top-level files
+- [[시간]] (43)
+- [[기타_단어]] (24)
+- [[Honorifics]] (3)
 
 ---
 
-## 📄 **Root-Level Files**
-
-- [[Honorifics|Honorifics]] - Honorific forms and respectful language
-- [[시간|시간]] - Time-related vocabulary
-- [[기타_단어|기타_단어]] - Miscellaneous terms that don't fit primary categories
-
----
-
-## 🎯 **Usage Recommendations**
-
-### For Beginners:
-1. Start with [[표현_관용구/기본_인사말|기본_인사말]] (Basic greetings)
-2. Move to [[표현_관용구/일상표현|일상표현]] (Daily expressions)
-3. Learn [[활동]] and [[식사]] (Activities and food)
-
-### For Intermediate Learners:
-1. Review [[표현_관용구]] (Expressions and idioms)
-2. Study [[동사]] and [[형용사]] (Verbs and adjectives)
-3. Explore [[상태]] and [[추상적인 것]] categories relevant to your interests
-
-### For Advanced Learners:
-1. Deep dive into [[추상적인 것]] (Abstract concepts)
-2. Study specialized vocabulary in [[학]] (Academic subjects)
-3. Review [[표현_관용구/속담|속담]] and [[표현_관용구/격언_명언|격언_명언]] (Traditional sayings)
-
-### By Study Goal:
-- **Conversational:** Focus on 표현_관용구, 활동, 생활
-- **Writing:** Study 동사, 형용사, 추상적인 것
-- **Listening:** Review 표현_관용구 and natural speech patterns
-- **TOPIK Exam:** Systematically cover all semantic categories
-
----
-
-## 🔄 **File Organization Strategy**
-
-### Semantic Categories
-Each folder represents a meaningful concept area rather than part of speech:
-- **세상** (The world) - Nature and global topics
-- **생활** (Daily life) - Practical everyday vocabulary
-- **추상적인 것** (Abstract) - Ideas, emotions, concepts
-
-### Flashcard Format
-All files use Obsidian-compatible flashcard format with:
-- `#card` markers for spaced repetition
-- Multiple example sentences with Korean-English pairs
-- English translations
-- Related terms and comparisons in Notes section
-
-### Cross-References
-- Files link to related semantic categories
-- Grammar structures marked where relevant
-- Formal/casual distinctions noted where important
-
----
-
-## ✅ **Repository Integrity**
-
-- **Total Semantic Folders:** 26
-- **Total Files:** ~240+
-- **Format:** Obsidian-compatible flashcards with spaced repetition support
-- **Organization:** By semantic meaning, not by part of speech
-- **Link Format:** Hangul folder/file names with optional hanja in parentheses
-
----
-
-## 📝 **How to Use This Repository**
-
-1. **Find a word:** Use Ctrl+F to search this index
-2. **Browse by category:** Click any semantic folder link
-3. **Study:** Open individual files and review flashcards
-4. **Practice:** Use Obsidian's flashcard plugin with `#card` markers
-5. **Add new words:** Maintain semantic organization when adding new vocabulary
-
----
-
-## 📅 **Last Updated**
-
-**October 1, 2026**  
-Master Index rebuilt with all 26 folders accurately represented. All links verified to reference existing files only.
+*Counts are generated from the files; regenerate this index when files are added or removed.*

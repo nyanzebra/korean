@@ -8,7 +8,7 @@ Welcome to your comprehensive Korean learning vault. This repository is organize
 
 **New to this repository?**
 1. Start with [[단어/표현_관용구/기본_인사말|기본 인사말 (Basic Greetings)]]
-2. Explore [[단어/활동/요리|요리 (Cooking)]] or [[단어/생활/쇼핑|쇼핑 (Shopping)]] for practical vocabulary
+2. Explore [[단어/활동/요리|요리 (Cooking)]] or [[단어/생활/거래|거래 (Transactions)]] for practical vocabulary
 3. Review [[문법/Index.md|문법]] when you need to understand grammar patterns
 4. Check [[AGENT.md|AGENT.md]] for repository standards and organization principles
 
@@ -47,11 +47,10 @@ Organized by **grammatical function** rather than alphabetically, so related/com
 
 **Study Resources:**
 - See [[문법/study-plan|study-plan]] for recommended study order
-- Check [[문법/progress|progress]] for organization rationale
 
 ---
 
-### 🗣️ **[[사자성어|사자성어 (Chinese Idioms)]]**
+### 🗣️ **[[사자성어/Index|사자성어 (Chinese Idioms)]]**
 Four-character idioms organized by semantic meaning.
 
 ---
@@ -60,7 +59,6 @@ Four-character idioms organized by semantic meaning.
 
 | Folder | Purpose |
 |--------|---------|
-| [[수업|수업]] | Class materials and lesson notes |
 | [[숙제|숙제]] | Homework and assignments |
 | [[Topik|Topik]] | TOPIK exam preparation materials |
 | [[templates|templates]] | Vocabulary and flashcard templates |
@@ -83,7 +81,7 @@ Four-character idioms organized by semantic meaning.
 
 ### By Learning Goal:
 - **Conversational:** Focus on [[단어/표현_관용구/Index.md|표현_관용구]], [[단어/활동/Index.md|활동]], [[단어/생활/Index.md|생활]]
-- **Writing:** Study [[단어/동사/Index.md|동사]], [[단어/형용사/Index.md|형용사]], [[단어/추상적인 것/Index.md|추상적인 것]]
+- **Writing:** Study [[단어/상태/Index.md|상태]], [[단어/Helping words/Index.md|Helping words]], [[단어/추상적인 것/Index.md|추상적인 것]]
 - **Listening:** Review [[단어/표현_관용구/Index.md|표현_관용구]] and natural speech patterns
 - **Grammar:** Follow [[문법/study-plan|study-plan]] in the grammar section
 - **TOPIK Exam:** Systematically cover all semantic categories + grammar points
@@ -151,7 +149,6 @@ korean/
 │   ├── ... (11 more grammar sections)
 │
 ├── 사자성어/                         # Four-character idioms
-├── 수업/                             # Class materials
 ├── 숙제/                             # Homework
 ├── Topik/                            # TOPIK exam prep
 └── templates/                        # Flashcard templates
