@@ -82,6 +82,7 @@ def parse_examples(lines, warn):
 def parse_file(path):
     with open(path, encoding='utf-8') as f:
         text = f.read()
+    text = text.replace("\ufeff", "")
     text = re.sub('[\x00-\x08\x0b\x0c\x0e-\x1f\x7f]', '', text)
     text = text.replace('\u00a0', ' ')
     lines = text.split('\n')
@@ -232,3 +233,100 @@ def save(rel, pre, cards):
 def ex(*pairs):
     """ex('kor','eng','kor','eng')"""
     return [[pairs[i], [pairs[i + 1]]] for i in range(0, len(pairs), 2)]
+
+
+class Pool:
+    def __init__(self):
+        self.files = {}   # rel -> list of cards (ordered)
+
+    def load(self, *rels):
+        for r in rels:
+            pre, cards = load(r)
+            if pre.strip() and not pre.strip().startswith('#'):
+                print('PRE-nonheading', r, pre[:80])
+            self.files[r] = cards
+        return self
+
+    def take(self, rel, title, must=True):
+        cs = [c for c in self.files[rel] if c.title == title]
+        if not cs:
+            if must:
+                raise Exception('take: %s / %s not found' % (rel, title))
+            return None
+        c = cs[0]
+        for x in cs[1:]:
+            merge_into(c, x)
+        self.files[rel] = [x for x in self.files[rel] if x.title != title]
+        return c
+
+    def peek(self, rel, title):
+        cs = [c for c in self.files[rel] if c.title == title]
+        return cs[0] if cs else None
+
+    def all(self):
+        for r, cs in self.files.items():
+            for c in cs:
+                yield r, c
+
+    def findany(self, title):
+        return [(r, c) for r, c in self.all() if c.title == title]
+
+    def pull(self, title, exclude_rel=None):
+        """take (and merge) every card with this title from whichever files"""
+        found = [(r, c) for r, c in self.findany(title)]
+        if not found:
+            raise Exception('pull: %s not found' % title)
+        first = found[0][1]
+        for r, c in found[1:]:
+            merge_into(first, c)
+        for r, c in found:
+            self.files[r] = [x for x in self.files[r] if x is not c]
+        return first
+
+    def pull_opt(self, title):
+        if not self.findany(title):
+            return None
+        return self.pull(title)
+
+
+def setc(c, title=None, meanings=None, examples=None, add_examples=None,
+         notes=None, add_notes=None, add_meanings=None, tags=None, sr=None):
+    if title is not None:
+        c.title = title
+    if meanings is not None:
+        c.meanings = list(meanings)
+    if add_meanings:
+        for m in add_meanings:
+            if m not in c.meanings:
+                c.meanings.append(m)
+    if examples is not None:
+        c.examples = [list(x) for x in examples]
+    if add_examples:
+        have = {k for k, e in c.examples}
+        for k, e in add_examples:
+            if k not in have:
+                c.examples.append([k, list(e)])
+    if notes is not None:
+        c.notes = ['- ' + n if not n.startswith(('- ', '  ')) else n for n in notes]
+    if add_notes:
+        for n in add_notes:
+            n = '- ' + n if not n.startswith(('- ', '  ')) else n
+            if n not in c.notes:
+                c.notes.append(n)
+    if tags is not None:
+        c.tags = tags
+    return c
+
+
+def finalize(cards, name):
+    """dedupe by title (merge), warn about empties"""
+    out = []
+    seen = {}
+    for c in cards:
+        if c.title in seen:
+            merge_into(seen[c.title], c)
+        else:
+            seen[c.title] = c
+            out.append(c)
+    report(name, out)
+    return out
