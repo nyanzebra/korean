@@ -330,3 +330,18 @@ def finalize(cards, name):
             out.append(c)
     report(name, out)
     return out
+
+
+TYPOS = [('바래요', '바라요'), ('고장났어요', '고장 났어요'), ('욕조가 크요', '욕조가 커요'),
+         ('야외 음아당', '야외 음악당')]
+
+
+def fix_text(c):
+    def f(s):
+        for a, b in TYPOS:
+            s = s.replace(a, b)
+        return s
+    c.title = f(c.title)
+    c.meanings = [f(x) for x in c.meanings]
+    c.examples = [[f(k), [f(x) for x in e]] for k, e in c.examples]
+    c.notes = [f(x) for x in c.notes]

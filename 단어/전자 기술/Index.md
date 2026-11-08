@@ -4,9 +4,9 @@ This folder contains vocabulary related to technology, electronic devices, commu
 
 ## Files in this folder:
 
-- [[기술.md|Technology and technical concepts]]
-- [[미디어와 통신.md|Media and communication]]
-- [[전자 기기.md|Electronic devices]]
+- [[기술.md|Technology and computing terms (internet, software, files, accounts, security; noun + 하다 verb pairs merged)]]
+- [[미디어와 통신.md|Media, social media, phones and communication]]
+- [[전자 기기.md|Electronic devices and their operation (computer, power, remote control, printer, monitor)]]
 
 ---
 

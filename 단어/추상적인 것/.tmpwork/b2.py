@@ -86,46 +86,37 @@ move(OLD_STATE, '호감', EMO)
 for w in ['후회하다', '유감스럽다', '안타깝다', '아쉽다']: move(EMO, w, REG)
 
 # ---------- merges ----------
-# 전망 -> 관점.md
-a = find(RT, '전망')[0]; b = find(GN, '전망')[0]
-m = merge_cards([a, b]); addto(VIEW, m)
-# 방향
-a = find(RT, '방향')[0]; b = find(LOC, '방향')[0]
-addto(LOC, merge_cards([a, b]))
-# 중간 x3
-cs = find(RT, '중간') + find('위치_공간.md', '중간') + find(LOC, '중간')
-addto(LOC, merge_cards([cs[2], cs[1], cs[0]]))
-# 양
-a = find(RT, '양')[0]; b = find(LANG, '양')[0]
-addto(QTY, merge_cards([b, a]))
-# 자금
-a = find(RT, '자금')[0]; b = find(BIZ, '자금')[0]
-addto(BIZ, merge_cards([b, a]))
-# 행복
-a = find(HAPPY, '행복')[0]; b = find(EMO, '행복')[0]
-addto(EMO, merge_cards([b, a]))
-# 의견
-cs = find(EFF, '의견') + find(SOC, '의견')
-addto(OPIN, merge_cards([cs[1], cs[0]]))
-# 조건
-a = find(GN, '조건')[0]; b = find(OLD_STATE, '조건')[0]
-addto(GN, merge_cards([a, b]))
-# 의미/이유/상황
+def mergeinto(dest, sources, order=None):
+    pos = None
+    cards = []
+    for rel, w in sources:
+        idxs = [i for i, c in enumerate(F[rel].cards) if c.word == w]
+        if rel == dest and pos is None and idxs: pos = idxs[0]
+        cards += find(rel, w)
+    order = order or list(range(len(cards)))
+    m = merge_cards([cards[i] for i in order])
+    F[dest].cards.insert(pos if pos is not None else len(F[dest].cards), m)
+
+mergeinto(VIEW, [(RT, '전망'), (GN, '전망')])
+mergeinto(LOC, [(RT, '방향'), (LOC, '방향')])
+mergeinto(LOC, [(RT, '중간'), ('위치_공간.md', '중간'), (LOC, '중간')], [2, 1, 0])
+mergeinto(QTY, [(RT, '양'), (LANG, '양')], [1, 0])
+mergeinto(BIZ, [(RT, '자금'), (BIZ, '자금')], [1, 0])
+mergeinto(EMO, [(HAPPY, '행복'), (EMO, '행복')], [1, 0])
+mergeinto(OPIN, [(EFF, '의견'), (SOC, '의견')], [1, 0])
+mergeinto(GN, [(GN, '조건'), (OLD_STATE, '조건')])
 for w in ['의미', '이유', '상황']:
-    a = find(GN, w)[0]; b = find(GT, w)[0]
-    addto(GN, merge_cards([a, b]))
-# 계획 x2
-cs = find(GT, '계획')
-addto(GN, merge_cards([cs[1], cs[0]]))
-# 진심 x2
-cs = find(EMO, '진심')
-addto(EMO, merge_cards([cs[0], cs[1]]))
-# 후회, 유감 (감정.md has SR) merge with old regret file
-a = find(EMO, '후회')[0]; b = find(REG, '후회')[0]
-addto(REG, merge_cards([a, b]))
-a = find(EMO, '유감')[0]; b = find(REG, '유감')[0]
-addto(REG, merge_cards([a, b]))
-move(EMO, '후회하다', REG) if any(c.word=='후회하다' for c in F[EMO].cards) else None
+    mergeinto(GN, [(GN, w), (GT, w)])
+cs_idx = [i for i, c in enumerate(F[GT].cards) if c.word == '계획']
+mergeinto(GT, [(GT, '계획'), (GT, '계획')][:1]) if False else None
+_c = find(GT, '계획')
+F[GT].cards.insert(cs_idx[0], merge_cards([_c[1], _c[0]]))
+mergeinto(EMO, [(EMO, '진심'), (EMO, '진심')][:1]) if False else None
+_idx = [i for i, c in enumerate(F[EMO].cards) if c.word == '진심']
+_c = find(EMO, '진심')
+F[EMO].cards.insert(_idx[0], merge_cards([_c[0], _c[1]]))
+mergeinto(REG, [(EMO, '후회'), (REG, '후회')], [0, 1])
+mergeinto(REG, [(EMO, '유감'), (REG, '유감')], [0, 1])
 
 # ---------- assemble files ----------
 RENAME = {GT: GN, OLD_STATE: STATE}
