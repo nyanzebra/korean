@@ -1,6 +1,6 @@
 # 시간_공간 (Time & Space)
 
-**Overview:** Vocabulary related to time, duration/lifespan, and spatial locations.
+**Overview:** Vocabulary related to time (including lifespan) and spatial locations.
 
 ---
 
@@ -16,15 +16,14 @@
 
 | File | Description |
 |------|-------------|
-| [[시간.md|시간]] | Time and temporal concepts |
-| [[수명.md|수명]] | Lifespan and duration |
-| [[위치와 장소.md|위치와 장소]] | Locations, positions, and places |
+| [[시간.md|시간]] | Time, frequency, duration and lifespan |
+| [[위치와_장소.md|위치와 장소]] | Locations, positions, directions, places and terrain |
 
 ---
 
 ## 📅 Last Updated
 
-**October 1, 2026** - Index cleaned up with proper navigation links
+**November 8, 2026** - Files consolidated and merged; index updated
 
 ---
 

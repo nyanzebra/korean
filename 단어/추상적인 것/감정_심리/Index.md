@@ -16,17 +16,16 @@
 
 | File | Description |
 |------|-------------|
-| [[감정.md|감정]] | Emotions and emotional states |
-| [[느낌.md|느낌]] | Feelings and sensations |
-| [[생각___마음.md|생각과 마음]] | Thoughts and mind-related concepts |
-| [[실수_두려움.md|실수와 두려움]] | Mistakes and fear-related vocabulary |
-| [[후회_겸웅.md|후회와 겸양]] | Regret and humility-related terms |
+| [[감정.md|감정과 심리]] | Emotions, feelings and psychological states |
+| [[생각_마음.md|생각과 마음]] | Thoughts, mind, stress and respect |
+| [[실수_두려움.md|실수와 두려움]] | Mistakes, discouragement and impossibility |
+| [[후회_유감.md|후회와 유감]] | Regret and "could have / should have" patterns |
 
 ---
 
 ## 📅 Last Updated
 
-**October 1, 2026** - Index cleaned up with proper navigation links
+**November 8, 2026** - File list reorganized (merged duplicates, renamed files)
 
 ---
 

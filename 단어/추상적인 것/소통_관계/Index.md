@@ -16,17 +16,16 @@
 
 | File | Description |
 |------|-------------|
-| [[의사소통.md|의사소통]] | Communication and dialogue |
-| [[대응.md|대응]] | Response and reaction |
-| [[조언.md|조언]] | Advice and counsel |
-| [[의견.md|의견]] | Opinion and viewpoint |
-| [[조정.md|조정]] | Adjustment, harmony, and mediation |
+| [[의견.md|의견]] | Opinions, viewpoints, subjective vs. objective |
+| [[조언.md|조언]] | Advice, counsel and suggestions |
+| [[조정.md|조정]] | Adjusting, preparing and circumstances |
+| [[대응.md|대응]] | Responding to and treating people |
 
 ---
 
 ## 📅 Last Updated
 
-**October 1, 2026** - Index cleaned up with proper navigation links
+**November 8, 2026** - File list reorganized (merged duplicates, renamed files)
 
 ---
 

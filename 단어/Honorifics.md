@@ -7,11 +7,11 @@
 - have (honorific)
 ### 예
 - 아예 날 잡수시지!!!
-	- Why don't you just eat me whole! (i.e. "Oh, kill me now!")
+  - Why don't you just eat me whole! (i.e. "Oh, kill me now!")
 - 진지 잡수셨습니까
-	- Have you had your meal?
+  - Have you had your meal?
 - 왕이 잡수시는 것, 최고로 맛있는 요리
-	- what the king eats, the most delicious dish (a dish fit for a king)
+  - what the king eats, the most delicious dish (a dish fit for a king)
 ### Notes
 - 잡수다 is a higher honorific form of 먹다; 드시다 is the more common everyday honorific
 - 진지 = honorific word for 밥 (meal)

@@ -1,6 +1,6 @@
 # 프로세스_절차 (Process & Procedure)
 
-**Overview:** Vocabulary related to procedures, processes, steps, completion, and application.
+**Overview:** Vocabulary related to evaluation, prevention, reception, application, operation and completion.
 
 ---
 
@@ -16,18 +16,16 @@
 
 | File | Description |
 |------|-------------|
-| [[절차.md|절차]] | Procedure and steps |
-| [[접수.md|접수]] | Reception and intake |
-| [[완료_및_완성.md|완료 및 완성]] | Completion and finishing |
-| [[적용.md|적용]] | Application and implementation |
-| [[작용.md|작용]] | Action and effect |
-| [[증서.md|증서]] | Certificate and documentation |
+| [[평가와_방지.md|평가와 방지]] | Evaluating, rating and preventing |
+| [[접수_증서.md|접수 증서]] | Reception, acceptance and certificates (listing, awards) |
+| [[적용_작용.md|적용 작용]] | Application, correspondence and operation |
+| [[완료_및_완성.md|완료 및 완성]] | Completion, completeness, perfection and full recovery |
 
 ---
 
 ## 📅 Last Updated
 
-**October 1, 2026** - Index cleaned up with proper navigation links
+**November 8, 2026** - Files consolidated and merged; index updated
 
 ---
 

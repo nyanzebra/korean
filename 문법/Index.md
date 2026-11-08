@@ -13,7 +13,7 @@
 
 ## 📖 Grammar Categories
 
-### 00. [[00-기초 필수 문법|기초 필수 문법]]
+### 00. [[문법/00-기초 필수 문법/Index|기초 필수 문법]]
 
 **Foundational Beginner Grammar**
 
@@ -21,11 +21,11 @@ Essential beginner grammar structures that were missing from the vault entirely.
 
 Key points:
 
-- [[00-기초 필수 문법/은는 vs 이가.md|은는 vs 이가]] - Topic vs subject particle
-- [[00-기초 필수 문법/에 vs 에서.md|에 vs 에서]] - Location (static vs active)
-- [[00-기초 필수 문법/부터_까지.md|부터 & 까지]] - From and to/until
-- [[00-기초 필수 문법/밖에.md|밖에]] - Only/nothing but (negation)
-- [[00-기초 필수 문법/조차_마저_까지도.md|조차 & 마저 & 까지도]] - Even/also (emphasis)
+- [[은는 vs 이가.md|은는 vs 이가]] - Topic vs subject particle
+- [[에 vs 에서.md|에 vs 에서]] - Location (static vs active)
+- [[부터_까지.md|부터 & 까지]] - From and to/until
+- [[밖에.md|밖에]] - Only/nothing but (negation)
+- [[조차_마저_까지도.md|조차 & 마저 & 까지도]] - Even/also (emphasis)
 - [[으로.md|(으)로]] - Direction, tool, or capacity
 - [[으려고.md|(으)려고]] - In order to (intention)
 - [[으러.md|(으)러]] - For the purpose of (going/coming)
@@ -46,7 +46,7 @@ Key points:
 
 ---
 
-### 01. [[01-조사|조사 (Particles)]]
+### 01. [[문법/01-조사/Index|조사 (Particles)]]
 
 **Noun-Attaching Particles, Bound Nouns, and Comparison Markers**
 
@@ -77,7 +77,7 @@ Key points:
 
 ---
 
-### 02. [[02-연결어미_이유_원인_목적|연결어미 — 이유·원인·목적]]
+### 02. [[문법/02-연결어미_이유_원인_목적/Index|연결어미 — 이유·원인·목적]]
 
 **Cause, Reason & Purpose Connectives**
 
@@ -87,7 +87,6 @@ Key points:
 
 - [[-기 때문에.md|-기 때문에]] - Because/due to
 - [[-는 길에___길이다.md|-는 길에]] - On the way to/while going
-- [[게.md|게]] - So that/to the extent that
 - [[고 해서.md|고 해서]] - Just because/even though
 - [[기가 무섭게.md|기가 무섭게]] - The moment/as soon as
 - [[김에.md|김에]] - While I'm at it/while the opportunity
@@ -105,10 +104,11 @@ Key points:
 - [[을 테니까.md|을 테니까]] - Since (presumptive cause)
 - [[자 vs 자마자.md|자 vs 자마자]] - When/the moment (temporal)
 - [[통해서.md|통해서]] - Through/via/by way of
+- [[으니까.md|(으)니까]] - Because/since — reason before commands & suggestions
 
 ---
 
-### 03. [[03-연결어미_조건_가정_양보|연결어미 — 조건·가정·양보]]
+### 03. [[문법/03-연결어미_조건_가정_양보/Index|연결어미 — 조건·가정·양보]]
 
 **Conditionals & Concession**
 
@@ -135,7 +135,7 @@ Key points:
 
 ---
 
-### 04. [[04-연결어미_대조_전환|연결어미 — 대조·전환]]
+### 04. [[문법/04-연결어미_대조_전환/Index|연결어미 — 대조·전환]]
 
 **Contrast & Background Shift**
 
@@ -161,7 +161,7 @@ Key points:
 
 ---
 
-### 05. [[05-종결어미_추측_가능성|종결어미 — 추측·가능성]]
+### 05. [[문법/05-종결어미_추측_가능성/Index|종결어미 — 추측·가능성]]
 
 **Sentence Endings: Speculation & Possibility**
 
@@ -194,17 +194,13 @@ Key points:
 - [[을 게 뻔하다.md|을 게 뻔하다]] - Certain to/sure to
 - [[을 뻔하다.md|을 뻔하다]] - Nearly/almost did
 - [[을 수도 있다.md|을 수도 있다]] - Might/could possibly
-- [[을 텐데 걱정이다.md|을 텐데 걱정이다]] - Worried that it will
-- [[을 텐데.md|을 텐데]] - Would (unreal supposition)
 - [[을까 하다_을까 보다.md|을까 하다]] - Wonder/consider whether
 - [[잖아요.md|잖아요]] - You know/isn't it (emphatic reminder)
-- [[텐데 vs 을까 봐.md|텐데 vs 을까 봐]] - Comparison: unreal vs fear
-- [[텐데.md|텐데]] - Would/should (unreal)
-
+- [[텐데.md|을/ㄹ 텐데]] - Would/must be (supposition); worry with 걱정이다; vs 을까 봐
 
 ---
 
-### 06. [[06-인용_간접화법|인용·간접화법]]
+### 06. [[문법/06-인용_간접화법/Index|인용·간접화법]]
 
 **Reported & Indirect Speech**
 
@@ -212,7 +208,6 @@ Grammar structures for quoting, indirect statements, and reported speech.
 
 Key points:
 
-- [[간접화범 축약.md|간접화범 축약]] - Contracted indirect speech
 - [[는지.md|는지]] - Whether/if (embedded question)
 - [[다고 보다.md|다고 보다]] - Think/consider that
 - [[다는것_라는것.md|다는것 & 라는것]] - The fact that/what (nominalization)
@@ -221,10 +216,13 @@ Key points:
 - [[단 말이에요.md|단 말이에요]] - I mean/that is to say
 - [[에 따르면.md|에 따르면]] - According to/as per
 - [[은 줄 알았다.md|은 줄 알았다]] - Thought/didn't know
+- [[간접화법 축약.md|간접화법 축약]] - Contracted indirect speech (-대요, -래요, -재요)
+- [[다고 하잖아요.md|다고 하잖아요]] - As (they) say/you know, (someone) said
+- [[다는 뜻이에요.md|다는 뜻이에요]] - It means that ~
 
 ---
 
-### 07. [[07-시제_상|시제·상]]
+### 07. [[문법/07-시제_상/Index|시제·상]]
 
 **Tense & Aspect**
 
@@ -246,7 +244,7 @@ Key points:
 
 ---
 
-### 08. [[08-사동_피동|사동·피동]]
+### 08. [[문법/08-사동_피동/Index|사동·피동]]
 
 **Causative & Passive**
 
@@ -254,12 +252,13 @@ Verb forms expressing causation and passive voice.
 
 Key points:
 
-- [[causitive.md|Causative]] - Making someone do something
 - [[passive.md|Passive]] - Receiving an action
+- [[causative.md|Causative]] - Making someone do something
+- [[게 하다.md|게 하다]] - Make/let someone do (indirect causative)
 
 ---
 
-### 09. [[09-보조동사_보조용언|보조동사·보조용언]]
+### 09. [[문법/09-보조동사_보조용언/Index|보조동사·보조용언]]
 
 **Auxiliary Verb Constructions**
 
@@ -282,7 +281,7 @@ Key points:
 
 ---
 
-### 10. [[10-명사화|명사화]]
+### 10. [[문법/10-명사화/Index|명사화]]
 
 **Nominalization**
 
@@ -295,7 +294,7 @@ Key points:
 
 ---
 
-### 11. [[11-높임법_문체|높임법·문체]]
+### 11. [[문법/11-높임법_문체/Index|높임법·문체]]
 
 **Honorifics & Speech Level**
 
@@ -309,7 +308,7 @@ Key points:
 
 ---
 
-### 12. [[12-숫자_단위|숫자·단위]]
+### 12. [[문법/12-숫자_단위/Index|숫자·단위]]
 
 **Numbers & Counters**
 
@@ -322,7 +321,7 @@ Key points:
 
 ---
 
-### 13. [[13-어휘_뉘앙스|어휘 뉘앙스]]
+### 13. [[문법/13-어휘_뉘앙스/Index|어휘 뉘앙스]]
 
 **Vocabulary Nuance (Not grammar, but similar-word comparisons)**
 
@@ -342,7 +341,7 @@ Key points:
 
 | Document | Purpose |
 |----------|---------|
-| [[study-plan\|Study Plan]] | Recommended study order for all grammar points |
+| [[study-plan]] | Recommended study order for all grammar points |
 
 ---
 
@@ -356,7 +355,7 @@ Key points:
 
 ## 📅 Last Updated
 
-**October 1, 2026** - Reformatted with multi-line file references and descriptions for better readability
+**November 8, 2026** - Merged overlapping notes (텐데, 로서, 네요_군요, 채로, 보니까, 척하다), added 으니까 and 게 하다, renamed 간접화법 축약 and causative, added per-folder Index.md files.
 
 ---
 

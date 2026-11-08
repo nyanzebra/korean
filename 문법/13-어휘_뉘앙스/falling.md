@@ -12,7 +12,7 @@ I was comfortable with 떨어지다 but I pressed him further on the differences
 
 - Interestingly, 무너지다 is sometimes used to describe a mental state like an expectation or confidence, as in 나의 기대는 여지없이 무너졌다.  This is probably because 무너지다 emphasizes a complete crumbling so that recovery is nearly impossible.”
 
-- After Tony’s explanation, I was pretty satisfied with the the difference between 무너지다 and 쓰러지다. However, 쓰러지다 and 넘어지다 still gave me trouble. They seemed to be the most similar of the four verbs.
+- After Tony’s explanation, I was pretty satisfied with the difference between 무너지다 and 쓰러지다. However, 쓰러지다 and 넘어지다 still gave me trouble. They seemed to be the most similar of the four verbs.
 
 - The 한국어-영어 학습사전 says 쓰러지다 means “For something standing to fall sideways.” / 서 있던 것이 한쪽으로 쏠리어 넘어지다. (쏠리다 means “to lean”.)
 

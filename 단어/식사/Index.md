@@ -4,9 +4,12 @@ This folder contains vocabulary related to food, eating, and culinary concepts.
 
 ## Files in this folder:
 
-- [[것.md|Food objects and items]]
+- [[기타.md|Miscellaneous words that do not fit a food theme (to be moved)]]
 - [[맛.md|Taste and flavor-related words]]
+- [[식습관.md|Eating habits and meals]]
+- [[요리.md|Cooking methods and kitchen verbs]]
 - [[음식.md|Food and dishes]]
+- [[재료.md|Ingredients]]
 
 ---
 

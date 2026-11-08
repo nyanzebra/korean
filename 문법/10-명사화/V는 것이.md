@@ -12,3 +12,4 @@ V-(ㄴ/는)다는 것이 (e.g. 하다 → 한다는 것이, 틀다 → 튼다는
 
 ### Notes
 https://www.youtube.com/watch?v=3SEW24_4tRA
+?end

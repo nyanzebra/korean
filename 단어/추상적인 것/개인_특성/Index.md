@@ -16,9 +16,9 @@
 
 | File | Description |
 |------|-------------|
-| [[특성_성격.md|특성과 성격]] | Traits and personality |
-| [[외모.md|외모]] | Appearance and physical features |
-| [[두드러짐.md|두드러짐]] | Prominence and distinctiveness |
+| [[특성_성격.md|특성과 성격]] | Traits, personality and pride |
+| [[외모.md|외모]] | Appearance |
+| [[두드러짐.md|두드러짐]] | Standing out and prominence |
 | [[본능.md|본능]] | Instinct and innate nature |
 | [[규율.md|규율]] | Discipline and order |
 
@@ -26,7 +26,7 @@
 
 ## 📅 Last Updated
 
-**October 1, 2026** - Index cleaned up with proper navigation links
+**November 8, 2026** - File list reorganized (merged duplicates, renamed files)
 
 ---
 

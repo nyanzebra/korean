@@ -16,17 +16,16 @@
 
 | File | Description |
 |------|-------------|
-| [[신념_신뢰.md|신념과 신뢰]] | Beliefs and trust concepts |
-| [[도덕.md|도덕]] | Morality and moral principles |
-| [[의무.md|의무]] | Duty and obligation |
-| [[책임.md|책임]] | Responsibility |
+| [[도덕.md|도덕]] | Morality, rebellion and good deeds |
+| [[신념_정의.md|신념과 정의]] | Beliefs, justice and ignorance |
 | [[용서.md|용서]] | Forgiveness |
+| [[의무_책임.md|의무와 책임]] | Duty, obligation and responsibility |
 
 ---
 
 ## 📅 Last Updated
 
-**October 1, 2026** - Index cleaned up with proper navigation links
+**November 8, 2026** - File list reorganized (merged duplicates, renamed files)
 
 ---
 

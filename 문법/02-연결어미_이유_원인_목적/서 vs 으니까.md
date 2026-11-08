@@ -12,13 +12,13 @@ These two – ~어/아/여서 and ~(으)니까 – are probably two of the most 
 - ~어/아/여서 cannot be followed by propositive/imperative endings or the speaker's intention (~(으)세요, ~ㅂ시다, ~자, ~ㄹ까, ~겠, ~ㄹ게) — use ~(으)니까.
 - ~(으)니까 cannot be used for greetings, apologies, gratitude and emotional statements (반갑습니다, 감사합니다, 죄송합니다, 다행이에요, 슬퍼요) — use ~어/아/여서.
 ### Examples
-#### Important rules about using ~어/아/여서 and ~(으)니까
+#### Important rules about using ~어/아/여서 and ~(으)니까
 
 #### **1. ~어/아/여서 cannot be used for propositive, imperative situations or expressing one’s intent**
 
 ~어/아/여서 cannot be used in situations where the speaker is suggesting/requesting/demanding/commanding the listener to do something or if the speaker is expressing his/her own intention to do something.
 
-**This means that in any sentences that you’ll end with a ~(으)세요, ~ㅂ시다, ~자, ~ㄹ까, ~겠, ~ㄹ게 you absolutely cannot use ~어/아/여서 and absolutely must use ~(으)니까.**
+**This means that in any sentences that you’ll end with a ~(으)세요, ~ㅂ시다, ~자, ~ㄹ까, ~겠, ~ㄹ게 you absolutely cannot use ~어/아/여서 and absolutely must use ~(으)니까.**
 
 Examples:
 
@@ -38,9 +38,9 @@ Because/Since today is cold, shall we watch a movie at home?
 오늘 추워서 장갑을 끼고 나가겠어요. (X)  
 Because/Since today is cold, I’ll wear gloves and go out.
 
-#### **2. ~(으)니까 cannot be used in speeches of greetings/apologies/gratitude**
+#### **2. ~(으)니까 cannot be used in speeches of greetings/apologies/gratitude**
 
-This means that in any sentence that you’re greeting, apologizing, thanking, or any other similar situations that involve some sort of emotions, you cannot use ~(으)니까.
+This means that in any sentence that you’re greeting, apologizing, thanking, or any other similar situations that involve some sort of emotions, you cannot use ~(으)니까.
 
 Examples:
 
@@ -54,10 +54,10 @@ I’m late so I’m sorry.
 
 초대해 주셔서 감사합니다/고마워요. (O)  
 초대해 주니까 감사합니다/고마워요. (X)  
-You invited us so thank you/I’m thankful.
+You invited us so thank you/I’m thankful.
 
 그동안 많이 챙겨서 항상 감사합니다/고마워요. (O)  
-그동안 많이 챙기니까 항상 감사합니다/고마워요. (X)  
+그동안 많이 챙기니까 항상 감사합니다/고마워요. (X)  
 You’ve taken good care of me so thank you/I’m thankful.
 
 선물을 좋아해서 다행이에요/다행이야. (O)  
@@ -68,7 +68,7 @@ You like this gift so it’s fortunate.
 사랑하는 사람은 떠나가니까 슬픕니다/슬퍼요. (X)  
 The person whom I love left so I’m sad.
 
-#### **3a. ~어/아/여서 is used in situations where you want to explain cause and effect.**
+#### **3a. ~어/아/여서 is used in situations where you want to explain cause and effect.**
 
 In other words, ~어/아/여서 is usually used when recounting past experiences/happenings. Because something happened, that led to another thing. Their causal relationship is also usually of some natural consequence that anyone can relate to and not something that requires some sort of justification.
 
@@ -94,9 +94,9 @@ Also, the emphasis is on the second clause, which is the cause/action that follo
 
 For example, unless (and this is very rare that it’s case) the situation in the first sentence is known to both the speaker and listener that “eating a lot” is not a natural consequence of “being very hungry”.
 
-#### **3b. ~(으)니까 is used in situations where you want to justify an action/thought/request/etc.**
+#### **3b. ~(으)니까 is used in situations where you want to justify an action/thought/request/etc.**
 
-In other words, ~(으)니까 is usually used when explaining the motivation or reason behind a certain action. Most of the time, you would want to use ~(으)니까 if a justification is needed for a certain action.
+In other words, ~(으)니까 is usually used when explaining the motivation or reason behind a certain action. Most of the time, you would want to use ~(으)니까 if a justification is needed for a certain action.
 
 Also, when you use ~(으)니까, you’re essentially making it clear to the listener(s) that the justification is being emphasized on.
 
@@ -163,7 +163,7 @@ Because/Since my friend watched this movie and said that it’s not interesting,
 #### **~(으)니까**
 
 - ~(으)니까 cannot be used in speeches of greetings/apologies/gratitude (eg. …반갑습니다, 감사합니다, 고맙습니다, 죄송합니다, 미안합니다, 기쁩니다, 슬픕니다, etc.)
-- ~(으)니까 is used in situations where you want to justify an action/thought/request/etc.
+- ~(으)니까 is used in situations where you want to justify an action/thought/request/etc.
 - ~(으)니까 is usually used to justify an action in the present or intent to carry out an action in the future; the justification can be either something that is happening (present) or has happened (past).
 - The present/future tense is placed at the back of the sentence (action/intent/suggestion/request/etc).
 - You can attach ~(으)니까 to a past tense verb/descriptive verb (adjective)

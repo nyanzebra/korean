@@ -1,4 +1,3 @@
-
 #### 만
 
 This is a **particle** that simply restricts or limits, meaning "only/just":
