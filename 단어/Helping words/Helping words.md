@@ -1,4 +1,3 @@
-
 ## 다름없다 #card
 ?begin
 ### 뜻
@@ -16,25 +15,23 @@
 	- It's like poison to you, isn't it?
 ?end
 
-## 나름대로 #card 
-?begin 
+## 나름대로 #card
+?begin
 ### 뜻
-
 - in one's own way
 - in its own way
 - after one's own fashion
 ### 예
-
 - 나름대로 해결하고 싶어 알아봤지만…
-    - I looked into it because I wanted to resolve it in my own way, but...
+	- I looked into it because I wanted to resolve it in my own way, but...
 - 저도 나름대로 노력했어요.
-    - I tried hard in my own way.
+	- I tried hard in my own way.
 - 그 사람도 나름대로 이유가 있었겠지.
-    - That person must have had their own reasons too.
+	- That person must have had their own reasons too.
 - 별로인 것 같아도 나름대로 매력이 있어.
-    - Even if it seems lacking, it has its own charm.
+	- Even if it seems lacking, it has its own charm.
 - 다들 나름대로 힘든 시간을 보내고 있어요.
-    - Everyone is going through a hard time in their own way.
+	- Everyone is going through a hard time in their own way.
 ?end
 
 ## 및 #card
@@ -43,12 +40,13 @@
 - and
 - as well
 ### 예
--
+- 이름 및 연락처를 적어 주세요.
+	- Please write your name and contact information.
+- 신청 방법 및 기간은 아래와 같습니다.
+	- The application method and period are as follows.
 ### Notes
-Same as 와/과 and 고/하고 but is more formal?
-https://hinative.com/questions/16678555
+- Same as 와/과 and 고/하고, but more formal and mostly written: https://hinative.com/questions/16678555
 ?end
-
 
 ## 애초 #card
 ?begin
@@ -109,7 +107,6 @@ https://hinative.com/questions/16678555
 <!--SR:!2026-11-05,9,250-->
 ?end
 
-
 ## 각각 #card
 ?begin
 ### 뜻
@@ -127,7 +124,6 @@ https://hinative.com/questions/16678555
 <!--SR:!2027-12-29,627,289-->
 ?end
 
-
 ## 꾸준하다 #card
 ?begin
 ### 뜻
@@ -144,7 +140,6 @@ https://hinative.com/questions/16678555
 <!--SR:!2027-05-09,405,249-->
 ?end
 
-
 ## 각자 #card
 ?begin
 ### 뜻
@@ -158,7 +153,6 @@ https://hinative.com/questions/16678555
 - 홍수 경보가 내렸으므로 마을 사람들은 각자의 집을 비우고 피난했다
 	- A (general) flood warning was issued, and so the villagers evacuated their houses.
 ?end
-
 
 ## 따로 #card
 ?begin
@@ -175,7 +169,6 @@ https://hinative.com/questions/16678555
 <!--SR:!2026-10-30,115,250-->
 ?end
 
-
 ## 서로 #card
 ?begin
 ### 뜻
@@ -190,7 +183,6 @@ https://hinative.com/questions/16678555
 	- The two theaters are trying to out draw each other with very similar films.
 <!--SR:!2028-03-30,626,270-->
 ?end
-
 
 ## 역시 #card #sogang #sogang-4A
 ?begin
@@ -212,7 +204,6 @@ https://hinative.com/questions/16678555
 	- She is as beautiful as ever.
 ?end
 
-
 ## 자꾸 #card #sogang #sogang-4A
 ?begin
 ### 뜻
@@ -220,14 +211,13 @@ https://hinative.com/questions/16678555
 - repeatedly
 ### 예
 - 그냥 그런 생각이 자꾸 들어. 그냥 이대로 관계를 유지하고..
-  - I just keep thinking you know if I, if I stick with it, ...
+	- I just keep thinking you know if I, if I stick with it, ...
 - 왜 자꾸 그걸 물어요?
-  - Why do you keep asking me that?
+	- Why do you keep asking me that?
 - 제가 방에 혼자 있을 때면 자꾸 들어와서 뭘 하고 있는지 물어보시고 침실 문을 닫으면 안 된다고 말 하세요.
-  - When I'm in my room alone, she repeatedly comes in to ask me what's going on and says I'm not supposed to close my bedroom door.
+	- When I'm in my room alone, she repeatedly comes in to ask me what's going on and says I'm not supposed to close my bedroom door.
 <!--SR:!2027-11-13,591,270-->
 ?end
-
 
 ## 풍부하다 #card #sogang #sogang-4A
 ?begin
@@ -242,8 +232,6 @@ https://hinative.com/questions/16678555
 <!--SR:!2027-06-22,320,289-->
 ?end
 
-
-
 ## 엄청나다 #card
 ?begin
 ### 뜻
@@ -251,9 +239,13 @@ https://hinative.com/questions/16678555
 - huge
 - great
 ### 예
--
+- 시험 점수가 엄청나게 올랐어요.
+	- My exam score went up enormously.
+- 서울의 교통 체증은 엄청나다.
+	- The traffic congestion in Seoul is enormous.
+### Notes
+- 엄청나게 / 엄청 (adverb): extremely, hugely
 ?end
-
 
 ## 이상 #card #sogang #sogang-4A
 ?begin
@@ -264,9 +256,10 @@ https://hinative.com/questions/16678555
 	- First of all, natural resources have been man's best friend for more than a century now.
 - 30년 이상이 흘렀지만, 그것은 여전히 한국에서 가장 잘 팔리는 아이스크림 중의 하나이다.
 	- More than 30 years have passed, but it is still one of the best-selling ice creams in Korea.
+### Notes
+- 이상 includes the number itself (30년 이상 = 30 years or more); 초과 = more than, excluding the number
 <!--SR:!2027-06-11,348,253-->
 ?end
-
 
 ## 미만 #card
 ?begin
@@ -277,21 +270,21 @@ https://hinative.com/questions/16678555
 	- Those who get[score] under 50 will not pass.
 - 10분 미만에
 	- in less than ten minutes.
+### Notes
+- 미만 excludes the number itself (50점 미만 = under 50); 이하 = 50 or less, including it
 <!--SR:!2026-10-09,18,250-->
 ?end
-
 
 ## 최소 #card
 ?begin
 ### 뜻
 - least
-* minimum
+- minimum
 ### 예
 - 그는 최소의 비용으로 그것을 그럭저럭 해냈다
 	- He managed to do it at the minimum of cost.
 <!--SR:!2026-11-12,9,250-->
 ?end
-
 
 ## 최대 #card
 ?begin
@@ -303,7 +296,6 @@ https://hinative.com/questions/16678555
 	- The deal was the largest merger and acquisition of Match Group to date.
 <!--SR:!2027-03-07,340,250-->
 ?end
-
 
 ## 따위 #card
 ?begin
@@ -318,7 +310,6 @@ https://hinative.com/questions/16678555
 	- such a thing/that sort of thing.
 <!--SR:!2026-11-27,223,270-->
 ?end
-
 
 ## 마치 #card
 ?begin
@@ -337,15 +328,17 @@ https://hinative.com/questions/16678555
 <!--SR:!2026-11-06,3,250-->
 ?end
 
-
-## 딱봐도 / 딱보더라도 #card
+## 딱 봐도 / 딱 보더라도 #card
 ?begin
 ### 뜻
-- tell just by looking?
+- even at a glance
+- just by looking at it
 ### 예
--
+- 딱 봐도 비싸 보이는 가방이에요.
+	- It's a bag that looks expensive even at a glance.
+- 딱 보더라도 그 사람이 화난 걸 알 수 있어요.
+	- Even just by looking at him, you can tell that he's angry.
 ?end
-
 
 ## 겉보기 #card
 ?begin
@@ -354,28 +347,26 @@ https://hinative.com/questions/16678555
 - apparently
 ### 예
 - 그러나 겉보기로는 보잘 것 없던 시작이 자신의 어릴 적 꿈을 실현하게 만들었다.
-  - But the seemingly humble beginning led to realization of his childhood dream.
+	- But the seemingly humble beginning led to realization of his childhood dream.
 - 겉보기보단 더 먹었어요
-  - I'm older than I look.
+	- I'm older than I look.
 <!--SR:!2027-03-12,345,230-->
 ?end
-
 
 ## 워낙 #card
 ?begin
 ### 뜻
 - extremely
-- somthing that happens so much to be natural or inherent
+- so much so that it is only natural (by nature, inherently)
 ### 예
 - 그는 워낙 게으름쟁이다
-  - He is inherently a lazy creature.
+	- He is inherently a lazy creature.
 - 이 책은 워낙 어려워서 읽을 수가 없다
-  - This book is too difficult for me to read.
+	- This book is too difficult for me to read.
 - 그 일은 워낙 명백해서 증거를 댈 필요도 없다
-  - It is too evident to require proof.
+	- It is too evident to require proof.
 <!--SR:!2027-05-10,278,250-->
 ?end
-
 
 ## 어쩌다 #card
 ?begin
@@ -384,7 +375,12 @@ https://hinative.com/questions/16678555
 - occasionally
 - once in a while
 ### 예
--
+- 어쩌다 한 번씩 연락해요.
+	- I get in touch once in a while.
+- 어쩌다 이렇게 됐어요?
+	- How did it come to this?
+### Notes
+- 어쩌다 (가) = by chance, occasionally; 어쩌다 보니 = before I knew it, as it happened
 ?end
 
 ## 어쩐지 #card
@@ -396,15 +392,11 @@ https://hinative.com/questions/16678555
 ### 예
 - 어쩐지 슬프다
 	- I feel somewhat sad
-- 어쩐지 마음이 거식하다
+- 어쩐지 마음이 꺼림칙하다
 	- Somehow I feel uneasy
 - 그녀와는 어쩐지 마음이 잘 맞지 않는다
 	- For some reason we just didn't hit it off
 ?end
-
-
-
-
 
 ## 당장 #card #sogang #sogang-4A
 ?begin
@@ -412,12 +404,11 @@ https://hinative.com/questions/16678555
 - right away
 ### 예
 - 예술가가 되자, 당장. 지금 당장입니다. 어떻게?
-  - Let's be artists, right now. Right away. How?
+	- Let's be artists, right now. Right away. How?
 - 정부가 가격 개입에서 손을 떼면 소비자도 당장은 부담이 커질 수 있다.
-  - When the government takes its hands off the price, consumers may immediately feel burdened.
+	- When the government takes its hands off the price, consumers may immediately feel burdened.
 <!--SR:!2026-04-28,1,250-->
 ?end
-
 
 ## 모자라다 #card
 ?begin
@@ -435,19 +426,22 @@ https://hinative.com/questions/16678555
 <!--SR:!2026-11-18,15,290-->
 ?end
 
-
 ## 한참 #card
 ?begin
 ### 뜻
 - for a while
+- quite a long time
 ### 예
-- 한참 만일세
-	- It is a long time since we met
-- 바퀴를 한 번만 움직이면 타성으로 한참 동안 돌아간다
-	- Once you set a wheel in motion, it will keep turning for quite a while because of inertia.
+- 한참 만에 그를 다시 만났다.
+	- I met him again after quite a long while.
+- 한참을 기다렸어요.
+	- I waited for quite a while.
+- 바퀴를 한 번만 움직이면 타성으로 한참 동안 돌아간다
+	- Once you set a wheel in motion, it will keep turning for quite a while because of inertia.
+### Notes
+- See also 쪽수가 한참 모자라 (부분 표현.md), where 한참 means 'by far / considerably'
 <!--SR:!2027-07-30,485,249-->
 ?end
-
 
 ## 철저하다 #card
 ?begin
@@ -482,7 +476,7 @@ https://hinative.com/questions/16678555
 - neglect
 - negligent
 - indifferent
-- careless?
+- careless
 ### 예
 - 딴 생각을 하느라고 하던 일을 소홀하게 했다
 	- Thinking of something else I forgot what I was doing.
@@ -490,21 +484,6 @@ https://hinative.com/questions/16678555
 	- read a proof carelessly.
 - 이 연구소에서는 약품 관리가 소홀하다
 	- They are very careless about the way they keep chemicals in this laboratory.
-?end
-
-## 꼬박꼬박 #card
-?begin
-### 뜻
-- humbly obey
-- obediently
-### 예
-- 꼬박꼬박 졸다
-	- doze off
-- 어른의 말을 꼬박꼬박 잘 듣다
-	- readily obey one's elders.
-- 대출금을 매월 꼬박꼬박 갚아 나가다
-	- make the monthly payment on one's loan regularly[right on time].
-<!--SR:!2027-01-07,295,230-->
 ?end
 
 ## 왠지 #card
@@ -516,14 +495,12 @@ https://hinative.com/questions/16678555
 - [그녀는 왠지 한국어를 배우고 싶었어요](https://www.howtostudykorean.com/wp-content/uploads/2016/10/Lesson60s21.mp3)
 	- She wanted to learn Korean for some reason
 	- I don’t know why, but she wanted to learn Korean
-
-* [나는 왠지 오늘 학교에 가기 싫어](https://www.howtostudykorean.com/wp-content/uploads/2016/10/Lesson60s22.mp3)
-	* I don’t want to go to school today for some reason
-	* I don’t know why, but I don’t want to go to school today
-
-* [오늘이 일요일이지만 버스가 승객들로 왠지 가득 찼어요](https://www.howtostudykorean.com/wp-content/uploads/2016/10/Lesson60s23.mp3)
-	* Even though today is Sunday, the bus is packed/filled with passengers for some reason
-	* I don’t know why, but even though today is Sunday, the bus is packed/filled with passengers
+- [나는 왠지 오늘 학교에 가기 싫어](https://www.howtostudykorean.com/wp-content/uploads/2016/10/Lesson60s22.mp3)
+	- I don’t want to go to school today for some reason
+	- I don’t know why, but I don’t want to go to school today
+- [오늘이 일요일이지만 버스가 승객들로 왠지 가득 찼어요](https://www.howtostudykorean.com/wp-content/uploads/2016/10/Lesson60s23.mp3)
+	- Even though today is Sunday, the bus is packed/filled with passengers for some reason
+	- I don’t know why, but even though today is Sunday, the bus is packed/filled with passengers
 <!--SR:!2027-03-10,347,269-->
 ?end
 
@@ -532,10 +509,10 @@ https://hinative.com/questions/16678555
 ### 뜻
 - sometime in a month
 ### 예
-- [저는 5월달에 한국에 갈 거예요](https://www.howtostudykorean.com/wp-content/uploads/2016/10/Lesson60s48.mp3) 
-	- I’m going to Korea sometime in May  
-* [저는 6월달에 시험을 볼 거예요](https://www.howtostudykorean.com/wp-content/uploads/2016/10/Lesson60s49.mp3) 
-	* I’m going to write an exam sometime in June
+- [저는 5월달에 한국에 갈 거예요](https://www.howtostudykorean.com/wp-content/uploads/2016/10/Lesson60s48.mp3)
+	- I’m going to Korea sometime in May
+- [저는 6월달에 시험을 볼 거예요](https://www.howtostudykorean.com/wp-content/uploads/2016/10/Lesson60s49.mp3)
+	- I’m going to write an exam sometime in June
 ?end
 
 ## 찍다 #card
@@ -557,7 +534,7 @@ https://hinative.com/questions/16678555
 - 소스에 찍다
 	- dip in sauce
 - 카드를 거기에 찍어야 돼
-	- you must scan you card there
+	- you must scan your card there
 <!--SR:!2028-12-03,783,269-->
 ?end
 
@@ -594,7 +571,7 @@ https://hinative.com/questions/16678555
 ?begin
 ### 뜻
 - rather
-- 
+- on the contrary
 ### 예
 - 이 그림은 사실파적이라기보다는 오히려 인상파적이다
 	- This picture is impressionistic rather than realistic
@@ -665,10 +642,15 @@ https://hinative.com/questions/16678555
 ## 그럭저럭 #card
 ?begin
 ### 뜻
-- so so
+- so-so
+- somehow, barely, after a fashion
 ### 예
-- 그럭저럭 지냈어요
-- 업적 평가 / 사람 평가
+- 그럭저럭 지냈어요.
+	- I've been getting by (so-so).
+- 성적은 그럭저럭 괜찮아요.
+	- My grades are so-so, but okay.
+### Notes
+- Used when evaluating performance (업적 평가) or people (사람 평가)
 ?end
 
 ## 그나저나 #card
@@ -704,7 +686,10 @@ https://hinative.com/questions/16678555
 - barely
 - narrowly
 ### 예
--
+- 간신히 막차를 탔어요.
+	- I barely caught the last bus.
+- 그는 간신히 시험에 합격했다.
+	- He barely passed the exam.
 ?end
 
 ## 적어도 #card
@@ -716,18 +701,16 @@ https://hinative.com/questions/16678555
 	- at least twice a day
 ?end
 
-
 ## 기껏해야 #card
 ?begin
 ### 뜻
-- at most?
+- at most
+- at best
 ### 예
 - 기껏해야 하루에 한 번
 	- at most once a day
 <!--SR:!2026-12-30,79,210-->
 ?end
-
-
 
 ## 전체 #card #sogang #sogang-4A
 ?begin
@@ -740,4 +723,19 @@ https://hinative.com/questions/16678555
 	- You can’t tell an entire community to completely stop using cars.
 ?end
 
-
+## 불문하다 #card #grammar #disregard #regardless #formal
+?begin
+### 뜻
+- do not ask
+- take no notice of
+- regardless of
+### 예
+- 다소를 불문하고
+	- regardless of quantity
+- 학력을 불문하고
+	- regardless of education
+- 나이를 불문하고 누구나 참가할 수 있어요.
+	- Anyone can take part, regardless of age.
+### Notes
+- Pattern: N을/를 불문하고 (regardless of N); a near synonym is N을/를 막론하고
+?end
