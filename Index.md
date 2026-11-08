@@ -148,8 +148,8 @@ korean/
 ├── 문법/                             # Grammar by function
 │   ├── Index.md                      # Grammar index
 │   ├── study-plan                    # Recommended study order
-│   ├── 00-index/
-│   ├── 01-조사 (Particles)/
+│   ├── 00-기초 필수 문법/
+│   ├── 01-조사/
 │   ├── ... (11 more grammar sections)
 │
 ├── 사자성어/                         # Four-character idioms

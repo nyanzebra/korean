@@ -9,6 +9,7 @@ This folder contains vocabulary related to people, relationships, family, age, a
 - [[가족과 관계.md|Family and social relationships]]
 - [[나이.md|Age and age-related terms]]
 - [[호칭.md|Forms of address and titles]]
+- [[사람_일반.md|General person vocabulary (adult, aging, successor, companion...)]]
 
 ---
 
