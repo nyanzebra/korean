@@ -46,7 +46,7 @@
 - 주신 = past modifier ("that you gave"); 주실 = future modifier ("that you will give")
 - 주십시오 = formal polite request; 주시오 = formal/authoritative or old-fashioned request (하오체); 주실래요? = polite "would you mind giving/doing..."
 - Related: 주다 (to give), 드리다 (to give to a superior), 받으시다 (to receive, honorific)
-<!--SR:!2026-07-31,18,250-->
+<!--SR:!2026-12-26,46,250-->
 ?end
 
 ## 자네 #card
